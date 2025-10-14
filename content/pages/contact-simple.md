@@ -156,7 +156,7 @@ Have a question? Want to share your journey? I'd love to hear from you.
 
 ### 💌 Send a Message
 
-<form action="https://formspree.io/f/xanywork" method="POST">
+<form action="https://formspree.io/f/mwprakzz" method="POST">
   
   <div class="form-group">
     <label for="name">Your Name</label>

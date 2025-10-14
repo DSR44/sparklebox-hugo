@@ -1,5 +1,6 @@
 ---
 title: "🎵 Soundbox - Mystical Audio Collection"
+slug: "soundbox-simple"
 date: 2025-10-14T00:00:00Z
 draft: false
 ---

@@ -163,3 +163,23 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
   <p style="color: #5a4a75;">Explore mystical wisdom, spiritual practices, and transformative insights from the Sparklebox archives.</p>
   <a href="/posts/" style="display: inline-block; margin-top: 1rem; color: #4b2e83; font-weight: 700; text-decoration: none; border-bottom: 2px solid #4b2e83;">View All Posts →</a>
 </div>
+
+---
+
+<div style="max-width: 600px; margin: 4rem auto; padding: 3rem 2rem; background: linear-gradient(145deg, rgba(75, 46, 131, 0.08), rgba(63, 36, 105, 0.05)); border: 2px solid rgba(75, 46, 131, 0.3); border-radius: 25px; text-align: center; box-shadow: 0 10px 40px rgba(75, 46, 131, 0.15);">
+
+<h2 style="font-family: 'Cormorant', serif; color: #3f2469; font-size: 2rem; margin-bottom: 1rem;">💌 Join the Mystical Journey</h2>
+
+<p style="color: #5a4a75; font-size: 1.1rem; line-height: 1.8; margin-bottom: 2rem;">
+Get daily mystical wisdom, alchemy teachings, and goddess energy delivered to your inbox every morning. Join our cosmic community! ✨
+</p>
+
+<div style="display: flex; justify-content: center;">
+<iframe src="https://sparklebox.substack.com/embed" width="100%" height="320" style="border:2px solid rgba(75, 46, 131, 0.3); background:white; border-radius: 15px; max-width: 480px;" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<p style="color: #999; font-size: 0.9rem; margin-top: 1.5rem; font-style: italic;">
+🔒 Your email is sacred. No spam, just wisdom.
+</p>
+
+</div>

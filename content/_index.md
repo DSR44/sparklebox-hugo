@@ -2,6 +2,10 @@
 title: "Welcome to Sparklebox"
 ---
 
+<div style="text-align: center; margin: 0 auto 3rem; max-width: 900px;">
+  <img src="/new_homepage_image.jpg" alt="Sparklebox - Your Portal to Cosmic Becoming" style="width: 100%; border-radius: 20px; box-shadow: 0 10px 40px rgba(75, 46, 131, 0.2);">
+</div>
+
 # 𖤐 Welcome to Sparklebox 𖤐
 ## Your Sanctuary of Self-Remembrance
 

@@ -63,5 +63,44 @@
     "artist": "Elle Vida | Sparklebox",
     "bpm": null,
     "key": null
+  },
+  {
+    "id": "prmvl-006",
+    "title": "Celestium Beyond the Veil",
+    "description": "Journey beyond the veil into celestial realms of infinite possibility and cosmic wonder.",
+    "tags": ["celestial", "mystical", "journey"],
+    "src": "/Celestium_beyond_the_veil.wav",
+    "cover": "/generic-post-images/celestial-1.jpg",
+    "clip": null,
+    "duration": 720,
+    "artist": "Elle Vida | Sparklebox",
+    "bpm": null,
+    "key": null
+  },
+  {
+    "id": "prmvl-007",
+    "title": "Cosmic Oasis - Galactic Soundbath",
+    "description": "Float in a cosmic oasis of healing frequencies - a galactic soundbath for deep relaxation and cosmic connection.",
+    "tags": ["soundbath", "healing", "cosmic"],
+    "src": "/Cosmic-Oasis-Galactic-Soundbath.wav",
+    "cover": "/generic-post-images/cosmic-1.jpg",
+    "clip": null,
+    "duration": 840,
+    "artist": "Elle Vida | Sparklebox",
+    "bpm": null,
+    "key": null
+  },
+  {
+    "id": "prmvl-008",
+    "title": "Luminescent Horizons",
+    "description": "Ethereal ambient soundscape that captures the liminal space between day and night, where dreams become reality.",
+    "tags": ["ambient", "dreamcore", "meditation"],
+    "src": "/Luminescent-Horizons.wav",
+    "cover": "/generic-post-images/indigo-stars-1.jpg",
+    "clip": null,
+    "duration": 720,
+    "artist": "Elle Vida | Sparklebox",
+    "bpm": null,
+    "key": null
   }
 ]

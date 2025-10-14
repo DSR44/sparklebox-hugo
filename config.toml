@@ -66,6 +66,11 @@ theme = "PaperMod"
     name = "Search"
     url = "/search/"
     weight = 9
+  
+  [[menu.main]]
+    name = "📧 Contact"
+    url = "/contact/"
+    weight = 10
 
 # PaperMod Theme Settings
 [params]

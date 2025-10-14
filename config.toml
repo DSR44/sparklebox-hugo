@@ -119,6 +119,8 @@ theme = "PaperMod"
     hidden = false
     hiddenInList = false
     hiddenInSingle = false
+    responsiveImages = true
+    linkFullImages = true
 
   # Search functionality
   [params.fuseOpts]

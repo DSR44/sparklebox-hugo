@@ -1,6 +1,6 @@
 ---
 title: "Awakening to the Mystical Hour: Unveiling the Secrets of 3 AM 🌙✨"
-date: 2025-10-14T22:15:14+00:00
+date: 2025-10-14T10:00:00+00:00
 categories:
   - "Transmutational Alchemy"
 tags:
@@ -9,7 +9,7 @@ tags:
   - "transformation"
 description: "Awakening to the Mystical Hour: Unveiling the Secrets of 3 AM 🌙✨"
 cover:
-  image: "/generic-post-images/mystical-1.mp4"
+  image: "/generic-post-images/moon-moon_cresendt_1013.png"
   alt: "Awakening to the Mystical Hour: Unveiling the Secrets of 3 AM 🌙✨"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false

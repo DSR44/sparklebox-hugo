@@ -13,6 +13,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Control | Avatar: The Poised Woman Everyone Remembers"
 draft: false
+aliases:
+  - "/avatar-oasis-part-3-step-into-vivienne-solis-secret-world-of-soft-power/"
 ---
 Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Control | Avatar: The Poised Woman Everyone Remembers
 

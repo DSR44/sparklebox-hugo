@@ -13,6 +13,8 @@ tags:
   - "Personal Growth Practices"
   - "Self-Belief Tools"
 draft: false
+aliases:
+  - "/step-into-your-brilliance/"
 ---
 # A Dreamlike Affirmation to Ignite Your Inner Power
 

@@ -6,6 +6,8 @@ slug: "diy-soap-recipes-5kqf8l2jxz"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/diy-soap-recipes-5kqf8l2jxz/"
 ---
 If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes. 
 

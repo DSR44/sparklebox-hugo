@@ -12,6 +12,8 @@ tags:
   - "selflove"
   - "wellness"
 draft: false
+aliases:
+  - "/open-your-inner-oasis/"
 ---
 ## A Dreamlike Affirmation to Cultivate Peace and Strength
 

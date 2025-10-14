@@ -10,6 +10,8 @@ tags:
   - "futuristic cities"
   - "trend"
 draft: false
+aliases:
+  - "/10-futuristic-cities-you-need-to-see/"
 ---
 # 10 Futuristic Cities You Need to See
 

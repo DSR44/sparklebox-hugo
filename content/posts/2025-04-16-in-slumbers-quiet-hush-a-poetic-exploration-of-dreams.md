@@ -11,6 +11,8 @@ tags:
   - "Dreamscape"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/in-slumbers-quiet-hush-a-poetic-exploration-of-dreams/"
 ---
 In slumber's quiet hush, beneath night's mantle deep,
 A whispered secret, a tale that softly seeps,

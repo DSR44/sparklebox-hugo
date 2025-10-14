@@ -12,6 +12,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/the-whispering-woods-a-tale-of-ancient-prophecies-and-timeless-wisdom/"
 ---
 In the mystical realm of Elderwald, where the ancient Whispering Woods hold
 dominion over all that lives beneath their towering boughs, a humble traveler named Eolith

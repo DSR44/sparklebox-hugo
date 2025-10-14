@@ -6,6 +6,8 @@ slug: "coffin-nail-designs-8f7jklq3zx"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/coffin-nail-designs-8f7jklq3zx/"
 ---
 Winter is the season of cozy vibes, festive cheer, and stunning nail designs that can elevate your style. 
 

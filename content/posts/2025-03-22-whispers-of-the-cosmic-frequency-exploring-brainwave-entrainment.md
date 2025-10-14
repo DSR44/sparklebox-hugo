@@ -13,6 +13,8 @@ tags:
   - "wellness"
   - "wellness trends 2025"
 draft: false
+aliases:
+  - "/whispers-of-the-cosmic-frequency-exploring-brainwave-entrainment/"
 ---
 ## ** A Journey into the Dawn Garden**
 

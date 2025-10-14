@@ -10,6 +10,8 @@ tags:
   - "Dream Coded Affirmations"
   - "whimsical affirmations"
 draft: false
+aliases:
+  - "/%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation/"
 ---
 Radiant Self: 20 Affirmations | SparkleBox.blog
 - 

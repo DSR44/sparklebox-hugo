@@ -6,6 +6,8 @@ slug: "vintage-christmas-decorations-5h8j2k3lmn-2"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/vintage-christmas-decorations-5h8j2k3lmn-2/"
 ---
 Step into a world filled with nostalgia this holiday season as we revisit the charm of vintage Christmas decorations.
 

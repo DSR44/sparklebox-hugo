@@ -15,6 +15,8 @@ tags:
   - "Luminaria"
   - "Luminaria Lyra"
 draft: false
+aliases:
+  - "/dreamscape-daily-affirmations/"
 ---
 Step into Luminaria with Lyra for Day 5 of Becoming. Discover the art of grounding, the dance of transformation, and the soft strength within, as we continue this magical unfolding.
 

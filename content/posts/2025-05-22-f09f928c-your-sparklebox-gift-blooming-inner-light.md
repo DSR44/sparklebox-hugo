@@ -6,6 +6,8 @@ slug: "%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light"
 categories:
   - "Dreamweaver’s Tales"
 draft: false
+aliases:
+  - "/%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light/"
 ---
 ***An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power.***
 

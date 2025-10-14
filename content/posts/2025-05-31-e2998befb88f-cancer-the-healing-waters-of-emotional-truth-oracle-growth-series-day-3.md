@@ -10,6 +10,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/%e2%99%8b%ef%b8%8f-cancer-the-healing-waters-of-emotional-truth-oracle-growth-series-day-3/"
 ---
 🌊 *Oracle Growth Series | Dreamweaver Tales – Day 4*
 

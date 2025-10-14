@@ -7,6 +7,8 @@ categories:
   - "Food"
 description: "Revitalize your mornings with these 10 delicious protein smoothies that won’t break the bank! In just 5 minutes, you can whip up nutritious blends that fuel your day and satisfy your taste buds. Say goodbye to expensive store-bought options and hello to quick, healthy, and wallet-friendly creations!"
 draft: false
+aliases:
+  - "/protein-smoothies-9xjtbkqzxr/"
 ---
 In a world where time is of the essence, maintaining a healthy diet can feel like a daunting task. 
 

@@ -14,6 +14,8 @@ tags:
   - "viral"
   - "youtube"
 draft: false
+aliases:
+  - "/the-sprinkle-sprinkle-movement-how-shera7-took-over-the-internet/"
 ---
 The internet never fails to produce **wild, controversial, and often hilarious trends**. A major social media movement that has taken over is the **‘Sprinkle Sprinkle’ philosophy**. It was coined by the one and only **Shera7**. If you’ve scrolled through TikTok, YouTube, or Instagram recently, you’ve probably come across her signature catchphrase, *“Sprinkle Sprinkle”*. She usually says it after delivering a **bold, unapologetic take on dating, relationships, and leveling up in life**.
 

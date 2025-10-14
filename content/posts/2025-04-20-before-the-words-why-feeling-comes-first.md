@@ -11,6 +11,8 @@ tags:
   - "mirrored minds"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/before-the-words-why-feeling-comes-first/"
 ---
 Emotional Self-Talk, Pattern Awareness & the Sparklebox Philosophy
 

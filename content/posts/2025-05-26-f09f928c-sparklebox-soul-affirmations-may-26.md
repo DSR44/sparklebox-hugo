@@ -10,6 +10,8 @@ tags:
   - "Dreamscape"
   - "Sparkleboxes"
 draft: false
+aliases:
+  - "/%f0%9f%92%8c-sparklebox-soul-affirmations-may-26/"
 ---
 ### 🌟 *The Radiance Within*
 

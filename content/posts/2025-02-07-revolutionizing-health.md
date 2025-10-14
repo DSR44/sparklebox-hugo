@@ -12,6 +12,8 @@ tags:
   - "health trends"
   - "wellness"
 draft: false
+aliases:
+  - "/revolutionizing-health/"
 ---
 # How AI Is Making Personalized Care Accessible to All
 

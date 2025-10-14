@@ -14,6 +14,8 @@ tags:
   - "passive income"
   - "shopify"
 draft: false
+aliases:
+  - "/top-10-passive-income-ideas-to-start-in-2025/"
 ---
 Creating passive income streams is one of the best ways to secure financial freedom and generate wealth over time. Here are ten promising ideas for building sustainable passive income in 2025:
 

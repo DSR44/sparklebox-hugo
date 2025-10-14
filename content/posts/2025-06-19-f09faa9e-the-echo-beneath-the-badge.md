@@ -9,6 +9,8 @@ tags:
   - "Elle Vida's Mirror Box 📦"
   - "Subconscious Healing"
 draft: false
+aliases:
+  - "/%f0%9f%aa%9e-the-echo-beneath-the-badge/"
 ---
 *A Mirror Box Tale by El*le Vida
 

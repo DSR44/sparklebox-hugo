@@ -6,6 +6,8 @@ slug: "winter-table-setup-8jzqk2l3fg"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/winter-table-setup-8jzqk2l3fg/"
 ---
 As the winter chill sets in, there's nothing quite like gathering your friends and family around a beautifully set table that exudes warmth and comfort.
 

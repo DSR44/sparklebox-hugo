@@ -11,6 +11,8 @@ tags:
   - "Elle Vida's Mirror Box 📦"
   - "The Descent: “Alchemy of the Tribes”"
 draft: false
+aliases:
+  - "/mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox/"
 ---
 🌟 Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox
 

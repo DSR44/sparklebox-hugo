@@ -6,6 +6,8 @@ slug: "bucket-list-destinations-5h7k2g9j4b"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/bucket-list-destinations-5h7k2g9j4b/"
 ---
 Are you ready to embark on an unforgettable journey? 
 

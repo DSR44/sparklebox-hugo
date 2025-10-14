@@ -7,6 +7,8 @@ categories:
   - "Fashion"
 description: "Unleash your inner fashionista with these 10 effortlessly chic baggy t-shirt looks! Discover how to transform a simple tee into a statement piece that captures attention. From edgy layers to playful accessories, elevate your street style game and redefine casual cool—because comfort and chic can coexist beautifully!"
 draft: false
+aliases:
+  - "/baggy-t-shirt-5g6h8j4k2l/"
 ---
 Street style is all about expressing your individuality while remaining effortlessly chic. 
 

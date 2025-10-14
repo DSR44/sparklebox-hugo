@@ -7,6 +7,8 @@ categories:
   - "Home decor"
 description: "Step into a world where vibrant hues reign supreme! \"Primary Play\" explores how bold colors are redefining home interiors, igniting creativity and joy. Discover tips to embrace this transformative trend, turning your space into a lively canvas that reflects your personality. Ready to make a statement? Let’s dive into color!"
 draft: false
+aliases:
+  - "/primary-play-trend-8z3h2k4d1a/"
 ---
 In recent years, home design has taken a vibrant turn with the rise of bold colors, creating living spaces that are as expressive as they are inviting.
 

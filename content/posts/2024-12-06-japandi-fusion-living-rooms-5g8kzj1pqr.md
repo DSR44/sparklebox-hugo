@@ -6,6 +6,8 @@ slug: "japandi-fusion-living-rooms-5g8kzj1pqr"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/japandi-fusion-living-rooms-5g8kzj1pqr/"
 ---
 Welcome to the world of Japandi fusion, where the serene simplicity of Japanese zen meets the cozy allure of Scandinavian comfort.
 

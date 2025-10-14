@@ -10,6 +10,8 @@ tags:
   - "self reflection"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/an-enchanting-world-a-poetic-exploration/"
 ---
 ### From the Mirror Hall collection inside **the Library of Dreams.**
 

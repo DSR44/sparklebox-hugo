@@ -31,4 +31,4 @@ As we surrender to the essence of grace, we become the embodiment of divine eleg
 
 ## ✨ Explore the Realms
 
-🔮 [Sparklebox Tarot](/tarot-app/) • 🌙 [Musebox Dreams](/musebox-dreams/) • 💫 [The Sparkle Bazaar](/the-sparkle-bazaar/)
+🔮 [Sparklebox Tarot](https://sparklebox-tarot.streamlit.app/) • 🌙 [Musebox Dreams](/musebox-dreams/) • 🌌 [Dream Toolkit Portals](/the-dreamtoolkit/) • 💫 [The Sparkle Bazaar](/the-sparkle-bazaar/)

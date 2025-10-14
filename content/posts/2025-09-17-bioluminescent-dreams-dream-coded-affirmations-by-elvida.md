@@ -12,6 +12,8 @@ tags:
   - "TheDreamToolkit"
 description: "Step into bioluminescent dreams — a meditative journey through liquid light, cellular radiance, and deep-sea affirmations. These dream-coded rituals invite you to awaken your hidden glow and remember that even in shadow, you are luminous."
 draft: false
+aliases:
+  - "/bioluminescent-dreams-dream-coded-affirmations-by-elvida/"
 ---
 ## Bioluminescent Dreams
 

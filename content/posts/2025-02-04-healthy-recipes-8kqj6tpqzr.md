@@ -7,6 +7,8 @@ categories:
   - "Food"
 description: "Dive into a colorful culinary adventure with our 25 vibrant healthy recipes that are a feast for the eyes! From dazzling salads to radiant smoothies, each dish is a work of art. And wait until you discover #10—it's a showstopper that will leave you speechless and craving more!"
 draft: false
+aliases:
+  - "/healthy-recipes-8kqj6tpqzr/"
 ---
 Welcome to a culinary adventure where health meets aesthetics! 
 

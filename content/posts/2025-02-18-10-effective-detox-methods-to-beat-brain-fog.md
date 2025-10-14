@@ -12,6 +12,8 @@ tags:
   - "mental clarity"
   - "wellness"
 draft: false
+aliases:
+  - "/10-effective-detox-methods-to-beat-brain-fog/"
 ---
 # Clear Your Mind: 10 Effective Detox Methods to Beat Brain Fog & Boost Productivity
 

@@ -10,6 +10,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/%f0%9f%8f%9b%ef%b8%8f-%e2%99%91%ef%b8%8f-capricorn-the-builder-of-sacred-foundations/"
 ---
 #### **Capricorn Oracle Tale – The Keeper of Purpose and Legacy**
 

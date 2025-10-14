@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Unlock the secret power of baking soda! From tackling stubborn stains to freshening up your home, these 15 incredible hacks will revolutionize your cleaning routine. Say goodbye to harsh chemicals and hello to an eco-friendly, budget-friendly solution that leaves your space sparkling clean. Discover the magic of baking soda today!"
 draft: false
+aliases:
+  - "/baking-soda-hacks-5gkzqjv8wr/"
 ---
 Baking soda is not just for baking; it's a versatile powerhouse that can transform your cleaning routine! 
 

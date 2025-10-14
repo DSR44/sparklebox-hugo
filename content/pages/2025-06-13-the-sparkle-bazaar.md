@@ -4,6 +4,8 @@ date: 2025-06-13T15:05:46+0000
 author: "manoulasfit"
 slug: "the-sparkle-bazaar"
 draft: false
+aliases:
+  - "/the-sparkle-bazaar/"
 ---
 
 ✨ **Welcome to the Sparklebox Bazaar** ✨

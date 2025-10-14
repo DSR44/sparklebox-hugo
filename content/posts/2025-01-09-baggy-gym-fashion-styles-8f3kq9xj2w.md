@@ -7,6 +7,8 @@ categories:
   - "Fashion"
 description: "Step aside, tight leggings! Baggy gym fashion is dominating the streets, blending comfort and style like never before. From oversized tees to relaxed joggers, these 22 must-have looks will elevate your workout wardrobe. Stay ahead of the trend and discover why #4 is the ultimate game-changer you won’t want to miss!"
 draft: false
+aliases:
+  - "/baggy-gym-fashion-styles-8f3kq9xj2w/"
 ---
 Get ready to upgrade your workout wardrobe with the latest in baggy gym fashion! 
 

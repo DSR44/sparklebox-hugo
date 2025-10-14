@@ -15,6 +15,8 @@ tags:
   - "Luminaria"
   - "Luminaria Lyra"
 draft: false
+aliases:
+  - "/dreamscape-daily-affirmations-day-4-of-becoming/"
 ---
 ## Luminous Threads: Jellyfish Whispers and Becoming
 

@@ -6,6 +6,8 @@ slug: "gothic-outfit-ideas-4kz9qjv2h6"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/gothic-outfit-ideas-4kz9qjv2h6/"
 ---
 Step into a hauntingly beautiful world where gothic elements intertwine with the rugged charm of western wear. 
 

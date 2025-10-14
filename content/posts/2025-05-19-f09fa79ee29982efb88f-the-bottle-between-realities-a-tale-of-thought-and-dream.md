@@ -14,6 +14,8 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/%f0%9f%a7%9e%e2%99%82%ef%b8%8f-the-bottle-between-realities-a-tale-of-thought-and-dream/"
 ---
 In a land beyond time, nestled between the stars,
 There rests a bottle that hums with silent knowing.

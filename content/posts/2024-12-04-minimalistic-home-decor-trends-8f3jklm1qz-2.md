@@ -6,6 +6,8 @@ slug: "minimalistic-home-decor-trends-8f3jklm1qz-2"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/minimalistic-home-decor-trends-8f3jklm1qz-2/"
 ---
 Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
 

@@ -4,6 +4,8 @@ date: 2025-10-09T12:27:31+0000
 author: "manoulasfit"
 slug: "sparklebox-tarot"
 draft: false
+aliases:
+  - "/sparklebox-tarot/"
 ---
 
 /* Hide WordPress header and navigation */

@@ -11,6 +11,8 @@ tags:
   - "TheDreamToolkit"
 description: "In the hush between heartbeats, stardust remembers it is light. Every breath becomes a bridge between earth and sky — a whispered alignment of body, spirit, and infinite possibility."
 draft: false
+aliases:
+  - "/sacred-transformation-mysteries-in-whispered-alignment/"
 ---
     background:linear-gradient(135deg,#ffffff, #efe6ff); border:1px solid var(--violet-300); color:#5a3ea2;
 

@@ -7,6 +7,8 @@ categories:
   - "Organization Hacks"
 description: "Transform your child's space into a tidy haven with these 21 imaginative organization ideas! From playful storage solutions to creative clean-up games, each tip is designed to make decluttering a breeze. You won’t want to overlook #13—it’s a game changer that adds fun to every clean-up session!"
 draft: false
+aliases:
+  - "/kids-room-organization-2g3t8qfjk2/"
 ---
 Transforming your child's room into an organized haven can turn clean-up time into a fun adventure.
 

@@ -15,6 +15,8 @@ tags:
   - "soft colors"
   - "trend"
 draft: false
+aliases:
+  - "/how-to-create-a-serene-home/"
 ---
 ### **Sanctuary with Sage & Blue Tones**
 

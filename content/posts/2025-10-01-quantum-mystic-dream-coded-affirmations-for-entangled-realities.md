@@ -12,6 +12,8 @@ tags:
   - "TheDreamToolkit"
 description: "Step into the quantum dreamscape with these five dream-coded affirmations. Designed to help you collapse probability clouds, traverse entangled realities, and align with your holofractal purpose, each affirmation is a shimmering gift to tune your inner frequency and manifest with intention."
 draft: false
+aliases:
+  - "/quantum-mystic-dream-coded-affirmations-for-entangled-realities/"
 ---
 Quantum Mystic: Navigating Entangled Realities
 

@@ -11,6 +11,8 @@ tags:
   - "fashion"
   - "trends"
 draft: false
+aliases:
+  - "/why-shop-at-these-chinese-e-commerce-stores/"
 ---
 # Why You Should Shop at These Chinese E-commerce Stores
 

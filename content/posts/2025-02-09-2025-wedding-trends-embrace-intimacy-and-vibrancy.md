@@ -14,6 +14,8 @@ tags:
   - "wedding day"
   - "wedding trends"
 draft: false
+aliases:
+  - "/2025-wedding-trends-embrace-intimacy-and-vibrancy/"
 ---
 # Unveiling 2025's Hottest Wedding Trends: Get Inspired for Your Perfect Day
 

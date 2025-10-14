@@ -15,6 +15,8 @@ tags:
   - "The Library of Dreams"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/the-secret-garden-of-memories/"
 ---
 She awoke with a peculiar sensation, as though something deep within her was calling to be found. Anna tightened her cardigan against the crisp morning air and sipped her tea, gazing out the window. Yet the stirring inside wasn’t something the world outside could satisfy; this yearning pointed inward, urging her toward a part of herself she’d long forgotten.
 

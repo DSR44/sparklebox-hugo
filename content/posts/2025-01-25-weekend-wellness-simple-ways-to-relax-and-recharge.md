@@ -16,6 +16,8 @@ tags:
   - "wellness"
   - "yoga"
 draft: false
+aliases:
+  - "/weekend-wellness-simple-ways-to-relax-and-recharge/"
 ---
 Weekends are a perfect time to recharge and prioritize well-being. Engaging in mindful activities can help reduce stress and enhance overall health. Here are some wellness practices to incorporate into your weekend routine.
 

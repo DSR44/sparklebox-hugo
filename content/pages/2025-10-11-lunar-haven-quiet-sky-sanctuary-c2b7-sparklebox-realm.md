@@ -4,6 +4,8 @@ date: 2025-10-11T19:29:28+0000
 author: "manoulasfit"
 slug: "lunar-haven-quiet-sky-sanctuary-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/lunar-haven-quiet-sky-sanctuary--sparklebox-realm/"
 ---
 
 🌙 Lunar Haven - The Quiet Sky Sanctuary | Elle Vida – Sparklebox

@@ -12,6 +12,8 @@ tags:
   - "online shoping"
   - "trends"
 draft: false
+aliases:
+  - "/6-popular-chinese-online-shopping-websites-revealed/"
 ---
 # Guide to China's Online Marketplaces
 

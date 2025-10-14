@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Looking to impress your friends with heartfelt gifts? Discover 20 creative DIY ideas that add a personal touch to your presents. From custom photo albums to unique mementos, each gift tells a story. And trust us, you won’t want to miss the surprise in spot #8—it’s a game changer!"
 draft: false
+aliases:
+  - "/diy-personalized-gifts-4rj9h2gq1k/"
 ---
 Personalized gifts hold a special place in our hearts—they're not just items, but tokens of love, memories, and creativity.
 

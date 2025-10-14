@@ -4,6 +4,8 @@ date: 2025-10-08T07:35:32+0000
 author: "manoulasfit"
 slug: "donations"
 draft: false
+aliases:
+  - "/donations/"
 ---
 
 ### ✨ Support the Sparklebox ✨

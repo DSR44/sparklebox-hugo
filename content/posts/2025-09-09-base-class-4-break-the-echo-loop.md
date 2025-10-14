@@ -10,6 +10,8 @@ tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/base-class-4-break-the-echo-loop/"
 ---
 # 
 ✨ BASE CLASS — CHAPTER FOUR

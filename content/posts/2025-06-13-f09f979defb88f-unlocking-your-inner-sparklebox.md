@@ -8,6 +8,8 @@ categories:
 tags:
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/%f0%9f%97%9d%ef%b8%8f-unlocking-your-inner-sparklebox/"
 ---
 A Dream Toolkit for Self-Concept and Identity Transformation
 

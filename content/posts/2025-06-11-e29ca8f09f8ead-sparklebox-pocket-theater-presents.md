@@ -11,6 +11,8 @@ tags:
   - "Pocket Theater"
   - "Subconscious Healing"
 draft: false
+aliases:
+  - "/%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-presents/"
 ---
 ### **“The Love I Sought Was Always Mine”**
 

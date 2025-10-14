@@ -13,6 +13,8 @@ tags:
   - "The Library of Dreams"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/dreamwalker-protagonist-a-journey-through-the-labyrinthine-mirror/"
 ---
 In twilight slumber, she treads the liminal land,
 Where dreams are woven from the threads of time.

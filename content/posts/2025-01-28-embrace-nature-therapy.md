@@ -17,6 +17,8 @@ tags:
   - "stress relief"
   - "wellness"
 draft: false
+aliases:
+  - "/embrace-nature-therapy/"
 ---
 # **The Art of Forest Bathing (Shinrin-Yoku) for Ultimate Serenity**
 

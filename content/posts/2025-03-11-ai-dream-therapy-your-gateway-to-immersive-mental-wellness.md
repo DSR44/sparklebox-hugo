@@ -14,6 +14,8 @@ tags:
   - "trends"
   - "wellness"
 draft: false
+aliases:
+  - "/ai-dream-therapy-your-gateway-to-immersive-mental-wellness/"
 ---
 # **AI-Powered Dream Therapy: Immersive Healing Experiences**
 

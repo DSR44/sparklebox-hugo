@@ -11,6 +11,8 @@ tags:
   - "dreamweaver tales"
   - "whimsical affirmations"
 draft: false
+aliases:
+  - "/%f0%9f%8e%a0-20-whimsical-affirmations-to-enchant-your-inner-world/"
 ---
 #### **🎩 From the Hat of Hidden Wonders – A Journey Through Magic, Healing, and Joy**
 

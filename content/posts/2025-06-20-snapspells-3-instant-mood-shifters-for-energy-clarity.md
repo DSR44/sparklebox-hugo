@@ -10,6 +10,8 @@ tags:
   - "SnapSpells"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/snapspells-3-instant-mood-shifters-for-energy-clarity/"
 ---
 **SnapSpells** are quick, magical shifts you can activate anytime. Each one begins with a visualization — not just a thought, but a felt scene you step into.
 

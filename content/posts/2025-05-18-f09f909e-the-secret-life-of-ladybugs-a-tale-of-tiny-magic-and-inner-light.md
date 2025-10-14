@@ -13,6 +13,8 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/%f0%9f%90%9e-the-secret-life-of-ladybugs-a-tale-of-tiny-magic-and-inner-light/"
 ---
 Not all magic is loud.
 Some of it tiptoes across petals with quiet wings.

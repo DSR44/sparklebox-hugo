@@ -4,6 +4,8 @@ date: 2025-10-12T10:04:25+0000
 author: "manoulasfit"
 slug: "celestium-beyond-the-veil-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/celestium-beyond-the-veil--sparklebox-realm/"
 ---
 
 🌌 Celestium - Beyond the Veil | Elle Vida – Sparklebox

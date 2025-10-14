@@ -10,6 +10,8 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/the-sculptor-who-refused-the-mold-a-dreamweaver-tale-of-creative-truth/"
 ---
 There was once a sculptor who could hear stone whisper.
 

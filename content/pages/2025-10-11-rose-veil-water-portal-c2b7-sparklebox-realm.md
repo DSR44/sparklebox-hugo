@@ -4,6 +4,8 @@ date: 2025-10-11T16:37:58+0000
 author: "manoulasfit"
 slug: "rose-veil-water-portal-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/rose-veil-water-portal--sparklebox-realm/"
 ---
 
 🌹 Rose Veil - The Mirror of the Heart | Elle Vida – Sparklebox

@@ -4,6 +4,8 @@ date: 2025-10-11T18:21:17+0000
 author: "manoulasfit"
 slug: "chalice-of-flow-water-air-portal-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/chalice-of-flow-water-air-portal--sparklebox-realm/"
 ---
 
 💧 Chalice of Flow - The Current of Surrender | Elle Vida – Sparklebox

@@ -15,6 +15,8 @@ tags:
   - "Surreal Soirees"
   - "trend"
 draft: false
+aliases:
+  - "/budget-friendly-suril-soirees-dream-decor-ideas/"
 ---
 ## **Suril Soirées for Every Budget: How to Create a Dreamscape Without Breaking the Bank**
 

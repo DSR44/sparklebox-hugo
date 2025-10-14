@@ -6,6 +6,8 @@ slug: "nye-hairstyles-2k4j6m7f9g"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/nye-hairstyles-2k4j6m7f9g/"
 ---
 As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
 

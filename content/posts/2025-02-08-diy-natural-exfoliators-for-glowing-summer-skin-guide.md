@@ -13,6 +13,8 @@ tags:
   - "summer ready"
   - "wellness"
 draft: false
+aliases:
+  - "/diy-natural-exfoliators-for-glowing-summer-skin-guide/"
 ---
 # Get Glowing Skin for Summer: DIY Natural Exfoliators You Can Make at Home
 

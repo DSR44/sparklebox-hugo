@@ -35,6 +35,8 @@ tags:
   - "Valentine’s Day Manicure"
   - "Valentine’s Day Nails"
 draft: false
+aliases:
+  - "/valentines-day-nail-trends-2025/"
 ---
 ## **Romantic Designs You’ll Love**
 

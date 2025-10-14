@@ -11,6 +11,8 @@ tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/sparklebox-base-class-chapter-1-linguistic-rewiring/"
 ---
 # ✨ Sparklebox Base Class: Chapter 1 ✨
 

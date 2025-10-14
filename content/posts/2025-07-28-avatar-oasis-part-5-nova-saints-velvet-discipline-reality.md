@@ -13,6 +13,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme"
 draft: false
+aliases:
+  - "/avatar-oasis-part-5-nova-saints-velvet-discipline-reality/"
 ---
 Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme
 

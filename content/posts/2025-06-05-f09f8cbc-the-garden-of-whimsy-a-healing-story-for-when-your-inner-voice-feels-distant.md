@@ -11,6 +11,8 @@ tags:
   - "Sparkleboxes"
   - "Subconscious Healing"
 draft: false
+aliases:
+  - "/%f0%9f%8c%bc-the-garden-of-whimsy-a-healing-story-for-when-your-inner-voice-feels-distant/"
 ---
 Have you ever felt like your inner voice went quiet?
 Like the clarity you used to hear — the knowing, the intuition, the gentle yes and no — drifted somewhere out of reach?

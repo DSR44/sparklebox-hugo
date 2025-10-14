@@ -11,6 +11,8 @@ tags:
   - "Sparkleboxes"
   - "Subconscious Healing"
 draft: false
+aliases:
+  - "/%f0%9f%8c%bf-soulful-self-care/"
 ---
 **🕯️ A Ritual of Radiance | Private Subscriber Edition**
 

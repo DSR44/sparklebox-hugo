@@ -7,6 +7,8 @@ categories:
   - "Food"
 description: "Craving a culinary adventure? Discover 20 protein-packed international dishes that will tantalize your taste buds and fuel your body! From spicy Peruvian ceviche to hearty Indian dal, these flavorful meals not only satisfy hunger but also elevate your nutrition. Dive in and explore the world, one delicious bite at a time!"
 draft: false
+aliases:
+  - "/protein-packed-international-dishes-5k2j8h9z1w/"
 ---
 Travel the world through your taste buds with these 20 protein-rich meals that bring global flavors straight to your kitchen. 
 

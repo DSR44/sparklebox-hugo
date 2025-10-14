@@ -11,6 +11,8 @@ tags:
   - "Surreal Soirees"
   - "trends"
 draft: false
+aliases:
+  - "/surreal-soirees-are-2025s-trendiest-events/"
 ---
 # Surreal Soirées: The Whimsical Event Trend Taking 2025 by Storm
 

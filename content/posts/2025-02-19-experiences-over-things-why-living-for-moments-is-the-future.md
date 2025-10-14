@@ -11,6 +11,8 @@ tags:
   - "trend"
   - "wellness"
 draft: false
+aliases:
+  - "/experiences-over-things-why-living-for-moments-is-the-future/"
 ---
 # Beyond Consumption: Why the Future is About Experiences, Not Things
 

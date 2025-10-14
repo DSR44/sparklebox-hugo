@@ -7,6 +7,8 @@ categories:
   - "DIY"
 description: "Surprise her this Valentine’s Day with heartfelt DIY gifts that radiate love and creativity! From personalized photo frames to charming hand-painted mugs, these 10 adorable projects are sure to melt her heart. Get ready to unleash your inner artisan and make this special day unforgettable with thoughtful, handcrafted treasures!"
 draft: false
+aliases:
+  - "/diy-valentines-gifts-melt-heart-8g3kfrj2bm/"
 ---
 Valentine's Day is the perfect occasion to express your love and appreciation in a special way. 
 

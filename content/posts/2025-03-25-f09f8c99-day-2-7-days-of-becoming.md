@@ -16,6 +16,8 @@ tags:
   - "mindfulness"
   - "wellness"
 draft: false
+aliases:
+  - "/%f0%9f%8c%99-day-2-7-days-of-becoming/"
 ---
 ### ✨ *Whispers from the Luminous Realm*
 

@@ -6,6 +6,8 @@ slug: "holiday-drinks-nye-4f8jzq1rwx"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/holiday-drinks-nye-4f8jzq1rwx/"
 ---
 As the clock ticks closer to midnight, elevate your New Year's Eve celebration with stunning holiday drinks that will leave your guests in awe.
 

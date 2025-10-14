@@ -8,6 +8,8 @@ categories:
 tags:
   - "Sparkleboxes"
 draft: false
+aliases:
+  - "/%e2%9c%a8%f0%9f%93%a6-manifestation-masterpieces-a-sparklebox-of-divine-affirmations/"
 ---
 *🕊️ Where your desires become brushstrokes on the canvas of destiny.
 🌐 by **El***le Vida

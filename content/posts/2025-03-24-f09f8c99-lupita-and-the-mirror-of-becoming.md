@@ -16,6 +16,8 @@ tags:
   - "Series"
   - "wellness"
 draft: false
+aliases:
+  - "/%f0%9f%8c%99-lupita-and-the-mirror-of-becoming/"
 ---
 **This first chapter of Lupita’s story marks the beginning of “7 Days of Becoming.”**
 

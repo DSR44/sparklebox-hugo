@@ -11,6 +11,8 @@ tags:
   - "natural anti aging"
   - "natural beauty"
 draft: false
+aliases:
+  - "/10-natural-ingredients-for-youthful-skin/"
 ---
 # 10 Natural Ingredients to Combat Aging: Unlock Youthful Radiance Naturally
 

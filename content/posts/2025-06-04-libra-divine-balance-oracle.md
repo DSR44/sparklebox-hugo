@@ -11,6 +11,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/libra-divine-balance-oracle/"
 ---
 **Oracle’s Growth | Day 7 of 12**
 

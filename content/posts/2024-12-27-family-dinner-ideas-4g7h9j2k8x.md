@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Tired of the dinner-time scramble? Discover 15 quick and delicious family dinner ideas that transform your weeknights from chaotic to seamless! These easy-to-prepare recipes are not only time-savers but also crowd-pleasers, ensuring everyone leaves the table satisfied. Say goodbye to mealtime stress and hello to fun family feasts!"
 draft: false
+aliases:
+  - "/family-dinner-ideas-4g7h9j2k8x/"
 ---
 Weeknight dinners can often feel like a daunting task, but they don't have to be! 
 

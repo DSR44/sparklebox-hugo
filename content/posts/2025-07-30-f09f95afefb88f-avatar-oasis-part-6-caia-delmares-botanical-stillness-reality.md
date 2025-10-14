@@ -13,6 +13,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Ritual Femininity | Mood: Botanical oil, candlelit floors, water priestess calm | Avatar: Caia Delmare — The Whisper Witch"
 draft: false
+aliases:
+  - "/%f0%9f%95%af%ef%b8%8f-avatar-oasis-part-6-caia-delmares-botanical-stillness-reality/"
 ---
 Type: Ritual Femininity | Mood: Botanical oil, candlelit floors, water priestess calm | Avatar: Caia Delmare — The Whisper Witch
 

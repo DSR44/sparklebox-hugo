@@ -3,6 +3,8 @@ title: "✨ The Dream Toolkit 2.0 - Sparklebox Realm Portals"
 date: 2025-10-14T00:00:00+00:00
 slug: "the-dreamtoolkit"
 draft: false
+aliases:
+  - "/the-dreamtoolkit/"
 ---
 
 # ✨ The Dream Toolkit 2.0

@@ -11,6 +11,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/virgo-sacred-order-magic/"
 ---
 #### Virgo Oracle – Magic in the Details
 

@@ -35,6 +35,8 @@ tags:
   - "snack recipes"
   - "time-saving meals"
 draft: false
+aliases:
+  - "/quick-and-easy-recipes-for-busy-days/"
 ---
 Introduction
 

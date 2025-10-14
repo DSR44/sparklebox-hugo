@@ -11,6 +11,8 @@ tags:
   - "spring2025"
   - "trends"
 draft: false
+aliases:
+  - "/boho-knitwear-for-spring-the-cozy-chic-trend-loved-by-all/"
 ---
 # Boho Knitwear: The Cozy-Chic Trend Defining Early Spring Fashion
 

@@ -28,6 +28,8 @@ tags:
   - "slow living"
   - "spiritual wellness"
 draft: false
+aliases:
+  - "/moon-bathing-the-new-nighttime-wellness-trend-for-relaxation/"
 ---
 Forget sunrise yoga—moonlight is the new self-care spotlight. As people seek calm and restoration, moon bathing is emerging as a powerful nighttime wellness practice. Inspired by ancient[ ](https://www.yogajournal.cllness/the-ancient-practice-of-moon-bathing/)traditions and modern mindfulness, this ritual invites you to connect with the serenity of the night sky and soak in the moon’s mystical energy.
 

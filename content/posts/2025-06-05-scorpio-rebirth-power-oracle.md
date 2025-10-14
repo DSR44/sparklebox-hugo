@@ -10,6 +10,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/scorpio-rebirth-power-oracle/"
 ---
 **Oracle’s Growth | Day 8 of 12**
 

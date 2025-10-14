@@ -13,6 +13,8 @@ tags:
   - "protein bars"
   - "wellness"
 draft: false
+aliases:
+  - "/cheap-protein-bars-easy-diy-recipes-to-save-money/"
 ---
 # Cheap & Easy Protein Bars – Save Money and Stay Fit
 

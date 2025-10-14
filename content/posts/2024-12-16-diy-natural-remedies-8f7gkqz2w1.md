@@ -6,6 +6,8 @@ slug: "diy-natural-remedies-8f7gkqz2w1"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/diy-natural-remedies-8f7gkqz2w1/"
 ---
 Aging gracefully doesn't have to involve expensive creams or treatments. 
 

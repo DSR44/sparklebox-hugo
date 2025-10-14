@@ -16,6 +16,8 @@ tags:
   - "Surrealist Interior Design"
   - "Unique Home Design"
 draft: false
+aliases:
+  - "/modern-surrealism-how-to-add-whimsy-to-your-interior-design/"
 ---
 Are you ready to bring **playfulness and creativity** into your home? One of **2025’s hottest interior trends**, **modern surrealism**, is making waves on Pinterest. This trend blends **art, fantasy, and unexpected design elements** to create a **dreamlike, visually striking space**.
 

@@ -10,6 +10,8 @@ tags:
   - "sustainable fashion"
   - "trends"
 draft: false
+aliases:
+  - "/the-rise-of-sentimental-fashion-clothing-with-meaning-is-the-new-luxury/"
 ---
 # The Rise of Sentimental Fashion: Why Clothing with Meaning is the New Luxury
 

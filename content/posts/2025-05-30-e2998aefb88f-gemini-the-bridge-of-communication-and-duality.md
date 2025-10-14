@@ -9,6 +9,8 @@ tags:
   - "#OraclesGrowth"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/%e2%99%8a%ef%b8%8f-gemini-the-bridge-of-communication-and-duality/"
 ---
 🪞 *Oracle Growth Series | Dreamweaver Tales – Day 3*
 

@@ -12,6 +12,8 @@ tags:
   - "Sparklebox Base Class"
 description: "“What if you were never broken to begin with?” This chapter explores the illusion of the broken mind and invites you to reclaim your self-concept as a creator—not a wound to be healed. Shift your identity, reconnect with your higher self, and rewrite the patterns that no longer serve you."
 draft: false
+aliases:
+  - "/the-creator-self-the-myth-of-the-broken-mind-sparklebox-base-class-5/"
 ---
 #  ✨ Sparklebox Base Class
 

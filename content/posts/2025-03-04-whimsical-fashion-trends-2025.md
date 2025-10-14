@@ -15,6 +15,8 @@ tags:
   - "whimsical"
   - "whimsical fashion"
 draft: false
+aliases:
+  - "/whimsical-fashion-trends-2025/"
 ---
 # **Embracing Whimsy: A Journey Through Whimsical Fashion**
 

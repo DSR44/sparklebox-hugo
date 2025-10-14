@@ -4,6 +4,8 @@ date: 2025-06-17T17:49:09+0000
 author: "manoulasfit"
 slug: "musebox-dreams"
 draft: false
+aliases:
+  - "/musebox-dreams/"
 ---
 
 # ✨ The Musebox

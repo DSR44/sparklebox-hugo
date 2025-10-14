@@ -8,6 +8,8 @@ categories:
   - "Mindset"
 description: "Ready to turn your dreams into reality? Discover 15 inspiring vision board ideas for 2025 that will ignite your motivation and fuel your ambition. From vibrant visuals to powerful affirmations, these creative concepts will help you manifest your wildest goals and transform your aspirations into tangible achievements. Let's get started!"
 draft: false
+aliases:
+  - "/vision-board-ideas-8fj2kq4wz1/"
 ---
 As we step into 2025, there's no better time to harness the power of visualization to manifest your dreams. 
 

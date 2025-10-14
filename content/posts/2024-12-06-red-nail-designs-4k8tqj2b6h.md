@@ -6,6 +6,8 @@ slug: "red-nail-designs-4k8tqj2b6h"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/red-nail-designs-4k8tqj2b6h/"
 ---
 Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents. 
 

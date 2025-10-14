@@ -6,6 +6,8 @@ slug: "holiday-outfits-5kzj2bghwp"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/holiday-outfits-5kzj2bghwp/"
 ---
 As the festive season approaches, the quest for the perfect holiday outfit begins. 
 

@@ -12,6 +12,8 @@ tags:
   - "mirrored minds"
   - "self love"
 draft: false
+aliases:
+  - "/%f0%9f%aa%9e%e2%9c%a8mirrored-minds-%f0%9f%aa%9e%e2%9c%a8-the-boomerang-wisdom-of-life/"
 ---
 ## The Ripples We Send
 

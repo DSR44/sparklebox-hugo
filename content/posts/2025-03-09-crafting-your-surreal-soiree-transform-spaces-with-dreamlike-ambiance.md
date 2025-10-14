@@ -14,6 +14,8 @@ tags:
   - "Dreamlike Event Planning"
   - "Surreal Soirees"
 draft: false
+aliases:
+  - "/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/"
 ---
 ## **Step Into the Dream: Crafting a Surreal Atmosphere**
 

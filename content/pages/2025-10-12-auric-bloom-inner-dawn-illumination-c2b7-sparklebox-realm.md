@@ -4,6 +4,8 @@ date: 2025-10-12T08:00:12+0000
 author: "manoulasfit"
 slug: "auric-bloom-inner-dawn-illumination-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/auric-bloom-inner-dawn-illumination--sparklebox-realm/"
 ---
 
 🌞 Auric Bloom - The Inner Dawn Illumination | Elle Vida – Sparklebox

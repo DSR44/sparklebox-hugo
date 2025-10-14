@@ -13,6 +13,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow"
 draft: false
+aliases:
+  - "/avatar-oasis-part-2-step-into-serena-vales-ceo-reality/"
 ---
 Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow
 

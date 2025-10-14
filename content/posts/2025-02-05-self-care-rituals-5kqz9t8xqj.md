@@ -7,6 +7,8 @@ categories:
   - "Wellness"
 description: "Unlock the secrets to radiating confidence and serenity with these 21 divine self-care rituals! From indulgent baths to empowering affirmations, each practice invites you to embrace your inner goddess. Don’t miss the transformative surprise in #11—it’s a game-changer you won’t want to overlook! Embrace your power and glow!"
 draft: false
+aliases:
+  - "/self-care-rituals-5kqz9t8xqj/"
 ---
 In a world that often demands more than we can give, the importance of self-care cannot be overstated. 
 

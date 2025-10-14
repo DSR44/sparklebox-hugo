@@ -13,6 +13,8 @@ tags:
   - "wedding dress"
   - "wedding fashion"
 draft: false
+aliases:
+  - "/turkish-bridal-couture-a-global-fashion-revolution/"
 ---
 # Turkish Bridal Couture Takes Over
 

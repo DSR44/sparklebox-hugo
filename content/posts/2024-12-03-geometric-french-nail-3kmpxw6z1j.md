@@ -6,6 +6,8 @@ slug: "geometric-french-nail-3kmpxw6z1j"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/geometric-french-nail-3kmpxw6z1j/"
 ---
 Are you ready to elevate your manicure game? Geometric French nails are the perfect fusion of classic elegance and modern flair, making them a must-try for anyone looking to express their unique style. From bold shapes to subtle hints of color, these chic designs will have you turning heads and embracing your creativity.
 

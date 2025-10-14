@@ -13,6 +13,8 @@ tags:
   - "uplifting routines"
   - "wellness"
 draft: false
+aliases:
+  - "/awaken-your-radiance/"
 ---
 # **A Dreamlike Affirmation to Illuminate Your Power**
 

@@ -11,6 +11,8 @@ tags:
   - "trends"
   - "wellness"
 draft: false
+aliases:
+  - "/5-wellness-trends-that-are-taking-over-2025/"
 ---
 # 5 Wellness Trends Taking Over 2025 You Need to Know About
 

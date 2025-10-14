@@ -13,6 +13,8 @@ tags:
   - "longevity"
   - "wellness"
 draft: false
+aliases:
+  - "/affordable-longevity-hacks-inspired-by-bryan-johnson/"
 ---
 # Bryan Johnson’s Blueprint Alternatives: Longevity on Any Budget
 

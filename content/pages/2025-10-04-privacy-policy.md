@@ -4,6 +4,8 @@ date: 2025-10-04T12:37:15+0000
 author: "manoulasfit"
 slug: "privacy-policy"
 draft: false
+aliases:
+  - "/privacy-policy/"
 ---
 
 ## Who We Are

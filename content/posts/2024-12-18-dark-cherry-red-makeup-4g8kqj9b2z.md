@@ -6,6 +6,8 @@ slug: "dark-cherry-red-makeup-4g8kqj9b2z"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/dark-cherry-red-makeup-4g8kqj9b2z/"
 ---
 Dark cherry red is the ultimate color for those who want to make a statement with their makeup. 
 

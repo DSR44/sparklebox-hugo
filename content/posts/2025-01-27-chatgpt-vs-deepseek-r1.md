@@ -17,6 +17,8 @@ tags:
   - "machine learning"
   - "OpenAI ChatGPT"
 draft: false
+aliases:
+  - "/chatgpt-vs-deepseek-r1/"
 ---
 ## **ChatGPT vs. DeepSeek R1: How Do These AI Chatbots Compare?**
 

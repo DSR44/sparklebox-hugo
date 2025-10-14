@@ -10,6 +10,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/%f0%9f%94%ae-%e2%99%90%ef%b8%8f-sagittarius-the-cosmic-archers-flame/"
 ---
 ## 🌠 Introduction:
 

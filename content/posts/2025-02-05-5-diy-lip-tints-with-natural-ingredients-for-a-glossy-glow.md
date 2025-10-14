@@ -26,6 +26,8 @@ tags:
   - "Organic Beauty"
   - "Sustainable Beauty"
 draft: false
+aliases:
+  - "/5-diy-lip-tints-with-natural-ingredients-for-a-glossy-glow/"
 ---
 # 5 DIY Lip Tints Using Natural Ingredients (Perfect for a Glossy, Healthy Look!)
 

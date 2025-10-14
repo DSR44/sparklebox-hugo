@@ -6,6 +6,8 @@ slug: "fusion-tacos-d4e5g7h8j9"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/fusion-tacos-d4e5g7h8j9/"
 ---
 Taco night just got a revolutionary makeover! 
 

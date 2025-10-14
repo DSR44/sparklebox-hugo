@@ -26,6 +26,8 @@ tags:
   - "tea time"
   - "wellness trends"
 draft: false
+aliases:
+  - "/hurkle-durkling-the-viral-trend/"
 ---
 ### **That Lets You Master the Art of Doing Nothing**
 

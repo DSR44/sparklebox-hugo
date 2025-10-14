@@ -4,6 +4,8 @@ date: 2025-06-16T07:04:49+0000
 author: "manoulasfit"
 slug: "%e2%9c%a8-the-dreambox-archive"
 draft: false
+aliases:
+  - "/%e2%9c%a8-the-dreambox-archive/"
 ---
 
 ## ✨ Past Affirmations. Present Magic. Forever Free.

@@ -14,6 +14,8 @@ tags:
   - "Florence Scovel Shinn"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/mirrored-minds-attracting-abundance-through-divine-alignment/"
 ---
 Welcome back, dear dreamer, to the sacred space of *Mirrored Minds*. Today, we draw inspiration from a powerful affirmation shared by Florence Scovel Shinn, a guiding light in the study of trust, faith, and abundance:
 

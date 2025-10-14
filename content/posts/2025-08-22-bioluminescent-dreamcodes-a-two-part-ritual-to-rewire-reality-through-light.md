@@ -12,6 +12,8 @@ tags:
   - "TheDreamToolkit"
 description: "Step into a luminous realm of quantum affirmations and liminal language. This two-part ritual scroll guides you through entangled realities and neon corridors of consciousness — where thoughts become architecture and color becomes code. Let the bioluminescent current of your subconscious reshape the path ahead."
 draft: false
+aliases:
+  - "/bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light/"
 ---
 Bioluminescent Dream Affirmations
 

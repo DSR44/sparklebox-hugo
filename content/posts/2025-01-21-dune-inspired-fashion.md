@@ -13,6 +13,8 @@ tags:
   - "minimalist fashion"
   - "sci-fi fashion trends"
 draft: false
+aliases:
+  - "/dune-inspired-fashion/"
 ---
 ### How the sci-fi epic is shaping style trends
 

@@ -11,6 +11,8 @@ tags:
   - "trends"
   - "wellness"
 draft: false
+aliases:
+  - "/beginners-guide-to-the-75-soft-challenge/"
 ---
 ### **Navigating the 75 Soft Challenge: A Beginner’s Guide to a Balanced Wellness Journey**
 

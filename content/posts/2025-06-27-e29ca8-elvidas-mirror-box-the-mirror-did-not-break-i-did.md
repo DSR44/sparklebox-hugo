@@ -8,6 +8,8 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false
+aliases:
+  - "/%e2%9c%a8-elvidas-mirror-box-the-mirror-did-not-break-i-did/"
 ---
 #### *And then I put myself back together like a cosmic jewel.*
 

@@ -10,6 +10,8 @@ tags:
   - "Loneliness in Modern Life"
 description: "Loneliness is no longer rare — it is the quiet hum beneath our modern lives. In this Mirror Box, Elvida reflects on why so many feel unseen and disconnected, and how reclaiming presence and self-concept can open the way back to the soul."
 draft: false
+aliases:
+  - "/loneliness-in-a-numb-world-elle-vidas-mirror-box/"
 ---
 ## 🪞 Elvida’s Mirror Box
 

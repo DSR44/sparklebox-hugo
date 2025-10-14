@@ -13,6 +13,8 @@ tags:
   - "Dreamcore Wellness"
   - "dreamweaver"
 draft: false
+aliases:
+  - "/unlock-the-magic-of-the-dreamweaver-within/"
 ---
 **🔊 *Listen to the Dreamweaver Audio Edition***
 

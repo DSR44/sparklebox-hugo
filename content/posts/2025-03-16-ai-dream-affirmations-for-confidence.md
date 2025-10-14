@@ -13,6 +13,8 @@ tags:
   - "Meta Quest Visualization"
   - "Mixed Reality Meditation"
 draft: false
+aliases:
+  - "/ai-dream-affirmations-for-confidence/"
 ---
 # Step Into Your Radiance: 
 

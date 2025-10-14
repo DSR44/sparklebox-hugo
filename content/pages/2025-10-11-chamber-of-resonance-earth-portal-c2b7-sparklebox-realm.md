@@ -4,6 +4,8 @@ date: 2025-10-11T14:18:21+0000
 author: "manoulasfit"
 slug: "chamber-of-resonance-earth-portal-%c2%b7-sparklebox-realm"
 draft: false
+aliases:
+  - "/chamber-of-resonance-earth-portal--sparklebox-realm/"
 ---
 
 💎 Chamber of Resonance - The Frequency of Wealth | Elle Vida – Sparklebox

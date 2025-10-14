@@ -6,6 +6,8 @@ slug: "harajuku-fashion-styles-4k9d2zj3p5"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/harajuku-fashion-styles-4k9d2zj3p5/"
 ---
 Harajuku fashion is a vibrant tapestry of styles that brilliantly encapsulates individuality and creativity. 
 

@@ -13,6 +13,8 @@ tags:
   - "SciFiArchitecture"
   - "smart cities"
 draft: false
+aliases:
+  - "/futuristic-architecture/"
 ---
 ### Innovative Urban Designs
 

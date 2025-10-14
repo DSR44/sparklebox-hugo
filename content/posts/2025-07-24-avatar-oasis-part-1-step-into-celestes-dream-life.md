@@ -14,6 +14,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: The Loved, Effortless Wife"
 draft: false
+aliases:
+  - "/avatar-oasis-part-1-step-into-celestes-dream-life/"
 ---
 Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: The Loved, Effortless Wife
 

@@ -13,6 +13,8 @@ tags:
   - "Poems"
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/the-glass-slipper-and-the-whispered-promise-of-hope/"
 ---
 The whispers of twilight gardens still linger within me,
 a reminder of forgotten paths and secrets hidden in plain sight.

@@ -14,6 +14,8 @@ tags:
   - "trend"
   - "winter style"
 draft: false
+aliases:
+  - "/embracing-soup-mode/"
 ---
 ### **The Cozy Fashion Trend Taking Over Winter 2025**
 

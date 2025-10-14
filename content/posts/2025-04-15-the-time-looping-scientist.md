@@ -12,6 +12,8 @@ tags:
   - "🌀 The Time Labyrinth"
   - "journaling"
 draft: false
+aliases:
+  - "/the-time-looping-scientist/"
 ---
 Once upon a time in the not-too-distant future, there lived a brilliant scientist named
 Dr. Amelia Harper. She was renowned for her work on time travel, having created

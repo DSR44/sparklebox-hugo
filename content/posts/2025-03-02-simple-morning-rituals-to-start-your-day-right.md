@@ -11,6 +11,8 @@ tags:
   - "slow living"
   - "wellness"
 draft: false
+aliases:
+  - "/simple-morning-rituals-to-start-your-day-right/"
 ---
 # Simple Morning Rituals for a Happier, Healthier Start
 

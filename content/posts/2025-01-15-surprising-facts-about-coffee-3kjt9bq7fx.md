@@ -7,6 +7,8 @@ categories:
   - "Food"
 description: "Did you know that your morning coffee might do more than just wake you up? From its intriguing origins to unexpected health benefits, these 8 surprising facts about coffee will not only boost your mood but also change the way you enjoy your daily cup. Get ready to sip smarter!"
 draft: false
+aliases:
+  - "/surprising-facts-about-coffee-3kjt9bq7fx/"
 ---
 Coffee is more than just a morning ritual; it's a fascinating drink with a rich history and numerous health benefits. 
 

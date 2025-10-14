@@ -6,6 +6,8 @@ slug: "christmas-decor-3k5j9wq4rs"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/christmas-decor-3k5j9wq4rs/"
 ---
 Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home into a winter wonderland? 
 

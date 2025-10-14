@@ -13,6 +13,8 @@ tags:
   - "TheDreamToolkit"
 description: "Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine Wakefulness | Avatar: Solène — The Sunbound Frequency"
 draft: false
+aliases:
+  - "/avatar-oasis-part-7-solene-the-sunbound-frequency/"
 ---
 Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine Wakefulness | Avatar: Solène — The Sunbound Frequency
 

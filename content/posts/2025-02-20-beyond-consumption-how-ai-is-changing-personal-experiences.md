@@ -6,6 +6,8 @@ slug: "beyond-consumption-how-ai-is-changing-personal-experiences"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/beyond-consumption-how-ai-is-changing-personal-experiences/"
 ---
 # Beyond Consumption: How AI is Redefining Personal Experiences
 

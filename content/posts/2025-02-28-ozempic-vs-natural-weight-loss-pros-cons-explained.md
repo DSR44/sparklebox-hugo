@@ -10,6 +10,8 @@ tags:
   - "Natural weight loss"
   - "weight loss"
 draft: false
+aliases:
+  - "/ozempic-vs-natural-weight-loss-pros-cons-explained/"
 ---
 # Ozempic vs. Natural Weight Loss: Do You Really Need the Injection?
 

@@ -10,6 +10,8 @@ tags:
   - "self reflection"
 description: "We’ve been taught that struggle proves worth — but real power lives in ease. In this Mirror Box reflection, Elle Vida reveals how alignment, softness, and presence transform creation into something effortless and magnetic."
 draft: false
+aliases:
+  - "/how-to-make-ease-your-superpower-elle-vidas-mirror-box-sparklebox/"
 ---
 How to Make Ease Your Superpower | Elle Vida's Mirror Box – Sparklebox
 

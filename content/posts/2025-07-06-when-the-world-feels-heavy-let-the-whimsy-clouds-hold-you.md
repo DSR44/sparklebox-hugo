@@ -12,6 +12,8 @@ tags:
   - "Subconscious Healing"
   - "whimsical affirmations"
 draft: false
+aliases:
+  - "/when-the-world-feels-heavy-let-the-whimsy-clouds-hold-you/"
 ---
 **Whimsy Clouds Affirmations** are gentle whispers you can return to anytime you feel heavy. Let these soft clouds hold you, guiding you back to your breath, your dreams, and your gentle becoming.
 

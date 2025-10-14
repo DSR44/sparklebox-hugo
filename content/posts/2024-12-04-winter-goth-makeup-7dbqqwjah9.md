@@ -6,6 +6,8 @@ slug: "winter-goth-makeup-7dbqqwjah9"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/winter-goth-makeup-7dbqqwjah9/"
 ---
 As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup. 
 

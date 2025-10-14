@@ -12,6 +12,8 @@ tags:
   - "nostalgia"
   - "trends"
 draft: false
+aliases:
+  - "/future-nostalgia-merging-2000s-trends-with-ai-futurism/"
 ---
 # Future Nostalgia: How 2000s Trends Are Merging with AI & Futurism
 

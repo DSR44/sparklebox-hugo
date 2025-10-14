@@ -8,6 +8,8 @@ categories:
   - "Mindset"
 description: "Are you searching for clarity in your life’s direction? Dive into our curated list of seven transformative books that illuminate your path to purpose. Each page offers insights and inspiration, guiding you to uncover your passions and dreams. Your journey to a fulfilling life starts with the right words—let’s begin!"
 draft: false
+aliases:
+  - "/books-life-purpose-7dbqqwjah9/"
 ---
 Are you feeling lost and yearning for direction in your life?
 

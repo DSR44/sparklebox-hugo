@@ -6,6 +6,8 @@ slug: "minimalist-black-t-shirts-4m1z2q7b3j"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/minimalist-black-t-shirts-4m1z2q7b3j/"
 ---
 In the world of fashion, less is often more, and minimalist black t-shirts with trendy prints embody this philosophy perfectly. 
 

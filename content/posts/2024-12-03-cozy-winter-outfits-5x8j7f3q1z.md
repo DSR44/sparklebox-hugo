@@ -6,6 +6,8 @@ slug: "cozy-winter-outfits-5x8j7f3q1z"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/cozy-winter-outfits-5x8j7f3q1z/"
 ---
 As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish. 
 

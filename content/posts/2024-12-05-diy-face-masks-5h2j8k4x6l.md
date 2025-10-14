@@ -6,6 +6,8 @@ slug: "diy-face-masks-5h2j8k4x6l"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/diy-face-masks-5h2j8k4x6l/"
 ---
 Pamper yourself with these delightful DIY face masks designed to give you that radiant glow.
 

@@ -14,6 +14,8 @@ tags:
   - "looks"
   - "whimsical"
 draft: false
+aliases:
+  - "/the-fairy-look-a-whimsical-fashion-trend/"
 ---
 ## **Introduction**
 

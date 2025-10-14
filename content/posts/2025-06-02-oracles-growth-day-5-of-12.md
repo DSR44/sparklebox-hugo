@@ -11,6 +11,8 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/oracles-growth-day-5-of-12/"
 ---
 ## ♌️ Leo — The Radiance Uncaged
 

@@ -15,6 +15,8 @@ tags:
   - "self love"
   - "wellness"
 draft: false
+aliases:
+  - "/the-secret-to-feeling-like-that-girl/"
 ---
 # The Secret to Feeling Like "That Girl" (Even if You're a Hot Mess)
 

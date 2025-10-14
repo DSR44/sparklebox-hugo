@@ -13,6 +13,8 @@ tags:
   - "🌀 The Time Labyrinth"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/cybersage-guardian-of-the-neon-wilds/"
 ---
 ####  A Cyberpunk Folk Tale of Technology, Nature, and Self-Discovery
 

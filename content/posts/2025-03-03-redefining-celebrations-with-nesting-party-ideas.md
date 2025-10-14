@@ -14,6 +14,8 @@ tags:
   - "trends"
   - "wellness trends"
 draft: false
+aliases:
+  - "/redefining-celebrations-with-nesting-party-ideas/"
 ---
 # Redefining Celebrations: The Rise of Nesting Parties
 

@@ -11,4 +11,6 @@ tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/base-class-chapter2/"
 ---

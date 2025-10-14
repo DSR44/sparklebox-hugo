@@ -7,6 +7,8 @@ categories:
   - "Home decor"
 description: "Step into a world of opulence with Rococo Revival decor that breathes life into your living room! From lavish furnishings to intricate details, discover how to elevate your space into a breathtaking haven. Don’t miss the jaw-dropping surprise at #5 that will leave your guests in awe!"
 draft: false
+aliases:
+  - "/transform-living-room-4hgj2kq9z1/"
 ---
 Rococo Revival decor captures the essence of luxury and vintage style, breathing new life into living spaces with its ornate details and grand aesthetics. 
 

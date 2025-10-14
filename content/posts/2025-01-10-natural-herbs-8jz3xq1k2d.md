@@ -7,6 +7,8 @@ categories:
   - "Health"
 description: "Unlock the secrets of nature with these ten extraordinary herbs that can elevate your health to new heights. From boosting immunity to enhancing mental clarity, these powerful plants are game-changers. And wait until you discover the mind-blowing benefits of #5—it's a herbal superstar you won't want to miss!"
 draft: false
+aliases:
+  - "/natural-herbs-8jz3xq1k2d/"
 ---
 In a world where health trends come and go, natural herbs stand the test of time, offering countless benefits for our bodies and minds.
 

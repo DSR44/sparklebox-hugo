@@ -6,6 +6,8 @@ slug: "christmas-wallpaper-9f7gk8qj4d"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/christmas-wallpaper-9f7gk8qj4d/"
 ---
 As the holiday season approaches, the warmth of nostalgia fills the air. 
 

@@ -33,6 +33,8 @@ tags:
   - "vintage decor"
   - "vintage meets modern"
 draft: false
+aliases:
+  - "/the-rise-of-eclectic-maximalism/"
 ---
 ![](/Primary-Play-The-Bold-Color-Trend-Transforming-Home-Interiors-2.-Statement-Furniture-Bold-Pieces-that-Pop.webp)
 

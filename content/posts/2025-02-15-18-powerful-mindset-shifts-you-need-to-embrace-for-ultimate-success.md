@@ -11,6 +11,8 @@ tags:
   - "mindset"
   - "success"
 draft: false
+aliases:
+  - "/18-powerful-mindset-shifts-you-need-to-embrace-for-ultimate-success/"
 ---
 # 
 

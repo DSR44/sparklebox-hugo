@@ -14,6 +14,8 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/%f0%9f%aa%a1-the-time-travelers-reality-weaver/"
 ---
 ## 🌌 Introduction
 

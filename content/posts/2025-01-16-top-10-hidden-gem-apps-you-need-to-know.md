@@ -6,6 +6,8 @@ slug: "top-10-hidden-gem-apps-you-need-to-know"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/top-10-hidden-gem-apps-you-need-to-know/"
 ---
 **Top 10 Hidden Gem Apps You Need to Know for Productivity and Creativity**
 

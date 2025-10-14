@@ -6,6 +6,8 @@ slug: "diy-protein-bars-8f3jklqz2n"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/diy-protein-bars-8f3jklqz2n/"
 ---
 Are you tired of searching for healthy snacks that fit your busy lifestyle? 
 

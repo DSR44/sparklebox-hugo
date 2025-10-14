@@ -7,6 +7,8 @@ categories:
   - "Beauty"
 description: "Dive into the enchanting world of sea witch makeup! From shimmering scales to deep ocean hues, discover 10 sultry looks that transform you into a mesmerizing siren. Unleash your inner goddess with bold colors, ethereal glows, and spellbinding details that will turn heads and leave a lasting impression."
 draft: false
+aliases:
+  - "/sea-witch-makeup-5g7h8k2j1z/"
 ---
 Welcome to the enchanting world of sea witch makeup, where sultry meets ethereal in a mesmerizing blend of beauty and mystique. 
 

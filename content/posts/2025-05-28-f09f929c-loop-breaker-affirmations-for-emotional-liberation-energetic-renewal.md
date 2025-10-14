@@ -11,6 +11,8 @@ tags:
   - "Sparkleboxes"
   - "Subconscious Healing"
 draft: false
+aliases:
+  - "/%f0%9f%92%9c-loop-breaker-affirmations-for-emotional-liberation-energetic-renewal/"
 ---
 **💫 Affirmation 1**
 **“I release the weight of past experiences, letting go of energetic patterns that no longer serve me.”**

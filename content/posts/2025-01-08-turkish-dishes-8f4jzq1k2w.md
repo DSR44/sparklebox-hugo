@@ -7,6 +7,8 @@ categories:
   - "Food"
 description: "Unleash the flavors of Turkey in your own kitchen! From fragrant kebabs to creamy baklava, these 15 irresistible dishes promise a culinary adventure that will tantalize your taste buds. Dive into the vibrant spices, fresh ingredients, and rich traditions of Turkish cuisine—your next favorite meal is just a recipe away!"
 draft: false
+aliases:
+  - "/turkish-dishes-8f4jzq1k2w/"
 ---
 Turkish cuisine is a delightful tapestry of flavors, colors, and aromas that can transform your kitchen into a Mediterranean haven. 
 

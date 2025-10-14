@@ -10,6 +10,8 @@ tags:
   - "elegance"
   - "table setting"
 draft: false
+aliases:
+  - "/effortless-dinner-party-tips-for-a-memorable-evening-hosting-guide/"
 ---
 # Dining in Style: How to Effortlessly Impress at Your Next Dinner Party
 

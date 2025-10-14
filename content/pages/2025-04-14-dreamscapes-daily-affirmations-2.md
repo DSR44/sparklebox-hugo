@@ -4,6 +4,8 @@ date: 2025-04-14T16:17:29+0000
 author: "manoulasfit"
 slug: "dreamscapes-daily-affirmations-2"
 draft: false
+aliases:
+  - "/dreamscapes-daily-affirmations-2/"
 ---
 
 Welcome to Sparklebox — Your Sanctuary of Self-Remembrance | Elle Vida

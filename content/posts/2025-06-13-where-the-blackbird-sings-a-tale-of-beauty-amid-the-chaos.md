@@ -8,6 +8,8 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false
+aliases:
+  - "/where-the-blackbird-sings-a-tale-of-beauty-amid-the-chaos/"
 ---
 #### The Blackbird on the Beam. **A true story from Elle Vida’s terrace**
 

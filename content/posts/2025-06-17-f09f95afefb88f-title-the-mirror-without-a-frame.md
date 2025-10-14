@@ -9,6 +9,8 @@ categories:
 tags:
   - "The Mirror Hall Collection 🌹"
 draft: false
+aliases:
+  - "/%f0%9f%95%af%ef%b8%8f-title-the-mirror-without-a-frame/"
 ---
 *A Dreamweaver Tale of Inner Shadows and Sacred Light*
 

@@ -15,6 +15,8 @@ tags:
   - "Sweet and Spicy Recipes"
   - "Swicy Food Trend"
 draft: false
+aliases:
+  - "/swicy-the-sweet-and-spicy-food-trend-taking-over-2025/"
 ---
 The world of food is always evolving, and the latest craze to take over is **Swicy** – the perfect fusion of **sweet and spicy**. From **hot honey drizzles** to **spicy mango salsas**, this **bold and flavorful trend** is everywhere in 2025.
 

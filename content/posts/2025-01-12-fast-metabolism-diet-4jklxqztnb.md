@@ -8,6 +8,8 @@ categories:
   - "Health"
 description: "Unlock the secrets to a fast metabolism in 2025! Discover how simple dietary tweaks can supercharge your metabolism, boost energy, and promote weight loss. This isn’t just another diet; it’s a sustainable lifestyle change that fits seamlessly into your routine. Get ready to transform your body and feel amazing!"
 draft: false
+aliases:
+  - "/fast-metabolism-diet-4jklxqztnb/"
 ---
 Are you ready to boost your metabolism and achieve your fat loss goals in 2025? 
 

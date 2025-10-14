@@ -13,6 +13,8 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/sing-of-glimmers-and-healing/"
 ---
 *(A poetic tale of transformation and hope)*
 

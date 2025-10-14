@@ -13,6 +13,8 @@ tags:
   - "dreamweaver tales"
   - "Florence Scovel Shinn"
 draft: false
+aliases:
+  - "/dreamsseedlings-of-reality/"
 ---
 #  
 

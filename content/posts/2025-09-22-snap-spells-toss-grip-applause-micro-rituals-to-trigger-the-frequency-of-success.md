@@ -11,6 +11,8 @@ tags:
   - "TheDreamToolkit"
 description: "💫 Snap into your power. This set of 3 visual rituals—Toss, Grip, and Applause—activates the frequency of success in real-time. Use simple symbolic gestures to shift instantly into clarity, momentum, and self-recognition. A soft yet potent Sparklebox technique for creators of reality."
 draft: false
+aliases:
+  - "/snap-spells-toss-grip-applause-micro-rituals-to-trigger-the-frequency-of-success/"
 ---
 ## 💫 Snap Spells: Visual Training for Success Frequencies
 

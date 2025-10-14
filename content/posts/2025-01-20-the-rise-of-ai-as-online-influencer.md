@@ -16,6 +16,8 @@ tags:
   - "machine learning"
   - "Social Media Trends"
 draft: false
+aliases:
+  - "/the-rise-of-ai-as-online-influencer/"
 ---
 In recent years, artificial intelligence has been quietly reshaping the landscape of social media, online content creation, and digital relationships. Once confined to the realms of data analytics and automated customer service, AI is now evolving into something more personable, more relatable—a digital personality capable of captivating human audiences. As we explore the current state of AI’s involvement in platforms like social media, subscription-based services, and even virtual dating, we begin to uncover a complex interplay of technology, culture, and commerce.
 

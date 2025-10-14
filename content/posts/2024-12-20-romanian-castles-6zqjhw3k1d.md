@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Step into a world of magic and grandeur with our guide to 15 enchanting Romanian castles. From fairytale turrets to lush landscapes, each fortress tells a story of royalty and intrigue. Don’t miss #10—its breathtaking beauty and rich history will leave you spellbound and yearning for your own royal adventure!"
 draft: false
+aliases:
+  - "/romanian-castles-6zqjhw3k1d/"
 ---
 Romania is a treasure trove of history and architectural wonders, boasting enchanting castles that whisper tales of royalty and intrigue. 
 

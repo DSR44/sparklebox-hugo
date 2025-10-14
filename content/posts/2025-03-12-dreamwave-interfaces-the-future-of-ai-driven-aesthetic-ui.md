@@ -15,6 +15,8 @@ tags:
   - "futuristic UI"
   - "immersive design"
 draft: false
+aliases:
+  - "/dreamwave-interfaces-the-future-of-ai-driven-aesthetic-ui/"
 ---
 # **Dreamwave Interfaces: How AI is Designing the Next Generation of Aesthetic User Experiences**
 

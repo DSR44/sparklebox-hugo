@@ -8,6 +8,8 @@ categories:
 tags:
   - "SnapSpells"
 draft: false
+aliases:
+  - "/%e2%9c%a8-snapspells-3-visualization-rituals-to-instantly-reclaim-your-light/"
 ---
 **A Sparklebox Shift Series by Elle Vida**
 

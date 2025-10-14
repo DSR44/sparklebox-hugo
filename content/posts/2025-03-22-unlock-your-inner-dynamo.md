@@ -12,6 +12,8 @@ tags:
   - "mindfulness"
   - "wellness"
 draft: false
+aliases:
+  - "/unlock-your-inner-dynamo/"
 ---
 Within each of us exists a boundless source of energy, resilience, and untapped potential. It’s the core of who you are, a powerful force that keeps evolving and thriving. Today’s affirmation calls you to awaken this inner dynamo, connecting with the strength that propels you forward. Center yourself, trust your power, and ignite your unstoppable momentum.
 

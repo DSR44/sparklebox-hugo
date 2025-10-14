@@ -6,6 +6,8 @@ slug: "cafecore-aesthetic-3f8jklqzvd"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/cafecore-aesthetic-3f8jklqzvd/"
 ---
 Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop. 
 

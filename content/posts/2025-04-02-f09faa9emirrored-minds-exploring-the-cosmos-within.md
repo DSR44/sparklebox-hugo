@@ -13,6 +13,8 @@ tags:
   - "Florence Scovel Shinn"
   - "mirrored minds"
 draft: false
+aliases:
+  - "/%f0%9f%aa%9emirrored-minds-exploring-the-cosmos-within/"
 ---
 ## **Day 1: Unlocking the Wisdom of Florence Scovel Shinn**
 

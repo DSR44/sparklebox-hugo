@@ -8,6 +8,8 @@ categories:
 tags:
   - "DIY home decor"
 draft: false
+aliases:
+  - "/40-small-diy-projects-to-refresh-your-home/"
 ---
 # Easy DIY Home Refresh Guide: 40 Small Projects to Transform Your Space
 

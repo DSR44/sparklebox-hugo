@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Discover the essence of Japanese interior design with these 15 transformative trends! From minimalist aesthetics to the calming influence of natural materials, each concept invites serenity and balance into your home. Embrace the art of simplicity and craft your personal oasis where tranquility reigns supreme. Let’s redefine your space together!"
 draft: false
+aliases:
+  - "/japanese-interior-design-trends-8f4jklqzrt/"
 ---
 Japanese interior design is an artful blend of minimalism and nature, creating serene spaces that promote tranquility. 
 

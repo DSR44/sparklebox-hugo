@@ -11,6 +11,8 @@ tags:
   - "The Hidden Work"
   - "The Sparklebox Method™"
 draft: false
+aliases:
+  - "/thehiddenworkfire/"
 ---
   # 🔥 Chapter 1 — Calcination: The Fire of Release
 

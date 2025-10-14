@@ -12,6 +12,8 @@ tags:
   - "Dreamcore Wellness"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/the-weaver-of-shadows/"
 ---
 ## Weaver of Shadows – A Poetic Tale of Becoming | day 7
 

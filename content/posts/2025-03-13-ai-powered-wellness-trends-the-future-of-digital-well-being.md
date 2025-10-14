@@ -17,6 +17,8 @@ tags:
   - "futuristic self-care"
   - "smart beauty tech"
 draft: false
+aliases:
+  - "/ai-powered-wellness-trends-the-future-of-digital-well-being/"
 ---
 # **The Unfolding Revolution: How AI Powers Wellness Trends**
 

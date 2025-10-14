@@ -13,6 +13,8 @@ tags:
   - "trend"
   - "trends"
 draft: false
+aliases:
+  - "/sculptural-metal-accessories/"
 ---
 ### **Sculptural Metal Accessories: The Bold Statement Pieces of 2025**
 

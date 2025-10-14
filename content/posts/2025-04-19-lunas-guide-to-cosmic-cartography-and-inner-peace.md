@@ -12,6 +12,8 @@ tags:
   - "🗺️ The Cartographer’s Wing"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/lunas-guide-to-cosmic-cartography-and-inner-peace/"
 ---
 In the realm of the mapmaker, where stars and stardust wove a tapestry of infinite possibility, there lived a being known only as Luna. With eyes that shone like polished moonstones, she navigated the labyrinthine corridors of her own heart, charting the uncharted territories of her soul.
 

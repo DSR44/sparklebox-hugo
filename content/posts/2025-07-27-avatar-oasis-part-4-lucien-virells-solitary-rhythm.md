@@ -12,6 +12,8 @@ tags:
   - "self concept"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/avatar-oasis-part-4-lucien-virells-solitary-rhythm/"
 ---
 Type: Artistic Masculine Power | Mood: Poised Silence & Private Brilliance | Avatar: The Unshaken Creator Who Needs No Audience
 

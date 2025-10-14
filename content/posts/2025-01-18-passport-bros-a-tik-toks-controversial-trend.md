@@ -12,6 +12,8 @@ tags:
   - "viral TikTok topics"
   - "Western dating culture"
 draft: false
+aliases:
+  - "/passport-bros-a-tik-toks-controversial-trend/"
 ---
 If you’ve been on TikTok lately, you’ve probably come across the infamous **Passport Bros**—a trend where men proudly proclaim they’re “escaping” Western dating culture to find love (or something else 👀) abroad. Depending on who you ask, **Passport Bros are either hopeless romantics or delusional tourists with Wi-Fi**. Either way, this trend has become a **goldmine for memes, debates, and pure comedic gold**. Let’s dive into the **good, the bad, and the straight-up ridiculous** side of Passport Bros on TikTok.
 

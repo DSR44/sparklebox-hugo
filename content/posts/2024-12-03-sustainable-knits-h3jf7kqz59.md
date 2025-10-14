@@ -6,6 +6,8 @@ slug: "sustainable-knits-h3jf7kqz59"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/sustainable-knits-h3jf7kqz59/"
 ---
 Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
 

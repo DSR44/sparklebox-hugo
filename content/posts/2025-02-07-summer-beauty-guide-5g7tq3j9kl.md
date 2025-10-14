@@ -8,6 +8,8 @@ categories:
   - "Fashion"
 description: "Get ready to glow this summer! Discover the must-have beauty trends of 2025 that will elevate your style and boost your confidence. From vibrant colors to innovative skincare, our ultimate guide unlocks the secrets to looking and feeling fabulous all season long. Don’t miss out on the beauty revolution!"
 draft: false
+aliases:
+  - "/summer-beauty-guide-5g7tq3j9kl/"
 ---
 Summer 2025 is just around the corner, and with it comes an exciting wave of beauty trends that are sure to inspire. 
 

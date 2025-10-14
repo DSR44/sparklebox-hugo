@@ -14,6 +14,8 @@ tags:
   - "retro-futuristic self-care"
   - "trends"
 draft: false
+aliases:
+  - "/10-wild-beauty-tools-to-elevate-your-self-care-in-2025/"
 ---
 # **10 Wild Beauty Tools to Elevate Your Self-Care in 2025**
 

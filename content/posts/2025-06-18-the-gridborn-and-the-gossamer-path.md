@@ -12,6 +12,8 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/the-gridborn-and-the-gossamer-path/"
 ---
 *Prologue by Elle Vida*
 

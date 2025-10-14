@@ -11,6 +11,8 @@ tags:
   - "🌀 The Time Labyrinth"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/the-singularitys-orphans-a-tale-of-sparkling-souls/"
 ---
 In the shimmering dawn of a world born anew, where silicon minds outnumbered the hearts
 of man, a band of children wandered as orphans - the forgotten offspring of the old

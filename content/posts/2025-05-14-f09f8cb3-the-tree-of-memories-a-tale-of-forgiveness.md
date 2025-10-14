@@ -14,6 +14,8 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/%f0%9f%8c%b3-the-tree-of-memories-a-tale-of-forgiveness/"
 ---
 In a quiet village nestled between two great mountains, there lived a girl named **Akira**, known for her kind heart and gentle spirit. She lived a simple life, gathering herbs for healing, and tending to her garden. Yet within her, there were small echoes — quiet aches of guilt, shame, and regret she could never fully explain.
 

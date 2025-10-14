@@ -6,6 +6,8 @@ slug: "festive-christmas-nail-decorations-4g7jklzq3r"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/festive-christmas-nail-decorations-4g7jklzq3r/"
 ---
 Christmas is a magical time of the year, filled with dazzling lights, festive decorations, and a whole lot of joy. 
 

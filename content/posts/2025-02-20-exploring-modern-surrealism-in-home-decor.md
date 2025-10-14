@@ -12,6 +12,8 @@ tags:
   - "home decor trends 2025"
   - "trend"
 draft: false
+aliases:
+  - "/exploring-modern-surrealism-in-home-decor/"
 ---
 # Modern Surrealism: The Pinterest-Famous Home Décor Trend That’s Changing Interiors
 

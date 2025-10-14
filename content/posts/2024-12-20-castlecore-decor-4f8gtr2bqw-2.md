@@ -7,6 +7,8 @@ categories:
   - "Uncategorized"
 description: "Step into a world of enchantment with our 22 Castlecore decor ideas! From opulent tapestries to whimsical chandeliers, discover how to transform your home into a fairytale castle. Unleash your inner royalty and create a dreamy sanctuary that captivates the imagination—where every corner whispers tales of magic and adventure!"
 draft: false
+aliases:
+  - "/castlecore-decor-4f8gtr2bqw-2/"
 ---
 Step into a realm of enchantment with these captivating castlecore decor ideas that will turn your home into a magnificent fairytale castle. 
 

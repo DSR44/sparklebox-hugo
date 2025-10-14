@@ -11,6 +11,8 @@ tags:
   - "healthy snacks"
   - "snacks"
 draft: false
+aliases:
+  - "/10-diy-energy-balls-for-a-powerful-nutrient-boost/"
 ---
 # 10 Homemade Energy Balls for a Quick Nutrient Boost
 

@@ -10,6 +10,8 @@ tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
 draft: false
+aliases:
+  - "/unlock-your-potential-5-sparklebox-secrets-to-boost-confidence-and-productivity/"
 ---
 🌟 Base Class 6 — Unlock Your Potential: 5 Secrets to Boost Confidence and Productivity | Elle Vida – Sparklebox
 

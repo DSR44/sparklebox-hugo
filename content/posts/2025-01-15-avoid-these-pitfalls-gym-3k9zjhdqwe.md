@@ -7,6 +7,8 @@ categories:
   - "Health"
 description: "Starting your gym journey can be exhilarating, but pitfalls lurk around every corner! From unrealistic goals to neglecting nutrition, each misstep can derail your progress. Discover the top 10 mistakes to avoid and set yourself up for success, ensuring your fitness journey is both rewarding and sustainable. Don’t let these traps hold you back!"
 draft: false
+aliases:
+  - "/avoid-these-pitfalls-gym-3k9zjhdqwe/"
 ---
 Embarking on a gym journey can be both exhilarating and overwhelming. 
 

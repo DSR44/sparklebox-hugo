@@ -13,6 +13,8 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
+aliases:
+  - "/%f0%9f%8c%95-moonlit-wings-a-tale-from-the-vale-of-sorelia/"
 ---
 ### 🕯️ *Whispers from the Vale...*
 

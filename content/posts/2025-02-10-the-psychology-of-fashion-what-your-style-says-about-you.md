@@ -12,6 +12,8 @@ tags:
   - "trend"
   - "trends"
 draft: false
+aliases:
+  - "/the-psychology-of-fashion-what-your-style-says-about-you/"
 ---
 # The Psychology of Fashion: How Your Style Reflects Your Personality & Mood
 

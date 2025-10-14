@@ -6,6 +6,8 @@ slug: "velvet-jumpsuits-nye-4k9h2jv7qx"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/velvet-jumpsuits-nye-4k9h2jv7qx/"
 ---
 As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
 

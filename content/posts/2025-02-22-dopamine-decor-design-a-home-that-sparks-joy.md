@@ -11,6 +11,8 @@ tags:
   - "home decor trends 2025"
   - "trends"
 draft: false
+aliases:
+  - "/dopamine-decor-design-a-home-that-sparks-joy/"
 ---
 # Dopamine Decor: How to Design a Home That Sparks Joy
 

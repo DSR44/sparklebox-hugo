@@ -12,6 +12,8 @@ tags:
   - "neville goddard"
   - "transmutational alchemy"
 draft: false
+aliases:
+  - "/feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida/"
 ---
 ✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance | Elle Vida – Sparklebox
 

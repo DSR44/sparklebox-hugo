@@ -6,6 +6,8 @@ slug: "motivational-quotes-4kfj9z8wqp"
 categories:
   - "Uncategorized"
 draft: false
+aliases:
+  - "/motivational-quotes-4kfj9z8wqp/"
 ---
 In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
 

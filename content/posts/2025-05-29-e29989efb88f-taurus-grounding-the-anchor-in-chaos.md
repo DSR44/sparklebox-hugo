@@ -10,6 +10,8 @@ tags:
   - "#OraclesGrowth"
   - "🔮 The Oracle’s Grove"
 draft: false
+aliases:
+  - "/%e2%99%89%ef%b8%8f-taurus-grounding-the-anchor-in-chaos/"
 ---
 🌍 *Oracle Growth Series | Dreamweaver Tales – Day 2*
 

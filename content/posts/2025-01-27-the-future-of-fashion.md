@@ -17,6 +17,8 @@ tags:
   - "sustainable fashion"
   - "virtual styling"
 draft: false
+aliases:
+  - "/the-future-of-fashion/"
 ---
 ### **How AI is Revolutionizing Style**
 

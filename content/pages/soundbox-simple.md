@@ -86,71 +86,24 @@ audio {
 <div class="audio-gallery">
 
 <div class="intro">
-<h1>🎵 Mystical Audio Collection</h1>
-<p>Immerse yourself in ethereal soundscapes for meditation, transformation, and cosmic connection.</p>
-<p><em>✨ Put on your headphones, close your eyes, and let the frequencies guide you... ✨</em></p>
+<h1>🧘‍♀️ Sound Bath Collection</h1>
+<p>Immerse yourself in peaceful healing frequencies for deep meditation, relaxation, and inner stillness.</p>
+<p><em>✨ Put on your headphones, find a comfortable space, and let the healing vibrations wash over you... ✨</em></p>
 </div>
 
 <div class="audio-track">
-<div class="track-title">🌌 Cosmic Oasis - Galactic Soundbath</div>
+<div class="track-title">🌸 Zen Oasis - Peaceful Healing</div>
 <div class="track-tags">
-<span class="tag">soundbath</span>
+<span class="tag">zen</span>
 <span class="tag">healing</span>
-<span class="tag">cosmic</span>
+<span class="tag">peaceful</span>
+<span class="tag">meditation</span>
 </div>
 <div class="track-description">
-Float in a cosmic oasis of healing frequencies - a galactic soundbath for deep relaxation and cosmic connection. Perfect for meditation, energy work, or simply floating in space.
+Gentle healing frequencies for deep relaxation and inner peace. Perfect for meditation, yoga, or simply finding your center in the chaos of life. Let the zen vibrations restore your soul.
 </div>
 <audio controls preload="metadata">
-<source src="/Cosmic-Oasis-Galactic-Soundbath.wav" type="audio/wav">
-Your browser doesn't support audio playback.
-</audio>
-</div>
-
-<div class="audio-track">
-<div class="track-title">🔥 Ember Gate - Portal of Transformation</div>
-<div class="track-tags">
-<span class="tag">transformation</span>
-<span class="tag">fire</span>
-<span class="tag">portal</span>
-</div>
-<div class="track-description">
-The fire of transformation - powerful portal soundscape for transmutation. Let the flames of change burn away what no longer serves you.
-</div>
-<audio controls preload="metadata">
-<source src="/Ember-Gate.wav" type="audio/wav">
-Your browser doesn't support audio playback.
-</audio>
-</div>
-
-<div class="audio-track">
-<div class="track-title">🌟 The Awakening</div>
-<div class="track-tags">
-<span class="tag">awakening</span>
-<span class="tag">transformation</span>
-<span class="tag">spiritual</span>
-</div>
-<div class="track-description">
-Awakening to your highest self - powerful transformation soundscape. Rise into your divine consciousness and remember who you truly are.
-</div>
-<audio controls preload="metadata">
-<source src="/The-Awakening-.wav" type="audio/wav">
-Your browser doesn't support audio playback.
-</audio>
-</div>
-
-<div class="audio-track">
-<div class="track-title">🏛️ Blue Cathedral</div>
-<div class="track-tags">
-<span class="tag">cinematic</span>
-<span class="tag">ethereal</span>
-<span class="tag">soundscape</span>
-</div>
-<div class="track-description">
-Vast cinematic atmospheres that evoke abandoned spaces filled with the ghost of forgotten melodies and the promise of digital transcendence.
-</div>
-<audio controls preload="metadata">
-<source src="/Blue-Cathedral.wav" type="audio/wav">
+<source src="/zen-oasis.wav" type="audio/wav">
 Your browser doesn't support audio playback.
 </audio>
 </div>
@@ -161,9 +114,10 @@ Your browser doesn't support audio playback.
 <span class="tag">wisdom</span>
 <span class="tag">mystical</span>
 <span class="tag">meditation</span>
+<span class="tag">transformation</span>
 </div>
 <div class="track-description">
-A realm where ancient wisdom meets modern magic - ethereal soundscape for deep meditation and transformation. Bridge the worlds of past and future.
+A realm where ancient wisdom meets modern magic - ethereal soundscape for deep meditation and spiritual transformation. Bridge the worlds of past and future in this healing journey.
 </div>
 <audio controls preload="metadata">
 <source src="/A-Realm-Where-Ancient-Wisdom-Meets-Modern-Magic.wav" type="audio/wav">

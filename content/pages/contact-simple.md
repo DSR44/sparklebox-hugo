@@ -146,7 +146,7 @@ Have a question? Want to share your journey? I'd love to hear from you.
 
 ## 📧 Email Me Directly
 
-<a href="mailto:sparklebox.espresso078@passmail.net">sparklebox.espresso078@passmail.net</a>
+<a href="mailto:Elle_Vida@sparklebox.blog">Elle_Vida@sparklebox.blog</a>
 
 </div>
 

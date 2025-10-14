@@ -39,7 +39,7 @@ theme = "PaperMod"
   
   [[menu.main]]
     name = "🎵 Soundbox"
-    url = "/soundbox-simple/"
+    url = "/soundbox-mystical-audio-collection/"
     weight = 4
   
   [[menu.main]]
@@ -71,6 +71,11 @@ theme = "PaperMod"
     name = "📧 Contact"
     url = "/contact/"
     weight = 10
+  
+  [[menu.main]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 11
 
 # PaperMod Theme Settings
 [params]

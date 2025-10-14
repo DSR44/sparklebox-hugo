@@ -1,0 +1,41 @@
+[
+  {
+    "id": "prmvl-001",
+    "title": "Luminescent Horizons",
+    "description": "Ethereal ambient soundscape that captures the liminal space between day and night, where neon dreams dissolve into infinite possibility.",
+    "tags": ["ambient", "dreamcore", "focus"],
+    "src": "luminescent-horizons.mp3",
+    "cover": "luminescent-horizons.jpg",
+    "clip": "luminescent-horizons-loop.mp4",
+    "duration": 720,
+    "artist": "Sparklebox",
+    "bpm": null,
+    "key": null
+  },
+  {
+    "id": "prmvl-002", 
+    "title": "Neon Rain Ritual",
+    "description": "Hypnotic lo-fi textures woven with the gentle percussion of midnight rainfall, creating a cocoon of urban solitude and reflection.",
+    "tags": ["lofi", "rain", "night"],
+    "src": "neon-rain-ritual.mp3",
+    "cover": "neon-rain-ritual.jpg",
+    "clip": null,
+    "duration": 480,
+    "artist": "Sparklebox",
+    "bpm": 68,
+    "key": "Dm"
+  },
+  {
+    "id": "prmvl-003",
+    "title": "Blue Cathedral", 
+    "description": "Vast cinematic atmospheres that evoke abandoned spaces filled with the ghost of forgotten melodies and the promise of digital transcendence.",
+    "tags": ["cinematic", "ethereal", "soundscape"],
+    "src": "blue-cathedral.mp3",
+    "cover": "blue-cathedral.jpg",
+    "clip": "blue-cathedral-loop.mp4",
+    "duration": 892,
+    "artist": "Sparklebox",
+    "bpm": null,
+    "key": "Fm"
+  }
+]

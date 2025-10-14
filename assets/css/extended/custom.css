@@ -1,0 +1,213 @@
+/*
+ * Sparklebox Custom CSS - Recreating WordPress Design
+ * Mystical, elegant purple theme with Playfair Display
+ */
+
+/* Import Google Fonts (matching WordPress) */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600;700&family=DM+Sans:wght@400;500;700;800&family=Cormorant:wght@300;400;600&display=swap');
+
+/* WordPress Color Scheme - Exact Match */
+:root {
+    /* Main brand colors (from WordPress) */
+    --primary: #4b2e83;           /* Deep mystical purple */
+    --heading-color: #3f2469;     /* Darker purple for headings */
+    --text-color: #4b2e83;        /* Text purple */
+    --caption-color: #5a4a75;     /* Caption purple */
+    --bg-light: #fafdff;          /* Light background */
+    --bg-theme: #eef4f7;          /* Theme background */
+    
+    /* PaperMod overrides */
+    --theme: var(--primary);
+    --entry: var(--bg-light);
+    --primary: var(--primary);
+    --secondary: var(--heading-color);
+    --code-bg: #f3f4f6;
+    --border: #e5e7eb;
+}
+
+/* Dark mode (keeping mystical purple theme) */
+.dark {
+    --primary: #8b7db8;
+    --heading-color: #a896d9;
+    --bg-light: #1a1a2e;
+}
+
+/* === WordPress-Style Typography === */
+
+/* Body text - matching WordPress */
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.65;
+    color: var(--text-color);
+    background-color: var(--bg-light);
+}
+
+/* Headings - Cormorant font like WordPress */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant', serif;
+    color: var(--heading-color);
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1;
+}
+
+h2 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    line-height: 1.1;
+}
+
+h3 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+/* Paragraphs */
+p {
+    font-style: normal;
+    font-weight: 300;
+    margin-bottom: 1.5rem;
+}
+
+/* Links - DM Sans like WordPress */
+a {
+    color: var(--primary);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--heading-color);
+}
+
+/* Remove underline from certain links */
+.post-title a,
+.site-title a,
+nav a {
+    text-decoration: none;
+}
+
+/* === Site Header === */
+
+.site-title,
+#site-title {
+    font-family: 'Cormorant', serif;
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 100;
+    color: var(--primary);
+    letter-spacing: 0.05em;
+}
+
+/* === Post Styling === */
+
+.post-title {
+    font-family: 'Cormorant', serif;
+    color: var(--heading-color);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+.post-content {
+    font-size: 18px;
+    line-height: 1.65;
+}
+
+.post-meta {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: var(--caption-color);
+    font-weight: 800;
+}
+
+/* === Buttons - WordPress Style === */
+
+button,
+.button,
+.wp-element-button {
+    background-color: var(--primary);
+    color: #ffffff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 16px 24px;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover,
+.button:hover {
+    background-color: var(--heading-color);
+}
+
+/* === Blockquotes === */
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    padding-left: 1.5rem;
+    font-style: italic;
+    color: var(--caption-color);
+    margin: 2rem 0;
+}
+
+/* === Captions === */
+
+figcaption {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--caption-color);
+    padding-top: 8px;
+    text-align: center;
+}
+
+/* === Layout === */
+
+.main {
+    background-color: var(--bg-light);
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.post-content {
+    max-width: 620px;
+    margin: 0 auto;
+}
+
+/* === Footer === */
+
+.footer {
+    text-align: center;
+    padding: 2rem;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    background-color: var(--bg-theme);
+}
+
+/*
+ * TO CUSTOMIZE:
+ * 1. Change the colors in :root section above
+ * 2. Modify fonts, sizes, spacing
+ * 3. Add your own CSS rules
+ * 4. Save this file
+ * 5. Run: hugo server (to preview)
+ * 6. Deploy when happy!
+ */
+

@@ -1,0 +1,30 @@
+🚀 DEPLOY YOUR SITE IN 30 SECONDS WITH SURGE
+
+Open Terminal and run these commands:
+
+cd /Users/manalbenjabeur/Desktop/Moving_sparklebox_blog/hugo_site
+surge public
+
+When it asks:
+1. Email: [type your email]
+2. Password: [create a password]
+3. Domain: Just press ENTER (or type: sparklebox.surge.sh)
+
+That's it! Your site will be LIVE!
+
+It will give you a URL like: https://sparklebox.surge.sh
+
+---
+
+OR, TRY NETLIFY AGAIN:
+
+1. Check your email for Netlify verification
+2. Go to app.netlify.com
+3. "Deploy manually"
+4. Drag the PUBLIC folder (the one I opened in Finder)
+5. NOT the hugo_site folder!
+
+---
+
+The PUBLIC folder contains your complete website - just HTML files ready to host anywhere!
+

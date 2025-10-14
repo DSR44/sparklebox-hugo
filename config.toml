@@ -1,0 +1,158 @@
+baseURL = "https://sparklebox.blog/"
+languageCode = "en-us"
+title = "Sparklebox 𝘣𝘺 𝙴𝚕𝚕𝚎 𝚅𝚒𝚍𝚊"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+# Enable RSS and JSON feeds
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Permalinks
+[permalinks]
+  posts = "/posts/:year/:month/:slug/"
+  pages = "/:slug/"
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "🌌 Dream Toolkit Portals"
+    url = "/the-dreamtoolkit/"
+    weight = 2
+  
+  [[menu.main]]
+    name = "🎨 Musebox - Visual Prompts"
+    url = "/musebox-dreams/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "🎵 Soundbox"
+    url = "/soundbox/"
+    weight = 4
+  
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 5
+  
+  [[menu.main]]
+    name = "✨ Tarot App"
+    url = "https://sparklebox-tarot.streamlit.app/"
+    weight = 6
+  
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 7
+    
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 8
+  
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 9
+
+# PaperMod Theme Settings
+[params]
+  description = "✨ Sparklebox | Your portal to daily soft power, inner healing, and cosmic becoming."
+  author = "Elle Vida"
+  
+  # PaperMod specific settings
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+  
+  # Profile Mode for Homepage
+  [params.profileMode]
+    enabled = false  # Set to true if you want a profile page instead of blog list
+    title = "Sparklebox ✨"
+    subtitle = "Your portal to daily soft power, inner healing, and cosmic becoming."
+    imageUrl = ""
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Sparklebox"
+  
+  # Home Info Mode (default)
+  [params.homeInfoParams]
+    Title = "✨ Welcome to Sparklebox"
+    Content = "Your portal to daily soft power, inner healing, and cosmic becoming. Explore mystical wisdom, spiritual practices, and transformative insights."
+
+  # Social icons in footer
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+  # Cover image settings
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  # Search functionality
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    lineNos = true
+    noClasses = false
+    style = "monokai"
+
+# Privacy settings
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.x]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true

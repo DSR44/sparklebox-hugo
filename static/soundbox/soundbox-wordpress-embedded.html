@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soundbox v2 - Sparklebox by Elvida</title>
+    <meta name="description" content="Ambient music player with curated soundscapes">
+    
+    <!-- Preload critical resources -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <!-- Inline CSS for WordPress compatibility -->
+    <style>
+/*
+ * Soundbox v2 - Sparklebox by Elvida
+ * Production-grade ambient music player
+ * Mobile-first, accessible, glassmorphism design
+ */
+
+/* ===== CSS CUSTOM PROPERTIES ===== */
+:root {
+  /* Colors */
+  --bg: #0f1115;
+  --card: rgba(255, 255, 255, 0.04);
+  --border: rgba(255, 255, 255, 0.08);
+  --text: #ffffff;
+  --muted: rgba(255, 255, 255, 0.6);
+  --accent-start: #8b5cf6;
+  --accent-end: #06b6d4;
+  
+  /* Additional colors */
+  --text-secondary: rgba(255, 255, 255, 0.8);
+  --text-tertiary: rgba(255, 255, 255, 0.5);
+  --overlay: rgba(0, 0, 0, 0.5);
+  --success: #10b981;
+  --error: #ef4444;
+  --warning: #f59e0b;
+  
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  
+  /* Typography */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', monospace;
+  
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  
+  /* Borders & Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 350ms ease;
+  
+  /* Layout */
+  --container-max: 1200px;
+  --mini-player-height: 120px;
+  --header-height: 120px;
+}
+
+/* ===== RESET & BASE ===== */
+.soundbox *,
+.soundbox *::before,
+.soundbox *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.soundbox {
+  font-family: var(--font-sans);
+  font-size: var(--text-base);
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== UTILITIES ===== */
+.soundbox .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.soundbox .container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--space-md);
+}
+
+/* Focus styles for accessibility */
+.soundbox *:focus {
+  outline: 2px solid var(--accent-start);
+  outline-offset: 2px;
+}
+
+.soundbox *:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.soundbox *:focus-visible {
+  outline: 2px solid var(--accent-start);
+  outline-offset: 2px;
+}
+
+/* ===== LAYOUT ===== */
+.soundbox .app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--mini-player-height);
+}
+
+/* ===== HEADER ===== */
+.soundbox .header {
+  padding: var(--space-xl) 0;
+  text-align: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.02) 0%, transparent 100%);
+  border-bottom: 1px solid var(--border);
+}
+
+.soundbox .logo {
+  font-size: var(--text-3xl);
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.soundbox .logo-version {
+  font-size: var(--text-lg);
+  font-family: var(--font-mono);
+  opacity: 0.7;
+  margin-left: var(--space-xs);
+}
+
+.soundbox .tagline {
+  color: var(--muted);
+  font-size: var(--text-sm);
+  font-family: var(--font-mono);
+}
+
+/* ===== FILTERS ===== */
+.soundbox .filters {
+  padding: var(--space-lg) 0;
+  background: rgba(255, 255, 255, 0.01);
+  border-bottom: 1px solid var(--border);
+}
+
+.soundbox .filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  justify-content: center;
+}
+
+.soundbox .filter-chip {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  padding: var(--space-sm) var(--space-md);
+  font-size: var(--text-sm);
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.soundbox .filter-chip:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+}
+
+.soundbox .filter-chip.active {
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  border-color: transparent;
+  color: white;
+  font-weight: 500;
+}
+
+.soundbox .filter-chip.clear {
+  background: var(--error);
+  border-color: var(--error);
+  color: white;
+}
+
+/* ===== MAIN CONTENT ===== */
+.soundbox .main {
+  flex: 1;
+  padding: var(--space-xl) 0;
+}
+
+/* ===== LOADING & ERROR STATES ===== */
+.soundbox .loading,
+.soundbox .error,
+.soundbox .empty-state {
+  text-align: center;
+  padding: var(--space-2xl) var(--space-md);
+}
+
+.soundbox .loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(255, 255, 255, 0.1);
+  border-top: 3px solid var(--accent-start);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto var(--space-md);
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.soundbox .error h2,
+.soundbox .empty-state h2 {
+  color: var(--text);
+  margin-bottom: var(--space-md);
+  font-size: var(--text-xl);
+}
+
+.soundbox .error p,
+.soundbox .empty-state p {
+  color: var(--muted);
+  margin-bottom: var(--space-lg);
+}
+
+.soundbox .retry-btn {
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  border: none;
+  border-radius: var(--radius-md);
+  padding: var(--space-sm) var(--space-lg);
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.soundbox .retry-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* ===== TRACK GRID ===== */
+.soundbox .track-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-lg);
+  margin-top: var(--space-lg);
+}
+
+@media (min-width: 1024px) {
+  .soundbox .track-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ===== TRACK CARD ===== */
+.soundbox .track-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: all var(--transition-base);
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  contain: layout;
+}
+
+.soundbox .track-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+  border-color: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.soundbox .track-card.playing {
+  background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(6, 182, 212, 0.1));
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.2);
+}
+
+.soundbox .track-cover {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.soundbox .cover-image,
+.soundbox .cover-video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-slow);
+}
+
+.soundbox .track-card:hover .cover-image,
+.soundbox .track-card:hover .cover-video {
+  transform: scale(1.05);
+}
+
+.soundbox .play-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
+  border: 2px solid white;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all var(--transition-fast);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.soundbox .track-card:hover .play-overlay,
+.soundbox .track-card:focus .play-overlay {
+  opacity: 1;
+}
+
+.soundbox .track-card.playing .play-overlay {
+  opacity: 1;
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  border-color: white;
+}
+
+.soundbox .play-icon {
+  color: white;
+  width: 24px;
+  height: 24px;
+}
+
+.soundbox .track-content {
+  padding: var(--space-lg);
+}
+
+.soundbox .track-title {
+  font-size: var(--text-lg);
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+  color: var(--text);
+}
+
+.soundbox .track-description {
+  color: var(--muted);
+  font-size: var(--text-sm);
+  margin-bottom: var(--space-md);
+  line-height: 1.5;
+}
+
+.soundbox .track-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+}
+
+.soundbox .track-tag {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-sm);
+  padding: var(--space-xs) var(--space-sm);
+  font-size: var(--text-xs);
+  font-family: var(--font-mono);
+  color: var(--text-tertiary);
+}
+
+/* ===== MINI PLAYER ===== */
+.soundbox .mini-player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(15, 17, 21, 0.95);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid var(--border);
+  padding: var(--space-md);
+  z-index: 100;
+  min-height: var(--mini-player-height);
+}
+
+.soundbox .mini-player-content {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-areas: 
+    "info controls volume"
+    "progress progress progress";
+  gap: var(--space-md);
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .soundbox .mini-player-content {
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+      "info"
+      "controls"
+      "progress"
+      "volume";
+    gap: var(--space-sm);
+  }
+}
+
+/* Track Info */
+.soundbox .track-info {
+  grid-area: info;
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  min-width: 0;
+}
+
+.soundbox .track-info .track-cover {
+  width: 50px;
+  height: 50px;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  flex-shrink: 0;
+  background: var(--card);
+}
+
+.soundbox .track-meta {
+  min-width: 0;
+}
+
+.soundbox .track-meta .track-title {
+  font-size: var(--text-sm);
+  font-weight: 600;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.soundbox .track-meta .track-artist {
+  font-size: var(--text-xs);
+  font-family: var(--font-mono);
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Player Controls */
+.soundbox .player-controls {
+  grid-area: controls;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .soundbox .player-controls {
+    justify-self: center;
+  }
+}
+
+.soundbox .control-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: var(--space-sm);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.soundbox .control-btn:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.soundbox .control-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.soundbox .play-btn {
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  color: white;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+}
+
+.soundbox .play-btn:hover {
+  transform: scale(1.05);
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+}
+
+/* Progress Section */
+.soundbox .progress-section {
+  grid-area: progress;
+  width: 100%;
+}
+
+.soundbox .waveform-toggle {
+  margin-bottom: var(--space-sm);
+  display: flex;
+  justify-content: center;
+}
+
+.soundbox .toggle-label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  cursor: pointer;
+  font-size: var(--text-xs);
+  font-family: var(--font-mono);
+  color: var(--muted);
+}
+
+.soundbox .toggle-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.soundbox .toggle-slider {
+  position: relative;
+  width: 40px;
+  height: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-full);
+  transition: background var(--transition-fast);
+}
+
+.soundbox .toggle-slider::before {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 2px;
+  top: 2px;
+  background: white;
+  border-radius: 50%;
+  transition: transform var(--transition-fast);
+}
+
+.soundbox .toggle-input:checked + .toggle-slider {
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+}
+
+.soundbox .toggle-input:checked + .toggle-slider::before {
+  transform: translateX(20px);
+}
+
+.soundbox .waveform-container {
+  margin-bottom: var(--space-md);
+  height: 60px;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.soundbox .progress-bar-container {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.soundbox .time-display {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: var(--space-xs);
+}
+
+.soundbox .time {
+  font-size: var(--text-xs);
+  font-family: var(--font-mono);
+  color: var(--muted);
+}
+
+.soundbox .progress-bar {
+  position: relative;
+  flex: 1;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.soundbox .seek-slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  margin: 0;
+}
+
+.soundbox .progress-fill {
+  height: 100%;
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  border-radius: var(--radius-full);
+  width: 0%;
+  transition: width 100ms ease;
+}
+
+/* Volume Control */
+.soundbox .volume-control {
+  grid-area: volume;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+@media (max-width: 768px) {
+  .soundbox .volume-control {
+    justify-self: center;
+  }
+}
+
+.soundbox .volume-slider {
+  width: 80px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-full);
+  outline: none;
+  cursor: pointer;
+}
+
+.soundbox .volume-slider::-webkit-slider-thumb {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  cursor: pointer;
+}
+
+.soundbox .volume-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  cursor: pointer;
+  border: none;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.soundbox .track-card {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* ===== MEDIA QUERIES ===== */
+@media (max-width: 768px) {
+  .soundbox .container {
+    padding: 0 var(--space-sm);
+  }
+  
+  .soundbox .header {
+    padding: var(--space-lg) 0;
+  }
+  
+  .soundbox .logo {
+    font-size: var(--text-2xl);
+  }
+  
+  .soundbox .track-grid {
+    gap: var(--space-md);
+    margin-top: var(--space-md);
+  }
+  
+  .soundbox .track-content {
+    padding: var(--space-md);
+  }
+  
+  .soundbox .filter-chips {
+    gap: var(--space-xs);
+  }
+  
+  .soundbox .filter-chip {
+    padding: var(--space-xs) var(--space-sm);
+    font-size: var(--text-xs);
+  }
+}
+
+@media (max-width: 480px) {
+  .soundbox .mini-player {
+    padding: var(--space-sm);
+  }
+  
+  .soundbox .track-info {
+    gap: var(--space-sm);
+  }
+  
+  .soundbox .track-info .track-cover {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .soundbox .player-controls {
+    gap: var(--space-xs);
+  }
+  
+  .soundbox .play-btn {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .soundbox .volume-slider {
+    width: 60px;
+  }
+}
+
+/* ===== HIGH CONTRAST MODE ===== */
+@media (prefers-contrast: high) {
+  .soundbox {
+    --border: rgba(255, 255, 255, 0.3);
+    --card: rgba(255, 255, 255, 0.1);
+    --muted: rgba(255, 255, 255, 0.8);
+  }
+}
+
+/* ===== REDUCED MOTION ===== */
+@media (prefers-reduced-motion: reduce) {
+  .soundbox *,
+  .soundbox *::before,
+  .soundbox *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  
+  .soundbox .loading-spinner {
+    animation: none;
+  }
+}
+    </style>
+</head>
+<body>
+    <!-- Main Application -->
+    <div class="soundbox">
+        <div id="app" class="app">
+            <!-- Header -->
+            <header class="header">
+                <div class="container">
+                    <h1 class="logo">
+                        <span class="logo-text">Soundbox</span>
+                        <span class="logo-version">v2</span>
+                    </h1>
+                    <p class="tagline">Curated ambient soundscapes by Sparklebox</p>
+                </div>
+            </header>
+
+            <!-- Filters -->
+            <section class="filters" aria-label="Track filters">
+                <div class="container">
+                    <div class="filter-chips" role="group" aria-label="Filter by tags">
+                        <!-- Chips will be dynamically generated -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Main Content -->
+            <main class="main">
+                <div class="container">
+                    <!-- Loading State -->
+                    <div id="loading" class="loading" aria-live="polite">
+                        <div class="loading-spinner"></div>
+                        <p>Loading soundscapes...</p>
+                    </div>
+
+                    <!-- Error State -->
+                    <div id="error" class="error" role="alert" style="display: none;">
+                        <h2>Unable to load tracks</h2>
+                        <p>Please check your connection and try refreshing the page.</p>
+                        <button class="retry-btn" onclick="window.location.reload()">Retry</button>
+                    </div>
+
+                    <!-- Track Grid -->
+                    <div id="trackGrid" class="track-grid" style="display: none;">
+                        <!-- Track cards will be dynamically generated -->
+                    </div>
+
+                    <!-- Empty State -->
+                    <div id="emptyState" class="empty-state" style="display: none;">
+                        <h2>No tracks found</h2>
+                        <p>Try adjusting your filters or check back later for new content.</p>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Mini Player (Sticky) -->
+            <div id="miniPlayer" class="mini-player" style="display: none;" role="region" aria-label="Audio player">
+                <div class="mini-player-content">
+                    <!-- Track Info -->
+                    <div class="track-info">
+                        <div class="track-cover">
+                            <img id="playerCover" src="" alt="" class="cover-image">
+                            <video id="playerClip" class="cover-video" muted loop style="display: none;"></video>
+                        </div>
+                        <div class="track-meta">
+                            <h3 id="playerTitle" class="track-title">Track Title</h3>
+                            <p id="playerArtist" class="track-artist">Artist Name</p>
+                        </div>
+                    </div>
+
+                    <!-- Controls -->
+                    <div class="player-controls">
+                        <button id="prevBtn" class="control-btn" aria-label="Previous track" title="Previous track">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polygon points="11,19 2,12 11,5 11,19"></polygon>
+                                <polygon points="22,19 13,12 22,5 22,19"></polygon>
+                            </svg>
+                        </button>
+                        
+                        <button id="playBtn" class="control-btn play-btn" aria-label="Play" aria-pressed="false" title="Play/Pause">
+                            <svg class="play-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polygon points="5,3 19,12 5,21 5,3"></polygon>
+                            </svg>
+                            <svg class="pause-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: none;">
+                                <rect x="6" y="4" width="4" height="16"></rect>
+                                <rect x="14" y="4" width="4" height="16"></rect>
+                            </svg>
+                        </button>
+                        
+                        <button id="nextBtn" class="control-btn" aria-label="Next track" title="Next track">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polygon points="13,19 22,12 13,5 13,19"></polygon>
+                                <polygon points="2,19 11,12 2,5 2,19"></polygon>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Progress Section -->
+                    <div class="progress-section">
+                        <!-- Waveform Toggle -->
+                        <div class="waveform-toggle">
+                            <label class="toggle-label">
+                                <input type="checkbox" id="waveformToggle" class="toggle-input">
+                                <span class="toggle-slider"></span>
+                                <span class="toggle-text">Waveform</span>
+                            </label>
+                        </div>
+
+                        <!-- Waveform Container (hidden by default) -->
+                        <div id="waveformContainer" class="waveform-container" style="display: none;">
+                            <div id="waveform"></div>
+                        </div>
+
+                        <!-- Progress Bar -->
+                        <div class="progress-bar-container">
+                            <div class="time-display">
+                                <span id="currentTime" class="time">0:00</span>
+                                <span id="duration" class="time">0:00</span>
+                            </div>
+                            <div class="progress-bar">
+                                <input type="range" 
+                                       id="seekBar" 
+                                       class="seek-slider" 
+                                       min="0" 
+                                       max="100" 
+                                       value="0"
+                                       aria-label="Seek position"
+                                       title="Seek">
+                                <div class="progress-fill"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Volume Control -->
+                    <div class="volume-control">
+                        <button id="muteBtn" class="control-btn volume-btn" aria-label="Mute" title="Mute/Unmute">
+                            <svg class="volume-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polygon points="11,5 6,9 2,9 2,15 6,15 11,19 11,5"></polygon>
+                                <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                            </svg>
+                            <svg class="mute-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: none;">
+                                <polygon points="11,5 6,9 2,9 2,15 6,15 11,19 11,5"></polygon>
+                                <line x1="23" y1="9" x2="17" y2="15"></line>
+                                <line x1="17" y1="9" x2="23" y2="15"></line>
+                            </svg>
+                        </button>
+                        <input type="range" 
+                               id="volumeSlider" 
+                               class="volume-slider" 
+                               min="0" 
+                               max="100" 
+                               value="70"
+                               aria-label="Volume"
+                               title="Volume">
+                    </div>
+                </div>
+
+                <!-- Hidden Audio Element -->
+                <audio id="audioPlayer" preload="none"></audio>
+            </div>
+        </div>
+    </div>
+
+    <!-- Inline JavaScript with embedded data -->
+    <script>
+/**
+ * Soundbox v2 - Sparklebox by Elvida
+ * WordPress version with embedded track data
+ */
+
+class SoundboxPlayer {
+  constructor() {
+    // Embedded track data (replace URLs with your WordPress media URLs)
+    this.embeddedTracks = [
+      {
+        "id": "prmvl-001",
+        "title": "Luminescent Horizons",
+        "description": "Ethereal ambient soundscape that captures the liminal space between day and night, where neon dreams dissolve into infinite possibility.",
+        "tags": ["ambient", "dreamcore", "focus"],
+        "src": "https://via.placeholder.com/1x1.mp3", // Replace with your audio URL
+        "cover": "https://via.placeholder.com/800x450/8b5cf6/ffffff?text=Luminescent+Horizons",
+        "clip": null,
+        "duration": 720,
+        "artist": "Sparklebox"
+      },
+      {
+        "id": "prmvl-002", 
+        "title": "Neon Rain Ritual",
+        "description": "Hypnotic lo-fi textures woven with the gentle percussion of midnight rainfall, creating a cocoon of urban solitude and reflection.",
+        "tags": ["lofi", "rain", "night"],
+        "src": "https://via.placeholder.com/1x1.mp3", // Replace with your audio URL
+        "cover": "https://via.placeholder.com/800x450/06b6d4/ffffff?text=Neon+Rain+Ritual",
+        "clip": null,
+        "duration": 480,
+        "artist": "Sparklebox"
+      },
+      {
+        "id": "prmvl-003",
+        "title": "Blue Cathedral", 
+        "description": "Vast cinematic atmospheres that evoke abandoned spaces filled with the ghost of forgotten melodies and the promise of digital transcendence.",
+        "tags": ["cinematic", "ethereal", "soundscape"],
+        "src": "https://via.placeholder.com/1x1.mp3", // Replace with your audio URL
+        "cover": "https://via.placeholder.com/800x450/4c1d95/ffffff?text=Blue+Cathedral",
+        "clip": null,
+        "duration": 892,
+        "artist": "Sparklebox"
+      }
+    ];
+    
+    // State
+    this.tracks = [];
+    this.currentTrack = null;
+    this.currentIndex = -1;
+    this.isPlaying = false;
+    this.activeFilters = new Set();
+    this.wavesurfer = null;
+    this.waveformEnabled = false;
+    
+    // DOM elements
+    this.elements = {};
+    
+    // Initialize the application
+    this.init();
+  }
+
+  async init() {
+    try {
+      this.bindElements();
+      this.setupEventListeners();
+      this.setupMediaSession();
+      this.setupKeyboardControls();
+      
+      // Use embedded data instead of loading from file
+      this.tracks = this.embeddedTracks;
+      this.renderTracks();
+      this.renderFilterChips();
+      this.hideLoading();
+      
+      this.handleDeepLink();
+      this.restorePlayerState();
+      
+    } catch (error) {
+      console.error('Failed to initialize Soundbox:', error);
+      this.showError('Failed to initialize the music player. Please refresh the page.');
+    }
+  }
+
+  bindElements() {
+    const elementIds = [
+      'app', 'loading', 'error', 'trackGrid', 'emptyState', 'miniPlayer',
+      'audioPlayer', 'playBtn', 'prevBtn', 'nextBtn', 'seekBar', 'volumeSlider',
+      'muteBtn', 'currentTime', 'duration', 'playerTitle', 'playerArtist',
+      'playerCover', 'playerClip', 'waveformToggle', 'waveformContainer'
+    ];
+    
+    elementIds.forEach(id => {
+      this.elements[id] = document.getElementById(id);
+      if (!this.elements[id]) {
+        console.warn(`Element with ID '${id}' not found`);
+      }
+    });
+    
+    this.elements.filterChips = document.querySelector('.filter-chips');
+  }
+
+  setupEventListeners() {
+    const audio = this.elements.audioPlayer;
+    if (audio) {
+      audio.addEventListener('loadstart', () => this.onLoadStart());
+      audio.addEventListener('loadedmetadata', () => this.onLoadedMetadata());
+      audio.addEventListener('canplay', () => this.onCanPlay());
+      audio.addEventListener('timeupdate', () => this.onTimeUpdate());
+      audio.addEventListener('ended', () => this.onTrackEnded());
+      audio.addEventListener('error', (e) => this.onAudioError(e));
+      audio.addEventListener('volumechange', () => this.onVolumeChange());
+    }
+
+    this.elements.playBtn?.addEventListener('click', () => this.togglePlay());
+    this.elements.prevBtn?.addEventListener('click', () => this.previousTrack());
+    this.elements.nextBtn?.addEventListener('click', () => this.nextTrack());
+    this.elements.muteBtn?.addEventListener('click', () => this.toggleMute());
+    this.elements.seekBar?.addEventListener('input', (e) => this.onSeek(e));
+    this.elements.volumeSlider?.addEventListener('input', (e) => this.onVolumeChange(e));
+    this.elements.waveformToggle?.addEventListener('change', (e) => this.toggleWaveform(e.target.checked));
+
+    window.addEventListener('beforeunload', () => this.savePlayerState());
+    document.addEventListener('visibilitychange', () => this.handleVisibilityChange());
+  }
+
+  setupMediaSession() {
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.setActionHandler('play', () => this.play());
+      navigator.mediaSession.setActionHandler('pause', () => this.pause());
+      navigator.mediaSession.setActionHandler('previoustrack', () => this.previousTrack());
+      navigator.mediaSession.setActionHandler('nexttrack', () => this.nextTrack());
+      navigator.mediaSession.setActionHandler('seekto', (details) => {
+        if (details.seekTime && this.elements.audioPlayer) {
+          this.elements.audioPlayer.currentTime = details.seekTime;
+        }
+      });
+    }
+  }
+
+  setupKeyboardControls() {
+    document.addEventListener('keydown', (e) => {
+      if (!this.elements.miniPlayer.style.display !== 'none' && 
+          !['INPUT', 'TEXTAREA'].includes(e.target.tagName)) {
+        
+        switch (e.code) {
+          case 'Space':
+            e.preventDefault();
+            this.togglePlay();
+            break;
+          case 'ArrowLeft':
+            e.preventDefault();
+            this.seek(-10);
+            break;
+          case 'ArrowRight':
+            e.preventDefault();
+            this.seek(10);
+            break;
+          case 'ArrowUp':
+            e.preventDefault();
+            this.changeVolume(5);
+            break;
+          case 'ArrowDown':
+            e.preventDefault();
+            this.changeVolume(-5);
+            break;
+        }
+      }
+    });
+  }
+
+  renderTracks() {
+    const filteredTracks = this.getFilteredTracks();
+    
+    if (filteredTracks.length === 0) {
+      this.showEmptyState();
+      return;
+    }
+    
+    const grid = this.elements.trackGrid;
+    grid.innerHTML = '';
+    
+    filteredTracks.forEach((track, index) => {
+      const card = this.createTrackCard(track, index);
+      grid.appendChild(card);
+    });
+    
+    this.elements.trackGrid.style.display = 'grid';
+    this.elements.emptyState.style.display = 'none';
+    this.elements.loading.style.display = 'none';
+    this.elements.error.style.display = 'none';
+  }
+
+  createTrackCard(track, index) {
+    const card = document.createElement('article');
+    card.className = 'track-card';
+    card.setAttribute('data-track-id', track.id);
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('role', 'button');
+    card.setAttribute('aria-label', `Play ${track.title}`);
+    
+    const coverHtml = track.clip ? 
+      `<video class="cover-video" muted loop>
+         <source src="${track.clip}" type="video/mp4">
+         <img class="cover-image" src="${track.cover}" alt="${track.title} — cover art">
+       </video>` :
+      `<img class="cover-image" src="${track.cover}" alt="${track.title} — cover art">`;
+    
+    card.innerHTML = `
+      <div class="track-cover">
+        ${coverHtml}
+        <div class="play-overlay">
+          <svg class="play-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="5,3 19,12 5,21 5,3"></polygon>
+          </svg>
+        </div>
+      </div>
+      <div class="track-content">
+        <h3 class="track-title">${this.escapeHtml(track.title)}</h3>
+        <p class="track-description">${this.escapeHtml(track.description || '')}</p>
+        <div class="track-tags">
+          ${track.tags.map(tag => 
+            `<span class="track-tag">${this.escapeHtml(tag)}</span>`
+          ).join('')}
+        </div>
+      </div>
+    `;
+    
+    card.addEventListener('click', () => this.selectTrack(track, index));
+    card.addEventListener('keydown', (e) => {
+      if (e.code === 'Enter' || e.code === 'Space') {
+        e.preventDefault();
+        this.selectTrack(track, index);
+      }
+    });
+    
+    if (track.clip) {
+      const video = card.querySelector('.cover-video');
+      card.addEventListener('mouseenter', () => video?.play());
+      card.addEventListener('mouseleave', () => video?.pause());
+    }
+    
+    return card;
+  }
+
+  renderFilterChips() {
+    const allTags = [...new Set(this.tracks.flatMap(track => track.tags))];
+    const container = this.elements.filterChips;
+    
+    container.innerHTML = '';
+    
+    const clearChip = document.createElement('button');
+    clearChip.className = 'filter-chip clear';
+    clearChip.textContent = 'Clear';
+    clearChip.setAttribute('aria-label', 'Clear all filters');
+    clearChip.addEventListener('click', () => this.clearFilters());
+    container.appendChild(clearChip);
+    
+    allTags.forEach(tag => {
+      const chip = document.createElement('button');
+      chip.className = 'filter-chip';
+      chip.textContent = tag;
+      chip.setAttribute('data-tag', tag);
+      chip.setAttribute('aria-pressed', 'false');
+      chip.addEventListener('click', () => this.toggleFilter(tag));
+      container.appendChild(chip);
+    });
+  }
+
+  getFilteredTracks() {
+    if (this.activeFilters.size === 0) {
+      return this.tracks;
+    }
+    
+    return this.tracks.filter(track => 
+      track.tags.some(tag => this.activeFilters.has(tag))
+    );
+  }
+
+  toggleFilter(tag) {
+    const chip = document.querySelector(`[data-tag="${tag}"]`);
+    
+    if (this.activeFilters.has(tag)) {
+      this.activeFilters.delete(tag);
+      chip.classList.remove('active');
+      chip.setAttribute('aria-pressed', 'false');
+    } else {
+      this.activeFilters.add(tag);
+      chip.classList.add('active');
+      chip.setAttribute('aria-pressed', 'true');
+    }
+    
+    this.renderTracks();
+  }
+
+  clearFilters() {
+    this.activeFilters.clear();
+    document.querySelectorAll('.filter-chip[data-tag]').forEach(chip => {
+      chip.classList.remove('active');
+      chip.setAttribute('aria-pressed', 'false');
+    });
+    this.renderTracks();
+  }
+
+  async selectTrack(track, index) {
+    try {
+      this.currentTrack = track;
+      this.currentIndex = index;
+      
+      this.updateTrackCards();
+      this.updateMiniPlayer();
+      this.showMiniPlayer();
+      
+      await this.loadAudio(track);
+      await this.play();
+      
+    } catch (error) {
+      console.error('Failed to select track:', error);
+      this.showError('Failed to load the selected track. Audio files may not be uploaded yet.');
+    }
+  }
+
+  async loadAudio(track) {
+    return new Promise((resolve, reject) => {
+      const audio = this.elements.audioPlayer;
+      
+      const onCanPlay = () => {
+        audio.removeEventListener('canplay', onCanPlay);
+        audio.removeEventListener('error', onError);
+        resolve();
+      };
+      
+      const onError = (e) => {
+        audio.removeEventListener('canplay', onCanPlay);
+        audio.removeEventListener('error', onError);
+        reject(new Error(`Failed to load audio: ${track.src}`));
+      };
+      
+      audio.addEventListener('canplay', onCanPlay);
+      audio.addEventListener('error', onError);
+      
+      audio.src = track.src;
+      audio.load();
+    });
+  }
+
+  async play() {
+    try {
+      if (!this.elements.audioPlayer.src) return;
+      
+      await this.elements.audioPlayer.play();
+      this.isPlaying = true;
+      this.updatePlayButton();
+      this.updateMediaSession();
+      
+      const video = this.elements.playerClip;
+      if (video && video.src) {
+        video.play();
+      }
+      
+    } catch (error) {
+      console.error('Playback failed:', error);
+      this.isPlaying = false;
+      this.updatePlayButton();
+    }
+  }
+
+  pause() {
+    this.elements.audioPlayer.pause();
+    this.isPlaying = false;
+    this.updatePlayButton();
+    
+    const video = this.elements.playerClip;
+    if (video && video.src) {
+      video.pause();
+    }
+  }
+
+  togglePlay() {
+    if (this.isPlaying) {
+      this.pause();
+    } else {
+      this.play();
+    }
+  }
+
+  previousTrack() {
+    if (this.tracks.length === 0) return;
+    
+    const newIndex = this.currentIndex > 0 ? 
+      this.currentIndex - 1 : 
+      this.tracks.length - 1;
+    
+    this.selectTrack(this.tracks[newIndex], newIndex);
+  }
+
+  nextTrack() {
+    if (this.tracks.length === 0) return;
+    
+    const newIndex = this.currentIndex < this.tracks.length - 1 ? 
+      this.currentIndex + 1 : 
+      0;
+    
+    this.selectTrack(this.tracks[newIndex], newIndex);
+  }
+
+  seek(seconds) {
+    const audio = this.elements.audioPlayer;
+    if (audio && audio.duration) {
+      audio.currentTime = Math.max(0, Math.min(audio.duration, audio.currentTime + seconds));
+    }
+  }
+
+  changeVolume(delta) {
+    const audio = this.elements.audioPlayer;
+    const slider = this.elements.volumeSlider;
+    
+    if (audio && slider) {
+      const newVolume = Math.max(0, Math.min(100, parseInt(slider.value) + delta));
+      slider.value = newVolume;
+      audio.volume = newVolume / 100;
+      this.updateMuteButton();
+    }
+  }
+
+  toggleMute() {
+    const audio = this.elements.audioPlayer;
+    if (audio) {
+      audio.muted = !audio.muted;
+      this.updateMuteButton();
+    }
+  }
+
+  async toggleWaveform(enabled) {
+    // Placeholder for waveform functionality
+    // You can implement this later with actual audio files
+    const container = this.elements.waveformContainer;
+    container.style.display = enabled ? 'block' : 'none';
+  }
+
+  handleDeepLink() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const trackId = urlParams.get('t');
+    
+    if (trackId) {
+      const trackIndex = this.tracks.findIndex(track => track.id === trackId);
+      if (trackIndex !== -1) {
+        this.selectTrack(this.tracks[trackIndex], trackIndex);
+      }
+    }
+  }
+
+  savePlayerState() {
+    if (this.currentTrack) {
+      const state = {
+        trackId: this.currentTrack.id,
+        volume: this.elements.volumeSlider?.value || 70,
+        muted: this.elements.audioPlayer?.muted || false
+      };
+      localStorage.setItem('soundbox-state', JSON.stringify(state));
+    }
+  }
+
+  restorePlayerState() {
+    try {
+      const savedState = localStorage.getItem('soundbox-state');
+      if (savedState) {
+        const state = JSON.parse(savedState);
+        
+        if (this.elements.volumeSlider && state.volume) {
+          this.elements.volumeSlider.value = state.volume;
+          this.elements.audioPlayer.volume = state.volume / 100;
+        }
+        
+        if (this.elements.audioPlayer && typeof state.muted === 'boolean') {
+          this.elements.audioPlayer.muted = state.muted;
+          this.updateMuteButton();
+        }
+        
+        if (state.trackId) {
+          const trackIndex = this.tracks.findIndex(track => track.id === state.trackId);
+          if (trackIndex !== -1) {
+            this.currentTrack = this.tracks[trackIndex];
+            this.currentIndex = trackIndex;
+            this.updateTrackCards();
+            this.updateMiniPlayer();
+            this.showMiniPlayer();
+          }
+        }
+      }
+    } catch (error) {
+      console.error('Failed to restore player state:', error);
+    }
+  }
+
+  updateTrackCards() {
+    document.querySelectorAll('.track-card').forEach(card => {
+      const trackId = card.getAttribute('data-track-id');
+      if (trackId === this.currentTrack?.id) {
+        card.classList.add('playing');
+      } else {
+        card.classList.remove('playing');
+      }
+    });
+  }
+
+  updateMiniPlayer() {
+    if (!this.currentTrack) return;
+    
+    const track = this.currentTrack;
+    
+    this.elements.playerTitle.textContent = track.title;
+    this.elements.playerArtist.textContent = 'Sparklebox by Elvida';
+    
+    const coverImg = this.elements.playerCover;
+    const coverVideo = this.elements.playerClip;
+    
+    if (track.clip) {
+      coverVideo.src = track.clip;
+      coverVideo.style.display = 'block';
+      coverImg.style.display = 'none';
+      if (this.isPlaying) {
+        coverVideo.play();
+      }
+    } else {
+      coverImg.src = track.cover;
+      coverImg.alt = `${track.title} — cover art`;
+      coverImg.style.display = 'block';
+      coverVideo.style.display = 'none';
+    }
+  }
+
+  updatePlayButton() {
+    const btn = this.elements.playBtn;
+    const playIcon = btn.querySelector('.play-icon');
+    const pauseIcon = btn.querySelector('.pause-icon');
+    
+    if (this.isPlaying) {
+      playIcon.style.display = 'none';
+      pauseIcon.style.display = 'block';
+      btn.setAttribute('aria-label', 'Pause');
+      btn.setAttribute('aria-pressed', 'true');
+      btn.title = 'Pause';
+    } else {
+      playIcon.style.display = 'block';
+      pauseIcon.style.display = 'none';
+      btn.setAttribute('aria-label', 'Play');
+      btn.setAttribute('aria-pressed', 'false');
+      btn.title = 'Play';
+    }
+  }
+
+  updateMuteButton() {
+    const btn = this.elements.muteBtn;
+    const volumeIcon = btn.querySelector('.volume-icon');
+    const muteIcon = btn.querySelector('.mute-icon');
+    const audio = this.elements.audioPlayer;
+    
+    if (audio.muted || audio.volume === 0) {
+      volumeIcon.style.display = 'none';
+      muteIcon.style.display = 'block';
+      btn.setAttribute('aria-label', 'Unmute');
+      btn.title = 'Unmute';
+    } else {
+      volumeIcon.style.display = 'block';
+      muteIcon.style.display = 'none';
+      btn.setAttribute('aria-label', 'Mute');
+      btn.title = 'Mute';
+    }
+  }
+
+  updateMediaSession() {
+    if ('mediaSession' in navigator && this.currentTrack) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: this.currentTrack.title,
+        artist: 'Sparklebox by Elvida',
+        album: 'Soundbox Collection',
+        artwork: [
+          { 
+            src: this.currentTrack.cover,
+            sizes: '512x512',
+            type: 'image/jpeg'
+          }
+        ]
+      });
+    }
+  }
+
+  showMiniPlayer() {
+    this.elements.miniPlayer.style.display = 'block';
+  }
+
+  hideLoading() {
+    this.elements.loading.style.display = 'none';
+  }
+
+  showError(message) {
+    this.elements.error.style.display = 'block';
+    this.elements.error.querySelector('p').textContent = message;
+    this.elements.loading.style.display = 'none';
+    this.elements.trackGrid.style.display = 'none';
+    this.elements.emptyState.style.display = 'none';
+  }
+
+  showEmptyState() {
+    this.elements.emptyState.style.display = 'block';
+    this.elements.loading.style.display = 'none';
+    this.elements.trackGrid.style.display = 'none';
+    this.elements.error.style.display = 'none';
+  }
+
+  onLoadStart() {
+    console.log('Loading started');
+  }
+
+  onLoadedMetadata() {
+    this.updateDuration();
+  }
+
+  onCanPlay() {
+    console.log('Can play');
+  }
+
+  onTimeUpdate() {
+    this.updateProgress();
+  }
+
+  onTrackEnded() {
+    this.nextTrack();
+  }
+
+  onAudioError(e) {
+    console.error('Audio error:', e);
+    this.showError('Failed to play the audio track. Please upload your audio files.');
+  }
+
+  onSeek(e) {
+    const audio = this.elements.audioPlayer;
+    if (audio.duration) {
+      const seekTime = (e.target.value / 100) * audio.duration;
+      audio.currentTime = seekTime;
+    }
+  }
+
+  onVolumeChange(e) {
+    const audio = this.elements.audioPlayer;
+    if (e && e.target) {
+      audio.volume = e.target.value / 100;
+    }
+    this.updateMuteButton();
+  }
+
+  updateProgress() {
+    const audio = this.elements.audioPlayer;
+    if (audio.duration) {
+      const progress = (audio.currentTime / audio.duration) * 100;
+      this.elements.seekBar.value = progress;
+      
+      const progressFill = document.querySelector('.progress-fill');
+      if (progressFill) {
+        progressFill.style.width = `${progress}%`;
+      }
+      
+      this.elements.currentTime.textContent = this.formatTime(audio.currentTime);
+    }
+  }
+
+  updateDuration() {
+    const audio = this.elements.audioPlayer;
+    if (audio.duration) {
+      this.elements.duration.textContent = this.formatTime(audio.duration);
+    }
+  }
+
+  handleVisibilityChange() {
+    if (document.hidden) {
+      const videos = document.querySelectorAll('.cover-video');
+      videos.forEach(video => video.pause());
+    }
+  }
+
+  formatTime(seconds) {
+    if (isNaN(seconds)) return '0:00';
+    
+    const mins = Math.floor(seconds / 60);
+    const secs = Math.floor(seconds % 60);
+    return `${mins}:${secs.toString().padStart(2, '0')}`;
+  }
+
+  escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+}
+
+// Initialize when DOM is ready
+document.addEventListener('DOMContentLoaded', () => {
+  new SoundboxPlayer();
+});
+    </script>
+</body>
+</html>

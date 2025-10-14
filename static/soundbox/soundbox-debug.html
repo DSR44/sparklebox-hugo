@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soundbox v2 - Debug Version</title>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <style>
+:root {
+  --bg: #0f1115;
+  --card: rgba(255, 255, 255, 0.04);
+  --border: rgba(255, 255, 255, 0.08);
+  --text: #ffffff;
+  --muted: rgba(255, 255, 255, 0.6);
+  --accent-start: #8b5cf6;
+  --accent-end: #06b6d4;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --radius-md: 12px;
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+.soundbox {
+  font-family: var(--font-sans);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  padding: var(--space-xl);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--border);
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 600;
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: var(--space-md);
+}
+
+.track-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: var(--space-lg);
+}
+
+.track-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: var(--space-lg);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.track-card:hover {
+  background: rgba(255, 255, 255, 0.08);
+  transform: translateY(-2px);
+}
+
+.track-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.track-description {
+  color: var(--muted);
+  margin-bottom: var(--space-md);
+  line-height: 1.5;
+}
+
+.track-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.track-tag {
+  background: rgba(139, 92, 246, 0.2);
+  color: #c4b5fd;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-family: monospace;
+}
+
+.debug-info {
+  background: rgba(255, 0, 0, 0.1);
+  border: 1px solid rgba(255, 0, 0, 0.3);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-lg);
+  color: #fca5a5;
+  font-family: monospace;
+  font-size: 0.875rem;
+}
+
+.loading {
+  text-align: center;
+  padding: var(--space-xl);
+  color: var(--muted);
+}
+
+.filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: var(--space-xl);
+}
+
+.filter-chip {
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: monospace;
+  font-size: 0.875rem;
+}
+
+.filter-chip:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.filter-chip.active {
+  background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+  border-color: transparent;
+}
+
+.status {
+  background: rgba(0, 255, 0, 0.1);
+  border: 1px solid rgba(0, 255, 0, 0.3);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-lg);
+  color: #86efac;
+  font-family: monospace;
+  font-size: 0.875rem;
+}
+    </style>
+</head>
+<body>
+    <div class="soundbox">
+        <div class="container">
+            <header class="header">
+                <h1 class="logo">Soundbox v2 - Debug</h1>
+                <p>Testing track loading and rendering</p>
+            </header>
+
+            <div id="debugInfo" class="debug-info" style="display: none;"></div>
+            <div id="status" class="status"></div>
+
+            <div id="loading" class="loading">
+                Loading soundscapes...
+            </div>
+
+            <div id="filterChips" class="filter-chips" style="display: none;"></div>
+            <div id="trackGrid" class="track-grid" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script>
+        console.log('🎵 Soundbox Debug Version Starting...');
+        
+        function updateStatus(message) {
+            const status = document.getElementById('status');
+            const timestamp = new Date().toLocaleTimeString();
+            status.innerHTML += `<div>[${timestamp}] ${message}</div>`;
+            console.log('📊 Status:', message);
+        }
+
+        function showError(message) {
+            const debug = document.getElementById('debugInfo');
+            debug.style.display = 'block';
+            debug.innerHTML = `<strong>❌ Error:</strong> ${message}`;
+            console.error('❌ Error:', message);
+        }
+
+        // Sample tracks data
+        const tracks = [
+            {
+                id: "test-001",
+                title: "Luminescent Horizons",
+                description: "Ethereal ambient soundscape that captures the liminal space between day and night.",
+                tags: ["ambient", "dreamcore", "focus"],
+                cover: "https://via.placeholder.com/400x225/8b5cf6/ffffff?text=Luminescent+Horizons"
+            },
+            {
+                id: "test-002", 
+                title: "Neon Rain Ritual",
+                description: "Hypnotic lo-fi textures woven with the gentle percussion of midnight rainfall.",
+                tags: ["lofi", "rain", "night"],
+                cover: "https://via.placeholder.com/400x225/06b6d4/ffffff?text=Neon+Rain+Ritual"
+            },
+            {
+                id: "test-003",
+                title: "Blue Cathedral",
+                description: "Vast cinematic atmospheres that evoke abandoned spaces filled with forgotten melodies.",
+                tags: ["cinematic", "ethereal", "soundscape"],
+                cover: "https://via.placeholder.com/400x225/4c1d95/ffffff?text=Blue+Cathedral"
+            }
+        ];
+
+        function renderTracks() {
+            try {
+                updateStatus('🎨 Starting to render tracks...');
+                
+                const grid = document.getElementById('trackGrid');
+                const loading = document.getElementById('loading');
+                
+                if (!grid) {
+                    throw new Error('Track grid element not found');
+                }
+                
+                grid.innerHTML = '';
+                
+                tracks.forEach((track, index) => {
+                    updateStatus(`🎵 Rendering track ${index + 1}: ${track.title}`);
+                    
+                    const card = document.createElement('div');
+                    card.className = 'track-card';
+                    card.innerHTML = `
+                        <h3 class="track-title">${track.title}</h3>
+                        <p class="track-description">${track.description}</p>
+                        <div class="track-tags">
+                            ${track.tags.map(tag => `<span class="track-tag">${tag}</span>`).join('')}
+                        </div>
+                    `;
+                    
+                    card.addEventListener('click', () => {
+                        updateStatus(`🎵 Clicked track: ${track.title}`);
+                    });
+                    
+                    grid.appendChild(card);
+                });
+                
+                // Show tracks, hide loading
+                loading.style.display = 'none';
+                grid.style.display = 'grid';
+                
+                updateStatus(`✅ Successfully rendered ${tracks.length} tracks`);
+                
+            } catch (error) {
+                showError(`Failed to render tracks: ${error.message}`);
+            }
+        }
+
+        function renderFilters() {
+            try {
+                updateStatus('🏷️ Rendering filter chips...');
+                
+                const container = document.getElementById('filterChips');
+                const allTags = [...new Set(tracks.flatMap(track => track.tags))];
+                
+                container.innerHTML = '';
+                
+                // Clear button
+                const clearChip = document.createElement('button');
+                clearChip.className = 'filter-chip';
+                clearChip.textContent = 'Clear';
+                clearChip.addEventListener('click', () => {
+                    updateStatus('🔄 Cleared all filters');
+                });
+                container.appendChild(clearChip);
+                
+                // Tag chips
+                allTags.forEach(tag => {
+                    const chip = document.createElement('button');
+                    chip.className = 'filter-chip';
+                    chip.textContent = tag;
+                    chip.addEventListener('click', () => {
+                        chip.classList.toggle('active');
+                        updateStatus(`🏷️ Toggled filter: ${tag}`);
+                    });
+                    container.appendChild(chip);
+                });
+                
+                container.style.display = 'flex';
+                updateStatus(`✅ Rendered ${allTags.length} filter chips`);
+                
+            } catch (error) {
+                showError(`Failed to render filters: ${error.message}`);
+            }
+        }
+
+        // Initialize when DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            updateStatus('🚀 DOM loaded, initializing...');
+            
+            try {
+                updateStatus(`📊 Found ${tracks.length} tracks in data`);
+                
+                // Small delay to simulate loading
+                setTimeout(() => {
+                    renderFilters();
+                    renderTracks();
+                    updateStatus('🎉 Initialization complete!');
+                }, 500);
+                
+            } catch (error) {
+                showError(`Initialization failed: ${error.message}`);
+            }
+        });
+
+        // Global error handler
+        window.addEventListener('error', function(e) {
+            showError(`JavaScript Error: ${e.message} at ${e.filename}:${e.lineno}`);
+        });
+
+        updateStatus('📝 Script loaded successfully');
+    </script>
+</body>
+</html>

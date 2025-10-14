@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🔥 Ember Gate - The Fire of Becoming | Elle Vida – Sparklebox</title>
+<style>
+/* SPARKLEBOX BRAND STYLING - CYBERPUNK AESTHETIC */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(145deg, #0a0a0a 0%, #1a0b2e 30%, #16213e 70%, #0f3460 100%);
+    font-family: 'Gentium Plus', serif;
+    color: #e0c1f7;
+    text-align: center;
+    line-height: 1.8;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+/* CYBERPUNK GLOW EFFECTS */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+        radial-gradient(circle at 20% 20%, rgba(224, 193, 247, 0.05) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 20, 147, 0.03) 0%, transparent 50%),
+        radial-gradient(circle at 40% 60%, rgba(255, 69, 0, 0.02) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: -1;
+}
+
+/* CONTAINER */
+.content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+/* TYPOGRAPHY */
+h1 {
+    font-family: 'Gentium Plus', serif;
+    font-size: clamp(2.5rem, 6vw, 4rem);
+    background: linear-gradient(135deg, #ff4500 0%, #ff1493 50%, #ffd700 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 2rem 0 1rem 0;
+    font-weight: 700;
+    text-shadow: 0 0 20px rgba(255, 69, 0, 0.3);
+    letter-spacing: -0.02em;
+}
+
+.gate-subtitle {
+    font-size: clamp(1.2rem, 3vw, 1.6rem);
+    color: #ff6347;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 15px rgba(255, 99, 71, 0.4);
+    font-style: italic;
+}
+
+.gate-intro {
+    font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+    color: #d4b5eb;
+    max-width: 700px;
+    margin: 0 auto 3rem;
+    line-height: 1.7;
+    font-style: italic;
+}
+
+/* EMBER GATE SPECIFIC STYLING */
+.ember-divider {
+    width: 150px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, #ff4500, #ff1493, #ffd700, transparent);
+    margin: 3rem auto;
+    border-radius: 2px;
+    box-shadow: 0 0 15px rgba(255, 69, 0, 0.4);
+    animation: ember-pulse 3s ease-in-out infinite;
+}
+
+@keyframes ember-pulse {
+    0%, 100% { 
+        box-shadow: 0 0 15px rgba(255, 69, 0, 0.4);
+        transform: scaleX(1);
+    }
+    50% { 
+        box-shadow: 0 0 25px rgba(255, 69, 0, 0.6), 0 0 35px rgba(255, 20, 147, 0.3);
+        transform: scaleX(1.1);
+    }
+}
+
+/* ARCHETYPE CARDS GRID */
+.archetype-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 3rem;
+    margin: 4rem auto;
+    max-width: 1000px;
+}
+
+/* COLLECTIBLE CARD STYLING */
+.archetype-card {
+    background: linear-gradient(145deg, rgba(26, 11, 46, 0.9) 0%, rgba(15, 52, 96, 0.8) 100%);
+    border: 3px solid transparent;
+    border-radius: 25px;
+    padding: 0;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+    animation: card-float 6s ease-in-out infinite;
+}
+
+.archetype-card::before {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    background: linear-gradient(45deg, #ff4500, #ff1493, #ffd700, #ff6347, #ff4500);
+    border-radius: 25px;
+    z-index: -1;
+    opacity: 0.7;
+    animation: ember-border-glow 4s linear infinite;
+}
+
+@keyframes ember-border-glow {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes card-float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+.archetype-card:hover {
+    transform: translateY(-15px) scale(1.03);
+    box-shadow: 0 20px 50px rgba(255, 69, 0, 0.3);
+}
+
+.archetype-card:hover::before {
+    opacity: 1;
+}
+
+/* CARD HEADER */
+.card-header {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 22px 22px 0 0;
+}
+
+.archetype-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    transition: transform 0.4s ease;
+}
+
+.archetype-card:hover .archetype-image {
+    transform: scale(1.1);
+}
+
+.archetype-name {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    background: linear-gradient(135deg, rgba(255, 69, 0, 0.9) 0%, rgba(255, 20, 147, 0.8) 100%);
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 15px;
+    font-size: clamp(1.2rem, 2.8vw, 1.4rem);
+    font-weight: 700;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.archetype-title {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.8) 0%, rgba(26, 11, 46, 0.9) 100%);
+    color: #ffd700;
+    padding: 0.6rem 1.2rem;
+    border-radius: 12px;
+    font-size: clamp(1rem, 2.2vw, 1.1rem);
+    font-style: italic;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+/* CARD CONTENT */
+.card-content {
+    padding: 2rem 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.archetype-traits {
+    color: #d4b5eb;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.archetype-description {
+    background: linear-gradient(135deg, rgba(255, 69, 0, 0.1) 0%, rgba(255, 20, 147, 0.1) 100%);
+    border: 1px solid rgba(255, 69, 0, 0.3);
+    border-radius: 15px;
+    padding: 1.5rem;
+    color: #e0c1f7;
+    font-size: clamp(1rem, 2.3vw, 1.1rem);
+    font-style: italic;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.archetype-description::before {
+    content: '"';
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    font-size: 4rem;
+    color: rgba(255, 69, 0, 0.3);
+    font-family: serif;
+}
+
+.archetype-description::after {
+    content: '"';
+    position: absolute;
+    bottom: -30px;
+    right: 10px;
+    font-size: 4rem;
+    color: rgba(255, 69, 0, 0.3);
+    font-family: serif;
+}
+
+/* MYSTICAL ASSOCIATIONS */
+.mystical-associations {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.association-item {
+    background: rgba(15, 52, 96, 0.4);
+    border: 1px solid rgba(255, 69, 0, 0.3);
+    border-radius: 10px;
+    padding: 0.8rem;
+    font-size: clamp(0.85rem, 1.8vw, 0.9rem);
+    color: #d4b5eb;
+    text-align: center;
+}
+
+.association-label {
+    color: #ff6347;
+    font-weight: 600;
+    font-size: clamp(0.8rem, 1.6vw, 0.85rem);
+    margin-bottom: 0.3rem;
+}
+
+/* EMBODIMENT BUTTON */
+.embody-button {
+    background: linear-gradient(135deg, #ff4500 0%, #ff1493 50%, #ffd700 100%);
+    color: #0a0a0a;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: clamp(1rem, 2.2vw, 1.1rem);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'Gentium Plus', serif;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 6px 20px rgba(255, 69, 0, 0.4);
+    margin-top: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.embody-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    transition: left 0.6s ease;
+}
+
+.embody-button:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 25px rgba(255, 69, 0, 0.6);
+    background: linear-gradient(135deg, #ffd700 0%, #ff1493 50%, #ff4500 100%);
+}
+
+.embody-button:hover::before {
+    left: 100%;
+}
+
+/* GATE INTRODUCTION */
+.gate-introduction {
+    background: linear-gradient(135deg, rgba(255, 69, 0, 0.2) 0%, rgba(26, 11, 46, 0.8) 100%);
+    border: 1px solid rgba(255, 69, 0, 0.4);
+    border-radius: 25px;
+    padding: 2.5rem 2rem;
+    margin: 3rem auto;
+    max-width: 800px;
+    box-shadow: 
+        0 8px 32px rgba(0, 0, 0, 0.3),
+        0 0 30px rgba(255, 69, 0, 0.1);
+    backdrop-filter: blur(15px);
+    position: relative;
+}
+
+.gate-introduction::after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(45deg, #ff4500, #ff1493, #ffd700, #ff6347, #ff4500);
+    border-radius: 25px;
+    z-index: -1;
+    opacity: 0.3;
+    animation: ember-border-glow 6s linear infinite;
+}
+
+/* BACKGROUND AUDIO */
+.background-audio {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: rgba(26, 11, 46, 0.9);
+    border: 1px solid rgba(255, 69, 0, 0.4);
+    border-radius: 50px;
+    padding: 0.5rem 1rem;
+    backdrop-filter: blur(10px);
+    font-size: 0.8rem;
+    color: #d4b5eb;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width: 768px) {
+    .content-container {
+        padding: 1.5rem 1rem;
+    }
+    
+    .archetype-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        margin: 3rem auto;
+    }
+    
+    .archetype-card {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    
+    .card-header {
+        height: 350px;
+    }
+    
+    .mystical-associations {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .content-container {
+        padding: 1rem 0.75rem;
+    }
+    
+    .card-content {
+        padding: 1.5rem 1rem;
+    }
+    
+    .card-header {
+        height: 300px;
+    }
+}
+
+/* ACCESSIBILITY */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+    }
+}
+
+/* FORCE PREVENT HORIZONTAL SCROLL */
+body, html {
+    overflow-x: hidden !important;
+    max-width: 100vw !important;
+}
+</style>
+</head>
+
+<body>
+<div class="content-container">
+
+  <!-- HEADER SECTION -->
+  <h1>🔥 Ember Gate</h1>
+  <p class="gate-subtitle">The Fire of Becoming</p>
+  <p class="gate-intro">
+    Step into the sacred flames where transformation begins.<br>
+    Choose your archetype and embody the essence of creative fire.<br>
+    Let the embers of your true self ignite and burn away all that no longer serves.
+  </p>
+
+  <div class="ember-divider"></div>
+
+  <!-- GATE INTRODUCTION -->
+  <div class="gate-introduction">
+    <h2 style="color: #ff6347; margin-bottom: 1.5rem; font-size: clamp(1.4rem, 3vw, 1.8rem);">✨ Enter the Realm of Fire</h2>
+    <p style="color: #e0c1f7; font-size: clamp(1rem, 2.3vw, 1.2rem); line-height: 1.7; margin: 0;">
+      Within the Ember Gate, two ancient archetypes await your choosing. Each carries the sacred fire of transformation, 
+      yet expresses it through different frequencies of being. <em>Ignisia</em> embodies the nurturing flame that guides 
+      your inner spark to life, while <em>Pyrope</em> channels the blazing force that forges your deepest passions into reality.
+    </p>
+  </div>
+
+  <!-- ARCHETYPE CARDS -->
+  <div class="archetype-grid">
+    
+    <!-- IGNISIA CARD -->
+    <div class="archetype-card">
+      <div class="card-header">
+        <img src="Ignisia.jpg" alt="Ignisia - The Spark of Becoming" class="archetype-image">
+        <div class="archetype-name">Ignisia</div>
+        <div class="archetype-title">The Spark of Becoming</div>
+      </div>
+      
+      <div class="card-content">
+        <div class="archetype-traits">
+          <strong>Essence:</strong> Nurturing • Transformative • Intuitive<br>
+          <strong>Element:</strong> Water & Fire • <strong>Celestial:</strong> Moon<br>
+          <strong>Resonance:</strong> Transformation, renewal, manifestation
+        </div>
+        
+        <div class="archetype-description">
+          I am the gentle warmth that nurtures your inner spark, the soft flames that guide you through the transformative journey of becoming. I hold the essence of rebirth, where your deepest desires are reignited, and your true self emerges, radiant and untamed.
+        </div>
+        
+        <div class="mystical-associations">
+          <div class="association-item">
+            <div class="association-label">Sacred Stone</div>
+            Rose Quartz
+          </div>
+          <div class="association-item">
+            <div class="association-label">Angel Number</div>
+            333
+          </div>
+          <div class="association-item">
+            <div class="association-label">Lunar Phase</div>
+            New Moon
+          </div>
+          <div class="association-item">
+            <div class="association-label">Element</div>
+            Water
+          </div>
+        </div>
+        
+        <button class="embody-button" onclick="embodyArchetype('ignisia')">
+          ✨ Embody Ignisia
+        </button>
+      </div>
+    </div>
+
+    <!-- PYROPE CARD -->
+    <div class="archetype-card">
+      <div class="card-header">
+        <img src="Pyrope.jpg" alt="Pyrope - The Blaze of Creation" class="archetype-image">
+        <div class="archetype-name">Pyrope</div>
+        <div class="archetype-title">The Blaze of Creation</div>
+      </div>
+      
+      <div class="card-content">
+        <div class="archetype-traits">
+          <strong>Essence:</strong> Passionate • Courageous • Visionary<br>
+          <strong>Element:</strong> Fire • <strong>Celestial:</strong> Sun<br>
+          <strong>Resonance:</strong> Creation, manifestation, empowerment
+        </div>
+        
+        <div class="archetype-description">
+          I am the blaze that forges your deepest passions, the spark that sets your imagination ablaze. With me, creation knows no bounds, and the courage to bring your vision to life burns within you, guiding you to manifest your dreams and ignite your soul's purpose.
+        </div>
+        
+        <div class="mystical-associations">
+          <div class="association-item">
+            <div class="association-label">Sacred Stone</div>
+            Pyrite
+          </div>
+          <div class="association-item">
+            <div class="association-label">Angel Number</div>
+            111
+          </div>
+          <div class="association-item">
+            <div class="association-label">Solar Phase</div>
+            High Noon
+          </div>
+          <div class="association-item">
+            <div class="association-label">Element</div>
+            Fire
+          </div>
+        </div>
+        
+        <button class="embody-button" onclick="embodyArchetype('pyrope')">
+          🔥 Embody Pyrope
+        </button>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="ember-divider"></div>
+
+  <!-- RETURN TO DREAMTOOLKIT -->
+  <div style="text-align: center; margin: 3rem auto;">
+    <a href="dreamtoolkit_2_0.html" style="display: inline-block; padding: 1.2rem 3rem; border-radius: 50px; font-weight: 600; font-size: clamp(1.1rem, 2.8vw, 1.3rem); color: #0a0a0a; background: linear-gradient(135deg, #e0c1f7 0%, #ff1493 50%, #00bfff 100%); text-decoration: none; box-shadow: 0 8px 25px rgba(224, 193, 247, 0.4); transition: all 0.4s ease; font-family: 'Gentium Plus', serif;">
+      ← Return to DreamToolkit
+    </a>
+  </div>
+
+</div>
+
+<!-- BACKGROUND AUDIO -->
+<div class="background-audio">
+  🎵 Ember Gate Frequency
+  <audio autoplay loop>
+    <source src="Ember-Gate.wav" type="audio/wav">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+<script>
+function embodyArchetype(archetype) {
+    // Create immersive embodiment experience
+    const card = event.target.closest('.archetype-card');
+    
+    // Add selection glow effect
+    card.style.transform = 'scale(1.05)';
+    card.style.boxShadow = '0 20px 60px rgba(255, 69, 0, 0.6)';
+    
+    // Show embodiment message
+    const message = archetype === 'ignisia' 
+        ? "✨ You have chosen to embody Ignisia - The Spark of Becoming. Feel the gentle flames of transformation awakening within you..."
+        : "🔥 You have chosen to embody Pyrope - The Blaze of Creation. Feel the passionate fire of manifestation igniting your soul's purpose...";
+    
+    // Create floating message
+    const messageDiv = document.createElement('div');
+    messageDiv.innerHTML = message;
+    messageDiv.style.cssText = `
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: linear-gradient(135deg, rgba(255, 69, 0, 0.95) 0%, rgba(26, 11, 46, 0.95) 100%);
+        color: #fff;
+        padding: 2rem;
+        border-radius: 20px;
+        font-size: 1.2rem;
+        font-style: italic;
+        text-align: center;
+        max-width: 500px;
+        z-index: 10000;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgba(255, 215, 0, 0.5);
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+        animation: fadeInScale 0.5s ease-out;
+    `;
+    
+    document.body.appendChild(messageDiv);
+    
+    // Remove message after 4 seconds
+    setTimeout(() => {
+        messageDiv.style.animation = 'fadeOutScale 0.5s ease-in';
+        setTimeout(() => messageDiv.remove(), 500);
+        card.style.transform = '';
+        card.style.boxShadow = '';
+    }, 4000);
+}
+
+// Add CSS animations for the message
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes fadeInScale {
+        from { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+        to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    }
+    @keyframes fadeOutScale {
+        from { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+        to { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+    }
+`;
+document.head.appendChild(style);
+</script>
+
+</body>
+</html>

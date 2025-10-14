@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <title>Soundbox | Sparklebox</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Playfair+Display:wght@400;600&family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --pastel-1: #FFF5F5;
+      --pastel-2: #F0F7FF;
+      --pastel-3: #F5FFF7;
+      --pastel-4: #FFF9F0;
+      --pastel-5: #F8F0FF;
+      --pastel-6: #F0FFF5;
+      --pastel-7: #F5F0FF;
+      --pastel-8: #FFF0F5;
+    }
+    
+    html, body {
+      margin: 0;
+      padding: 0;
+      overflow-x: scroll;
+      overflow-y: hidden;
+      height: 100vh;
+      scroll-snap-type: x mandatory;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #f8f9fa;
+      scroll-behavior: smooth;
+      -webkit-overflow-scrolling: touch; /* Important for iOS swipe */
+    }
+    
+    .container {
+      display: flex;
+      height: 100vh;
+      width: fit-content;
+      touch-action: pan-y pinch-zoom; /* Enable touch scrolling */
+    }
+    
+    .section {
+      flex: 0 0 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 20px;
+      box-sizing: border-box;
+      scroll-snap-align: start;
+      position: relative;
+      transition: all 0.5s ease;
+    }
+    
+    .section::before {
+      content: '';
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      right: 20px;
+      bottom: 20px;
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      z-index: -1;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      margin: 0 0 30px 0;
+      text-align: center;
+      font-weight: 600;
+      color: rgba(0, 0, 0, 0.8);
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeIn 0.8s ease forwards 0.3s;
+    }
+    
+    .section-description {
+      font-size: 1.1rem;
+      color: rgba(0, 0, 0, 0.7);
+      max-width: 600px;
+      text-align: center;
+      margin-bottom: 40px;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeIn 0.8s ease forwards 0.5s;
+    }
+    
+    .embed-container {
+      width: 90%;
+      max-width: 800px;
+      aspect-ratio: 16 / 9;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+      transform: scale(0.95);
+      transition: transform 0.5s ease, box-shadow 0.5s ease;
+      opacity: 0;
+      animation: fadeIn 0.8s ease forwards 0.7s;
+    }
+    
+    .embed-container:hover {
+      transform: scale(1);
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.2);
+    }
+    
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+    
+    /* Section Themes */
+    #morning-mist {
+      background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+    }
+    
+    #forest-whisper {
+      background: linear-gradient(135deg, #c1dfc4 0%, #deecdd 100%);
+    }
+    
+    #ocean-dream {
+      background: linear-gradient(135deg, #a0e7e5 0%, #b4f8c8 100%);
+    }
+    
+    #cosmic-drift {
+      background: linear-gradient(135deg, #d9b4ff 0%, #a5b4fc 100%);
+    }
+    
+    #sunset-glow {
+      background: linear-gradient(135deg, #ffb4b4 0%, #ffd8b4 100%);
+    }
+    
+    #moonlight-serenade {
+      background: linear-gradient(135deg, #b4c1ff 0%, #d9b4ff 100%);
+    }
+    
+    #rainy-day {
+      background: linear-gradient(135deg, #b4d9ff 0%, #e0e0e0 100%);
+    }
+    
+    #starry-night {
+      background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+    }
+    
+    #starry-night h1,
+    #starry-night .section-description {
+      color: rgba(255, 255, 255, 0.9);
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    }
+    
+    /* Navigation Dots - Improved */
+    .nav-dots {
+      position: fixed;
+      right: 30px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      z-index: 100;
+    }
+    
+    .dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.6);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: 2px solid rgba(255, 255, 255, 0.8);
+    }
+    
+    .dot.active {
+      background: white;
+      transform: scale(1.4);
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    }
+    
+    /* Scroll Indicators */
+    .scroll-indicator {
+      position: fixed;
+      right: 30px;
+      bottom: 30px;
+      display: flex;
+      align-items: center;
+      z-index: 100;
+      opacity: 1;
+      transition: opacity 0.5s ease;
+    }
+    
+    .scroll-indicator.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+    
+    .scroll-hint {
+      position: fixed;
+      left: 50%;
+      bottom: 40px;
+      transform: translateX(-50%);
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-size: 1rem;
+      color: #333;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      animation: pulse 2s infinite;
+    }
+    
+    .arrow-icon {
+      font-size: 1.5rem;
+      animation: bounceRight 1.5s infinite;
+    }
+    
+    /* Home Link */
+    .home-link {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 200;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-size: 1rem;
+      color: #333;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.3s ease;
+    }
+    
+    .home-link:hover {
+      background: white;
+      transform: scale(1.05);
+    }
+    
+    .home-icon {
+      font-size: 1.2rem;
+    }
+
+    /* Soundbox Floating Header */
+    .soundbox-header {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 200;
+      background: rgba(255, 255, 255, 0.5);
+      backdrop-filter: blur(8px);
+      padding: 8px 16px;
+      border-radius: 25px;
+      font-family: 'Playfair Display', serif;
+      color: #6B4CAF;
+      text-align: center;
+      font-size: 1rem;
+      font-weight: 600;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+      opacity: 0;
+      transform: translateY(-10px);
+      animation: fadeInHeader 1s ease forwards 0.5s;
+    }
+
+    .soundbox-header small {
+      display: block;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 400;
+      color: #6B4CAF;
+      margin-top: 2px;
+    }
+
+    @keyframes fadeInHeader {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Updated storefront styles */
+    #soundbox-storefront {
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+      padding: 0;
+      position: relative;
+      min-height: 100vh;
+    }
+
+    #soundbox-storefront::before {
+      content: '';
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      right: 20px;
+      bottom: -100px; /* Extended bottom space */
+      border-radius: 24px;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      z-index: -1;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    }
+
+    .storefront-content {
+      min-height: 100%;
+      padding: 40px 20px 80px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 2rem;
+    }
+
+    .shorts-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2.5rem;
+      width: 100%;
+      padding: 0 1rem 6rem; /* More bottom padding */
+    }
+
+    .short-wrapper {
+      width: 100%;
+      max-width: 340px; /* Adjusted for better Shorts display */
+      aspect-ratio: 9/16;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+      transition: transform 0.3s ease;
+    }
+
+    .short-wrapper:hover {
+      transform: scale(1.02);
+    }
+
+    @media (max-width: 768px) {
+      .storefront-content {
+        padding: 30px 15px 60px;
+      }
+
+      .shorts-container {
+        padding: 0 1rem 4rem;
+      }
+
+      .short-wrapper {
+        max-width: 280px;
+      }
+
+      #soundbox-storefront::before {
+        bottom: -60px;
+      }
+    }
+
+    /* Floating Season Hint */
+    .floating-season-hint {
+      position: fixed;
+      bottom: 20%;
+      right: 20px;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-size: 1rem;
+      color: #4b0082;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      z-index: 200;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .floating-season-hint:hover {
+      background: white;
+      transform: scale(1.05);
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    @keyframes pulse {
+      0% { transform: translateX(-50%) scale(1); }
+      50% { transform: translateX(-50%) scale(1.05); }
+      100% { transform: translateX(-50%) scale(1); }
+    }
+    
+    @keyframes bounceRight {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(10px); }
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .nav-dots {
+        right: 15px;
+        gap: 10px;
+      }
+      
+      .dot {
+        width: 10px;
+        height: 10px;
+      }
+      
+      .section {
+        padding: 20px 15px;
+      }
+      
+      .section-description {
+        font-size: 1rem;
+        padding: 0 15px;
+      }
+      
+      .scroll-hint {
+        font-size: 0.9rem;
+        bottom: 20px;
+        padding: 8px 15px;
+      }
+      
+      .arrow-icon {
+        font-size: 1.2rem;
+      }
+      
+      .home-link {
+        top: 15px;
+        left: 15px;
+        padding: 8px 15px;
+        font-size: 0.9rem;
+      }
+    }
+  </style>
+</head>
+<body>
+ <!-- Home Link -->
+<a href="https://sparklebox.blog/" class="home-link" style="display: inline-flex; align-items: center; gap: 8px; font-family: 'Montserrat', sans-serif; font-weight: 500; font-size: 1rem; color: #6B4CAF; text-decoration: none; padding: 8px 12px; border: 1px solid #E0D8F6; border-radius: 25px; background: rgba(255,255,255,0.5); backdrop-filter: blur(6px); transition: background 0.3s, transform 0.2s;">
+  <span class="home-icon">✨</span>
+  <span>Home</span>
+</a>
+
+<!-- Soundbox Floating Header -->
+<div class="soundbox-header">
+  Soundbox
+  <small>by Sparklebox Blog</small>
+</div>
+
+  <div class="container">
+    <!-- Updated Storefront Section -->
+    <div id="soundbox-storefront" class="section" style="background: linear-gradient(135deg, #f5e6f7 0%, #fff5f9 100%);">
+      <div class="storefront-content">
+        <h2 style="
+          text-align: center; 
+          font-family: 'Cinzel', serif; 
+          font-size: 2rem; 
+          color: #4b0082; 
+          margin: 20px 0 0;
+          letter-spacing: 0.15em;
+          opacity: 0.9;
+        ">
+          ⟡ SOUNDBOX ⟡
+        </h2>
+        
+        <!-- Intro Text with Trilogy Message -->
+        <div style="
+          max-width: 700px;
+          margin: -0.5rem auto 0;
+          padding: 1.2rem 1.5rem;
+          background: linear-gradient(135deg, rgba(255,255,255,0.15), rgba(255,255,255,0.35));
+          border-radius: 16px;
+          border: 1px solid rgba(255,255,255,0.5);
+          backdrop-filter: blur(4px);
+          box-shadow: 0 8px 32px rgba(107, 76, 175, 0.06);
+        ">
+          <p style="
+            text-align: center;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #4b0082;
+            margin: 0;
+            letter-spacing: 0.02em;
+            opacity: 0.85;
+          ">
+            Step into a realm where art and sound merge, weaving ethereal frequencies into moments of pure resonance.
+          </p>
+          
+          <!-- Trilogy as intro -->
+          <p style="
+            text-align: center;
+            font-style: italic;
+            color: #6a3cab;
+            font-size: 0.95rem;
+            margin: 0.8rem 0;
+            border-top: 1px solid rgba(107, 76, 175, 0.15);
+            padding-top: 0.8rem;
+            letter-spacing: 0.01em;
+            opacity: 0.9;
+          ">
+            Enter through a trilogy of art and sound — rebirth, transcendence, and ascent into cosmic frequencies.
+          </p>
+
+          <a onclick="document.getElementById('morning-mist').scrollIntoView({behavior: 'smooth'})" style="
+            display: block;
+            text-align: center;
+            margin-top: 1rem;
+            color: #6B4CAF;
+            font-size: 0.95rem;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: 500;
+          ">
+            ✧ Discover Season 1: 8 Immersive Soundscapes →
+          </a>
+        </div>
+
+        <!-- Trilogy Preview -->
+        <div class="shorts-container" style="margin-top: 1rem;">
+          <h3 style="text-align: center; font-family: 'Cinzel', serif; color: #3d0066; font-size: 1.6em; margin-top: 60px;">
+            I. Rebirth ✧
+          </h3>
+          <div class="short-wrapper">
+            <iframe 
+              src="https://www.youtube.com/embed/UDQs0aeYF3A"
+              allowfullscreen 
+              loading="lazy"
+              style="width: 100%; height: 100%; border: none;"
+            ></iframe>
+          </div>
+
+          <h3 style="text-align: center; font-family: 'Cinzel', serif; color: #3d0066; font-size: 1.6em; margin-top: 60px;">
+            II. Transcendence ⟡
+          </h3>
+          <div class="short-wrapper">
+            <iframe 
+              src="https://www.youtube.com/embed/60d29vOCngI"
+              allowfullscreen 
+              loading="lazy"
+              style="width: 100%; height: 100%; border: none;"
+            ></iframe>
+          </div>
+
+          <h3 style="text-align: center; font-family: 'Cinzel', serif; color: #3d0066; font-size: 1.6em; margin-top: 60px;">
+            III. Ascend ༄
+          </h3>
+          <div class="short-wrapper">
+            <iframe 
+              src="https://www.youtube.com/embed/pe0BGLa5hgE"
+              allowfullscreen 
+              loading="lazy"
+              style="width: 100%; height: 100%; border: none;"
+            ></iframe>
+          </div>
+
+          <p style="text-align: center; font-style: italic; color: #6a3cab; margin-top: 40px;">
+            🜁 Tune in, swipe through, and align with the sonic mirror of becoming.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Update Morning Mist section title styling to match -->
+    <div id="morning-mist" class="section">
+      <h1 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">Morning Mist</h1>
+      <p class="section-tagline">Healing Frequencies & Visual Journeys</p>
+      <p class="section-description">Gentle sounds to awaken your senses and welcome the new day</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/Ii4QJq4wn0A" allowfullscreen loading="lazy"></iframe>
+      </div>
+      <p style="margin: 20px auto 10px auto; font-size: 0.95rem; text-align: center; max-width: 90%;">
+        ✨ <a href="https://www.youtube.com/watch?v=Ii4QJq4wn0A&list=PLVGGv8wi6VBstL7lAiuIfl7exA8foAa_j" target="_blank" style="color: #6B4CAF; text-decoration: underline;">Watch on YouTube & explore more Soundbox soundscapes</a> ✨
+      </p>
+    </div>
+    
+ <!-- Amazon Rainforest Immersion -->
+<div id="amazon-rainforest" class="section">
+  <h1>Amazon Rainforest Immersion</h1>
+  <p class="section-description">The lush, vibrant sounds of the Amazon to transport and renew you</p>
+  <div class="embed-container">
+    <iframe src="https://www.youtube.com/embed/6FvZg7WTDsk" allowfullscreen></iframe>
+  </div>
+</div>
+    
+    <!-- Ocean Dream -->
+    <div id="ocean-dream" class="section">
+      <h1>Ocean Dream</h1>
+      <p class="section-description">Waves that carry you to a state of deep relaxation</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Cosmic Drift -->
+    <div id="cosmic-drift" class="section">
+      <h1>Cosmic Drift</h1>
+      <p class="section-description">Ambient space sounds for meditation and creative flow</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Sunset Glow -->
+    <div id="sunset-glow" class="section">
+      <h1>Sunset Glow</h1>
+      <p class="section-description">Warm tones to transition from day to night</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Moonlight Serenade -->
+    <div id="moonlight-serenade" class="section">
+      <h1>Moonlight Serenade</h1>
+      <p class="section-description">Soothing nocturnal sounds for peaceful evenings</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Rainy Day -->
+    <div id="rainy-day" class="section">
+      <h1>Rainy Day</h1>
+      <p class="section-description">The comforting rhythm of rain for focus and relaxation</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Starry Night -->
+    <div id="starry-night" class="section">
+      <h1>Starry Night</h1>
+      <p class="section-description">Deep space ambient for sleep and deep meditation</p>
+      <div class="embed-container">
+        <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Navigation Dots -->
+  <div class="nav-dots">
+    <div class="dot active" data-section="soundbox-storefront"></div>
+    <div class="dot" data-section="morning-mist"></div>
+    <div class="dot" data-section="amazon-rainforest"></div>
+    <div class="dot" data-section="ocean-dream"></div>
+    <div class="dot" data-section="cosmic-drift"></div>
+    <div class="dot" data-section="sunset-glow"></div>
+    <div class="dot" data-section="moonlight-serenade"></div>
+    <div class="dot" data-section="rainy-day"></div>
+    <div class="dot" data-section="starry-night"></div>
+  </div>
+  
+  <!-- Scroll Indicator -->
+  <div class="scroll-indicator hidden">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M9 18L15 12L9 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+  
+  <!-- Scroll Hint -->
+  <div class="scroll-hint">
+    <span>Swipe right to explore</span>
+    <span class="arrow-icon">→</span>
+  </div>
+  
+  <script>
+    // Navigation dots functionality - Fixed
+    const dots = document.querySelectorAll('.dot');
+    const sections = document.querySelectorAll('.section');
+    const scrollIndicator = document.querySelector('.scroll-indicator');
+    const scrollHint = document.querySelector('.scroll-hint');
+    
+    // Initialize first load
+    let firstInteraction = false;
+    
+    // Click on dots to scroll to sections
+    dots.forEach(dot => {
+      dot.addEventListener('click', () => {
+        firstInteraction = true;
+        const sectionId = dot.getAttribute('data-section');
+        const section = document.getElementById(sectionId);
+        section.scrollIntoView({ behavior: 'smooth' });
+        
+        // Hide hint after first interaction
+        scrollHint.style.display = 'none';
+      });
+    });
+    
+    // Update active dot and scroll indicator on scroll
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.id;
+          
+          // Update active dot
+          dots.forEach(dot => {
+            dot.classList.toggle('active', dot.getAttribute('data-section') === id);
+          });
+          
+          // Show/hide scroll indicator
+          if (id === 'starry-night') {
+            scrollIndicator.classList.add('hidden');
+          } else {
+            scrollIndicator.classList.remove('hidden');
+          }
+        }
+      });
+      
+      // Hide hint after first scroll
+      if (!firstInteraction) {
+        firstInteraction = true;
+        setTimeout(() => {
+          scrollHint.style.opacity = '0';
+          setTimeout(() => {
+            scrollHint.style.display = 'none';
+          }, 500);
+        }, 2000);
+      }
+    }, { threshold: 0.7 });
+    
+    sections.forEach(section => {
+      observer.observe(section);
+    });
+    
+    // Add smooth hover effect to sections
+    sections.forEach(section => {
+      section.addEventListener('mousemove', (e) => {
+        const x = e.clientX / window.innerWidth;
+        const y = e.clientY / window.innerHeight;
+        section.style.transform = `perspective(1000px) rotateX(${(y - 0.5) * 2}deg) rotateY(${(x - 0.5) * -2}deg)`;
+      });
+      
+      section.addEventListener('mouseleave', () => {
+        section.style.transform = 'perspective(1000px) rotateX(0) rotateY(0)';
+      });
+    });
+    
+    // Hide hint after 5 seconds if no interaction
+    setTimeout(() => {
+      if (!firstInteraction) {
+        scrollHint.style.opacity = '0';
+        setTimeout(() => {
+          scrollHint.style.display = 'none';
+        }, 500);
+      }
+    }, 5000);
+
+    // Touch event handling for better mobile swipe
+    let touchStartX = 0;
+    let touchEndX = 0;
+    
+    document.addEventListener('touchstart', (e) => {
+      touchStartX = e.changedTouches[0].screenX;
+    }, {passive: true});
+    
+    document.addEventListener('touchend', (e) => {
+      touchEndX = e.changedTouches[0].screenX;
+      handleSwipe();
+    }, {passive: true});
+    
+    function handleSwipe() {
+      // Minimum swipe distance (in pixels) to trigger navigation
+      const minSwipeDistance = 50;
+      
+      if (touchStartX - touchEndX > minSwipeDistance) {
+        // Swipe left - scroll right
+        window.scrollBy({left: window.innerWidth, behavior: 'smooth'});
+      } else if (touchEndX - touchStartX > minSwipeDistance) {
+        // Swipe right - scroll left
+        window.scrollBy({left: -window.innerWidth, behavior: 'smooth'});
+      }
+    }
+  </script>
+</body>
+</html>

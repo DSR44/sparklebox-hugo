@@ -1,0 +1,15 @@
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    <span style="font-family: 'Cormorant', serif; color: #4b2e83; font-size: 1rem;">
+        &copy; {{ now.Year }} 
+        <a href="{{ "" | absLangURL }}" style="color: #3f2469; font-weight: 600; text-decoration: none;">
+            Sparklebox 𖤐 Elle Vida
+        </a>
+    </span>
+    <span style="margin: 0 1rem; color: rgba(75, 46, 131, 0.3);">·</span>
+    <span style="font-family: 'DM Sans', sans-serif; font-size: 0.9rem; color: #5a4a75;">
+        ✨ Where mysticism meets consciousness
+    </span>
+</footer>
+{{- end }}
+

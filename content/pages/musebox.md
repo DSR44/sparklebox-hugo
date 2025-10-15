@@ -3,10 +3,6 @@ title: "The MuseBox - Daily Visual Prompts"
 date: 2025-10-15T11:03:06.052383
 slug: "musebox-dreams"
 draft: false
-type: "page"
-layout: "musebox"
-theme: "Dream"
-style: "Quantum Romanticism"
 ---
 
 # ✨ The MuseBox

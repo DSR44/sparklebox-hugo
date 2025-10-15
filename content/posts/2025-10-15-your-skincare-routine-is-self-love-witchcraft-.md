@@ -1,6 +1,6 @@
 ---
 title: "Your Skincare Routine is Self-Love Witchcraft ✨"
-date: 2025-10-15T09:00:00+00:00
+date: 2025-10-15T07:00:00+00:00
 categories:
   - "Transmutational Alchemy"
 tags:

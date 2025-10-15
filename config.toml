@@ -28,17 +28,17 @@ theme = "PaperMod"
     weight = 1
   
   [[menu.main]]
-    name = "🌌 Dream Toolkit Portals"
+    name = "𖤐 Dream Portals"
     url = "/the-dreamtoolkit/"
     weight = 2
   
   [[menu.main]]
-    name = "🎨 Musebox - Visual Prompts"
+    name = "◈ Musebox"
     url = "/musebox-dreams/"
     weight = 3
   
   [[menu.main]]
-    name = "🎵 Soundbox"
+    name = "♫ Soundbox"
     url = "/soundbox/"
     weight = 4
   

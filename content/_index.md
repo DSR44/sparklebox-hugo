@@ -111,24 +111,20 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
 ## 🫧 Today's Awakening
 **October 15, 2025**
 
-### Whispered Petals of the Heart
+### Whispers of Joy
 
-*In the depths of the cosmic womb, a gentle hum of compassion resonates, awakening the lotus of the heart to unfurl its tender petals. As the universe whispers secrets of universal love, the essence of kindness dissolves the boundaries of separation, allowing the warmth of empathy to nourish the soul. In this sacred space, the alchemy of compassion transforms the lead of suffering into the gold of deep understanding.*
+*Let these words flow through you like ancient wisdom awakening.*
 
 **Daily Affirmations:**
 
-- As I breathe in the essence of the stars, I embody the celestial harmony that weaves together the tapestry of existence.
-- My heart is a rose in bloom, its petals unfolding to receive the gentle showers of universal love.
-- In the crucible of compassion, I transmute the darkness into luminescent threads of connection, weaving a fabric of gentle kindness.
-- The silken threads of empathy entwine my soul, allowing me to sense the vibrations of the collective heartbeat.
-- Like a moonlit garden, my spirit is illuminated by the soft glow of self-compassion, nurturing the tender shoots of my inner world.
-- The geometry of my heart expands, forming a sacred mandala that reflects the intricate patterns of the universe.
-- With each exhalation, I release the fragrance of forgiveness, perfuming the atmosphere with the sweetness of gentle understanding.
-- In the mirrored halls of the soul, I behold the reflections of all beings, and my heart overflows with the nectar of deep compassion.
-- As the cosmos whispers its secrets in my ear, I listen with the innocence of a child, allowing the wisdom of the universe to guide me on the path of the heart.
-- The river of compassion flows through me, carrying the memories of all souls, and I am humbled by the depths of our shared humanity.
-- Like a tree rooted in the earth, I stand tall, my branches stretching towards the sky, embracing the infinite possibilities of love and kindness.
-- In the grand symphony of existence, I am a instrument of compassion, playing the melody of gentle kindness that harmonizes the discordant notes of suffering.
+- The great way is not right, do not pick and choose.
+- The great way is not master of himself.
+- When the soul lies down in that grass, the world has no limits except in your pain, know that one day your pain will become your cure.
+- First say to yourself what you truly love.
+- The wound is the path.
+- If it is not master of himself.
+- I am the living embodiment of joy
+- Through me, joy finds its perfect expression
 
 </div>
 

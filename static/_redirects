@@ -1,0 +1,19 @@
+# Netlify/Vercel Redirects for 404 Fixes
+
+# Fix typo in URL
+/conf /contact/ 301
+
+# Old WordPress date structure redirects (examples from Google data)
+/2025/02/06/transform-your-life-in-just-15-days/ /posts/2025/02/transform-your-life-in-just-15-days/ 301
+/2025/03/15/ai-driven-fairytales-and-folklore-fashion-the-future-of-enchanting-style/* /posts/2025/03/ai-driven-fairytales-and-folklore-fashion-the-future-of-enchanting-style/ 301
+/2025/03/04/whimsical-fashion-trends-2025/* /posts/2025/03/whimsical-fashion-trends-2025/ 301
+/2025/03/07/budget-friendly-suril-soirees-dream-decor-ideas/* /posts/2025/03/budget-friendly-suril-soirees-dream-decor-ideas/ 301
+/2025/03/09/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/* /posts/2025/03/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/ 301
+/2025/03/05/10-wild-beauty-tools-to-elevate-your-self-care-in-2025/* /posts/2025/03/10-wild-beauty-tools-to-elevate-your-self-care-in-2025/ 301
+
+# Redirect old post structure to new structure (catch-all)
+/:year/:month/:day/:slug/* /posts/:year/:month/:slug/ 301
+
+# Jasper image URLs - redirect to parent post (they're looking for images that don't exist)
+/*/jasper_*/ /:splat/ 301
+

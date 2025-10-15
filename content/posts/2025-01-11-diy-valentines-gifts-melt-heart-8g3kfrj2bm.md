@@ -1,7 +1,7 @@
 ---
 title: "10 Adorable DIY Valentines Gifts for Her That Will Melt Her Heart!"
 date: 2025-01-11T07:00:07+0000
-author: "manoulasfit"
+
 slug: "diy-valentines-gifts-melt-heart-8g3kfrj2bm"
 categories:
   - "DIY"

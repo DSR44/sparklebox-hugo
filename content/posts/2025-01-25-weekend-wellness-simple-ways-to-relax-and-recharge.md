@@ -1,7 +1,7 @@
 ---
 title: "Weekend Wellness: Simple Ways to Relax and Recharge"
 date: 2025-01-25T18:50:02+0000
-author: "manoulasfit"
+
 slug: "weekend-wellness-simple-ways-to-relax-and-recharge"
 categories:
   - "Wellness"

@@ -1,7 +1,7 @@
 ---
 title: "SnapSpells: 3 Instant Mood Shifters for Energy & Clarity"
 date: 2025-06-20T15:30:00+0000
-author: "manoulasfit"
+
 slug: "snapspells-3-instant-mood-shifters-for-energy-clarity"
 categories:
   - "SnapSpells"

@@ -1,7 +1,7 @@
 ---
 title: "20 DIY Personalized Gifts That Will Melt Your Friends' Hearts (You Won't Believe #8!)"
 date: 2024-12-27T08:06:00+0000
-author: "manoulasfit"
+
 slug: "diy-personalized-gifts-4rj9h2gq1k"
 categories:
   - "Uncategorized"

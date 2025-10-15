@@ -1,7 +1,7 @@
 ---
 title: "Before the Words: Why Feeling Comes First"
 date: 2025-04-20T09:01:51+0000
-author: "manoulasfit"
+
 slug: "before-the-words-why-feeling-comes-first"
 categories:
   - "Dreamweaver’s Tales"

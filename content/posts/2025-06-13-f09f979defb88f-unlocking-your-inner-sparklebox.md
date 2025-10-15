@@ -1,7 +1,7 @@
 ---
 title: "🗝️ Unlocking Your Inner Sparklebox"
 date: 2025-06-13T17:21:27+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%97%9d%ef%b8%8f-unlocking-your-inner-sparklebox"
 categories:
   - "TheDreamToolkit"

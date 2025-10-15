@@ -1,7 +1,7 @@
 ---
 title: "The Fairy Look: A Whimsical Fashion Trend"
 date: 2025-01-19T18:44:09+0000
-author: "manoulasfit"
+
 slug: "the-fairy-look-a-whimsical-fashion-trend"
 categories:
   - "Uncategorized"

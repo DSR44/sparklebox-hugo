@@ -1,7 +1,7 @@
 ---
 title: "🌊✨ Dreamscape Daily Affirmations"
 date: 2025-03-28T16:35:00+0000
-author: "manoulasfit"
+
 slug: "dreamscape-daily-affirmations"
 categories:
   - "7 Days Of Becoming"

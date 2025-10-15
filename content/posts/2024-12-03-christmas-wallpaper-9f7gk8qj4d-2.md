@@ -1,7 +1,7 @@
 ---
 title: "16 Nostalgic Christmas Wallpaper Styles That Will Take You Back in Time!"
 date: 2024-12-03T19:59:04+0000
-author: "manoulasfit"
+
 slug: "christmas-wallpaper-9f7gk8qj4d-2"
 categories:
   - "Uncategorized"

@@ -1,7 +1,7 @@
 ---
 title: "10 Cozy Winter Table Setup Ideas That'll Make Your Guests Feel Right at Home!"
 date: 2024-12-03T18:43:21+0000
-author: "manoulasfit"
+
 slug: "winter-table-setup-8jzqk2l3fg"
 categories:
   - "Uncategorized"

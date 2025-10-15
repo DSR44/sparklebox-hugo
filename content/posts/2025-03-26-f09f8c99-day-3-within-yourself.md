@@ -1,7 +1,7 @@
 ---
 title: "🌙 Day 3 — Within Yourself"
 date: 2025-03-26T16:45:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99-day-3-within-yourself"
 categories:
   - "7 Days Of Becoming"

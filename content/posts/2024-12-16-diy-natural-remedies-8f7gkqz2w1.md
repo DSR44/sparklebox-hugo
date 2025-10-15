@@ -1,7 +1,7 @@
 ---
 title: "13 DIY Natural Remedies for Anti-Aging That Are Easier Than You Think!"
 date: 2024-12-16T07:50:16+0000
-author: "manoulasfit"
+
 slug: "diy-natural-remedies-8f7gkqz2w1"
 categories:
   - "Uncategorized"

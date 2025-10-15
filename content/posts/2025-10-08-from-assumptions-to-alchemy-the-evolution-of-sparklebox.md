@@ -1,7 +1,7 @@
 ---
 title: "From Assumptions to Alchemy: The Evolution of Sparklebox"
 date: 2025-10-08T17:12:27+0000
-author: "manoulasfit"
+
 slug: "from-assumptions-to-alchemy-the-evolution-of-sparklebox"
 categories:
   - "The Sparklebox Method™"

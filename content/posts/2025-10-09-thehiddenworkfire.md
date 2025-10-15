@@ -1,7 +1,7 @@
 ---
 title: "Calcination — The Fire of Release | The Hidden Work · Inner Laboratory by Elle Vida"
 date: 2025-10-09T07:15:13+0000
-author: "manoulasfit"
+
 slug: "thehiddenworkfire"
 categories:
   - "The Hidden Work · Inner Laboratory by Elle Vida"

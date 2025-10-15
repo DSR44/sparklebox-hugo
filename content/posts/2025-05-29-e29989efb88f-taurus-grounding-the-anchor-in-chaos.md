@@ -1,7 +1,7 @@
 ---
 title: "♉️ Taurus — Grounding: The Anchor in Chaos | day 2 oracle growth series"
 date: 2025-05-29T08:15:34+0000
-author: "manoulasfit"
+
 slug: "%e2%99%89%ef%b8%8f-taurus-grounding-the-anchor-in-chaos"
 categories:
   - "Dreamweaver’s Tales"

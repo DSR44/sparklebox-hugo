@@ -1,7 +1,7 @@
 ---
 title: "21 Divine Self-Care Rituals to Channel Your Inner Goddess (You Won't Believe #11!)"
 date: 2025-02-05T07:06:24+0000
-author: "manoulasfit"
+
 slug: "self-care-rituals-5kqz9t8xqj"
 categories:
   - "Wellness"

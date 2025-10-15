@@ -1,7 +1,7 @@
 ---
 title: "Future Nostalgia: Merging 2000s Trends with AI &amp; Futurism"
 date: 2025-02-21T08:21:29+0000
-author: "manoulasfit"
+
 slug: "future-nostalgia-merging-2000s-trends-with-ai-futurism"
 categories:
   - "AI/Tech"

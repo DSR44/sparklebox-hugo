@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Suril Soirées: Dream Decor Ideas"
 date: 2025-03-07T20:26:05+0000
-author: "manoulasfit"
+
 slug: "budget-friendly-suril-soirees-dream-decor-ideas"
 categories:
   - "2025 Discoveries/Trends"

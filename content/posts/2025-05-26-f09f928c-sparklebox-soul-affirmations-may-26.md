@@ -1,7 +1,7 @@
 ---
 title: "💌 Sparklebox Soul Affirmations – May 26"
 date: 2025-05-26T08:37:18+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%92%8c-sparklebox-soul-affirmations-may-26"
 categories:
   - "Daily Affirmations"

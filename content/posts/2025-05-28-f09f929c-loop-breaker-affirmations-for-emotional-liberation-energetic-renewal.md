@@ -1,7 +1,7 @@
 ---
 title: "💜 Loop Breaker: Affirmations for Emotional Liberation &amp; Energetic Renewal"
 date: 2025-05-28T16:39:02+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%92%9c-loop-breaker-affirmations-for-emotional-liberation-energetic-renewal"
 categories:
   - "Daily Affirmations"

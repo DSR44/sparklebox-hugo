@@ -1,7 +1,7 @@
 ---
 title: "🕯️ Avatar Oasis – Part 6: Caia Delmare’s Botanical Stillness Reality"
 date: 2025-07-30T09:45:07+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%95%af%ef%b8%8f-avatar-oasis-part-6-caia-delmares-botanical-stillness-reality"
 categories:
   - "Avatar Oasis"

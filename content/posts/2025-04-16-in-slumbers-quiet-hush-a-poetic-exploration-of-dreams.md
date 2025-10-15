@@ -1,7 +1,7 @@
 ---
 title: "In Slumber's Quiet Hush: A Poetic Exploration of Dreams"
 date: 2025-04-16T11:06:45+0000
-author: "manoulasfit"
+
 slug: "in-slumbers-quiet-hush-a-poetic-exploration-of-dreams"
 categories:
   - "Dreamweaver’s Tales"

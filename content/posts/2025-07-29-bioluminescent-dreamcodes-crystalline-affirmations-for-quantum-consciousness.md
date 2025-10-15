@@ -1,7 +1,7 @@
 ---
 title: "Bioluminescent Dreamcodes: Crystalline Affirmations for Quantum Consciousness"
 date: 2025-07-29T11:47:03+0000
-author: "manoulasfit"
+
 slug: "bioluminescent-dreamcodes-crystalline-affirmations-for-quantum-consciousness"
 categories:
   - "Dreamweaver’s Tales"

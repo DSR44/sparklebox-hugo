@@ -1,7 +1,7 @@
 ---
 title: "Modern Surrealism: How To Add Whimsy To Your Interior Design"
 date: 2025-01-21T09:34:22+0000
-author: "manoulasfit"
+
 slug: "modern-surrealism-how-to-add-whimsy-to-your-interior-design"
 categories:
   - "Home decor"

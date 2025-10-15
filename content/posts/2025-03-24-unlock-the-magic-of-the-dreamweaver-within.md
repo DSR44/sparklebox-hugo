@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Magic of the Dreamweaver Within"
 date: 2025-03-24T01:33:36+0000
-author: "manoulasfit"
+
 slug: "unlock-the-magic-of-the-dreamweaver-within"
 categories:
   - "Daily Affirmations"

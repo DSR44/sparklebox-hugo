@@ -1,7 +1,7 @@
 ---
 title: "22 Castlecore Decor Ideas That'll Transform Your Home into a Fairytale Castle!"
 date: 2024-12-20T07:12:29+0000
-author: "manoulasfit"
+
 slug: "castlecore-decor-4f8gtr2bqw-2"
 categories:
   - "Uncategorized"

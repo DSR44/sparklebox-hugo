@@ -1,7 +1,7 @@
 ---
 title: "Avoid These 10 Pitfalls When Starting Your Gym Journey"
 date: 2025-01-15T07:05:09+0000
-author: "manoulasfit"
+
 slug: "avoid-these-pitfalls-gym-3k9zjhdqwe"
 categories:
   - "Health"

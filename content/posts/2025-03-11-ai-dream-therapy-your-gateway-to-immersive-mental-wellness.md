@@ -1,7 +1,7 @@
 ---
 title: "AI Dream Therapy: Your Gateway to Immersive Mental Wellness"
 date: 2025-03-11T18:41:59+0000
-author: "manoulasfit"
+
 slug: "ai-dream-therapy-your-gateway-to-immersive-mental-wellness"
 categories:
   - "2025 Discoveries/Trends"

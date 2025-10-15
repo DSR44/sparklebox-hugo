@@ -1,7 +1,7 @@
 ---
 title: "Moon Bathing: The New Nighttime Wellness Trend for Relaxation"
 date: 2025-01-30T08:55:01+0000
-author: "manoulasfit"
+
 slug: "moon-bathing-the-new-nighttime-wellness-trend-for-relaxation"
 categories:
   - "Uncategorized"

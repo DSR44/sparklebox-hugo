@@ -1,7 +1,7 @@
 ---
 title: "The Secret Garden of Memories"
 date: 2025-04-24T05:54:50+0000
-author: "manoulasfit"
+
 slug: "the-secret-garden-of-memories"
 categories:
   - "Dreamweaver’s Tales"

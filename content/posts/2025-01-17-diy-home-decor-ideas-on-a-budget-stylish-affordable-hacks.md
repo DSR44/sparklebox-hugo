@@ -1,7 +1,7 @@
 ---
 title: "DIY Home Decor Ideas on a Budget – Stylish &amp; Affordable Hacks!"
 date: 2025-01-17T07:24:27+0000
-author: "manoulasfit"
+
 slug: "diy-home-decor-ideas-on-a-budget-stylish-affordable-hacks"
 categories:
   - "Uncategorized"

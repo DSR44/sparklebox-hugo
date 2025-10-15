@@ -1,7 +1,7 @@
 ---
 title: "Bioluminescent Dreamcodes: A Two-Part Ritual to Rewire Reality Through Light"
 date: 2025-08-22T06:39:03+0000
-author: "manoulasfit"
+
 slug: "bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light"
 categories:
   - "Dream Coded Affirmations"

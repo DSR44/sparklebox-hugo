@@ -1,7 +1,7 @@
 ---
 title: "Step Into Your Brilliance"
 date: 2025-03-17T14:30:55+0000
-author: "manoulasfit"
+
 slug: "step-into-your-brilliance"
 categories:
   - "Daily Affirmations"

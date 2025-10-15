@@ -1,7 +1,7 @@
 ---
 title: "15 Irresistible Turkish Dishes You Can Whip Up in Your Kitchen Today!"
 date: 2025-01-08T08:39:14+0000
-author: "manoulasfit"
+
 slug: "turkish-dishes-8f4jzq1k2w"
 categories:
   - "Food"

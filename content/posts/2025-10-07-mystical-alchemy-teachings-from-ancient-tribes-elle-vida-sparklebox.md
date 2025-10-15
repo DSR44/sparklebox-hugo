@@ -1,7 +1,7 @@
 ---
 title: "Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox"
 date: 2025-10-07T07:56:00+0000
-author: "manoulasfit"
+
 slug: "mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox"
 categories:
   - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"

@@ -1,7 +1,7 @@
 ---
 title: "13 Dramatic NYE Hairstyles That Will Leave Everyone Speechless (You’ll Be Obsessed with #6!)"
 date: 2024-12-08T07:26:45+0000
-author: "manoulasfit"
+
 slug: "nye-hairstyles-2k4j6m7f9g"
 categories:
   - "Uncategorized"

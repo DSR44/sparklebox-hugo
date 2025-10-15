@@ -1,7 +1,7 @@
 ---
 title: "Cheap Protein Bars – Easy DIY Recipes to Save Money"
 date: 2025-02-12T06:51:15+0000
-author: "manoulasfit"
+
 slug: "cheap-protein-bars-easy-diy-recipes-to-save-money"
 categories:
   - "DIY"

@@ -1,7 +1,7 @@
 ---
 title: "13 Gothic Outfit Ideas That Blend Edgy with Western Charm (Get Inspired by #5!)"
 date: 2024-12-04T07:18:16+0000
-author: "manoulasfit"
+
 slug: "gothic-outfit-ideas-4kz9qjv2h6"
 categories:
   - "Uncategorized"

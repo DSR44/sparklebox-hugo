@@ -1,7 +1,7 @@
 ---
 title: "15 Inspiring Vision Board Ideas for 2025 to Achieve Your Wildest Goals!"
 date: 2025-01-07T08:34:14+0000
-author: "manoulasfit"
+
 slug: "vision-board-ideas-8fj2kq4wz1"
 categories:
   - "DIY"

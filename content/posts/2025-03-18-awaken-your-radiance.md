@@ -1,7 +1,7 @@
 ---
 title: "Awaken Your Radiance"
 date: 2025-03-18T12:14:25+0000
-author: "manoulasfit"
+
 slug: "awaken-your-radiance"
 categories:
   - "Daily Affirmations"

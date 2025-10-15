@@ -1,7 +1,7 @@
 ---
 title: "Unlock high paying ai jobs without coding skills !"
 date: 2025-01-16T08:54:06+0000
-author: "manoulasfit"
+
 slug: "top-ai-jobs-no-coding"
 categories:
   - "AI/Tech"

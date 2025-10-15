@@ -1,7 +1,7 @@
 ---
 title: "Unlock Beyoncé's ‘Cowboy Carter’ Fashion Secrets from the 2025 Grammys – You Won't Believe #5!"
 date: 2025-02-03T16:30:00+0000
-author: "manoulasfit"
+
 slug: "unlock-beyonce-cowboy-carter-fashion-secrets-8gfrqkzjwd"
 categories:
   - "Beauty"

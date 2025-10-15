@@ -1,7 +1,7 @@
 ---
 title: "22 Festive Christmas Nail Decorations That'll Take Your Nails to the Next Level!"
 date: 2024-12-03T15:12:11+0000
-author: "manoulasfit"
+
 slug: "festive-christmas-nail-decorations-4g7jklzq3r"
 categories:
   - "Uncategorized"

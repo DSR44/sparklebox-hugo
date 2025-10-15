@@ -1,7 +1,7 @@
 ---
 title: "10 Bucket List Destinations You Can't Miss (Your Wanderlust Will Thank You!)"
 date: 2024-12-06T07:09:45+0000
-author: "manoulasfit"
+
 slug: "bucket-list-destinations-5h7k2g9j4b"
 categories:
   - "Uncategorized"

@@ -1,7 +1,7 @@
 ---
 title: "6 Popular Chinese Online Shopping Websites Revealed"
 date: 2025-02-13T06:57:14+0000
-author: "manoulasfit"
+
 slug: "6-popular-chinese-online-shopping-websites-revealed"
 categories:
   - "Fashion"

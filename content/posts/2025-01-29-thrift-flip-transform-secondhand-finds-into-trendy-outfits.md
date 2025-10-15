@@ -1,7 +1,7 @@
 ---
 title: "Thrift Flip: Transform Secondhand Finds into Trendy Outfits"
 date: 2025-01-29T09:10:41+0000
-author: "manoulasfit"
+
 slug: "thrift-flip-transform-secondhand-finds-into-trendy-outfits"
 categories:
   - "DIY"

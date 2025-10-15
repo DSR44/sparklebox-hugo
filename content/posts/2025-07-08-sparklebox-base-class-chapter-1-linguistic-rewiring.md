@@ -1,7 +1,7 @@
 ---
 title: "Sparklebox Base Class, Chapter 1: Linguistic Rewiring"
 date: 2025-07-08T16:54:41+0000
-author: "manoulasfit"
+
 slug: "sparklebox-base-class-chapter-1-linguistic-rewiring"
 categories:
   - "Sparklebox Base Class"

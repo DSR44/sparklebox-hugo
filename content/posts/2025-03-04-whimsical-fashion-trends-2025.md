@@ -1,7 +1,7 @@
 ---
 title: "Whimsical Fashion Trends 2025"
 date: 2025-03-04T20:31:18+0000
-author: "manoulasfit"
+
 slug: "whimsical-fashion-trends-2025"
 categories:
   - "2025 Discoveries/Trends"

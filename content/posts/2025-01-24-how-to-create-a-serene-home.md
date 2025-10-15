@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Serene Home"
 date: 2025-01-24T06:59:43+0000
-author: "manoulasfit"
+
 slug: "how-to-create-a-serene-home"
 categories:
   - "Home decor"

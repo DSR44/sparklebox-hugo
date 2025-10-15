@@ -1,7 +1,7 @@
 ---
 title: "Valentine’s Day Nail Trends 2025:"
 date: 2025-01-31T16:41:00+0000
-author: "manoulasfit"
+
 slug: "valentines-day-nail-trends-2025"
 categories:
   - "Beauty"

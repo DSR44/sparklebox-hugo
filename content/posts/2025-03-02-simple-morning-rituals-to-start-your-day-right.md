@@ -1,7 +1,7 @@
 ---
 title: "Simple Morning Rituals to Start Your Day Right"
 date: 2025-03-02T19:33:40+0000
-author: "manoulasfit"
+
 slug: "simple-morning-rituals-to-start-your-day-right"
 categories:
   - "Wellness"

@@ -1,7 +1,7 @@
 ---
 title: "Cybersage: Guardian of the Neon Wilds"
 date: 2025-04-29T08:13:16+0000
-author: "manoulasfit"
+
 slug: "cybersage-guardian-of-the-neon-wilds"
 categories:
   - "Dreamweaver’s Tales"

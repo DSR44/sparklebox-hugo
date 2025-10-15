@@ -1,7 +1,7 @@
 ---
 title: "15 Winter Goth Makeup Ideas That'll Make You the Envy of Every Dark Aesthetic Lover!"
 date: 2024-12-04T12:03:11+0000
-author: "manoulasfit"
+
 slug: "winter-goth-makeup-7dbqqwjah9"
 categories:
   - "Uncategorized"

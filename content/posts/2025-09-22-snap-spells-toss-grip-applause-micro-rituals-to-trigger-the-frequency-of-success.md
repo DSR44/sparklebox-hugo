@@ -1,7 +1,7 @@
 ---
 title: "Snap Spells: Toss, Grip, Applause – Micro-Rituals to Trigger the Frequency of Success"
 date: 2025-09-22T09:39:39+0000
-author: "manoulasfit"
+
 slug: "snap-spells-toss-grip-applause-micro-rituals-to-trigger-the-frequency-of-success"
 categories:
   - "SnapSpells"

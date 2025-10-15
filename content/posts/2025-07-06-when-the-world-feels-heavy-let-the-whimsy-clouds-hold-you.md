@@ -1,7 +1,7 @@
 ---
 title: "When the World Feels Heavy, Let the Whimsy Clouds Hold You"
 date: 2025-07-06T08:52:00+0000
-author: "manoulasfit"
+
 slug: "when-the-world-feels-heavy-let-the-whimsy-clouds-hold-you"
 categories:
   - "Daily Affirmations"

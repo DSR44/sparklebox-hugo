@@ -1,7 +1,7 @@
 ---
 title: "Futuristic Architecture:"
 date: 2025-01-23T18:19:54+0000
-author: "manoulasfit"
+
 slug: "futuristic-architecture"
 categories:
   - "Architecture"

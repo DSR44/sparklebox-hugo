@@ -1,7 +1,7 @@
 ---
 title: "Ozempic vs. Natural Weight Loss: Pros &amp; Cons Explained"
 date: 2025-02-28T07:35:10+0000
-author: "manoulasfit"
+
 slug: "ozempic-vs-natural-weight-loss-pros-cons-explained"
 categories:
   - "Health"

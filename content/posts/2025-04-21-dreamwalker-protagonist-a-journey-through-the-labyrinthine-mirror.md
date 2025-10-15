@@ -1,7 +1,7 @@
 ---
 title: "Dreamwalker Protagonist: A Journey Through the Labyrinthine Mirror"
 date: 2025-04-21T07:40:00+0000
-author: "manoulasfit"
+
 slug: "dreamwalker-protagonist-a-journey-through-the-labyrinthine-mirror"
 categories:
   - "Dreamweaver’s Tales"

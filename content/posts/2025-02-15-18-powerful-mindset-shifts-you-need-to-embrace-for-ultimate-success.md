@@ -1,7 +1,7 @@
 ---
 title: "18 Powerful Mindset Shifts You Need to Embrace for Ultimate Success!"
 date: 2025-02-15T12:10:45+0000
-author: "manoulasfit"
+
 slug: "18-powerful-mindset-shifts-you-need-to-embrace-for-ultimate-success"
 categories:
   - "Mindset"

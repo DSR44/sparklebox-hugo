@@ -1,7 +1,7 @@
 ---
 title: "♍️ Virgo – Sacred Order and Detail-Born Magic"
 date: 2025-06-03T08:30:54+0000
-author: "manoulasfit"
+
 slug: "virgo-sacred-order-magic"
 categories:
   - "Dreamweaver’s Tales"

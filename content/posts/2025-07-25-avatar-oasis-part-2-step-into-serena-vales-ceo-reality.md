@@ -1,7 +1,7 @@
 ---
 title: "Avatar Oasis – Part 2: Step Into Serena Vale’s CEO Reality"
 date: 2025-07-25T10:24:00+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-2-step-into-serena-vales-ceo-reality"
 categories:
   - "Avatar Oasis"

@@ -1,7 +1,7 @@
 ---
 title: "10 DIY Energy Balls for a Powerful Nutrient Boost"
 date: 2025-02-10T22:54:01+0000
-author: "manoulasfit"
+
 slug: "10-diy-energy-balls-for-a-powerful-nutrient-boost"
 categories:
   - "DIY"

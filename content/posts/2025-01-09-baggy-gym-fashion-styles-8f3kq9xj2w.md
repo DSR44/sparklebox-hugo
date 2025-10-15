@@ -1,7 +1,7 @@
 ---
 title: "22 Baggy Gym Fashion Styles That Are Taking Over the Streets (You Won't Want to Miss #4!)"
 date: 2025-01-09T12:20:01+0000
-author: "manoulasfit"
+
 slug: "baggy-gym-fashion-styles-8f3kq9xj2w"
 categories:
   - "Fashion"

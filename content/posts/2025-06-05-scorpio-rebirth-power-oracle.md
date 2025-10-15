@@ -1,7 +1,7 @@
 ---
 title: "♏️ Scorpio – Death, Rebirth, and Power Reclaimed"
 date: 2025-06-05T08:55:21+0000
-author: "manoulasfit"
+
 slug: "scorpio-rebirth-power-oracle"
 categories:
   - "🔮 The Oracle’s Grove"

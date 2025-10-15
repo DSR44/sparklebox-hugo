@@ -1,7 +1,7 @@
 ---
 title: "Collaboration Magic"
 date: 2024-12-03T11:33:59+0000
-author: "manoulasfit"
+
 slug: "collaboration-magic"
 categories:
   - "Uncategorized"

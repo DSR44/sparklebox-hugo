@@ -1,7 +1,7 @@
 ---
 title: "Avatar Oasis — Part 7: Solène, The Sunbound Frequency"
 date: 2025-09-01T14:39:20+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-7-solene-the-sunbound-frequency"
 categories:
   - "Avatar Oasis"

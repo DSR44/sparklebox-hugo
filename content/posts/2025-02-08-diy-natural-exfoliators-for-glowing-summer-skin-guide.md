@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate DIY Natural Exfoliators Guide for Glowing Summer Skin"
 date: 2025-02-08T16:10:00+0000
-author: "manoulasfit"
+
 slug: "diy-natural-exfoliators-for-glowing-summer-skin-guide"
 categories:
   - "Beauty"

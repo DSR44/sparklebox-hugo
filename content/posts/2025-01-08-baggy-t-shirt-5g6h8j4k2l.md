@@ -1,7 +1,7 @@
 ---
 title: "10 Effortlessly Chic Baggy T-Shirt Looks That’ll Elevate Your Street Style Game!"
 date: 2025-01-08T09:03:27+0000
-author: "manoulasfit"
+
 slug: "baggy-t-shirt-5g6h8j4k2l"
 categories:
   - "Fashion"

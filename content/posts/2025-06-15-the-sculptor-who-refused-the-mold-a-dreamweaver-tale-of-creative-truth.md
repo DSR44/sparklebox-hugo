@@ -1,7 +1,7 @@
 ---
 title: "The Sculptor Who Refused the Mold: A Dreamweaver Tale of Creative Truth"
 date: 2025-06-15T08:30:00+0000
-author: "manoulasfit"
+
 slug: "the-sculptor-who-refused-the-mold-a-dreamweaver-tale-of-creative-truth"
 categories:
   - "Dreamweaver’s Tales"

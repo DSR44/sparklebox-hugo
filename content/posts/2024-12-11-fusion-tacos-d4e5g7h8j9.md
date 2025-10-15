@@ -1,7 +1,7 @@
 ---
 title: "15 Fusion Tacos That Will Make You Rethink Taco Night Forever!"
 date: 2024-12-11T15:53:41+0000
-author: "manoulasfit"
+
 slug: "fusion-tacos-d4e5g7h8j9"
 categories:
   - "Uncategorized"

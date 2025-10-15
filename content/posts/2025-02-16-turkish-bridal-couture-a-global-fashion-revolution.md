@@ -1,7 +1,7 @@
 ---
 title: "Turkish Bridal Couture: A Global Fashion Revolution"
 date: 2025-02-16T07:46:08+0000
-author: "manoulasfit"
+
 slug: "turkish-bridal-couture-a-global-fashion-revolution"
 categories:
   - "Uncategorized"

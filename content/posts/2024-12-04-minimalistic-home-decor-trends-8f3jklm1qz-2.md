@@ -1,7 +1,7 @@
 ---
 title: "25 Minimalistic Home Decor Trends Featuring Beige and Gold You Can’t Ignore (Check Out #12!)"
 date: 2024-12-04T11:42:52+0000
-author: "manoulasfit"
+
 slug: "minimalistic-home-decor-trends-8f3jklm1qz-2"
 categories:
   - "Uncategorized"

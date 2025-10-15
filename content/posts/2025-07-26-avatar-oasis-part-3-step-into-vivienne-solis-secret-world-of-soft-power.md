@@ -1,7 +1,7 @@
 ---
 title: "Avatar Oasis — Part 3: Step Into Vivienne Solis’ Secret World of Soft Power"
 date: 2025-07-26T07:36:01+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-3-step-into-vivienne-solis-secret-world-of-soft-power"
 categories:
   - "Avatar Oasis"

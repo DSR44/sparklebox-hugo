@@ -1,7 +1,7 @@
 ---
 title: "Avatar Oasis – Part 1: Step Into Celeste’s Dream Life"
 date: 2025-07-24T08:23:25+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-1-step-into-celestes-dream-life"
 categories:
   - "Avatar Oasis"

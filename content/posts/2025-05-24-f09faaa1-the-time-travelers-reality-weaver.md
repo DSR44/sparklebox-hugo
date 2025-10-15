@@ -1,7 +1,7 @@
 ---
 title: "🪡 The Time Traveler’s Reality Weaver"
 date: 2025-05-24T15:23:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%a1-the-time-travelers-reality-weaver"
 categories:
   - "Dreamweaver’s Tales"

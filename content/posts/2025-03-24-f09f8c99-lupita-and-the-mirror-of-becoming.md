@@ -1,7 +1,7 @@
 ---
 title: "🌙 Lupita and the Mirror of Becoming"
 date: 2025-03-24T18:25:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99-lupita-and-the-mirror-of-becoming"
 categories:
   - "7 Days Of Becoming"

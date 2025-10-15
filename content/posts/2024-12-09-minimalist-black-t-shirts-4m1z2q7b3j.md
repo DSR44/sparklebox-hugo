@@ -1,7 +1,7 @@
 ---
 title: "12 Minimalist Black T Shirts with Trendy Prints for a Sleek and Chic Look!"
 date: 2024-12-09T08:02:11+0000
-author: "manoulasfit"
+
 slug: "minimalist-black-t-shirts-4m1z2q7b3j"
 categories:
   - "Uncategorized"

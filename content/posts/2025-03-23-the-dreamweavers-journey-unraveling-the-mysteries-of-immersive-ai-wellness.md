@@ -1,7 +1,7 @@
 ---
 title: "The Dreamweaver's Journey: Unraveling the Mysteries of Immersive AI Wellness"
 date: 2025-03-23T11:26:40+0000
-author: "manoulasfit"
+
 slug: "the-dreamweavers-journey-unraveling-the-mysteries-of-immersive-ai-wellness"
 categories:
   - "2025 Discoveries/Trends"

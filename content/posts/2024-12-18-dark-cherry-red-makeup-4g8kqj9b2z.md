@@ -1,7 +1,7 @@
 ---
 title: "10 Dark Cherry Red Makeup Looks That Will Make You the Star of Every Party!"
 date: 2024-12-18T07:38:27+0000
-author: "manoulasfit"
+
 slug: "dark-cherry-red-makeup-4g8kqj9b2z"
 categories:
   - "Uncategorized"

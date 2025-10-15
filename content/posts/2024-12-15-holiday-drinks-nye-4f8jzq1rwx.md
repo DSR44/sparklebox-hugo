@@ -1,7 +1,7 @@
 ---
 title: "14 Fancy Holiday Drinks for NYE That Will Wow Your Guests!"
 date: 2024-12-15T07:41:31+0000
-author: "manoulasfit"
+
 slug: "holiday-drinks-nye-4f8jzq1rwx"
 categories:
   - "Uncategorized"

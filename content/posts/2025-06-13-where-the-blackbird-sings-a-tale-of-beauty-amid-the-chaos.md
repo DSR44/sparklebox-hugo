@@ -1,7 +1,7 @@
 ---
 title: "Where the Blackbird Sings: A Tale of Beauty Amid the Chaos"
 date: 2025-06-13T15:47:00+0000
-author: "manoulasfit"
+
 slug: "where-the-blackbird-sings-a-tale-of-beauty-amid-the-chaos"
 categories:
   - "🪞 THE MIRROR HALL"

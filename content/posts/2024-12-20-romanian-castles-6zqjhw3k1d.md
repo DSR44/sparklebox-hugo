@@ -1,7 +1,7 @@
 ---
 title: "15 Enchanting Romanian Castles That Will Make You Feel Like Royalty (Don't Miss #10!)"
 date: 2024-12-20T07:48:59+0000
-author: "manoulasfit"
+
 slug: "romanian-castles-6zqjhw3k1d"
 categories:
   - "Uncategorized"

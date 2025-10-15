@@ -1,7 +1,7 @@
 ---
 title: "🌿 Soulful Self-Care"
 date: 2025-05-27T18:19:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%bf-soulful-self-care"
 categories:
   - "Daily Affirmations"

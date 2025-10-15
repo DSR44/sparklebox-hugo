@@ -1,7 +1,7 @@
 ---
 title: "AVATAR OASIS — PART 4: Lucien Virell’s Solitary Rhythm"
 date: 2025-07-27T10:06:37+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-4-lucien-virells-solitary-rhythm"
 categories:
   - "Avatar Oasis"

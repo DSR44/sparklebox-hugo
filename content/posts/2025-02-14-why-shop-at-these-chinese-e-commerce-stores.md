@@ -1,7 +1,7 @@
 ---
 title: "Why Shop at These Chinese E-commerce Stores?"
 date: 2025-02-14T06:55:08+0000
-author: "manoulasfit"
+
 slug: "why-shop-at-these-chinese-e-commerce-stores"
 categories:
   - "Fashion"

@@ -1,7 +1,7 @@
 ---
 title: "18 Sustainable Knits That Will Make You Look Good and Feel Even Better!"
 date: 2024-12-03T20:37:55+0000
-author: "manoulasfit"
+
 slug: "sustainable-knits-h3jf7kqz59"
 categories:
   - "Uncategorized"

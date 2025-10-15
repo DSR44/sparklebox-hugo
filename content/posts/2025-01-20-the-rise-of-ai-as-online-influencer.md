@@ -1,7 +1,7 @@
 ---
 title: "The Rise of AI as Online Influencer"
 date: 2025-01-20T08:41:04+0000
-author: "manoulasfit"
+
 slug: "the-rise-of-ai-as-online-influencer"
 categories:
   - "Uncategorized"

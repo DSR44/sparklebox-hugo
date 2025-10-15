@@ -1,7 +1,7 @@
 ---
 title: "Beginner’s Guide to the 75 Soft Challenge"
 date: 2025-03-01T09:20:45+0000
-author: "manoulasfit"
+
 slug: "beginners-guide-to-the-75-soft-challenge"
 categories:
   - "Wellness"

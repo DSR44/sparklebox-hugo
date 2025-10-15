@@ -1,7 +1,7 @@
 ---
 title: "🪞✨Mirrored Minds 🪞✨: The Boomerang    Wisdom of Life"
 date: 2025-04-08T05:14:28+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%9e%e2%9c%a8mirrored-minds-%f0%9f%aa%9e%e2%9c%a8-the-boomerang-wisdom-of-life"
 categories:
   - "Dreamweaver’s Tales"

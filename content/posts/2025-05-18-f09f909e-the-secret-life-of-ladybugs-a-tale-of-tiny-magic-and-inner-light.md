@@ -1,7 +1,7 @@
 ---
 title: "🐞 The Secret Life of Ladybugs: A Tale of Tiny Magic and Inner Light"
 date: 2025-05-18T08:49:07+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%90%9e-the-secret-life-of-ladybugs-a-tale-of-tiny-magic-and-inner-light"
 categories:
   - "Dreamweaver’s Tales"

@@ -1,7 +1,7 @@
 ---
 title: "40 Small DIY Projects to Refresh Your Home"
 date: 2025-02-17T09:26:19+0000
-author: "manoulasfit"
+
 slug: "40-small-diy-projects-to-refresh-your-home"
 categories:
   - "DIY"

@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Fairytales and Folklore Fashion - The Future of Enchanting Style"
 date: 2025-03-15T08:47:39+0000
-author: "manoulasfit"
+
 slug: "ai-driven-fairytales-and-folklore-fashion-the-future-of-enchanting-style"
 categories:
   - "2025 Discoveries/Trends"

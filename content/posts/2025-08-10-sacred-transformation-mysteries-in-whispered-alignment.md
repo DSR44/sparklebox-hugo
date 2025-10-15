@@ -1,7 +1,7 @@
 ---
 title: "Sacred Transformation — Mysteries in Whispered Alignment"
 date: 2025-08-10T11:05:48+0000
-author: "manoulasfit"
+
 slug: "sacred-transformation-mysteries-in-whispered-alignment"
 categories:
   - "Dream Coded Affirmations"

@@ -1,7 +1,7 @@
 ---
 title: "Surreal soirées are 2025’s trendiest events"
 date: 2025-02-23T09:00:00+0000
-author: "manoulasfit"
+
 slug: "surreal-soirees-are-2025s-trendiest-events"
 categories:
   - "2025 Discoveries/Trends"

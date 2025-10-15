@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Passive Income Ideas to Start in 2025"
 date: 2025-01-17T14:59:12+0000
-author: "manoulasfit"
+
 slug: "top-10-passive-income-ideas-to-start-in-2025"
 categories:
   - "Uncategorized"

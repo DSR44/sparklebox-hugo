@@ -1,7 +1,7 @@
 ---
 title: "15 Incredible Baking Soda Hacks That Will Change Your Cleaning Game Forever!"
 date: 2024-12-24T07:40:43+0000
-author: "manoulasfit"
+
 slug: "baking-soda-hacks-5gkzqjv8wr"
 categories:
   - "Uncategorized"

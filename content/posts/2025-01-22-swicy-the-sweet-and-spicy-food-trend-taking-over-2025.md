@@ -1,7 +1,7 @@
 ---
 title: "Swicy: The Sweet and Spicy Food Trend Taking Over 2025"
 date: 2025-01-22T09:21:52+0000
-author: "manoulasfit"
+
 slug: "swicy-the-sweet-and-spicy-food-trend-taking-over-2025"
 categories:
   - "Food"

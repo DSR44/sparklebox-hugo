@@ -1,7 +1,7 @@
 ---
 title: "🪞 The Echo Beneath the Badge"
 date: 2025-06-19T10:17:07+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%9e-the-echo-beneath-the-badge"
 categories:
   - "🪞 THE MIRROR HALL"

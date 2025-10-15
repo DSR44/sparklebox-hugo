@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Obstacle"
 date: 2024-12-03T11:34:01+0000
-author: "manoulasfit"
+
 slug: "beyond-the-obstacle"
 categories:
   - "Uncategorized"

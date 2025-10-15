@@ -1,7 +1,7 @@
 ---
 title: "🪞✨Mirrored Minds 🪞✨: Embracing Universal Abundance: Unlocking the Power of Unwavering Trust"
 date: 2025-04-09T08:16:00+0000
-author: "manoulasfit"
+
 slug: "embracing-universal-abundance-unlocking-the-power-of-unwavering-trust"
 categories:
   - "Daily Affirmations"

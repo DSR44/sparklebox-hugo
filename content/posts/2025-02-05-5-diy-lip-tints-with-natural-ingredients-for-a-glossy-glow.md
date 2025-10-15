@@ -1,7 +1,7 @@
 ---
 title: "5 DIY Lip Tints With Natural Ingredients"
 date: 2025-02-05T18:43:55+0000
-author: "manoulasfit"
+
 slug: "5-diy-lip-tints-with-natural-ingredients-for-a-glossy-glow"
 categories:
   - "DIY"

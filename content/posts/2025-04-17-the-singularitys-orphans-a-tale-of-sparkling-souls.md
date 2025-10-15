@@ -1,7 +1,7 @@
 ---
 title: "The Singularity's Orphans: A Tale of Sparkling Souls"
 date: 2025-04-17T07:15:00+0000
-author: "manoulasfit"
+
 slug: "the-singularitys-orphans-a-tale-of-sparkling-souls"
 categories:
   - "Dreamweaver’s Tales"

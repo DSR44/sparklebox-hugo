@@ -1,7 +1,7 @@
 ---
 title: "10 Stunning Shades of Red Hair Color That Will Turn Heads (You Won't Believe #6!)"
 date: 2025-01-06T07:39:21+0000
-author: "manoulasfit"
+
 slug: "red-hair-color-4xpj9s8vtr"
 categories:
   - "Uncategorized"

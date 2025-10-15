@@ -1,7 +1,7 @@
 ---
 title: "Embracing 'Soup Mode':"
 date: 2025-01-23T10:45:03+0000
-author: "manoulasfit"
+
 slug: "embracing-soup-mode"
 categories:
   - "Fashion"

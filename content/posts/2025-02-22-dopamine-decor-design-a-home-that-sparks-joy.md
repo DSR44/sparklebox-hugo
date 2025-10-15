@@ -1,7 +1,7 @@
 ---
 title: "Dopamine Decor: Design a Home That Sparks Joy"
 date: 2025-02-22T07:07:43+0000
-author: "manoulasfit"
+
 slug: "dopamine-decor-design-a-home-that-sparks-joy"
 categories:
   - "Home decor"

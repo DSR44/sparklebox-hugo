@@ -1,7 +1,7 @@
 ---
 title: "Dreamwave Interfaces: The Future of AI-Driven Aesthetic UI"
 date: 2025-03-12T11:51:10+0000
-author: "manoulasfit"
+
 slug: "dreamwave-interfaces-the-future-of-ai-driven-aesthetic-ui"
 categories:
   - "2025 Discoveries/Trends"

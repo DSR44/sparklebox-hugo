@@ -1,7 +1,7 @@
 ---
 title: "Sculptural Metal Accessories:"
 date: 2025-01-22T12:12:27+0000
-author: "manoulasfit"
+
 slug: "sculptural-metal-accessories"
 categories:
   - "Fashion"

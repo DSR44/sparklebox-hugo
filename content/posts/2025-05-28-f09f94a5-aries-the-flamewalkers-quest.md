@@ -1,7 +1,7 @@
 ---
 title: "🔥 Aries: The Flamewalker’s Quest"
 date: 2025-05-28T10:34:34+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%94%a5-aries-the-flamewalkers-quest"
 categories:
   - "Dreamweaver’s Tales"

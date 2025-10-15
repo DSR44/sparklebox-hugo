@@ -1,7 +1,7 @@
 ---
 title: "Dream Coded Affirmations for Boosting Confidence and Achieving Success"
 date: 2025-09-25T09:44:31+0000
-author: "manoulasfit"
+
 slug: "dream-coded-affirmations-for-boosting-confidence-and-achieving-success"
 categories:
   - "Dream Coded Affirmations"

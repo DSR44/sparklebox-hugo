@@ -1,7 +1,7 @@
 ---
 title: "Feeling Is the Secret — The Alchemy of Inner Reality · Sparklebox Realm by Elle Vida"
 date: 2025-10-12T21:26:37+0000
-author: "manoulasfit"
+
 slug: "feeling-is-the-secret-the-alchemy-of-inner-reality-%c2%b7-sparklebox-realm-by-elle-vida"
 categories:
   - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"

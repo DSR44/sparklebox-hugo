@@ -1,7 +1,7 @@
 ---
 title: "13 Chic Geometric French Nail Ideas That Are Anything But Ordinary (#7 Will Blow Your Mind!)"
 date: 2024-12-03T15:00:33+0000
-author: "manoulasfit"
+
 slug: "geometric-french-nail-3kmpxw6z1j"
 categories:
   - "Uncategorized"

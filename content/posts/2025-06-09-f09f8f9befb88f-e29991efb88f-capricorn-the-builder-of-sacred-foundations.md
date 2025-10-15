@@ -1,7 +1,7 @@
 ---
 title: "🏛️ ♑️ Capricorn – The Builder of Sacred Foundations"
 date: 2025-06-09T15:30:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8f%9b%ef%b8%8f-%e2%99%91%ef%b8%8f-capricorn-the-builder-of-sacred-foundations"
 categories:
   - "🔮 The Oracle’s Grove"

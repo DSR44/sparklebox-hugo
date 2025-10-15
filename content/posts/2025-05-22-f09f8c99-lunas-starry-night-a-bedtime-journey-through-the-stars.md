@@ -1,7 +1,7 @@
 ---
 title: "🌙 Luna's Starry Night | A Bedtime Journey Through the Stars"
 date: 2025-05-22T16:06:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99-lunas-starry-night-a-bedtime-journey-through-the-stars"
 categories:
   - "Dreamweaver’s Tales"

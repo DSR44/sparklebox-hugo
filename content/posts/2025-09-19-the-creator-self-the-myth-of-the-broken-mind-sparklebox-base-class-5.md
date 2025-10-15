@@ -1,7 +1,7 @@
 ---
 title: "The Creator Self & The Myth of the Broken Mind | Sparklebox Base Class 5"
 date: 2025-09-19T09:05:34+0000
-author: "manoulasfit"
+
 slug: "the-creator-self-the-myth-of-the-broken-mind-sparklebox-base-class-5"
 categories:
   - "Sparklebox Base Class"

@@ -1,7 +1,7 @@
 ---
 title: "10 Cozy Cafecore Aesthetic Ideas That'll Make You Want to Curl Up with a Cup!"
 date: 2024-12-04T08:05:39+0000
-author: "manoulasfit"
+
 slug: "cafecore-aesthetic-3f8jklqzvd"
 categories:
   - "Uncategorized"

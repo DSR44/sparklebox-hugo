@@ -1,7 +1,7 @@
 ---
 title: "🎨 The Painter of Possible Worlds"
 date: 2025-05-12T10:29:42+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8e%a8-the-painter-of-possible-worlds"
 categories:
   - "Dreamweaver’s Tales"

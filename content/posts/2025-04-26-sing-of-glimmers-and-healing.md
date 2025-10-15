@@ -1,7 +1,7 @@
 ---
 title: "Sing of Glimmers and Healing"
 date: 2025-04-26T16:19:00+0000
-author: "manoulasfit"
+
 slug: "sing-of-glimmers-and-healing"
 categories:
   - "Dreamweaver’s Tales"

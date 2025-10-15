@@ -1,7 +1,7 @@
 ---
 title: "The Time-Looping Scientist"
 date: 2025-04-15T19:25:47+0000
-author: "manoulasfit"
+
 slug: "the-time-looping-scientist"
 categories:
   - "Dreamweaver’s Tales"

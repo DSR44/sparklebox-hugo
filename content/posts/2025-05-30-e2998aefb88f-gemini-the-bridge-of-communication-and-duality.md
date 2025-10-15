@@ -1,7 +1,7 @@
 ---
 title: "♊️ Gemini — The Bridge of Communication and Duality | Oracle growth series day 3"
 date: 2025-05-30T08:30:55+0000
-author: "manoulasfit"
+
 slug: "%e2%99%8a%ef%b8%8f-gemini-the-bridge-of-communication-and-duality"
 categories:
   - "🔮 The Oracle’s Grove"

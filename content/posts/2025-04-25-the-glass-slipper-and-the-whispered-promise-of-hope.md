@@ -1,7 +1,7 @@
 ---
 title: "The Glass Slipper and the Whispered Promise of Hope"
 date: 2025-04-25T10:01:02+0000
-author: "manoulasfit"
+
 slug: "the-glass-slipper-and-the-whispered-promise-of-hope"
 categories:
   - "Dreamweaver’s Tales"

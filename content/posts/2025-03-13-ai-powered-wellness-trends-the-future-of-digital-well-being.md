@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Wellness Trends: The Future of Digital Well-being"
 date: 2025-03-13T18:54:30+0000
-author: "manoulasfit"
+
 slug: "ai-powered-wellness-trends-the-future-of-digital-well-being"
 categories:
   - "2025 Discoveries/Trends"

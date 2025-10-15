@@ -1,7 +1,7 @@
 ---
 title: "21 Berlin-Inspired Fashion Looks That'll Make You the Trendsetter of Your City!"
 date: 2025-01-09T08:55:33+0000
-author: "manoulasfit"
+
 slug: "berlin-inspired-fashion-looks-8f4kq2j1z4"
 categories:
   - "Fashion"

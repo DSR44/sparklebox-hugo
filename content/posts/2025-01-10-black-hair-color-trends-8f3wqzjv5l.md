@@ -1,7 +1,7 @@
 ---
 title: "10 Must-See Black Hair Color Trends That'll Leave You Speechless!"
 date: 2025-01-10T07:20:15+0000
-author: "manoulasfit"
+
 slug: "black-hair-color-trends-8f3wqzjv5l"
 categories:
   - "Beauty"

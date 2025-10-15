@@ -1,7 +1,7 @@
 ---
 title: "8 Surprising Facts About Coffee That Will Perk You Up Instantly!"
 date: 2025-01-15T06:57:18+0000
-author: "manoulasfit"
+
 slug: "surprising-facts-about-coffee-3kjt9bq7fx"
 categories:
   - "Food"

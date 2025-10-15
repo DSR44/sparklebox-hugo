@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Surreal Soirée: Transform Spaces with Dreamlike Ambiance"
 date: 2025-03-09T06:37:43+0000
-author: "manoulasfit"
+
 slug: "crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance"
 categories:
   - "2025 Discoveries/Trends"

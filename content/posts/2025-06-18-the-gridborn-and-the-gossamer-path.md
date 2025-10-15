@@ -1,7 +1,7 @@
 ---
 title: "The Gridborn and the Gossamer Path"
 date: 2025-06-18T11:50:36+0000
-author: "manoulasfit"
+
 slug: "the-gridborn-and-the-gossamer-path"
 categories:
   - "Dreamweaver’s Tales"

@@ -1,7 +1,7 @@
 ---
 title: "Avatar Oasis – Part 5: Nova Saint’s Velvet Discipline Reality"
 date: 2025-07-28T08:37:13+0000
-author: "manoulasfit"
+
 slug: "avatar-oasis-part-5-nova-saints-velvet-discipline-reality"
 categories:
   - "Avatar Oasis"

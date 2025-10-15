@@ -1,7 +1,7 @@
 ---
 title: "Boho Knitwear for Spring—The Cozy, Chic Trend Loved by All"
 date: 2025-02-24T07:37:58+0000
-author: "manoulasfit"
+
 slug: "boho-knitwear-for-spring-the-cozy-chic-trend-loved-by-all"
 categories:
   - "Fashion"

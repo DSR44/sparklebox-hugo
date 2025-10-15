@@ -1,7 +1,7 @@
 ---
 title: "10 Natural Ingredients for Youthful Skin"
 date: 2025-02-27T11:12:01+0000
-author: "manoulasfit"
+
 slug: "10-natural-ingredients-for-youthful-skin"
 categories:
   - "Beauty"

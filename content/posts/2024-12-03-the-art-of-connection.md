@@ -1,7 +1,7 @@
 ---
 title: "The Art of Connection"
 date: 2024-12-03T11:34:02+0000
-author: "manoulasfit"
+
 slug: "the-art-of-connection"
 categories:
   - "Uncategorized"

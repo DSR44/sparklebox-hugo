@@ -1,7 +1,7 @@
 ---
 title: "10 Easy and Budget-Friendly Protein Smoothies You Can Make in 5 Minutes!"
 date: 2025-01-14T11:13:37+0000
-author: "manoulasfit"
+
 slug: "protein-smoothies-9xjtbkqzxr"
 categories:
   - "Food"

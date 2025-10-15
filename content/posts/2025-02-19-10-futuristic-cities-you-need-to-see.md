@@ -1,7 +1,7 @@
 ---
 title: "10 Futuristic Cities You Need to See"
 date: 2025-02-19T07:54:44+0000
-author: "manoulasfit"
+
 slug: "10-futuristic-cities-you-need-to-see"
 categories:
   - "Architecture"

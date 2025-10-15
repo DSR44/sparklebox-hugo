@@ -1,7 +1,7 @@
 ---
 title: "Is Chat GPT the Future of Therapy? Discover How AI is Revolutionizing Mental Health!"
 date: 2025-02-04T10:04:34+0000
-author: "manoulasfit"
+
 slug: "chat-gpt-future-3f5g7d2kq1"
 categories:
   - "AI/Tech"

@@ -1,7 +1,7 @@
 ---
 title: "10 Stunning Ways to Transform Your Living Room with Rococo Revival Decor (You'll Be Amazed by #5!)"
 date: 2025-01-12T06:45:55+0000
-author: "manoulasfit"
+
 slug: "transform-living-room-4hgj2kq9z1"
 categories:
   - "Home decor"

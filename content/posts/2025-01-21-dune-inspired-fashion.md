@@ -1,7 +1,7 @@
 ---
 title: "Dune-Inspired Fashion:"
 date: 2025-01-21T16:31:21+0000
-author: "manoulasfit"
+
 slug: "dune-inspired-fashion"
 categories:
   - "Fashion"

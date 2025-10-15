@@ -1,7 +1,7 @@
 ---
 title: "🪞Mirrored Minds ✨ Attracting Abundance Through Divine Alignment"
 date: 2025-04-10T07:43:00+0000
-author: "manoulasfit"
+
 slug: "mirrored-minds-attracting-abundance-through-divine-alignment"
 categories:
   - "Daily Affirmations"

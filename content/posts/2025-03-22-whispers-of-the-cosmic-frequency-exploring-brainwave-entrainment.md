@@ -1,7 +1,7 @@
 ---
 title: "Whispers of the Cosmic Frequency: Exploring Brainwave Entrainment"
 date: 2025-03-22T17:29:58+0000
-author: "manoulasfit"
+
 slug: "whispers-of-the-cosmic-frequency-exploring-brainwave-entrainment"
 categories:
   - "2025 Discoveries/Trends"

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Eclectic Maximalism:"
 date: 2025-02-01T11:35:48+0000
-author: "manoulasfit"
+
 slug: "the-rise-of-eclectic-maximalism"
 categories:
   - "Home decor"

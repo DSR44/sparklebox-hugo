@@ -1,7 +1,7 @@
 ---
 title: "🕰️ The Clockmaker of Vespara: A Tale of Quiet Gratitude"
 date: 2025-05-10T07:25:21+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%95%b0%ef%b8%8f-the-clockmaker-of-vespara-a-tale-of-quiet-gratitude"
 categories:
   - "Dreamweaver’s Tales"

@@ -1,7 +1,7 @@
 ---
 title: "10 Stunning Velvet Jumpsuits for NYE That'll Make You Look Like a Goddess!"
 date: 2024-12-05T09:16:01+0000
-author: "manoulasfit"
+
 slug: "velvet-jumpsuits-nye-4k9h2jv7qx"
 categories:
   - "Uncategorized"

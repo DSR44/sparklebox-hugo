@@ -1,7 +1,7 @@
 ---
 title: "10 New Tech Gadgets You Haven’t Heard of Yet (And You’ll Want Them All!)"
 date: 2025-01-20T10:37:32+0000
-author: "manoulasfit"
+
 slug: "new-tech-gadgets-5h7j2kq9fc"
 categories:
   - "AI/Tech"

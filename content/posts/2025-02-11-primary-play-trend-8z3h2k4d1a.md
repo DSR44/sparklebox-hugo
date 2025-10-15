@@ -1,7 +1,7 @@
 ---
 title: "Primary Play: The Bold Color Trend Transforming Home Interiors"
 date: 2025-02-11T08:55:58+0000
-author: "manoulasfit"
+
 slug: "primary-play-trend-8z3h2k4d1a"
 categories:
   - "Home decor"

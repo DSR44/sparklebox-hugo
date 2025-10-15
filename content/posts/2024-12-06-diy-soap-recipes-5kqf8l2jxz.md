@@ -1,7 +1,7 @@
 ---
 title: "21 Simple DIY Soap Recipes You Can’t Resist (You Won't Believe #9’s Unique Ingredients!)"
 date: 2024-12-06T06:49:56+0000
-author: "manoulasfit"
+
 slug: "diy-soap-recipes-5kqf8l2jxz"
 categories:
   - "Uncategorized"

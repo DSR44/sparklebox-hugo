@@ -1,7 +1,7 @@
 ---
 title: "The Secret to Feeling Like \"That Girl\""
 date: 2025-02-08T07:01:40+0000
-author: "manoulasfit"
+
 slug: "the-secret-to-feeling-like-that-girl"
 categories:
   - "Wellness"

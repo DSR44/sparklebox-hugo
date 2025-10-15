@@ -1,7 +1,7 @@
 ---
 title: "7 Books That Will Help You Find Your Life Purpose (Your Journey Starts Here!)"
 date: 2025-01-13T08:52:57+0000
-author: "manoulasfit"
+
 slug: "books-life-purpose-7dbqqwjah9"
 categories:
   - "Health"

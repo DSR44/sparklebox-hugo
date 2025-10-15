@@ -1,7 +1,7 @@
 ---
 title: "20 Protein-Packed International Dishes You Need to Try Right Now!"
 date: 2025-01-07T08:24:36+0000
-author: "manoulasfit"
+
 slug: "protein-packed-international-dishes-5k2j8h9z1w"
 categories:
   - "Food"

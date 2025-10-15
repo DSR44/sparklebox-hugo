@@ -1,7 +1,7 @@
 ---
 title: "AI Dream Affirmations for Confidence"
 date: 2025-03-16T12:42:35+0000
-author: "manoulasfit"
+
 slug: "ai-dream-affirmations-for-confidence"
 categories:
   - "Daily Affirmations"

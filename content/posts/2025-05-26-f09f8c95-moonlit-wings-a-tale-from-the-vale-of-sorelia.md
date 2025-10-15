@@ -1,7 +1,7 @@
 ---
 title: "🌕 Moonlit Wings: A Tale from the Vale of Sorelia"
 date: 2025-05-26T18:30:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%95-moonlit-wings-a-tale-from-the-vale-of-sorelia"
 categories:
   - "Dreamweaver’s Tales"

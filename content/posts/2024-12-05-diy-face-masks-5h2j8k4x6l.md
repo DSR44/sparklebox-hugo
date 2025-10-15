@@ -1,7 +1,7 @@
 ---
 title: "10 Easy DIY Face Masks for Glowing Skin That You Can Make in Minutes!"
 date: 2024-12-05T07:07:38+0000
-author: "manoulasfit"
+
 slug: "diy-face-masks-5h2j8k4x6l"
 categories:
   - "Uncategorized"

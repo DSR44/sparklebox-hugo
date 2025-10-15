@@ -1,7 +1,7 @@
 ---
 title: "10 Effective Detox Methods to Beat Brain Fog"
 date: 2025-02-18T07:24:24+0000
-author: "manoulasfit"
+
 slug: "10-effective-detox-methods-to-beat-brain-fog"
 categories:
   - "Health"

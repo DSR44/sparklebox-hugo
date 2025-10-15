@@ -1,7 +1,7 @@
 ---
 title: "An Enchanting World: A Poetic Exploration"
 date: 2025-04-15T13:05:19+0000
-author: "manoulasfit"
+
 slug: "an-enchanting-world-a-poetic-exploration"
 categories:
   - "The Library of Dreams 📜"

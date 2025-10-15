@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Fast Metabolism Diet That Works Wonders in 2025 (Spoiler: It's Easier Than You Think!)"
 date: 2025-01-12T07:00:25+0000
-author: "manoulasfit"
+
 slug: "fast-metabolism-diet-4jklxqztnb"
 categories:
   - "Food"

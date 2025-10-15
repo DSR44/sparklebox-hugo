@@ -1,7 +1,7 @@
 ---
 title: "Experiences Over Things | Why Living for Moments Is the Future"
 date: 2025-02-19T16:30:00+0000
-author: "manoulasfit"
+
 slug: "experiences-over-things-why-living-for-moments-is-the-future"
 categories:
   - "Uncategorized"

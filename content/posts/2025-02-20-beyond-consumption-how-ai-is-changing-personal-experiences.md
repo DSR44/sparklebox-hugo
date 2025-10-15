@@ -1,7 +1,7 @@
 ---
 title: "Beyond Consumption: How AI Is Changing Personal Experiences"
 date: 2025-02-20T07:42:02+0000
-author: "manoulasfit"
+
 slug: "beyond-consumption-how-ai-is-changing-personal-experiences"
 categories:
   - "Uncategorized"

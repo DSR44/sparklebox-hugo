@@ -1,7 +1,7 @@
 ---
 title: "Oracle’s Growth | Day 5 of 12"
 date: 2025-06-02T09:31:48+0000
-author: "manoulasfit"
+
 slug: "oracles-growth-day-5-of-12"
 categories:
   - "Dreamweaver’s Tales"

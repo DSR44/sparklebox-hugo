@@ -1,7 +1,7 @@
 ---
 title: "🌈 From Lead to Gold: The Art of Inner Transformation"
 date: 2025-10-06T08:12:20+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%88-from-lead-to-gold-the-art-of-inner-transformation"
 categories:
   - "Dream Coded Affirmations"

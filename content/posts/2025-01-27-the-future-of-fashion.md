@@ -1,7 +1,7 @@
 ---
 title: "The Future of Fashion:"
 date: 2025-01-27T07:14:26+0000
-author: "manoulasfit"
+
 slug: "the-future-of-fashion"
 categories:
   - "Fashion"

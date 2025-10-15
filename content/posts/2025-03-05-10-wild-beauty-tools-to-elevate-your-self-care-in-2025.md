@@ -1,7 +1,7 @@
 ---
 title: "10 Wild Beauty Tools to Elevate Your Self-Care in 2025"
 date: 2025-03-05T20:07:57+0000
-author: "manoulasfit"
+
 slug: "10-wild-beauty-tools-to-elevate-your-self-care-in-2025"
 categories:
   - "2025 Discoveries/Trends"

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Signature Scent: How AI is Personalizing Fragrances Like Never Before!"
 date: 2025-02-06T18:44:34+0000
-author: "manoulasfit"
+
 slug: "unlock-your-signature-scent-7dbqqwjah9"
 categories:
   - "AI/Tech"

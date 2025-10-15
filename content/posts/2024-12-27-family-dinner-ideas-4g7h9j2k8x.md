@@ -1,7 +1,7 @@
 ---
 title: "15 Quick Family Dinner Ideas That'll Make Your Weeknights a Breeze!"
 date: 2024-12-27T07:43:13+0000
-author: "manoulasfit"
+
 slug: "family-dinner-ideas-4g7h9j2k8x"
 categories:
   - "Uncategorized"

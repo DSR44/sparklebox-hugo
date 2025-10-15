@@ -1,7 +1,7 @@
 ---
 title: "🌙✨ A Whimsy of Light: Today’s Sparkle Affirmation"
 date: 2025-07-10T08:53:33+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation"
 categories:
   - "TheDreamToolkit"

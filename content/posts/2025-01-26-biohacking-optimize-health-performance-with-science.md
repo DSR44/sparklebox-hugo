@@ -1,7 +1,7 @@
 ---
 title: "Biohacking: Optimize Health &amp; Performance with Science"
 date: 2025-01-26T10:10:47+0000
-author: "manoulasfit"
+
 slug: "biohacking-optimize-health-performance-with-science"
 categories:
   - "Wellness"

@@ -1,7 +1,7 @@
 ---
 title: "🌙 Day 2: 7 Days of Becoming"
 date: 2025-03-25T16:18:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99-day-2-7-days-of-becoming"
 categories:
   - "7 Days Of Becoming"

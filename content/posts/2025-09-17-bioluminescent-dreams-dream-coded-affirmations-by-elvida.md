@@ -1,7 +1,7 @@
 ---
 title: "Bioluminescent Dreams | Dream-Coded Affirmations by Elvida"
 date: 2025-09-17T08:01:51+0000
-author: "manoulasfit"
+
 slug: "bioluminescent-dreams-dream-coded-affirmations-by-elvida"
 categories:
   - "Dream Coded Affirmations"

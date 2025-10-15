@@ -1,7 +1,7 @@
 ---
 title: "Effortless Dinner Party Tips for Stylish Hosting"
 date: 2025-02-15T15:53:00+0000
-author: "manoulasfit"
+
 slug: "effortless-dinner-party-tips-for-a-memorable-evening-hosting-guide"
 categories:
   - "DIY"

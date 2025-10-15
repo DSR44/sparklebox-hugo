@@ -1,7 +1,7 @@
 ---
 title: "✨🎭 Sparklebox Pocket Theater: A Soft Stage for Sacred Energy"
 date: 2025-06-10T17:30:46+0000
-author: "manoulasfit"
+
 slug: "%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-a-soft-stage-for-sacred-energy"
 categories:
   - "Daily Affirmations"

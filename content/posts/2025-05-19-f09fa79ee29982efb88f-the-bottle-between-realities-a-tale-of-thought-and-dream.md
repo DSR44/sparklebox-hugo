@@ -1,7 +1,7 @@
 ---
 title: "🧞‍♂️ The Bottle Between Realities: A Tale of Thought and Dream"
 date: 2025-05-19T13:03:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%a7%9e%e2%99%82%ef%b8%8f-the-bottle-between-realities-a-tale-of-thought-and-dream"
 categories:
   - "Dreamweaver’s Tales"

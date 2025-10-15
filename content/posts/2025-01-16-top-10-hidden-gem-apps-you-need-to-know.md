@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Hidden Gem Apps You Need to Know"
 date: 2025-01-16T16:52:24+0000
-author: "manoulasfit"
+
 slug: "top-10-hidden-gem-apps-you-need-to-know"
 categories:
   - "Uncategorized"

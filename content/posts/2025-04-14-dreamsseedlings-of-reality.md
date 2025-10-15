@@ -1,7 +1,7 @@
 ---
 title: "Dreams:Seedlings of Reality"
 date: 2025-04-14T15:26:08+0000
-author: "manoulasfit"
+
 slug: "dreamsseedlings-of-reality"
 categories:
   - "Dreamweaver’s Tales"

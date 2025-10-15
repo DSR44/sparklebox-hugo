@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Potential: 5 Sparklebox Secrets to Boost Confidence and Productivity"
 date: 2025-10-06T06:25:02+0000
-author: "manoulasfit"
+
 slug: "unlock-your-potential-5-sparklebox-secrets-to-boost-confidence-and-productivity"
 categories:
   - "Sparklebox Base Class"

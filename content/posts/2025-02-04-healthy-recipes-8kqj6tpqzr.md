@@ -1,7 +1,7 @@
 ---
 title: "25 Vibrant Healthy Recipes That Are Almost Too Pretty to Eat (You Won't Believe #10!)"
 date: 2025-02-04T19:48:57+0000
-author: "manoulasfit"
+
 slug: "healthy-recipes-8kqj6tpqzr"
 categories:
   - "Food"

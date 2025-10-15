@@ -1,7 +1,7 @@
 ---
 title: "♋️ Cancer – The Healing Waters of Emotional Truth | Oracle Growth Series Day 4"
 date: 2025-05-31T12:18:26+0000
-author: "manoulasfit"
+
 slug: "%e2%99%8b%ef%b8%8f-cancer-the-healing-waters-of-emotional-truth-oracle-growth-series-day-3"
 categories:
   - "🔮 The Oracle’s Grove"

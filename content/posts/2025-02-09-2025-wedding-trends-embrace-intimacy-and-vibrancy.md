@@ -1,7 +1,7 @@
 ---
 title: "2025 Wedding Trends: Embrace Intimacy and Vibrancy"
 date: 2025-02-09T09:01:00+0000
-author: "manoulasfit"
+
 slug: "2025-wedding-trends-embrace-intimacy-and-vibrancy"
 categories:
   - "Uncategorized"

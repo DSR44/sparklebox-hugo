@@ -1,7 +1,7 @@
 ---
 title: "17 Awesome Harajuku Fashion Styles That’ll Make You Stand Out (Don’t Miss #11!)"
 date: 2024-12-07T07:45:27+0000
-author: "manoulasfit"
+
 slug: "harajuku-fashion-styles-4k9d2zj3p5"
 categories:
   - "Uncategorized"

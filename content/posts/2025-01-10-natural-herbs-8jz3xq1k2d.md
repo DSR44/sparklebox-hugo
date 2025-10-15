@@ -1,7 +1,7 @@
 ---
 title: "10 Incredible Natural Herbs That Will Transform Your Health (You Won't Believe #5!)"
 date: 2025-01-10T07:28:15+0000
-author: "manoulasfit"
+
 slug: "natural-herbs-8jz3xq1k2d"
 categories:
   - "Health"

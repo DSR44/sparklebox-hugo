@@ -1,7 +1,7 @@
 ---
 title: "🌌 Cosmic Whispers: The Celestial Calling"
 date: 2025-05-16T09:18:49+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%8c-cosmic-whispers-the-celestial-calling"
 categories:
   - "Dreamweaver’s Tales"

@@ -1,7 +1,7 @@
 ---
 title: "🪞Mirrored Minds The Dance of Detachment: A Path to Inner Success"
 date: 2025-04-13T06:33:03+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%9emirrored-minds-the-dance-of-detachment-a-path-to-inner-success"
 categories:
   - "Dreamweaver’s Tales"

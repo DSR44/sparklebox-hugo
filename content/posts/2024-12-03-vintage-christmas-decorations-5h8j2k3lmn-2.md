@@ -1,7 +1,7 @@
 ---
 title: "19 Vintage Christmas Decorations That Will Take You Back in Time (You Won't Believe #7!)"
 date: 2024-12-03T12:52:17+0000
-author: "manoulasfit"
+
 slug: "vintage-christmas-decorations-5h8j2k3lmn-2"
 categories:
   - "Uncategorized"

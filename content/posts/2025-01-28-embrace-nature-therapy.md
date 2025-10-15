@@ -1,7 +1,7 @@
 ---
 title: "Embrace Nature Therapy:"
 date: 2025-01-28T16:49:55+0000
-author: "manoulasfit"
+
 slug: "embrace-nature-therapy"
 categories:
   - "Wellness"

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT vs. DeepSeek R1:"
 date: 2025-01-27T21:22:50+0000
-author: "manoulasfit"
+
 slug: "chatgpt-vs-deepseek-r1"
 categories:
   - "AI/Tech"

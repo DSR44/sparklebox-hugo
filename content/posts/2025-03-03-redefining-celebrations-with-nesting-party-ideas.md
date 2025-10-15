@@ -1,7 +1,7 @@
 ---
 title: "Redefining Celebrations With Nesting Party Ideas"
 date: 2025-03-03T21:36:22+0000
-author: "manoulasfit"
+
 slug: "redefining-celebrations-with-nesting-party-ideas"
 categories:
   - "2025 Discoveries/Trends"

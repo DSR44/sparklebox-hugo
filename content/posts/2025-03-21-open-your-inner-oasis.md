@@ -1,7 +1,7 @@
 ---
 title: "Open Your Inner Oasis"
 date: 2025-03-21T16:08:27+0000
-author: "manoulasfit"
+
 slug: "open-your-inner-oasis"
 categories:
   - "Daily Affirmations"

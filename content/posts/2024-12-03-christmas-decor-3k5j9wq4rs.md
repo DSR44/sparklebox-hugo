@@ -1,7 +1,7 @@
 ---
 title: "25 Stunning Christmas Decor Ideas That'll Make Your Home Shine Brighter Than Rudolph's Nose!"
 date: 2024-12-03T21:08:12+0000
-author: "manoulasfit"
+
 slug: "christmas-decor-3k5j9wq4rs"
 categories:
   - "Uncategorized"

@@ -1,7 +1,7 @@
 ---
 title: "♎️ Libra – Harmony, Beauty, and Divine Balance"
 date: 2025-06-04T12:19:22+0000
-author: "manoulasfit"
+
 slug: "libra-divine-balance-oracle"
 categories:
   - "Dreamweaver’s Tales"

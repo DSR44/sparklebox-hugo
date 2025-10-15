@@ -1,7 +1,7 @@
 ---
 title: "11 Elegant Holiday Outfits That'll Have Everyone Asking 'Where Did You Get That?'"
 date: 2024-12-05T06:22:05+0000
-author: "manoulasfit"
+
 slug: "holiday-outfits-5kzj2bghwp"
 categories:
   - "Uncategorized"

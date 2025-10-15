@@ -1,7 +1,7 @@
 ---
 title: "What If You’re Not Lost — Just Outgrowing the Script"
 date: 2025-09-12T08:29:18+0000
-author: "manoulasfit"
+
 slug: "what-if-youre-not-lost-just-outgrowing-the-script"
 categories:
   - "Elle Vidas Mirror Box"

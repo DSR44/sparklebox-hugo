@@ -1,7 +1,7 @@
 ---
 title: "21 Gorgeous Coffin Nail Designs Perfect for Your Winter Wonderland!"
 date: 2024-12-03T18:17:56+0000
-author: "manoulasfit"
+
 slug: "coffin-nail-designs-8f7jklq3zx"
 categories:
   - "Uncategorized"

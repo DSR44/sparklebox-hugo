@@ -1,7 +1,7 @@
 ---
 title: "10 Sultry Sea Witch Makeup Looks That'll Make You Feel Like a Siren!"
 date: 2025-02-03T07:01:54+0000
-author: "manoulasfit"
+
 slug: "sea-witch-makeup-5g7h8k2j1z"
 categories:
   - "Beauty"

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Modern Surrealism in Home Décor"
 date: 2025-02-20T16:32:00+0000
-author: "manoulasfit"
+
 slug: "exploring-modern-surrealism-in-home-decor"
 categories:
   - "Home decor"

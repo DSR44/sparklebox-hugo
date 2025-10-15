@@ -1,7 +1,7 @@
 ---
 title: "🪞Mirrored Minds: Exploring the Cosmos Within"
 date: 2025-04-02T10:28:51+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%9emirrored-minds-exploring-the-cosmos-within"
 categories:
   - "Daily Affirmations"

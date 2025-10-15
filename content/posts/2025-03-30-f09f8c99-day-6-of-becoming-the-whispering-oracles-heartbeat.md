@@ -1,7 +1,7 @@
 ---
 title: "🌙 Day 6 of Becoming | The Whispering                Oracle's Heartbeat"
 date: 2025-03-30T06:07:58+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%99-day-6-of-becoming-the-whispering-oracles-heartbeat"
 categories:
   - "7 Days Of Becoming"

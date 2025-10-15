@@ -1,7 +1,7 @@
 ---
 title: "10 Easy DIY Protein Bars You Can Make in Under 10 Minutes (Snack Smarter Now!)"
 date: 2024-12-05T09:57:15+0000
-author: "manoulasfit"
+
 slug: "diy-protein-bars-8f3jklqz2n"
 categories:
   - "Uncategorized"

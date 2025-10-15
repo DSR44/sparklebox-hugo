@@ -1,7 +1,7 @@
 ---
 title: "The Whispering Woods: A Tale of Ancient Prophecies and Timeless Wisdom"
 date: 2025-04-18T07:43:00+0000
-author: "manoulasfit"
+
 slug: "the-whispering-woods-a-tale-of-ancient-prophecies-and-timeless-wisdom"
 categories:
   - "Dreamweaver’s Tales"

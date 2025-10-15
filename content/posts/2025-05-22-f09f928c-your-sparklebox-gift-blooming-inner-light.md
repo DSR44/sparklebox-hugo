@@ -1,7 +1,7 @@
 ---
 title: "💌 Your Sparklebox Gift: Blooming Inner Light"
 date: 2025-05-22T16:22:38+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light"
 categories:
   - "Dreamweaver’s Tales"

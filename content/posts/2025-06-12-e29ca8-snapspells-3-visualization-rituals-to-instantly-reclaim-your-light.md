@@ -1,7 +1,7 @@
 ---
 title: "✨ SnapSpells: 3 Visualization Rituals to Instantly Reclaim Your Light"
 date: 2025-06-12T08:30:54+0000
-author: "manoulasfit"
+
 slug: "%e2%9c%a8-snapspells-3-visualization-rituals-to-instantly-reclaim-your-light"
 categories:
   - "Daily Affirmations"

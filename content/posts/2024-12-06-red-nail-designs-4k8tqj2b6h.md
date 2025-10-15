@@ -1,7 +1,7 @@
 ---
 title: "15 Stunning Red Nail Designs That Shine with Gold Accents (You Won't Believe #8!)"
 date: 2024-12-06T10:01:55+0000
-author: "manoulasfit"
+
 slug: "red-nail-designs-4k8tqj2b6h"
 categories:
   - "Uncategorized"

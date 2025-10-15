@@ -1,7 +1,7 @@
 ---
 title: "✨ Elvida’s Mirror Box “The Mirror Did Not Break — I Did.”"
 date: 2025-06-27T08:29:00+0000
-author: "manoulasfit"
+
 slug: "%e2%9c%a8-elvidas-mirror-box-the-mirror-did-not-break-i-did"
 categories:
   - "🪞 THE MIRROR HALL"

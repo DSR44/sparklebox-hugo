@@ -1,7 +1,7 @@
 ---
 title: "How to Make Ease Your Superpower | Elle Vida’s Mirror Box – Sparklebox"
 date: 2025-10-04T18:28:00+0000
-author: "manoulasfit"
+
 slug: "how-to-make-ease-your-superpower-elle-vidas-mirror-box-sparklebox"
 categories:
   - "Elle Vidas Mirror Box"

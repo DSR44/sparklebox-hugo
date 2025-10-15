@@ -1,7 +1,7 @@
 ---
 title: "Loneliness in a Numb World | Elle Vida’s Mirror Box"
 date: 2025-09-14T07:47:10+0000
-author: "manoulasfit"
+
 slug: "loneliness-in-a-numb-world-elle-vidas-mirror-box"
 categories:
   - "Elle Vidas Mirror Box"

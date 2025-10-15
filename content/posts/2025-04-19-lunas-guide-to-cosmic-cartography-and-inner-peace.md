@@ -1,7 +1,7 @@
 ---
 title: "Luna's Guide to Cosmic Cartography and Inner Peace"
 date: 2025-04-19T07:40:00+0000
-author: "manoulasfit"
+
 slug: "lunas-guide-to-cosmic-cartography-and-inner-peace"
 categories:
   - "Dreamweaver’s Tales"

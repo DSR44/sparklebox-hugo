@@ -1,7 +1,7 @@
 ---
 title: "Base Class Chapter 3 — Cosmic Fusion of Language, Energy & Intention"
 date: 2025-08-11T22:04:47+0000
-author: "manoulasfit"
+
 slug: "base-class-chapter-3-cosmic-fusion-of-language-energy-intention"
 categories:
   - "Sparklebox Base Class"

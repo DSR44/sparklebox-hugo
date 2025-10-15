@@ -1,7 +1,7 @@
 ---
 title: "Passport Bros: a tik tok's controversial trend"
 date: 2025-01-18T07:45:39+0000
-author: "manoulasfit"
+
 slug: "passport-bros-a-tik-toks-controversial-trend"
 categories:
   - "Uncategorized"

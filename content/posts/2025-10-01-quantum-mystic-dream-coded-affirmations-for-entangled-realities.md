@@ -1,7 +1,7 @@
 ---
 title: "Quantum Mystic: Dream-Coded Affirmations for Entangled Realities"
 date: 2025-10-01T14:15:59+0000
-author: "manoulasfit"
+
 slug: "quantum-mystic-dream-coded-affirmations-for-entangled-realities"
 categories:
   - "Dream Coded Affirmations"

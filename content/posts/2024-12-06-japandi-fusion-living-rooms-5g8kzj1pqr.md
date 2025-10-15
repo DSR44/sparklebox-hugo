@@ -1,7 +1,7 @@
 ---
 title: "10 Jaw-Dropping Japandi Fusion Living Rooms That Will Make You Want to Redecorate Today!"
 date: 2024-12-06T06:38:39+0000
-author: "manoulasfit"
+
 slug: "japandi-fusion-living-rooms-5g8kzj1pqr"
 categories:
   - "Uncategorized"

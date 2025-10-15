@@ -1,7 +1,7 @@
 ---
 title: "Affordable Longevity Hacks Inspired by Bryan Johnson"
 date: 2025-02-26T20:39:41+0000
-author: "manoulasfit"
+
 slug: "affordable-longevity-hacks-inspired-by-bryan-johnson"
 categories:
   - "Health"

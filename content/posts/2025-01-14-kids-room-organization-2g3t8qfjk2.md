@@ -1,7 +1,7 @@
 ---
 title: "21 Kids Room Organization Ideas That'll Make Clean-Up Fun (Don't Miss #13!)"
 date: 2025-01-14T06:56:00+0000
-author: "manoulasfit"
+
 slug: "kids-room-organization-2g3t8qfjk2"
 categories:
   - "Organization Hacks"

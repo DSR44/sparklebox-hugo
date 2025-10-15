@@ -1,7 +1,7 @@
 ---
 title: "✨🎭 Sparklebox Pocket Theater Presents:"
 date: 2025-06-11T17:30:00+0000
-author: "manoulasfit"
+
 slug: "%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-presents"
 categories:
   - "Daily Affirmations"

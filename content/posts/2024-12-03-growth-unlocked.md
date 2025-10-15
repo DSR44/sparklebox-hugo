@@ -1,7 +1,7 @@
 ---
 title: "Growth Unlocked"
 date: 2024-12-03T11:34:00+0000
-author: "manoulasfit"
+
 slug: "growth-unlocked"
 categories:
   - "Uncategorized"

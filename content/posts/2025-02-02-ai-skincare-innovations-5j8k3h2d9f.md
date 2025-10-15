@@ -1,7 +1,7 @@
 ---
 title: "10 Mind-Blowing AI Skincare Innovations That Will Change Your Beauty Routine Forever!"
 date: 2025-02-02T10:38:37+0000
-author: "manoulasfit"
+
 slug: "ai-skincare-innovations-5j8k3h2d9f"
 categories:
   - "AI/Tech"

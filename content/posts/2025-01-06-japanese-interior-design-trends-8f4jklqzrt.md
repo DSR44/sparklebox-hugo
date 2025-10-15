@@ -1,7 +1,7 @@
 ---
 title: "15 Japanese Interior Design Trends That Will Transform Your Space into a Tranquil Oasis!"
 date: 2025-01-06T07:28:23+0000
-author: "manoulasfit"
+
 slug: "japanese-interior-design-trends-8f4jklqzrt"
 categories:
   - "Uncategorized"

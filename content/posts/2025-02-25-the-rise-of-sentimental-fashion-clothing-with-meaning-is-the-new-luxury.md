@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Sentimental Fashion – Clothing With Meaning Is the New Luxury"
 date: 2025-02-25T06:50:33+0000
-author: "manoulasfit"
+
 slug: "the-rise-of-sentimental-fashion-clothing-with-meaning-is-the-new-luxury"
 categories:
   - "Fashion"

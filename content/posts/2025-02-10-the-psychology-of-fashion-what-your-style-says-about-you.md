@@ -1,7 +1,7 @@
 ---
 title: "The Psychology of Fashion: What Your Style Says About You"
 date: 2025-02-10T07:15:54+0000
-author: "manoulasfit"
+
 slug: "the-psychology-of-fashion-what-your-style-says-about-you"
 categories:
   - "Fashion"

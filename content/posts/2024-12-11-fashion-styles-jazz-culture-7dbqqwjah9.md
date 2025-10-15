@@ -1,7 +1,7 @@
 ---
 title: "12 Fashion Styles Inspired by Jazz Culture (You Won't Believe #5!)"
 date: 2024-12-11T16:13:21+0000
-author: "manoulasfit"
+
 slug: "fashion-styles-jazz-culture-7dbqqwjah9"
 categories:
   - "Uncategorized"

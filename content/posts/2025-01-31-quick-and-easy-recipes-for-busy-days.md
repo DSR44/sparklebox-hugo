@@ -1,7 +1,7 @@
 ---
 title: "Quick and Easy Recipes for Busy Days"
 date: 2025-01-31T07:34:59+0000
-author: "manoulasfit"
+
 slug: "quick-and-easy-recipes-for-busy-days"
 categories:
   - "Food"

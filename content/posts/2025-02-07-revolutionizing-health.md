@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Health:"
 date: 2025-02-07T19:54:06+0000
-author: "manoulasfit"
+
 slug: "revolutionizing-health"
 categories:
   - "AI/Tech"

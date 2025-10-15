@@ -1,7 +1,7 @@
 ---
 title: "The Weaver of Shadows"
 date: 2025-03-31T18:09:39+0000
-author: "manoulasfit"
+
 slug: "the-weaver-of-shadows"
 categories:
   - "7 Days Of Becoming"

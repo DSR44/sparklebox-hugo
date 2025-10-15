@@ -1,7 +1,7 @@
 ---
 title: "The ‘Sprinkle Sprinkle’ Movement: How Shera7 Took Over the Internet"
 date: 2025-01-19T09:44:35+0000
-author: "manoulasfit"
+
 slug: "the-sprinkle-sprinkle-movement-how-shera7-took-over-the-internet"
 categories:
   - "Uncategorized"

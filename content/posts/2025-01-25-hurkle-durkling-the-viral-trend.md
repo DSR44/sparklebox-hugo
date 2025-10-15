@@ -1,7 +1,7 @@
 ---
 title: "Hurkle-Durkling: The Viral Trend"
 date: 2025-01-25T07:11:07+0000
-author: "manoulasfit"
+
 slug: "hurkle-durkling-the-viral-trend"
 categories:
   - "Wellness"

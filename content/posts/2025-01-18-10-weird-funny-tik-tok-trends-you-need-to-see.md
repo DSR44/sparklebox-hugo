@@ -1,7 +1,7 @@
 ---
 title: "10 Weird &amp; Funny Tik Tok Trends You Need To See"
 date: 2025-01-18T18:06:43+0000
-author: "manoulasfit"
+
 slug: "10-weird-funny-tik-tok-trends-you-need-to-see"
 categories:
   - "Uncategorized"

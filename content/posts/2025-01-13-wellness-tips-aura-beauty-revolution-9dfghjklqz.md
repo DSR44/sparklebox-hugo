@@ -1,7 +1,7 @@
 ---
 title: "11 Wellness Tips from the Aura Beauty Revolution to Balance Your Life (You’ll Love #5!)"
 date: 2025-01-13T08:15:33+0000
-author: "manoulasfit"
+
 slug: "wellness-tips-aura-beauty-revolution-9dfghjklqz"
 categories:
   - "Health"

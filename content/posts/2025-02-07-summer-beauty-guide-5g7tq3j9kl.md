@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Ultimate Summer Beauty Guide for 2025: 15 Trends You Can't Miss!"
 date: 2025-02-07T09:32:41+0000
-author: "manoulasfit"
+
 slug: "summer-beauty-guide-5g7tq3j9kl"
 categories:
   - "Beauty"

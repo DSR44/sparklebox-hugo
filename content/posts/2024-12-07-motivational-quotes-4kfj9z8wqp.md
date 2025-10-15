@@ -1,7 +1,7 @@
 ---
 title: "25 Motivational Quotes That Will Ignite Your Passion and Change Your Life Forever!"
 date: 2024-12-07T08:37:50+0000
-author: "manoulasfit"
+
 slug: "motivational-quotes-4kfj9z8wqp"
 categories:
   - "Uncategorized"

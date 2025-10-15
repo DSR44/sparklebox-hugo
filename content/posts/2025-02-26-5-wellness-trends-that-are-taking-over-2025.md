@@ -1,7 +1,7 @@
 ---
 title: "5 Wellness Trends That Are Taking Over 2025"
 date: 2025-02-26T07:46:22+0000
-author: "manoulasfit"
+
 slug: "5-wellness-trends-that-are-taking-over-2025"
 categories:
   - "Wellness"

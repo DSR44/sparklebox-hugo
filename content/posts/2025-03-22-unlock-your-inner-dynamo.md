@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Inner Dynamo"
 date: 2025-03-22T17:04:25+0000
-author: "manoulasfit"
+
 slug: "unlock-your-inner-dynamo"
 categories:
   - "Daily Affirmations"

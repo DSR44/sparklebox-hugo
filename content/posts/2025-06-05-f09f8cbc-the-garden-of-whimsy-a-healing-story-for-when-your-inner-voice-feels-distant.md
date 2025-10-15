@@ -1,7 +1,7 @@
 ---
 title: "🌼 The Garden of Whimsy: A Healing Story for When Your Inner Voice Feels Distant"
 date: 2025-06-05T15:40:00+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%8c%bc-the-garden-of-whimsy-a-healing-story-for-when-your-inner-voice-feels-distant"
 categories:
   - "Daily Affirmations"

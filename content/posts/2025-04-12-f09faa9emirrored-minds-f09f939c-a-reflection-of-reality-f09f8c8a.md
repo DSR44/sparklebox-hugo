@@ -1,7 +1,7 @@
 ---
 title: "🪞Mirrored Minds 📜 A Reflection of Reality 🌊"
 date: 2025-04-12T12:40:03+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%aa%9emirrored-minds-%f0%9f%93%9c-a-reflection-of-reality-%f0%9f%8c%8a"
 categories:
   - "Dreamweaver’s Tales"

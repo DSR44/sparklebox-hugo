@@ -1,7 +1,7 @@
 ---
 title: "🔮 ♐️ Sagittarius – The Cosmic Archer’s Flame"
 date: 2025-06-07T10:20:11+0000
-author: "manoulasfit"
+
 slug: "%f0%9f%94%ae-%e2%99%90%ef%b8%8f-sagittarius-the-cosmic-archers-flame"
 categories:
   - "🔮 The Oracle’s Grove"

@@ -1,7 +1,7 @@
 ---
 title: "20 Cozy Winter Outfits That’ll Keep You Warm and Stylish (You’ll Love #10!)"
 date: 2024-12-03T11:41:16+0000
-author: "manoulasfit"
+
 slug: "cozy-winter-outfits-5x8j7f3q1z"
 categories:
   - "Uncategorized"

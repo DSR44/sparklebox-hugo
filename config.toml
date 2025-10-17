@@ -20,7 +20,7 @@ theme = "PaperMod"
   category = "categories"
   tag = "tags"
 
-# Menu
+# Menu - Streamlined & Strategic
 [menu]
   [[menu.main]]
     name = "Home"
@@ -28,18 +28,18 @@ theme = "PaperMod"
     weight = 1
   
   [[menu.main]]
+    name = "🏛️ Ancient Wisdom"
+    url = "/categories/mystical-wisdom-series/"
+    weight = 2
+  
+  [[menu.main]]
     name = "𖤐 Dream Portals"
     url = "/the-dreamtoolkit/"
-    weight = 2
+    weight = 3
   
   [[menu.main]]
     name = "◈ Musebox"
     url = "/musebox-dreams/"
-    weight = 3
-  
-  [[menu.main]]
-    name = "♫ Soundbox"
-    url = "/soundbox/"
     weight = 4
   
   [[menu.main]]
@@ -48,7 +48,7 @@ theme = "PaperMod"
     weight = 5
   
   [[menu.main]]
-    name = "✨ Tarot App"
+    name = "☽ Tarot"
     url = "https://sparklebox-tarot.streamlit.app/"
     weight = 6
   
@@ -56,26 +56,16 @@ theme = "PaperMod"
     name = "Categories"
     url = "/categories/"
     weight = 7
-    
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 8
   
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 9
+    weight = 8
   
   [[menu.main]]
-    name = "📧 Contact"
+    name = "Contact"
     url = "/contact/"
-    weight = 10
-  
-  [[menu.main]]
-    name = "Privacy"
-    url = "/privacy/"
-    weight = 11
+    weight = 9
 
 # PaperMod Theme Settings
 [params]

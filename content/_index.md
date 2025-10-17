@@ -166,6 +166,45 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
 
 ---
 
+<div style="max-width: 900px; margin: 4rem auto; padding: 3rem 2.5rem; background: linear-gradient(135deg, rgba(75, 46, 131, 0.12), rgba(63, 36, 105, 0.08)); border: 3px solid rgba(75, 46, 131, 0.3); border-radius: 25px; box-shadow: 0 15px 50px rgba(75, 46, 131, 0.2);">
+
+<div style="text-align: center;">
+  <div style="font-size: 3rem; margin-bottom: 0.5rem;">🏛️</div>
+  <h2 style="font-family: 'Cormorant', serif; color: #3f2469; font-size: 2.5rem; margin-bottom: 1rem; letter-spacing: 0.02em;">Mystical Wisdom for Your Journey</h2>
+  <p style="color: #4b2e83; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem; font-style: italic;">✨ The Signature Series ✨</p>
+</div>
+
+<div style="color: #5a4a75; font-size: 1.05rem; line-height: 1.8; margin-bottom: 2rem;">
+  <p style="margin-bottom: 1rem;">
+    <strong style="color: #3f2469;">Deep-dive transmissions</strong> that blend <strong>ancient priestess wisdom</strong> with modern psychology and neuroscience.
+  </p>
+  
+  <p style="margin-bottom: 1rem;">
+    Each volume explores profound themes like <strong>emotional alchemy</strong>, <strong>sacred rage</strong>, <strong>embodied sovereignty</strong>, and the hidden mechanisms of your inner world.
+  </p>
+  
+  <p style="margin-bottom: 1.5rem;">
+    Not tips. Not fluff. <strong>Mystical technology</strong> for women who crave depth, transformation, and truth.
+  </p>
+  
+  <div style="background: rgba(255, 255, 255, 0.6); padding: 1.5rem; border-radius: 15px; border-left: 4px solid #4b2e83; margin-bottom: 2rem;">
+    <p style="margin: 0; font-size: 0.95rem; color: #666;">
+      <strong style="color: #3f2469;">Topics Include:</strong> Sumerian goddesses • Celtic priestesses • Mirror neurons • Emotional labor as portal • Transmuting pain into power • Ancient temple practices • Modern neuroscience • Embodiment as alchemy
+    </p>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <a href="/categories/mystical-wisdom-series/" style="display: inline-block; background: linear-gradient(135deg, #4b2e83 0%, #3f2469 100%); color: white; padding: 16px 40px; border-radius: 15px; text-decoration: none; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1rem; letter-spacing: 0.05em; text-transform: uppercase; transition: all 0.3s ease; box-shadow: 0 6px 25px rgba(75, 46, 131, 0.4);">
+    📚 Explore the Series
+  </a>
+  <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">Currently 3 volumes • Updated weekly</p>
+</div>
+
+</div>
+
+---
+
 <div style="text-align: center; margin: 4rem auto; max-width: 700px;">
   <h2 style="font-family: 'Cormorant', serif; color: #3f2469;">📚 Latest Transmissions</h2>
   <p style="color: #5a4a75;">Explore mystical wisdom, spiritual practices, and transformative insights from the Sparklebox archives.</p>

@@ -1,15 +1,17 @@
 ---
-title: "Mystical Wisdom for Your Journey"
+title: "Mystical Wisdom for Your Journey - Vol. 1"
 date: 2025-10-15T07:00:00+00:00
 categories:
+  - "Mystical Wisdom Series"
   - "Transmutational Alchemy"
   - "Ancient Wisdom"
 tags:
+  - "mystical-wisdom-series"
   - "mysticism"
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "Mystical Wisdom for Your Journey"
+description: "Mystical Wisdom for Your Journey - Vol. 1 - Deep mystical psychology and ancient wisdom"
 cover:
   image: "/generic-post-images/mystical-4.webp"
   alt: "Mystical Wisdom for Your Journey"

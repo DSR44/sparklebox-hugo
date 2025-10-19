@@ -18,33 +18,33 @@ aliases:
 ---
 Type: Ritual Femininity | Mood: Botanical oil, candlelit floors, water priestess calm | Avatar: Caia Delmare — The Whisper Witch
 
-  ### ✨ AVATAR OASIS — PART 6
+### ✨ AVATAR OASIS — PART 6
 
-  #### 💠 “Caia Delmare” — The Whisper Witch
+#### 💠 “Caia Delmare” — The Whisper Witch
 
-  **🕊️ What This Is:**
+**🕊️ What This Is:**
 
-  A soft command wrapped in ritual. Caia doesn’t heal loudly — she dissolves chaos in the quiet. This is a day shaped not by tasks, but by presence, oil, light, and memory.
+A soft command wrapped in ritual. Caia doesn’t heal loudly — she dissolves chaos in the quiet. This is a day shaped not by tasks, but by presence, oil, light, and memory.
 
-  **🌸 What You Do:**
+**🌸 What You Do:**
 
-  ▫️ Begin in silence, before devices
+▫️ Begin in silence, before devices
 
-  ▫️ Layer a scent or texture that aligns your energy
+▫️ Layer a scent or texture that aligns your energy
 
-  ▫️ Move deliberately through one luxurious, sensual ritual
+▫️ Move deliberately through one luxurious, sensual ritual
 
-  ▫️ End the day without explanation — only embodiment
+▫️ End the day without explanation — only embodiment
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  When you move with elemental softness, the world softens too. Caia teaches a form of power that doesn't post or perform — it glows beneath the skin and reorders reality around her.
+When you move with elemental softness, the world softens too. Caia teaches a form of power that doesn't post or perform — it glows beneath the skin and reorders reality around her.
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your rhythm.
 This is the version of you that already exists.**
 
-    *The portal is open. Walk in when you're ready.*
+*The portal is open. Walk in when you're ready.*
 
 I wake before the sun speaks. The room breathes like it remembers something ancient. The linen against my bare legs is cool and quiet, and the scent of yesterday’s rose oil still lingers faintly on my pillow. I inhale deeply, not out of habit — but invitation.
 
@@ -58,11 +58,11 @@ Downstairs, a white ceramic teacup waits. The kettle hums — I already know its
 
 The day begins, but I do not rush toward it. I slip into a long slate robe, barefoot, no bra, no watch. There is no performance in my softness. The sound of my walk is the only pulse in the house.
 
-  #### 🎞️ Moodmark: Aquatic Ritual Stillness
+#### 🎞️ Moodmark: Aquatic Ritual Stillness
 
-  ![Bath steam rising through green light](/Caia-Mood-1.jpg)
-  ![Silken robe on floor tiles with morning petals scattered](/Caia-Mood2.jpg)
-  This is how my world breathes when no one is watching.
+![Bath steam rising through green light](/Caia-Mood-1.jpg)
+![Silken robe on floor tiles with morning petals scattered](/Caia-Mood2.jpg)
+This is how my world breathes when no one is watching.
 
 Outside, I move through the world like water through stone. I’m seen, but not summoned. The barista glances — she doesn’t speak. The man at the corner store hesitates before offering change. I take no calls. I say little. I let the world meet me in vibration, not volume.
 

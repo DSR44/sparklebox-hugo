@@ -18,41 +18,41 @@ aliases:
 ---
 Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow
 
-  ### ✨ AVATAR OASIS — PART 2
+### ✨ AVATAR OASIS — PART 2
 
-  #### 💠 “SERENA VALE” — Your Magnetic CEO Reality
+#### 💠 “SERENA VALE” — Your Magnetic CEO Reality
 
-  **🕊️ What This Is:**
+**🕊️ What This Is:**
 
-  A visualization portal for identity embodiment.
+A visualization portal for identity embodiment.
 
-  Step into a curated dream life through real-feel perspective.
+Step into a curated dream life through real-feel perspective.
 
-  You don’t observe — you become.
+You don’t observe — you become.
 
-  **🌸 What You Do:**
+**🌸 What You Do:**
 
-  ▫️ Read the avatar’s POV day
+▫️ Read the avatar’s POV day
 
-  ▫️ Absorb the sensory and emotional rhythm
+▫️ Absorb the sensory and emotional rhythm
 
-  ▫️ Let the imagery wire new self-perception
+▫️ Let the imagery wire new self-perception
 
-  ▫️ Return whenever you choose a new version of you
+▫️ Return whenever you choose a new version of you
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  Because the nervous system doesn’t know it’s not real.
+Because the nervous system doesn’t know it’s not real.
 
-  Because embodiment rewires faster than thinking.
+Because embodiment rewires faster than thinking.
 
-  Because you don’t hustle into power — you *arrive.*
+Because you don’t hustle into power — you *arrive.*
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your rhythm.
 This is the version of you that already exists.**
 
-    *The portal is open. Walk in when you're ready.*
+*The portal is open. Walk in when you're ready.*
 
 The sunlight touched my collarbone before the world could.
 
@@ -66,12 +66,12 @@ The silk robe hung where I left it. Slid over my shoulders like memory.
 
 The mirror didn’t surprise me. It never does. I know exactly what I look like when I’m in alignment.
 
-  #### 🎞️ Moodmark: Serena’s Flow
+#### 🎞️ Moodmark: Serena’s Flow
 
-  ![Serena Mood 1](/ceo_mood1.jpg)
-  ![Serena Mood 2](/ceo_mood2.jpg)
+![Serena Mood 1](/ceo_mood1.jpg)
+![Serena Mood 2](/ceo_mood2.jpg)
 
-    This is how clarity feels when it chooses silence over noise. This is my rhythm — effortless, calibrated, true.
+This is how clarity feels when it chooses silence over noise. This is my rhythm — effortless, calibrated, true.
 
 My calendar was clean.
 I don’t book chaos. I book clarity.

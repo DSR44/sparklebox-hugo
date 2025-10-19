@@ -86,15 +86,15 @@ So should you.
 — *Elle Vida*
 ✨ *From the Mirror Box*
 
-  ### ✨ Sparklebox Toolbox ✨
+### ✨ Sparklebox Toolbox ✨
 
-    Each story invites a soft step toward your becoming. Here’s a tool aligned with today’s reflection to support your journey.
+Each story invites a soft step toward your becoming. Here’s a tool aligned with today’s reflection to support your journey.
 
-  [
-    🖤 Explore the Blackbird Journal →
-  ](https://amzn.to/407mwMr)
+[
+🖤 Explore the Blackbird Journal →
+](https://amzn.to/407mwMr)
 
-    (Affiliate link. If you choose to purchase, it softly supports Sparklebox at no extra cost to you.)
+(Affiliate link. If you choose to purchase, it softly supports Sparklebox at no extra cost to you.)
 
 > ✨ *If you’ve ever felt like a voice in the noise—keep singing.
 The Dreamscape hears you.

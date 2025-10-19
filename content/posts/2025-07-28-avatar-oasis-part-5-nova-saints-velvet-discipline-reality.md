@@ -18,33 +18,33 @@ aliases:
 ---
 Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme
 
-  ### ✨ AVATAR OASIS — PART 5
+### ✨ AVATAR OASIS — PART 5
 
-  #### 💠 “Nova Saint” — Your Velvet Discipline Reality
+#### 💠 “Nova Saint” — Your Velvet Discipline Reality
 
-  **🕊️ What This Is:**
+**🕊️ What This Is:**
 
-  A lucid portal into an avatar of magnetic command. You live a day in her rhythm. You calibrate to her control. You become the presence that doesn’t speak — but shifts the room.
+A lucid portal into an avatar of magnetic command. You live a day in her rhythm. You calibrate to her control. You become the presence that doesn’t speak — but shifts the room.
 
-  **🌸 What You Do:**
+**🌸 What You Do:**
 
-  ▫️ Enter her first-person world
+▫️ Enter her first-person world
 
-  ▫️ Absorb her silence, her detail, her control
+▫️ Absorb her silence, her detail, her control
 
-  ▫️ Mirror her restraint in your body
+▫️ Mirror her restraint in your body
 
-  ▫️ Exit when you feel her anchored in you
+▫️ Exit when you feel her anchored in you
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  Because your nervous system memorizes states. Because silence is louder than performance. Because power — real power — never asks for attention.
+Because your nervous system memorizes states. Because silence is louder than performance. Because power — real power — never asks for attention.
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your rhythm.
 This is the version of you that already exists.**
 
-    *The portal is open. Walk in when you're ready.*
+*The portal is open. Walk in when you're ready.*
 
 I wake before the city. The silence is intact, untouched. I do not move until I feel my own breath settle into rhythm. Calm. Measured. My eyes open as if pulled by the weight of intention — not urgency.
 
@@ -60,11 +60,11 @@ The driver arrives early. I leave later. I control time by choosing not to compe
 
 The building: unmarked. My office: unlisted. My name: known only when needed. I walk past men who stand straighter when I pass. I offer no smile. My silence teaches more than instruction ever could. In the boardroom, my voice cuts gently through hesitation. When I speak, no one blinks. And when I stop, no one moves until I do.
 
-  #### 🎞️ Moodmark: Nova’s Discipline
+#### 🎞️ Moodmark: Nova’s Discipline
 
-  ![Nova Mood 1](/nova_saint_mood1.jpg)
-  ![Nova Mood 2](/nova_saint_mood2.jpg)
-  This is how my world breathes when no one is watching.
+![Nova Mood 1](/nova_saint_mood1.jpg)
+![Nova Mood 2](/nova_saint_mood2.jpg)
+This is how my world breathes when no one is watching.
 
 I take lunch at a place with no menu. They know what I want. I sit at the corner table, facing the window. People rush by, glued to their screens. I am still. I sip slow. I watch. I feel no need to share this moment online. This power is not for the feed. It is for me.
 

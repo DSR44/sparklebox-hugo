@@ -17,7 +17,7 @@ aliases:
 
 ### On Loneliness in a Numb World
 
-    Your browser does not support the audio element.
+Your browser does not support the audio element.
 
 Yesterday I scrolled past two short clips. I don’t spend much time on social feeds, but sometimes I look in, just to see the pulse of the world. One clip was of a coach speaking into the camera after turning off the TV: *“You cannot make it in life without people around you—without human connection, family, friends, support.”* Yet the comments underneath told a different story. Comment after comment whispered the same truth: *“But I have no one. I live alone. I can’t find connection.”* An entire thread of solitude—confessions of people who never chose to be alone, but who find themselves trapped in it.
 
@@ -39,14 +39,14 @@ Loneliness whispers, *“nobody cares.”* But what if everyone is whispering th
 
 ✨ You are not imagining this. You are not alone. The Mirror is open. Return when you need to remember.
 
-  ### 🎶 Step Into the Soundbox
+### 🎶 Step Into the Soundbox
 
-  Immerse yourself in **dreamcore soundscapes** — a growing collection of ambient tracks designed for focus, reflection, and escape. New songs are added regularly, so let the playlist carry you into another realm.
+Immerse yourself in **dreamcore soundscapes** — a growing collection of ambient tracks designed for focus, reflection, and escape. New songs are added regularly, so let the playlist carry you into another realm.
 
-    [✨ Listen to the Soundbox](https://sparklebox.blog/soundbox/)
+[✨ Listen to the Soundbox](https://sparklebox.blog/soundbox/)
 
-  #### 🖼️ Visit the MuseBox
+#### 🖼️ Visit the MuseBox
 
-  Discover daily **visual mantras and dreamy rituals** — your pocket gallery of inspiration, affirmations, and subtle spells.
+Discover daily **visual mantras and dreamy rituals** — your pocket gallery of inspiration, affirmations, and subtle spells.
 
-    [✨ Open the MuseBox](https://sparklebox.blog/%E2%9C%A8-the-musebox/)
+[✨ Open the MuseBox](https://sparklebox.blog/%E2%9C%A8-the-musebox/)

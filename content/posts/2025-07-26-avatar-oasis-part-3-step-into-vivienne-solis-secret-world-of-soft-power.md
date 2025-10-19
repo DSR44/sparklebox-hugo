@@ -18,41 +18,41 @@ aliases:
 ---
 Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Control | Avatar: The Poised Woman Everyone Remembers
 
-  ### ✨ AVATAR OASIS — PART 3
+### ✨ AVATAR OASIS — PART 3
 
-  #### 💠 “VIVIENNE SOLIS” — The Secret That Dresses Well
+#### 💠 “VIVIENNE SOLIS” — The Secret That Dresses Well
 
-  **🕊️ What This Is:**
+**🕊️ What This Is:**
 
-  A portal into your next self.
+A portal into your next self.
 
-  You don’t observe her — you wake up *as* her.
+You don’t observe her — you wake up *as* her.
 
-  Embody the soft magnetism that pulls without asking.
+Embody the soft magnetism that pulls without asking.
 
-  **🌸 What You Do:**
+**🌸 What You Do:**
 
-  ▫️ Read the avatar’s day as if it’s already yours
+▫️ Read the avatar’s day as if it’s already yours
 
-  ▫️ Let the textures, sounds, and moments embed
+▫️ Let the textures, sounds, and moments embed
 
-  ▫️ Mirror her rhythm, not her image
+▫️ Mirror her rhythm, not her image
 
-  ▫️ Return when you feel the pull again
+▫️ Return when you feel the pull again
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  Because attraction isn’t built — it’s remembered.
+Because attraction isn’t built — it’s remembered.
 
-  Because softness is more dangerous than force.
+Because softness is more dangerous than force.
 
-  Because mystery is a currency no algorithm can fake.
+Because mystery is a currency no algorithm can fake.
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your tone.
 You already carry her energy.**
 
-    *Read slowly. She moves in silence.*
+*Read slowly. She moves in silence.*
 
 The dress is soft, silk, long. I didn’t plan it — I just reached for it.
 
@@ -72,11 +72,11 @@ He walked past me today — the one I dreamt of before I met him. I didn’t loo
 
 I check my lipstick once in the reflection of a spoon. It hasn’t moved.
 
-  #### 🎞️ Moodmark: The Vivienne Essence
+#### 🎞️ Moodmark: The Vivienne Essence
 
-  ![Vivienne Solis Mood 1](/Vievienne_mood1.jpg)
-  ![Vivienne Solis Mood 2](/Vievienne_mood2.jpg)
-  A glimpse into your world. Not just how it looks — but how it hums, how it holds you.
+![Vivienne Solis Mood 1](/Vievienne_mood1.jpg)
+![Vivienne Solis Mood 2](/Vievienne_mood2.jpg)
+A glimpse into your world. Not just how it looks — but how it hums, how it holds you.
 
 I walk home through back streets. Sun in my eyes. Hair slightly undone in the perfect way. I stop in front of a store just to look. I don’t go in. I don’t need anything. They need me.
 

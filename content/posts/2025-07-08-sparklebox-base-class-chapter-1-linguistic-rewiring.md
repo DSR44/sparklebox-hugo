@@ -16,17 +16,17 @@ aliases:
 ---
 # ✨ Sparklebox Base Class: Chapter 1 ✨
 
-            Rewiring Subconscious Linguistics Through Affirmations
+        Rewiring Subconscious Linguistics Through Affirmations
 
-            “In a world of noise, language is your blueprint for becoming.” – Elle Vida
+        “In a world of noise, language is your blueprint for becoming.” – Elle Vida
 
-        ![Sparklebox Base Class](/chapter1_1.jpg)
+    ![Sparklebox Base Class](/chapter1_1.jpg)
 
 Welcome to your first step into the Sparklebox Base Class: a foundational journey in mastering your inner language to reshape your subconscious with intention and beauty.
 
 These five rewires will guide you to transform the words you speak to yourself, aligning them with your evolving identity. Each method replaces outdated phrasing with affirmations that resonate on a deeper, subconscious level.
 
-    ![Affirmation Rewire 1](/chapter1_2.jpg)
+![Affirmation Rewire 1](/chapter1_2.jpg)
 
 ### 1️⃣ From "You" to "I"
 
@@ -36,7 +36,7 @@ These five rewires will guide you to transform the words you speak to yourself, 
 
 Shifting from external validation to internal embodiment increases subconscious resonance and personal accountability.
 
-    ![Affirmation Rewire 2](/chapter1_3.jpg)
+![Affirmation Rewire 2](/chapter1_3.jpg)
 
 ### 2️⃣ From Future to Present Tense
 
@@ -46,7 +46,7 @@ Shifting from external validation to internal embodiment increases subconscious 
 
 Present tense affirmations tell the subconscious it is already true, activating filters to align with your intention.
 
-    ![Affirmation Rewire 2](/chapter1_4.jpg)
+![Affirmation Rewire 2](/chapter1_4.jpg)
 
 ### 3️⃣ From Passive to Active
 
@@ -56,7 +56,7 @@ Present tense affirmations tell the subconscious it is already true, activating 
 
 Active phrasing engages your subconscious and encourages participation in the reality you are calling in.
 
-    ![Affirmation Rewire 2](/chapter1_5.jpg)
+![Affirmation Rewire 2](/chapter1_5.jpg)
 
 ### 4️⃣ From General to Sensory-Specific
 
@@ -66,7 +66,7 @@ Active phrasing engages your subconscious and encourages participation in the re
 
 Sensory-rich affirmations engage the limbic system, making them emotionally sticky and easier to embody.
 
-    ![Affirmation Rewire 2](/chapter1_6.jpg)
+![Affirmation Rewire 2](/chapter1_6.jpg)
 
 ### 5️⃣ From Concept to Identity
 
@@ -76,18 +76,18 @@ Sensory-rich affirmations engage the limbic system, making them emotionally stic
 
 Identity-based affirmations integrate your goals into your self-concept, naturally guiding your actions.
 
-        This was a soft introduction to something deeper. 
+    This was a soft introduction to something deeper. 
 
-        These linguistic rewires are the foundation for the true path of least resistance — a path many speak of but few truly walk. I’m sure you’ve heard these words, these sayings, floating around, and I will guide you to understand what they really mean.
+    These linguistic rewires are the foundation for the true path of least resistance — a path many speak of but few truly walk. I’m sure you’ve heard these words, these sayings, floating around, and I will guide you to understand what they really mean.
 
-        Together, we will gently rewire the mind and body, preparing you to access your true potential and live in alignment with your becoming.
+    Together, we will gently rewire the mind and body, preparing you to access your true potential and live in alignment with your becoming.
 
-        This is more than knowledge. This is the art of real magic.
+    This is more than knowledge. This is the art of real magic.
 
 — Elle Vida
 
-        [
+    [
 
-            ✨ Explore the DreamToolkit →
+        ✨ Explore the DreamToolkit →
 
-        ](https://sparklebox.blog/✨-the-dreamtoolkit-✨/)
+    ](https://sparklebox.blog/✨-the-dreamtoolkit-✨/)

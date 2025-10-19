@@ -18,33 +18,33 @@ aliases:
 ---
 Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine Wakefulness | Avatar: Solène — The Sunbound Frequency
 
-  ### ✨ AVATAR OASIS — PART 7
+### ✨ AVATAR OASIS — PART 7
 
-  #### 🔠 “Solène” — The Sunbound Frequency
+#### 🔠 “Solène” — The Sunbound Frequency
 
-  **🥊 What This Is:**
+**🥊 What This Is:**
 
-  A sacred invitation to rise in frequency, aligned with the sun's golden code. Solène is not brightness — she is resonance. You enter her presence not with action, but with attunement.
+A sacred invitation to rise in frequency, aligned with the sun's golden code. Solène is not brightness — she is resonance. You enter her presence not with action, but with attunement.
 
-  **🌞 What You Do:**
+**🌞 What You Do:**
 
-  ▪️ Wake slowly into warmth
+▪️ Wake slowly into warmth
 
-  ▪️ Anoint yourself with amber oil or breath
+▪️ Anoint yourself with amber oil or breath
 
-  ▪️ Respond to nothing for 33 minutes
+▪️ Respond to nothing for 33 minutes
 
-  ▪️ Let your rhythm be set by inner radiance
+▪️ Let your rhythm be set by inner radiance
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  The sun doesn't ask to be seen. Solène teaches radiant restraint. She attunes your nervous system to internal glow and calibrates your field without needing to declare anything. Her silence speaks in photons.
+The sun doesn't ask to be seen. Solène teaches radiant restraint. She attunes your nervous system to internal glow and calibrates your field without needing to declare anything. Her silence speaks in photons.
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your rhythm.
 This is the version of you that already exists.**
 
-    *The portal is open. Walk in when you're ready.*
+*The portal is open. Walk in when you're ready.*
 
 The sun has not risen yet, but I feel it. The pulse beneath my skin already answers its call. My eyes open slowly, not to the world, but to myself. The room is honey-dark and silent. No alarms. Only breath.
 
@@ -64,11 +64,11 @@ There is no need for music. The hum of the sun is in my spine. I sit cross-legge
 
 I do not check messages. I check frequency. A low tone vibrates in my chest, and I let it carry me through the day. No plan. Just pulse.
 
-  #### 🎮 Moodmark: Solar Whispering
+#### 🎮 Moodmark: Solar Whispering
 
-  ![Solene Mood 1](/mood_mark1.jpg)
-  ![Solene Mood 2](/mood_mark2.jpg)
-  Amber glaze on porcelain skin. Sun-filtered silence. This is how I remember myself.
+![Solene Mood 1](/mood_mark1.jpg)
+![Solene Mood 2](/mood_mark2.jpg)
+Amber glaze on porcelain skin. Sun-filtered silence. This is how I remember myself.
 
 Lunch is fruit, warm grains, and slow tea. I eat barefoot on the back steps. No table. No noise. Just steam and flavor. I let the wind tell me how I feel. It says: steady. It says: rise slow.
 

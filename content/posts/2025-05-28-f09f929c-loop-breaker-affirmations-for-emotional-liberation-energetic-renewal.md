@@ -41,15 +41,15 @@ aliases:
 
 🕯️ *Let these affirmations guide your energy back to clarity, your choices back to power, and your heart back to peace. You are allowed to change. You are allowed to be free.* 💜
 
-  ### ✨ Sparklebox Toolbox ✨
+### ✨ Sparklebox Toolbox ✨
 
-    Hold this amethyst palm stone as you recite your Loop Breaker affirmations, letting its calm energy guide you into emotional release and renewal. A soft, grounding companion for your daily rituals.
+Hold this amethyst palm stone as you recite your Loop Breaker affirmations, letting its calm energy guide you into emotional release and renewal. A soft, grounding companion for your daily rituals.
 
-  [
-    💜 Explore the Amethyst Palm Stone →
-  ](https://amzn.to/4kqWhHW)
+[
+💜 Explore the Amethyst Palm Stone →
+](https://amzn.to/4kqWhHW)
 
-    (Affiliate link. If you choose to purchase, it softly supports Sparklebox at no extra cost to you.)
+(Affiliate link. If you choose to purchase, it softly supports Sparklebox at no extra cost to you.)
 
 ✨ Let the light linger a little longer...
 

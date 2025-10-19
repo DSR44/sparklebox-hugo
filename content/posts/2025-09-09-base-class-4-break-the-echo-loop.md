@@ -98,36 +98,36 @@ It becomes… just a thought. And thoughts can be rewritten.
 A soft tool. A gentle reset. This is what I do when I notice I'm spiraling into the echo:
 
   - 
-    **Catch the Phrase**
+**Catch the Phrase**
 
-    Write it down. The *exact* thought that loops. Make it visible. That weakens its grip.
-
-  - 
-    **Name the Echo**
-
-    Don't call it *your* thought. Call it **"the loop"** or **"old code."**
+Write it down. The *exact* thought that loops. Make it visible. That weakens its grip.
 
   - 
-    **Speak the Reversal**
+**Name the Echo**
 
-    Out loud. Yes, out loud. Use something like:
+Don't call it *your* thought. Call it **"the loop"** or **"old code."**
+
+  - 
+**Speak the Reversal**
+
+Out loud. Yes, out loud. Use something like:
 
 > "This has no power unless I feed it. And I am no longer feeding illusions."
 
-    Or:
+Or:
 
 > "This is recycled emotion. I choose a live one."
 
   - 
-    **Replace with a Personal Mantra**
+**Replace with a Personal Mantra**
 
-    One sentence. Present tense. Soft power. Examples:
+One sentence. Present tense. Soft power. Examples:
 
-      "What I send out returns with softness."
+  "What I send out returns with softness."
 
-      - "There's no rush. I'm already aligned."
+  - "There's no rush. I'm already aligned."
 
-      - "My presence doesn't need permission."
+  - "My presence doesn't need permission."
 
 **Repeat it once. Then move.**
 

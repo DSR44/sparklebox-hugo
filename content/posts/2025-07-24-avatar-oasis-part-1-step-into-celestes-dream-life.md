@@ -19,43 +19,43 @@ aliases:
 ---
 Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: The Loved, Effortless Wife
 
-  ### ✨ AVATAR OASIS — PART 1
+### ✨ AVATAR OASIS — PART 1
 
-  #### 💠 “CELESTE” — Your Soft Luxury Reality
+#### 💠 “CELESTE” — Your Soft Luxury Reality
 
-  **🕊️ What This Is:**
+**🕊️ What This Is:**
 
-  A daily visualization portal.
+A daily visualization portal.
 
-  You step into a curated dream life.
+You step into a curated dream life.
 
-  You live the day as your avatar.
+You live the day as your avatar.
 
-  You feel it. You become it.
+You feel it. You become it.
 
-  **🌸 What You Do:**
+**🌸 What You Do:**
 
-  ▫️ Read the full avatar day script
+▫️ Read the full avatar day script
 
-  ▫️ Let the images, sounds, smells imprint on your mind
+▫️ Let the images, sounds, smells imprint on your mind
 
-  ▫️ Act from the version of you that already lives it
+▫️ Act from the version of you that already lives it
 
-  ▫️ Return here tomorrow for the next identity drop
+▫️ Return here tomorrow for the next identity drop
 
-  **💫 Why It Works:**
+**💫 Why It Works:**
 
-  Because the brain cannot distinguish memory from vivid imagination.
+Because the brain cannot distinguish memory from vivid imagination.
 
-  Because identity is not built — it's chosen.
+Because identity is not built — it's chosen.
 
-  Because you don’t need more advice. You need embodiment.
+Because you don’t need more advice. You need embodiment.
 
-    **✨ This is your avatar.
+**✨ This is your avatar.
 This is your life.
 This is your portal to live it fully.**
 
-    *Return whenever you desire more. You choose the vision. You walk it.*
+*Return whenever you desire more. You choose the vision. You walk it.*
 
 I open my eyes slowly.
 
@@ -75,11 +75,11 @@ The coffee waits. Ethiopian. Vanilla-sweet and hot. The scent curls through the 
 
 I don’t check my phone. I don’t need to. The world moves toward me.
 
-  #### 🎞️ Moodmark: Celeste’s Dream
+#### 🎞️ Moodmark: Celeste’s Dream
 
-  ![Celeste Mood 1](/celeste_mood.jpg)
-  ![Celeste Mood 2](/cleste_mood2.jpg)
-  A glimpse into my soft-luxury world — not just how it looks, but how it makes me feel.
+![Celeste Mood 1](/celeste_mood.jpg)
+![Celeste Mood 2](/cleste_mood2.jpg)
+A glimpse into my soft-luxury world — not just how it looks, but how it makes me feel.
 
 Now I drift through a boutique. No list. No plan. Just instinct. My fingers brush fabrics, linger on scents. I try on a silk set in a color I didn’t know I needed — and I buy it. Because I can.
 

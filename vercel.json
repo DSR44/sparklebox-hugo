@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "HUGO_ENV": "production"
+    }
+  },
   "headers": [
     {
       "source": "/musebox-dreams",

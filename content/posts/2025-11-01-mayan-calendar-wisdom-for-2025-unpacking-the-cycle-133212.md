@@ -12,7 +12,7 @@ tags:
   - "inner work"
 description: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time"
 cover:
-  image: "/generic-post-images/beauty-ritual-1.jpg"
+  image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013.jpg"
   alt: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false

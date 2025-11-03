@@ -12,7 +12,7 @@ tags:
   - "inner work"
 description: "The Spiritual Lesson in My Netflix Binge"
 cover:
-  image: "/generic-post-images/beauty-ritual-3.jpg"
+  image: "/generic-post-images/dreamcore-mirror-1.jpg"
   alt: "The Spiritual Lesson in My Netflix Binge"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false

@@ -1,4 +1,5 @@
 {
+  "buildCommand": "./build.sh",
   "build": {
     "env": {
       "HUGO_ENV": "production",

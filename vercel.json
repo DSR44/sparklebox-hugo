@@ -1,10 +1,13 @@
 {
   "build": {
     "env": {
-      "HUGO_ENV": "production"
+      "HUGO_ENV": "production",
+      "GIT_LFS_SKIP_SMUDGE": "1"
     }
   },
-  "installCommand": "git submodule update --init --recursive && hugo version",
+  "github": {
+    "silent": true
+  },
   "headers": [
     {
       "source": "/musebox-dreams",

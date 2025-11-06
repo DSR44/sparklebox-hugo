@@ -1,6 +1,6 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
-date: 2024-11-06T15:43:09+0000
+date: 2025-11-06T06:00:00+0000
 author: "manoulasfit"
 slug: "musebox-dreams"
 draft: false

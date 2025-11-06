@@ -111,22 +111,22 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
 ## 🫧 Today's Awakening
 **November 06, 2025**
 
-### Crystal Sanctuary: Awakening Inner Light
+### # Sparklebox • Awakening Affirmations
 
-*As we embark on this journey of self-discovery, may the ancient wisdom of crystals guide us toward the sanctuary of our inner selves, where love, light, and tranquility reside. Like a lotus blooming in the depths of a serene lake, our true essence unfolds, petal by petal, revealing the beauty and strength that lies within. In this sacred space, we find solace, healing, and the infinite power to manifest our dreams.*
+*# Theme: spiritual*
 
 **Daily Affirmations:**
 
-- 1 "" - "I am a crystal vessel, filled with the pure essence of my highest self, radiating love and light to all aspects of my life."
-- 2 "" - "My heart is a crystal cave, where the treasures of self-love, compassion, and kindness are hidden, waiting to be discovered and shared with the world."
-- 3 "" - "I trust that my crystal intuition guides me through life's challenges, illuminating the path to my highest good and the fulfillment of my dreams."
-- 4 "" - "My mind is a crystal clarity, reflecting the beauty and wonder of the present moment, where all possibilities and opportunities unfold."
-- 5 "" - "I am a crystal warrior, strong and resilient, armed with the power of my inner light, and the wisdom of my heart, to overcome any obstacle and achieve my goals."
-- 1 "" - "I trust that my crystal inner wisdom guides me through the labyrinth of life, leading me to the treasures of my heart's desires, and the fulfillment of my deepest longings."
-- 1 "" - "My heart is a crystal chalice, overflowing with the nectar of love, compassion, and kindness, and sharing its sweetness with all those who come into my presence."
-- 1 "" - "I am a crystal alchemist, transforming the lead of my fears and doubts into the gold of my wisdom, courage, and inner light, and manifesting the magic of my highest potential."
-- 1 "" - "My spirit is a crystal star, shining brightly in the constellation of my soul, guiding me through the darkness, and illuminating the path to my highest destiny."
-- 1 "" - "I am a crystal guardian, protecting the sanctuary of my inner world, and preserving the treasures of my heart, mind, and spirit, for the benefit of myself and the world."
+- 1 "" - "I inhale the sweetness of life, and exhale the doubts that once held me captive"
+- 2 "" - "My spirit is a canvas of endless possibilities, painted with the vibrant colors of my imagination"
+- 3 "" - "I trust the wisdom that resides within me, and allow it to guide me through life's twists and turns"
+- 4 "" - "My heart is a sanctuary of love, where compassion and kindness reside"
+- 5 "" - "I am a celestial being, connected to the stars and the infinite vastness of the universe"
+- 1 "" - "I dance with the rhythm of life, moving in harmony with the beat of my own heart"
+- 1 "" - "My presence is a gift to the world, bringing light and love to all those around me"
+- 1 "" - "I am a bridge between the earthly and spiritual realms, connecting the mundane with the mystical"
+- 1 "" - "My life is a masterpiece of creativity, crafted with the brushstrokes of imagination and intention"
+- 1 "" - "I shine with the radiance of my true nature, illuminating the path for myself and others"
 
 </div>
 

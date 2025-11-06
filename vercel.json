@@ -4,6 +4,7 @@
       "HUGO_ENV": "production"
     }
   },
+  "installCommand": "git submodule update --init --recursive && hugo version",
   "headers": [
     {
       "source": "/musebox-dreams",

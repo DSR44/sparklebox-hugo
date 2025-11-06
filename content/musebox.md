@@ -2,7 +2,6 @@
 title: "The MuseBox - Daily Visual Prompts"
 date: 2025-11-06T15:43:09Z
 url: "/musebox-dreams/"
-type: "page"
 draft: false
 ---
 

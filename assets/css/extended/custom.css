@@ -252,15 +252,15 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
     text-shadow: 0 0 12px rgba(255, 235, 59, 0.7);
 }
 
-/* Post entry cards - Enhanced */
+/* Post entry cards - INDIGO BACKGROUNDS with WHITE TEXT */
 .post-entry {
-    background: linear-gradient(145deg, #ffffff, #f8fafc);
-    border: 1px solid rgba(109, 76, 168, 0.15);
+    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
+    border: 2px solid rgba(167, 139, 250, 0.4);
     border-radius: 16px;
     padding: 1.5rem;
     box-shadow: 
-        0 8px 30px rgba(109, 76, 168, 0.12),
-        0 2px 8px rgba(139, 102, 216, 0.08);
+        0 8px 30px rgba(109, 76, 168, 0.4),
+        0 2px 8px rgba(139, 102, 216, 0.3);
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     position: relative;
     overflow: hidden;
@@ -269,10 +269,10 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
 .post-entry:hover {
     transform: translateY(-6px);
     box-shadow: 
-        0 20px 50px rgba(109, 76, 168, 0.25),
-        0 8px 20px rgba(139, 102, 216, 0.15),
-        0 0 40px var(--glow-primary);
-    border-color: var(--neon-purple);
+        0 20px 50px rgba(167, 139, 250, 0.5),
+        0 8px 20px rgba(255, 110, 199, 0.3),
+        0 0 40px var(--glow-pink);
+    border-color: var(--neon-pink);
 }
 
 .post-entry::before {
@@ -290,6 +290,39 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
 
 .post-entry:hover::before {
     transform: scaleX(1);
+}
+
+/* All text in post entry cards should be WHITE */
+.post-entry h2,
+.post-entry .entry-header h2,
+.post-entry .post-title,
+.post-entry .entry-title {
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.post-entry p,
+.post-entry .entry-content,
+.post-entry .entry-content p,
+.post-entry span,
+.post-entry time {
+    color: #ffffff !important;
+}
+
+/* Post entry footer (date/author) */
+.post-entry .entry-footer,
+.post-entry .entry-footer span {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Links in post entry cards */
+.post-entry a {
+    color: #ffffff !important;
+}
+
+.post-entry a:hover {
+    color: #ffd700 !important;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
 }
 
 /* === Site Header - Enhanced === */

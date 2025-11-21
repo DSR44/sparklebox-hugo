@@ -148,21 +148,42 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
 
 /* === GLOWING BOXES - The "High Shine" Effect === */
 
-/* Homepage affirmation box */
+/* Homepage affirmation box - INDIGO BACKGROUND with WHITE TEXT */
 .entry-content,
 .post-content > div,
 .home .post-content {
-    background: linear-gradient(145deg, rgba(255, 255, 255, 0.9), rgba(248, 250, 252, 0.95));
-    border: 2px solid transparent;
+    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
+    border: 2px solid rgba(167, 139, 250, 0.4);
     border-radius: 20px;
     padding: 2.5rem;
     box-shadow: 
-        0 10px 40px rgba(109, 76, 168, 0.15),
-        0 2px 12px rgba(139, 102, 216, 0.1),
-        inset 0 1px 0 rgba(255, 255, 255, 0.5);
+        0 10px 40px rgba(109, 76, 168, 0.4),
+        0 2px 12px rgba(139, 102, 216, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
     position: relative;
     overflow: hidden;
     backdrop-filter: blur(10px);
+    color: #ffffff !important;
+}
+
+/* Make all text inside these boxes WHITE for readability */
+.entry-content *,
+.post-content > div *,
+.home .post-content * {
+    color: #ffffff !important;
+}
+
+/* Keep headings bright white */
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.post-content > div h1,
+.post-content > div h2,
+.post-content > div h3,
+.post-content > div h4 {
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* Shimmer effect on hover */
@@ -202,8 +223,23 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
     mask-composite: exclude;
-    opacity: 0.6;
+    opacity: 0.8;
     pointer-events: none;
+}
+
+/* Links inside indigo boxes should be bright and visible */
+.entry-content a,
+.post-content > div a,
+.home .post-content a {
+    color: #ffd700 !important;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+}
+
+.entry-content a:hover,
+.post-content > div a:hover,
+.home .post-content a:hover {
+    color: #ffeb3b !important;
+    text-shadow: 0 0 12px rgba(255, 235, 59, 0.7);
 }
 
 /* Post entry cards - Enhanced */

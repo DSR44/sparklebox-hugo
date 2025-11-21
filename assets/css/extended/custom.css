@@ -53,8 +53,18 @@ body {
     font-weight: 400;
     line-height: 1.7;
     color: var(--text-color);
-    background: linear-gradient(135deg, #fafbfd 0%, #f0f4f8 100%);
+    background: linear-gradient(135deg, #2d1b4e 0%, #4b2e83 50%, #2d1b4e 100%);
     background-attachment: fixed;
+}
+
+/* Single post page wrapper - dark background */
+.post-single {
+    background: transparent;
+}
+
+.post-header {
+    background: transparent;
+    margin-bottom: 2rem;
 }
 
 /* Headings - MORE DRAMATIC */
@@ -316,15 +326,64 @@ nav a:hover {
 
 .post-title {
     font-family: 'Cormorant', serif;
-    color: var(--heading-color);
+    color: #ffffff;
     font-size: clamp(1.75rem, 3.5vw, 2.5rem);
     font-weight: 700;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
 }
 
+/* MAIN POST CONTENT - INDIGO BACKGROUND WITH WHITE TEXT */
 .post-content {
     font-size: 18px;
     line-height: 1.75;
-    color: var(--text-color);
+    color: #ffffff !important;
+    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 
+        0 10px 40px rgba(109, 76, 168, 0.4),
+        0 2px 12px rgba(139, 102, 216, 0.3),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(167, 139, 250, 0.4);
+    position: relative;
+    overflow: hidden;
+}
+
+/* All text elements inside post content should be WHITE */
+.post-content p,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6,
+.post-content li,
+.post-content span,
+.post-content strong,
+.post-content em,
+.post-content blockquote {
+    color: #ffffff !important;
+}
+
+/* Post content headings - bright and clear */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+    color: #ffffff !important;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Links inside blog posts - gold/yellow for visibility */
+.post-content a {
+    color: #ffd700 !important;
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+    text-decoration: underline;
+}
+
+.post-content a:hover {
+    color: #ffeb3b !important;
+    text-shadow: 0 0 12px rgba(255, 235, 59, 0.7);
 }
 
 .post-meta {
@@ -393,15 +452,15 @@ button:hover::before,
 /* === Blockquotes - Glowing === */
 
 blockquote {
-    border-left: 4px solid var(--neon-purple);
+    border-left: 4px solid var(--neon-pink);
     padding-left: 2rem;
     padding: 1.5rem 1.5rem 1.5rem 2rem;
     font-style: italic;
-    color: var(--primary);
+    color: #ffffff !important;
     margin: 2.5rem 0;
-    background: linear-gradient(90deg, rgba(167, 139, 250, 0.08), transparent);
+    background: linear-gradient(90deg, rgba(255, 110, 199, 0.2), transparent);
     border-radius: 0 12px 12px 0;
-    box-shadow: -4px 0 12px rgba(167, 139, 250, 0.2);
+    box-shadow: -4px 0 12px rgba(255, 110, 199, 0.3);
     position: relative;
 }
 
@@ -411,10 +470,14 @@ blockquote::before {
     top: -10px;
     left: 10px;
     font-size: 4rem;
-    color: var(--neon-purple);
-    opacity: 0.3;
+    color: var(--neon-pink);
+    opacity: 0.4;
     font-family: Georgia, serif;
     line-height: 1;
+}
+
+blockquote p {
+    color: #ffffff !important;
 }
 
 /* === Images with glow === */

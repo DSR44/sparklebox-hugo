@@ -2,14 +2,13 @@
 title: "The Spiritual Lesson in My Netflix Binge"
 date: 2025-11-03T06:12:33+00:00
 categories:
-  - "Mystical Wisdom Series"
   - "Transmutational Alchemy"
   - "Ancient Wisdom"
 tags:
-  - "mystical-wisdom-series"
   - "mysticism"
   - "consciousness"
   - "inner work"
+  - "spirituality"
 description: "The Spiritual Lesson in My Netflix Binge"
 cover:
   image: "/generic-post-images/dreamcore-mirror-1.jpg"

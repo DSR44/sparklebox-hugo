@@ -2,14 +2,13 @@
 title: "Aphrodite's Skincare Ritual"
 date: 2025-10-24T07:15:14+00:00
 categories:
-  - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
   - "Ancient Wisdom"
+  - "Divine Feminine"
 tags:
-  - "mystical-wisdom-series"
-  - "mysticism"
-  - "consciousness"
-  - "inner work"
+  - "goddess-energy"
+  - "self-care"
+  - "beauty-rituals"
+  - "aphrodite"
 description: "Aphrodite's Skincare Ritual"
 cover:
   image: "/generic-post-images/moon-spell-3.jpg"

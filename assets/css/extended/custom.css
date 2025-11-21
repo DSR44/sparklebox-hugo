@@ -79,29 +79,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: clamp(2.25rem, 5vw, 3.5rem);
-    line-height: 1;
+    font-size: clamp(1.75rem, 5vw, 3.5rem);
+    line-height: 1.2;
     background: linear-gradient(135deg, var(--heading-color) 0%, var(--primary) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    word-wrap: break-word;
+    hyphens: auto;
 }
 
 h2 {
     font-size: clamp(1.875rem, 4vw, 2.75rem);
-    line-height: 1.1;
+    line-height: 1.3;
     position: relative;
-}
-
-h2::after {
-    content: '';
-    position: absolute;
-    bottom: -8px;
-    left: 0;
-    width: 60px;
-    height: 3px;
-    background: linear-gradient(90deg, var(--neon-pink), var(--neon-purple));
-    border-radius: 2px;
+    word-wrap: break-word;
+    hyphens: auto;
 }
 
 h3 {
@@ -587,4 +580,84 @@ img:hover {
     background: linear-gradient(90deg, var(--neon-pink), var(--neon-purple), var(--steel-blue));
     z-index: 9999;
     box-shadow: 0 2px 12px rgba(255, 110, 199, 0.6);
+}
+
+/* === MOBILE OPTIMIZATION === */
+
+/* Better mobile typography */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    
+    h1 {
+        font-size: 1.5rem !important;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+        word-break: break-word;
+        overflow-wrap: break-word;
+    }
+    
+    h2 {
+        font-size: 1.35rem !important;
+        line-height: 1.4;
+        margin-bottom: 0.75rem;
+        word-break: break-word;
+        overflow-wrap: break-word;
+    }
+    
+    h3 {
+        font-size: 1.2rem !important;
+        line-height: 1.4;
+        word-break: break-word;
+    }
+    
+    h4 {
+        font-size: 1.1rem !important;
+    }
+    
+    /* Homepage affirmation boxes - better mobile padding */
+    .entry-content,
+    .post-content > div,
+    .home .post-content {
+        padding: 1.5rem;
+        border-radius: 16px;
+    }
+    
+    /* Post content - better mobile spacing */
+    .post-content {
+        padding: 1.5rem;
+        font-size: 16px;
+    }
+    
+    /* Post entry cards - mobile friendly */
+    .post-entry {
+        padding: 1.25rem;
+    }
+    
+    /* Site title - prevent awkward breaking */
+    .site-title,
+    #site-title {
+        font-size: 1.5rem;
+        line-height: 1.3;
+        word-spacing: 0.2em;
+    }
+}
+
+/* Very small screens */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.35rem !important;
+    }
+    
+    h2 {
+        font-size: 1.2rem !important;
+    }
+    
+    .entry-content,
+    .post-content > div,
+    .home .post-content,
+    .post-content {
+        padding: 1.25rem;
+    }
 }

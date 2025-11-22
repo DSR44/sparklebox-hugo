@@ -1,17 +1,21 @@
 ---
-title: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care through the Symbolism of the Rose. Context: Explore the history and mythology of the rose across different cultures (Greek, Persian, Christian mysticism). Create a practical ritual that incorporates rose petals, rose essential oil, or rose water. Connect to themes of divine feminine, heart chakra, and self-compassion. Include both the spiritual symbolism and practical self-care practices."
+title: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care"
 date: 2025-11-21T20:42:48+00:00
 categories:
   - "Sparklebox Realm"
+  - "Divine Feminine"
+  - "Ancient Wisdom"
 tags:
   - "spirituality"
-  - "alchemy"
-  - "consciousness"
-  - "transformation"
-description: "As I sit amidst the soft glow of candlelight, surrounded by the gentle whispers of rose petals, I am reminded of the ancient wisdom that..."
+  - "self-love"
+  - "ritual"
+  - "rose-magic"
+  - "heart-chakra"
+  - "divine-feminine"
+description: "As I sit amidst the soft glow of candlelight, surrounded by the gentle whispers of rose petals, I am reminded of the ancient wisdom that has long revered this mystical flower."
 cover:
   image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013_02.jpg"
-  alt: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care through the Symbolism of the Rose. Context: Explore the history and mythology of the rose across different cultures (Greek, Persian, Christian mysticism). Create a practical ritual that incorporates rose petals, rose essential oil, or rose water. Connect to themes of divine feminine, heart chakra, and self-compassion. Include both the spiritual symbolism and practical self-care practices."
+  alt: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---

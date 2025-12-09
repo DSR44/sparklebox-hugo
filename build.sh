@@ -1,11 +1,9 @@
 #!/bin/bash
-# Vercel build script for Hugo with git submodules
+# Vercel build script for Hugo
 
-echo "🔧 Initializing git submodules..."
-git submodule update --init --recursive
+set -e  # Exit on any error
 
 echo "📦 Building Hugo site..."
-hugo --minify
+hugo --minify --gc
 
 echo "✅ Build complete!"
-

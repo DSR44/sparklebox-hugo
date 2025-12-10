@@ -1,10 +1,7 @@
 {
-  "buildCommand": "hugo --minify",
-  "outputDirectory": "public",
-  "installCommand": "yum install -y golang && go install github.com/gohugoio/hugo@v0.139.0",
   "build": {
     "env": {
-      "HUGO_ENV": "production"
+      "HUGO_VERSION": "0.139.0"
     }
   },
   "github": {

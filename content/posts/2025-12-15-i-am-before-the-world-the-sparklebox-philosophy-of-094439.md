@@ -2,12 +2,15 @@
 title: "I Am Before the World: The Sparklebox Philosophy of Perceptive Creation"
 date: 2025-12-15T05:44:39+00:00
 categories:
-  - "Sparklebox Realm"
+  - "The Perception Engine"
+  - "Mystical Wisdom Series"
 tags:
-  - "spirituality"
-  - "alchemy"
+  - "perception"
+  - "i am"
+  - "reality creation"
   - "consciousness"
-  - "transformation"
+  - "perceptive authorship"
+  - "sparklebox philosophy"
 description: "Before the world appears solid, it is perceived. Before events feel meaningful, they are interpreted. Before life feels heavy or light, fast or slow, ..."
 cover:
   image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_02.jpg"

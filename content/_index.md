@@ -1,13 +1,18 @@
 ---
-title: "Welcome to Sparklebox - Your Metaverse Portal"
+title: "Welcome to Sparklebox - The Perception Engine"
 ---
 
 <style>
-/* Sparklebox Homepage - Metaverse Portal Design */
+/* ============================================================ */
+/* SPARKLEBOX HOMEPAGE - PERCEPTION PHILOSOPHY DESIGN */
+/* ============================================================ */
+
+/* Hero Section */
 .hero-section {
     text-align: center;
-    margin: 0 auto 4rem;
+    margin: 0 auto 3rem;
     max-width: 1000px;
+    position: relative;
 }
 
 .hero-image {
@@ -18,6 +23,144 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
     margin-bottom: 2rem;
 }
 
+/* Animated Pyramid/Prism */
+.perception-prism {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 1.5rem;
+    position: relative;
+    animation: float 6s ease-in-out infinite;
+}
+
+.prism-shape {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 100px solid;
+    position: absolute;
+    filter: drop-shadow(0 0 20px rgba(147, 112, 219, 0.6));
+}
+
+.prism-1 {
+    border-bottom-color: rgba(75, 46, 131, 0.7);
+    animation: prism-glow 3s ease-in-out infinite;
+}
+
+.prism-2 {
+    border-bottom-color: rgba(147, 112, 219, 0.5);
+    transform: scale(0.85) translateY(8px);
+    animation: prism-glow 3s ease-in-out infinite 0.5s;
+}
+
+.prism-3 {
+    border-bottom-color: rgba(200, 180, 255, 0.3);
+    transform: scale(0.7) translateY(16px);
+    animation: prism-glow 3s ease-in-out infinite 1s;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes prism-glow {
+    0%, 100% { opacity: 0.7; filter: drop-shadow(0 0 15px rgba(147, 112, 219, 0.5)); }
+    50% { opacity: 1; filter: drop-shadow(0 0 30px rgba(147, 112, 219, 0.9)); }
+}
+
+/* Perception Philosophy Box */
+.perception-intro {
+    max-width: 800px;
+    margin: 2rem auto 3rem;
+    padding: 2.5rem;
+    background: linear-gradient(145deg, rgba(75, 46, 131, 0.08), rgba(147, 112, 219, 0.05));
+    border: 2px solid rgba(75, 46, 131, 0.2);
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.perception-intro::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(147, 112, 219, 0.1) 0%, transparent 70%);
+    animation: shimmer 8s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+    0%, 100% { transform: translate(0, 0); }
+    50% { transform: translate(10%, 10%); }
+}
+
+.perception-intro h3 {
+    font-family: 'Cormorant', serif;
+    font-size: 1.8rem;
+    color: #3f2469;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.perception-intro p {
+    color: #5a4a75;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+.signature-line {
+    font-family: 'Cormorant', serif;
+    font-size: 1.3rem;
+    font-style: italic;
+    color: #4b2e83;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(75, 46, 131, 0.2);
+}
+
+/* What We Explore Grid */
+.explore-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    max-width: 800px;
+    margin: 2rem auto;
+}
+
+.explore-item {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(75, 46, 131, 0.15);
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.explore-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(75, 46, 131, 0.15);
+    border-color: rgba(75, 46, 131, 0.3);
+}
+
+.explore-item span {
+    font-size: 1.5rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.explore-item strong {
+    color: #3f2469;
+    font-family: 'Cormorant', serif;
+    font-size: 1.1rem;
+}
+
+/* Portal Cards */
 .portal-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -77,6 +220,81 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
     text-decoration: none !important;
 }
 
+/* Perception Engine Featured Section */
+.perception-engine-box {
+    max-width: 900px;
+    margin: 4rem auto;
+    padding: 3rem 2.5rem;
+    background: linear-gradient(145deg, rgba(75, 46, 131, 0.12), rgba(63, 36, 105, 0.08));
+    border: 3px solid rgba(75, 46, 131, 0.3);
+    border-radius: 25px;
+    box-shadow: 0 15px 50px rgba(75, 46, 131, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.perception-engine-box::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #4b2e83, #9370db, #4b2e83);
+    animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes gradient-shift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+.perception-engine-box h2 {
+    font-family: 'Cormorant', serif;
+    color: #3f2469;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.perception-engine-box .subtitle {
+    color: #4b2e83;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.concept-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.concept-item {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 1.5rem;
+    border-radius: 15px;
+    border-left: 4px solid #4b2e83;
+}
+
+.concept-item h4 {
+    color: #3f2469;
+    font-family: 'Cormorant', serif;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.concept-item p {
+    color: #5a4a75;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Affirmation Box */
 .affirmation-box {
     background: linear-gradient(135deg, rgba(75, 46, 131, 0.08), rgba(63, 36, 105, 0.05));
     border-left: 4px solid #4b2e83;
@@ -94,18 +312,92 @@ title: "Welcome to Sparklebox - Your Metaverse Portal"
     margin: 4rem 0 2rem;
     letter-spacing: 0.05em;
 }
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .perception-prism {
+        width: 80px;
+        height: 80px;
+    }
+    .prism-shape {
+        border-left: 40px solid transparent;
+        border-right: 40px solid transparent;
+        border-bottom: 70px solid;
+    }
+    .perception-intro h3 {
+        font-size: 1.4rem;
+    }
+    .perception-engine-box h2 {
+        font-size: 1.8rem;
+    }
+}
 </style>
 
+<!-- HERO SECTION -->
 <div class="hero-section">
-  <img src="/new_homepage_image.jpg" alt="Sparklebox - Your Portal to Cosmic Becoming" class="hero-image">
+  
+  <!-- Animated Perception Prism -->
+  <div class="perception-prism">
+    <div class="prism-shape prism-1"></div>
+    <div class="prism-shape prism-2"></div>
+    <div class="prism-shape prism-3"></div>
+  </div>
   
   <h1 style="font-family: 'Cormorant', serif; font-size: 3rem; color: #3f2469; margin: 1rem 0;">𖤐 Welcome to Sparklebox 𖤐</h1>
-  <p style="font-size: 1.3rem; color: #5a4a75; font-style: italic;">Your Sanctuary of Self-Remembrance</p>
-  <p style="font-size: 1.1rem; color: #4b2e83; max-width: 700px; margin: 1.5rem auto;">Where words become spells, dreams turn into blueprints, and every download is a portal to your higher reality.</p>
+  
+  <p style="font-size: 1.4rem; color: #4b2e83; font-style: italic; max-width: 700px; margin: 0 auto;">
+    Where perception becomes creation.
+  </p>
+</div>
+
+<!-- PERCEPTION PHILOSOPHY INTRO -->
+<div class="perception-intro">
+  <h3>Reality Does Not Arrive Finished</h3>
+  
+  <p>
+    Sparklebox is a place for those who sense that reality is not only something we live in — <strong>but something we participate in</strong>.
+  </p>
+  
+  <p>
+    Here, we explore how perception shapes experience, how the quiet <em>"I am"</em> beneath identity influences the world we see, and how <strong>curiosity keeps life alive</strong>.
+  </p>
+  
+  <p>
+    This is not about answers, doctrines, or beliefs. It is about <strong>noticing</strong>. Wondering. And gently re-entering the act of perception itself.
+  </p>
+  
+  <div class="signature-line">
+    ✦ Perception is not a mirror of the world. It is the doorway through which the world arrives. ✦
+  </div>
+</div>
+
+<!-- WHAT SPARKLEBOX EXPLORES -->
+<div class="explore-grid">
+  <div class="explore-item">
+    <span>👁️</span>
+    <strong>Perception</strong>
+    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">How reality is experienced & reassured</p>
+  </div>
+  <div class="explore-item">
+    <span>🌙</span>
+    <strong>Inner Worlds</strong>
+    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Imagination, reflection & quiet thought</p>
+  </div>
+  <div class="explore-item">
+    <span>⏳</span>
+    <strong>Time & Novelty</strong>
+    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Why curiosity keeps life alive</p>
+  </div>
+  <div class="explore-item">
+    <span>🔮</span>
+    <strong>Dream & Symbol</strong>
+    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Meaning beneath the visible</p>
+  </div>
 </div>
 
 ---
 
+<!-- TODAY'S AFFIRMATIONS -->
 <div class="affirmation-box">
 
 ## 🫧 Today's Awakening
@@ -177,12 +469,11 @@ This affirmation acknowledges the individual's role as a beacon of light and hop
 
 This affirmation recognizes the value of personal experience and the wisdom gained from navigating life's challenges, where the individual is refined and transformed into a shining jewel of insight and understanding.
 
-
 </div>
 
 ---
 
-<h2 class="section-title">✨ Enter the Sparklebox Metaverse ✨</h2>
+<h2 class="section-title">✨ Enter the Sparklebox Realms ✨</h2>
 
 <div class="portal-grid">
 
@@ -214,41 +505,57 @@ This affirmation recognizes the value of personal experience and the wisdom gain
 
 ---
 
-<div style="max-width: 900px; margin: 4rem auto; padding: 3rem 2.5rem; background: linear-gradient(135deg, rgba(75, 46, 131, 0.12), rgba(63, 36, 105, 0.08)); border: 3px solid rgba(75, 46, 131, 0.3); border-radius: 25px; box-shadow: 0 15px 50px rgba(75, 46, 131, 0.2);">
+<!-- THE PERCEPTION ENGINE - SIGNATURE SERIES -->
+<div class="perception-engine-box">
 
 <div style="text-align: center;">
-  <div style="font-size: 3rem; margin-bottom: 0.5rem;">🏛️</div>
-  <h2 style="font-family: 'Cormorant', serif; color: #3f2469; font-size: 2.5rem; margin-bottom: 1rem; letter-spacing: 0.02em;">Mystical Wisdom for Your Journey</h2>
-  <p style="color: #4b2e83; font-size: 1.1rem; font-weight: 600; margin-bottom: 1.5rem; font-style: italic;">✨ The Signature Series ✨</p>
+  <div style="font-size: 3rem; margin-bottom: 0.5rem;">△</div>
+  <h2>The Perception Engine</h2>
+  <p class="subtitle">✦ Essays on Reality, Consciousness & the Art of Seeing ✦</p>
 </div>
 
-<div style="color: #5a4a75; font-size: 1.05rem; line-height: 1.8; margin-bottom: 2rem;">
-  <p style="margin-bottom: 1rem;">
-    <strong style="color: #3f2469;">Deep-dive transmissions</strong> that blend <strong>ancient priestess wisdom</strong> with modern psychology and neuroscience.
-  </p>
-  
-  <p style="margin-bottom: 1rem;">
-    Each volume explores profound themes like <strong>emotional alchemy</strong>, <strong>sacred rage</strong>, <strong>embodied sovereignty</strong>, and the hidden mechanisms of your inner world.
-  </p>
-  
-  <p style="margin-bottom: 1.5rem;">
-    Not tips. Not fluff. <strong>Mystical technology</strong> for women who crave depth, transformation, and truth.
-  </p>
-  
-  <div style="background: rgba(255, 255, 255, 0.6); padding: 1.5rem; border-radius: 15px; border-left: 4px solid #4b2e83; margin-bottom: 2rem;">
-    <p style="margin: 0; font-size: 0.95rem; color: #666;">
-      <strong style="color: #3f2469;">Topics Include:</strong> Sumerian goddesses • Celtic priestesses • Mirror neurons • Emotional labor as portal • Transmuting pain into power • Ancient temple practices • Modern neuroscience • Embodiment as alchemy
-    </p>
+<p style="color: #5a4a75; font-size: 1.05rem; line-height: 1.8; text-align: center; margin-bottom: 2rem;">
+  A philosophical exploration of how <strong>perception shapes reality</strong>. These essays examine the "I am" state, the feedback loop between inner and outer worlds, and why <strong>novelty keeps the soul alive</strong>.
+</p>
+
+<div class="concept-grid">
+  <div class="concept-item">
+    <h4>👁️ Perceptive Creation</h4>
+    <p>Reality is not fixed — it is a feedback system that stabilizes perception. What you perceive yourself to be, the world reflects back.</p>
+  </div>
+  <div class="concept-item">
+    <h4>✦ The "I Am" State</h4>
+    <p>Before identity, before roles — there is a felt sense of being. This is where reality begins. This is the doorway.</p>
+  </div>
+  <div class="concept-item">
+    <h4>🌀 Novelty & Time</h4>
+    <p>When perception stagnates, life feels heavy. When curiosity returns, time stretches. Thinking keeps us alive.</p>
+  </div>
+  <div class="concept-item">
+    <h4>🪞 Reality as Mirror</h4>
+    <p>Your outer world constantly reassures your inner self-image. What repeats is what's being internally confirmed.</p>
   </div>
 </div>
 
-<div style="text-align: center;">
-  <a href="/categories/mystical-wisdom-series/" style="display: inline-block; background: linear-gradient(135deg, #4b2e83 0%, #3f2469 100%); color: white; padding: 16px 40px; border-radius: 15px; text-decoration: none; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1rem; letter-spacing: 0.05em; text-transform: uppercase; transition: all 0.3s ease; box-shadow: 0 6px 25px rgba(75, 46, 131, 0.4);">
-    📚 Explore the Series
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="/categories/the-perception-engine/" style="display: inline-block; background: linear-gradient(135deg, #4b2e83 0%, #3f2469 100%); color: white; padding: 16px 40px; border-radius: 15px; text-decoration: none; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1rem; letter-spacing: 0.05em; text-transform: uppercase; transition: all 0.3s ease; box-shadow: 0 6px 25px rgba(75, 46, 131, 0.4);">
+    △ Enter The Perception Engine
   </a>
-  <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">Currently 3 volumes • Updated weekly</p>
+  <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">The philosophical backbone of Sparklebox</p>
 </div>
 
+</div>
+
+---
+
+<!-- CLOSING INVITATION -->
+<div style="max-width: 700px; margin: 4rem auto; text-align: center; padding: 2rem;">
+  <p style="font-family: 'Cormorant', serif; font-size: 1.4rem; color: #5a4a75; line-height: 1.8; font-style: italic;">
+    If you feel drawn to question how you see,<br>
+    to wonder rather than rush,<br>
+    and to explore the subtle architecture behind experience —<br>
+    <strong style="color: #3f2469;">you are in the right place.</strong>
+  </p>
 </div>
 
 ---

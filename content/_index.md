@@ -1,592 +1,704 @@
 ---
-title: "Welcome to Sparklebox - The Perception Engine"
+title: "Welcome to the Sparklebox Sanctuary"
 ---
 
 <style>
 /* ============================================================ */
-/* SPARKLEBOX HOMEPAGE - PERCEPTION PHILOSOPHY DESIGN */
+/* SPARKLEBOX SANCTUARY - PREMIUM REDESIGN */
 /* ============================================================ */
 
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Raleway:wght@300;400;500&display=swap');
+
+/* Global Typography */
+.post-content {
+    font-family: 'Raleway', sans-serif;
+    color: #2d2640;
+    line-height: 1.8;
+}
+
+.post-content h1, .post-content h2, .post-content h3 {
+    font-family: 'Cinzel', serif;
+    color: #1a1428;
+    letter-spacing: 0.03em;
+}
+
 /* Hero Section */
-.hero-section {
+.sanctuary-hero {
     text-align: center;
-    margin: 0 auto 3rem;
-    max-width: 1000px;
-    position: relative;
-}
-
-.hero-image {
-    width: 100%;
+    padding: 3rem 1rem 2rem;
     max-width: 900px;
-    border-radius: 25px;
-    box-shadow: 0 15px 50px rgba(75, 46, 131, 0.3);
-    margin-bottom: 2rem;
+    margin: 0 auto;
 }
 
-/* Animated Pyramid/Prism */
-.perception-prism {
-    width: 120px;
-    height: 120px;
-    margin: 0 auto 1.5rem;
+.sanctuary-title {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 500;
+    color: #1a1428;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.08em;
+}
+
+.sanctuary-subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: #6b5b8a;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-top: 0.5rem;
+}
+
+/* Large Animated Pyramid */
+.pyramid-container {
+    width: 200px;
+    height: 200px;
+    margin: 2.5rem auto;
     position: relative;
-    animation: float 6s ease-in-out infinite;
+    perspective: 500px;
 }
 
-.prism-shape {
+.pyramid-main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    animation: pyramid-float 5s ease-in-out infinite;
+}
+
+.pyramid-face {
+    position: absolute;
     width: 0;
     height: 0;
-    border-left: 60px solid transparent;
-    border-right: 60px solid transparent;
-    border-bottom: 100px solid;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.pyramid-face-1 {
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 170px solid rgba(75, 46, 131, 0.85);
+    filter: drop-shadow(0 0 30px rgba(147, 112, 219, 0.6));
+    animation: pyramid-glow 4s ease-in-out infinite;
+}
+
+.pyramid-face-2 {
+    border-left: 85px solid transparent;
+    border-right: 85px solid transparent;
+    border-bottom: 145px solid rgba(147, 112, 219, 0.5);
+    top: 12px;
+    filter: drop-shadow(0 0 20px rgba(200, 180, 255, 0.5));
+    animation: pyramid-glow 4s ease-in-out infinite 0.5s;
+}
+
+.pyramid-face-3 {
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 120px solid rgba(200, 180, 255, 0.35);
+    top: 24px;
+    filter: drop-shadow(0 0 15px rgba(220, 200, 255, 0.4));
+    animation: pyramid-glow 4s ease-in-out infinite 1s;
+}
+
+.pyramid-eye {
     position: absolute;
-    filter: drop-shadow(0 0 20px rgba(147, 112, 219, 0.6));
+    width: 30px;
+    height: 20px;
+    left: 50%;
+    top: 70px;
+    transform: translateX(-50%);
+    border: 2px solid rgba(255, 215, 0, 0.8);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    animation: eye-glow 3s ease-in-out infinite;
 }
 
-.prism-1 {
-    border-bottom-color: rgba(75, 46, 131, 0.7);
-    animation: prism-glow 3s ease-in-out infinite;
-}
-
-.prism-2 {
-    border-bottom-color: rgba(147, 112, 219, 0.5);
-    transform: scale(0.85) translateY(8px);
-    animation: prism-glow 3s ease-in-out infinite 0.5s;
-}
-
-.prism-3 {
-    border-bottom-color: rgba(200, 180, 255, 0.3);
-    transform: scale(0.7) translateY(16px);
-    animation: prism-glow 3s ease-in-out infinite 1s;
-}
-
-@keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-}
-
-@keyframes prism-glow {
-    0%, 100% { opacity: 0.7; filter: drop-shadow(0 0 15px rgba(147, 112, 219, 0.5)); }
-    50% { opacity: 1; filter: drop-shadow(0 0 30px rgba(147, 112, 219, 0.9)); }
-}
-
-/* Perception Philosophy Box */
-.perception-intro {
-    max-width: 800px;
-    margin: 2rem auto 3rem;
-    padding: 2.5rem;
-    background: linear-gradient(145deg, rgba(75, 46, 131, 0.08), rgba(147, 112, 219, 0.05));
-    border: 2px solid rgba(75, 46, 131, 0.2);
-    border-radius: 25px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-}
-
-.perception-intro::before {
+.pyramid-eye::after {
     content: '';
     position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, rgba(147, 112, 219, 0.1) 0%, transparent 70%);
-    animation: shimmer 8s ease-in-out infinite;
+    width: 8px;
+    height: 8px;
+    background: rgba(255, 215, 0, 0.9);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.8);
 }
 
-@keyframes shimmer {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(10%, 10%); }
+@keyframes pyramid-float {
+    0%, 100% { transform: translateY(0) rotateY(0deg); }
+    50% { transform: translateY(-15px) rotateY(5deg); }
 }
 
-.perception-intro h3 {
-    font-family: 'Cormorant', serif;
-    font-size: 1.8rem;
-    color: #3f2469;
-    margin-bottom: 1rem;
-    position: relative;
+@keyframes pyramid-glow {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 1; }
 }
 
-.perception-intro p {
-    color: #5a4a75;
-    font-size: 1.1rem;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    position: relative;
+@keyframes eye-glow {
+    0%, 100% { box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); }
+    50% { box-shadow: 0 0 25px rgba(255, 215, 0, 0.9); }
 }
 
-.signature-line {
-    font-family: 'Cormorant', serif;
-    font-size: 1.3rem;
-    font-style: italic;
+/* Core Philosophy Statement */
+.philosophy-statement {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    font-weight: 400;
     color: #4b2e83;
-    margin-top: 1.5rem;
-    padding-top: 1rem;
-    border-top: 1px solid rgba(75, 46, 131, 0.2);
+    text-align: center;
+    margin: 1rem auto 2rem;
+    letter-spacing: 0.1em;
 }
 
-/* What We Explore Grid */
-.explore-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
+/* Invitation Box */
+.invitation-box {
+    max-width: 700px;
+    margin: 0 auto 3rem;
+    padding: 2rem 2.5rem;
+    background: linear-gradient(135deg, rgba(75, 46, 131, 0.06) 0%, rgba(147, 112, 219, 0.04) 100%);
+    border: 1px solid rgba(75, 46, 131, 0.15);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.invitation-box p {
+    font-size: 1.1rem;
+    color: #4a3f5c;
+    line-height: 1.9;
+    margin: 0;
+}
+
+.invitation-box em {
+    color: #6b5b8a;
+}
+
+/* Divider */
+.sanctuary-divider {
+    width: 80px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #9370db, transparent);
+    margin: 2.5rem auto;
+    border: none;
+}
+
+/* Affirmation Card - Modern Design */
+.affirmation-card {
     max-width: 800px;
     margin: 2rem auto;
-}
-
-.explore-item {
-    background: rgba(255, 255, 255, 0.7);
-    border: 1px solid rgba(75, 46, 131, 0.15);
-    border-radius: 12px;
-    padding: 1rem;
-    text-align: center;
-    transition: all 0.3s ease;
-}
-
-.explore-item:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(75, 46, 131, 0.15);
-    border-color: rgba(75, 46, 131, 0.3);
-}
-
-.explore-item span {
-    font-size: 1.5rem;
-    display: block;
-    margin-bottom: 0.5rem;
-}
-
-.explore-item strong {
-    color: #3f2469;
-    font-family: 'Cormorant', serif;
-    font-size: 1.1rem;
-}
-
-/* Portal Cards */
-.portal-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    margin: 3rem auto;
-    max-width: 1200px;
-}
-
-.portal-card {
-    background: linear-gradient(145deg, rgba(250, 253, 255, 0.9), rgba(238, 244, 247, 0.7));
-    border: 2px solid rgba(75, 46, 131, 0.2);
-    border-radius: 20px;
-    padding: 2rem;
-    text-align: center;
-    transition: all 0.3s ease;
-    box-shadow: 0 5px 20px rgba(75, 46, 131, 0.1);
-}
-
-.portal-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 40px rgba(75, 46, 131, 0.25);
-    border-color: rgba(75, 46, 131, 0.4);
-}
-
-.portal-card h3 {
-    font-family: 'Cormorant', serif;
-    font-size: 1.5rem;
-    color: #3f2469;
-    margin-bottom: 0.5rem;
-}
-
-.portal-card p {
-    font-size: 0.95rem;
-    color: #5a4a75;
-    margin-bottom: 1.5rem;
-}
-
-.portal-btn {
-    display: inline-block;
-    background: linear-gradient(135deg, #4b2e83 0%, #3f2469 100%);
-    color: white !important;
-    padding: 12px 28px;
-    border-radius: 12px;
-    text-decoration: none;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 700;
-    font-size: 0.9rem;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 15px rgba(75, 46, 131, 0.3);
-}
-
-.portal-btn:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 25px rgba(75, 46, 131, 0.4);
-    text-decoration: none !important;
-}
-
-/* Perception Engine Featured Section */
-.perception-engine-box {
-    max-width: 900px;
-    margin: 4rem auto;
-    padding: 3rem 2.5rem;
-    background: linear-gradient(145deg, rgba(75, 46, 131, 0.12), rgba(63, 36, 105, 0.08));
-    border: 3px solid rgba(75, 46, 131, 0.3);
-    border-radius: 25px;
-    box-shadow: 0 15px 50px rgba(75, 46, 131, 0.2);
-    position: relative;
+    background: linear-gradient(145deg, #fdfbff 0%, #f8f5fc 100%);
+    border: 1px solid rgba(75, 46, 131, 0.12);
+    border-radius: 24px;
     overflow: hidden;
+    box-shadow: 0 8px 40px rgba(75, 46, 131, 0.08);
 }
 
-.perception-engine-box::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, #4b2e83, #9370db, #4b2e83);
-    animation: gradient-shift 3s ease infinite;
-}
-
-@keyframes gradient-shift {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-}
-
-.perception-engine-box h2 {
-    font-family: 'Cormorant', serif;
-    color: #3f2469;
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
+.affirmation-header {
+    background: linear-gradient(135deg, #4b2e83 0%, #6b4a9e 100%);
+    padding: 1.5rem 2rem;
     text-align: center;
-    letter-spacing: 0.02em;
 }
 
-.perception-engine-box .subtitle {
+.affirmation-header h2 {
+    font-family: 'Cinzel', serif;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin: 0 0 0.3rem 0;
+    letter-spacing: 0.1em;
+}
+
+.affirmation-header .date {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+.affirmation-theme {
+    padding: 1.5rem 2rem;
+    background: rgba(75, 46, 131, 0.03);
+    border-bottom: 1px solid rgba(75, 46, 131, 0.08);
+}
+
+.affirmation-theme h3 {
+    font-family: 'Cinzel', serif;
     color: #4b2e83;
-    font-size: 1.1rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-    font-style: italic;
+    font-size: 1.2rem;
+    margin: 0 0 0.8rem 0;
     text-align: center;
 }
 
-.concept-grid {
+.affirmation-theme p {
+    color: #5a4a6e;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    text-align: center;
+    margin: 0;
+}
+
+.affirmation-list {
+    padding: 1.5rem 2rem 2rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
+    gap: 1rem;
 }
 
-.concept-item {
-    background: rgba(255, 255, 255, 0.6);
-    padding: 1.5rem;
-    border-radius: 15px;
-    border-left: 4px solid #4b2e83;
+.affirmation-item {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem;
+    background: white;
+    border-radius: 12px;
+    border: 1px solid rgba(75, 46, 131, 0.06);
+    transition: all 0.3s ease;
 }
 
-.concept-item h4 {
-    color: #3f2469;
-    font-family: 'Cormorant', serif;
-    font-size: 1.2rem;
-    margin-bottom: 0.5rem;
+.affirmation-item:hover {
+    border-color: rgba(75, 46, 131, 0.15);
+    box-shadow: 0 4px 15px rgba(75, 46, 131, 0.08);
 }
 
-.concept-item p {
-    color: #5a4a75;
+.affirmation-number {
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(135deg, #4b2e83, #6b4a9e);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.affirmation-text {
+    font-style: italic;
+    color: #3d3250;
     font-size: 0.95rem;
     line-height: 1.6;
 }
 
-/* Affirmation Box */
-.affirmation-box {
-    background: linear-gradient(135deg, rgba(75, 46, 131, 0.08), rgba(63, 36, 105, 0.05));
-    border-left: 4px solid #4b2e83;
-    padding: 2rem;
-    border-radius: 15px;
-    margin: 2rem auto;
-    max-width: 800px;
+.affirmation-note {
+    font-size: 0.85rem;
+    color: #7a6b8a;
+    margin-top: 0.5rem;
+    font-style: normal;
 }
 
-.section-title {
-    font-family: 'Cormorant', serif;
-    color: #3f2469;
+/* Show More Button */
+.show-more-btn {
+    display: block;
+    width: fit-content;
+    margin: 1rem auto 0;
+    padding: 0.8rem 2rem;
+    background: transparent;
+    border: 1px solid #4b2e83;
+    color: #4b2e83;
+    font-family: 'Raleway', sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.show-more-btn:hover {
+    background: #4b2e83;
+    color: white;
+}
+
+/* Portal Cards */
+.portal-section {
+    margin: 4rem auto;
+    max-width: 1100px;
+}
+
+.portal-section-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.6rem;
+    color: #1a1428;
     text-align: center;
-    font-size: 2.2rem;
-    margin: 4rem 0 2rem;
-    letter-spacing: 0.05em;
+    margin-bottom: 2rem;
+    letter-spacing: 0.08em;
 }
 
-/* Mobile Responsive */
+.portal-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.portal-card {
+    background: white;
+    border: 1px solid rgba(75, 46, 131, 0.1);
+    border-radius: 16px;
+    padding: 1.8rem;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(75, 46, 131, 0.05);
+}
+
+.portal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 35px rgba(75, 46, 131, 0.12);
+    border-color: rgba(75, 46, 131, 0.2);
+}
+
+.portal-card h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.15rem;
+    color: #2d2640;
+    margin-bottom: 0.6rem;
+}
+
+.portal-card p {
+    font-size: 0.9rem;
+    color: #6b5b8a;
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+}
+
+.portal-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #4b2e83 0%, #5d3a9e 100%);
+    color: white !important;
+    padding: 10px 24px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.portal-btn:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 15px rgba(75, 46, 131, 0.3);
+}
+
+/* Perception Engine Feature */
+.perception-feature {
+    max-width: 850px;
+    margin: 4rem auto;
+    padding: 2.5rem;
+    background: linear-gradient(145deg, rgba(75, 46, 131, 0.08) 0%, rgba(147, 112, 219, 0.05) 100%);
+    border: 1px solid rgba(75, 46, 131, 0.15);
+    border-radius: 24px;
+    text-align: center;
+}
+
+.perception-feature h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    color: #2d2640;
+    margin-bottom: 0.5rem;
+}
+
+.perception-feature .tagline {
+    color: #6b5b8a;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+}
+
+.concept-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+    margin: 1.5rem 0;
+}
+
+.concept-pill {
+    background: white;
+    border: 1px solid rgba(75, 46, 131, 0.15);
+    padding: 0.6rem 1.2rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: #4b2e83;
+}
+
+/* Newsletter */
+.newsletter-box {
+    max-width: 550px;
+    margin: 4rem auto;
+    padding: 2.5rem 2rem;
+    background: white;
+    border: 1px solid rgba(75, 46, 131, 0.1);
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 6px 30px rgba(75, 46, 131, 0.06);
+}
+
+.newsletter-box h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.5rem;
+    color: #2d2640;
+    margin-bottom: 0.8rem;
+}
+
+.newsletter-box p {
+    color: #6b5b8a;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Responsive */
 @media (max-width: 768px) {
-    .perception-prism {
-        width: 80px;
-        height: 80px;
+    .pyramid-container {
+        width: 150px;
+        height: 150px;
     }
-    .prism-shape {
-        border-left: 40px solid transparent;
-        border-right: 40px solid transparent;
-        border-bottom: 70px solid;
+    .pyramid-face-1 {
+        border-left: 75px solid transparent;
+        border-right: 75px solid transparent;
+        border-bottom: 130px solid rgba(75, 46, 131, 0.85);
     }
-    .perception-intro h3 {
-        font-size: 1.4rem;
+    .pyramid-face-2 {
+        border-left: 65px solid transparent;
+        border-right: 65px solid transparent;
+        border-bottom: 110px solid rgba(147, 112, 219, 0.5);
     }
-    .perception-engine-box h2 {
-        font-size: 1.8rem;
+    .pyramid-face-3 {
+        border-left: 55px solid transparent;
+        border-right: 55px solid transparent;
+        border-bottom: 90px solid rgba(200, 180, 255, 0.35);
+    }
+    .affirmation-item {
+        grid-template-columns: 1fr;
+    }
+    .affirmation-number {
+        margin: 0 auto;
     }
 }
 </style>
 
 <!-- HERO SECTION -->
-<div class="hero-section">
-  
-  <!-- Animated Perception Prism -->
-  <div class="perception-prism">
-    <div class="prism-shape prism-1"></div>
-    <div class="prism-shape prism-2"></div>
-    <div class="prism-shape prism-3"></div>
-  </div>
-  
-  <h1 style="font-family: 'Cormorant', serif; font-size: 3rem; color: #3f2469; margin: 1rem 0;">𖤐 Welcome to Sparklebox 𖤐</h1>
-  
-  <p style="font-size: 1.4rem; color: #4b2e83; font-style: italic; max-width: 700px; margin: 0 auto;">
-    Where perception becomes creation.
-  </p>
+<div class="sanctuary-hero">
+  <h1 class="sanctuary-title">✦ Welcome to the Sparklebox Sanctuary ✦</h1>
+  <p class="sanctuary-subtitle">Where Perception Becomes Creation</p>
 </div>
 
-<!-- PERCEPTION PHILOSOPHY INTRO -->
-<div class="perception-intro">
-  <h3>Reality Does Not Arrive Finished</h3>
-  
+<!-- LARGE ANIMATED PYRAMID -->
+<div class="pyramid-container">
+  <div class="pyramid-main">
+    <div class="pyramid-face pyramid-face-1"></div>
+    <div class="pyramid-face pyramid-face-2"></div>
+    <div class="pyramid-face pyramid-face-3"></div>
+    <div class="pyramid-eye"></div>
+  </div>
+</div>
+
+<!-- CORE PHILOSOPHY -->
+<p class="philosophy-statement">PERCEPTION IS CREATION</p>
+
+<!-- INVITATION -->
+<div class="invitation-box">
   <p>
-    Sparklebox is a place for those who sense that reality is not only something we live in — <strong>but something we participate in</strong>.
+    Join me on a journey inward — where we explore how the way you <em>see</em> shapes what you <em>experience</em>. 
+    Here, reality is not fixed. It begins with you.
+  </p>
+</div>
+
+<hr class="sanctuary-divider">
+
+<!-- DAILY AFFIRMATIONS - MODERN CARD -->
+<div class="affirmation-card">
+  <div class="affirmation-header">
+    <h2>🫧 Today's Awakening</h2>
+    <span class="date">December 17, 2025</span>
+  </div>
+  
+  <div class="affirmation-theme">
+    <h3>Crystalline Clarity: Igniting Inner Light</h3>
+    <p>As we immerse ourselves in the mystical realm of crystals, we invoke the ancient wisdom that resides within their structures, allowing their vibrational essence to harmonize our being.</p>
+  </div>
+  
+  <div class="affirmation-list">
+    <div class="affirmation-item">
+      <div class="affirmation-number">I</div>
+      <div>
+        <div class="affirmation-text">"I innately trust the crystalline grid that underlies my existence, guiding me toward balance and cohesion"</div>
+        <div class="affirmation-note">Honoring the intricate web of energy that connects us to the universe.</div>
+      </div>
+    </div>
+    
+    <div class="affirmation-item">
+      <div class="affirmation-number">II</div>
+      <div>
+        <div class="affirmation-text">"My heart is a crystal cave, where emotions are transmuted into luminescent wisdom"</div>
+        <div class="affirmation-note">The heart's capacity to transform emotional turmoil into inner wisdom.</div>
+      </div>
+    </div>
+    
+    <div class="affirmation-item">
+      <div class="affirmation-number">III</div>
+      <div>
+        <div class="affirmation-text">"I am a prism of light, refracting experiences into a kaleidoscope of growth"</div>
+        <div class="affirmation-note">The dynamic interplay between inner light and lived experience.</div>
+      </div>
+    </div>
+    
+    <div class="affirmation-item">
+      <div class="affirmation-number">IV</div>
+      <div>
+        <div class="affirmation-text">"My soul is a geode, containing hidden treasures of wisdom waiting to be unearthed"</div>
+        <div class="affirmation-note">Inviting exploration of our inner depths.</div>
+      </div>
+    </div>
+    
+    <div class="affirmation-item">
+      <div class="affirmation-number">V</div>
+      <div>
+        <div class="affirmation-text">"I embody crystalline clarity, reflecting the purity and simplicity of my true nature"</div>
+        <div class="affirmation-note">Reconnecting with our authentic self.</div>
+      </div>
+    </div>
+  </div>
+  
+  <details style="padding: 0 2rem 2rem;">
+    <summary class="show-more-btn">View All 15 Affirmations</summary>
+    <div class="affirmation-list" style="padding: 1rem 0 0;">
+      <div class="affirmation-item">
+        <div class="affirmation-number">VI</div>
+        <div>
+          <div class="affirmation-text">"My intentions are crystal clear, manifesting into reality through focused awareness"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">VII</div>
+        <div>
+          <div class="affirmation-text">"I am attuned to the vibrational resonance of crystals, allowing their healing to harmonize my being"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">VIII</div>
+        <div>
+          <div class="affirmation-text">"My mind is a crystal lens, focusing awareness on the depths of my subconscious"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">IX</div>
+        <div>
+          <div class="affirmation-text">"I trust the crystalline wisdom guiding me through life's transitions"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">X</div>
+        <div>
+          <div class="affirmation-text">"I am a guardian of the crystal kingdom, protecting ancient wisdom"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">XI</div>
+        <div>
+          <div class="affirmation-text">"My spirit is a crystal grid, interconnected with the web of life"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">XII</div>
+        <div>
+          <div class="affirmation-text">"I embody the crystal's resilience, weathering life's storms with inner strength"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">XIII</div>
+        <div>
+          <div class="affirmation-text">"My heart is a crystal rose, blossoming with compassion and love"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">XIV</div>
+        <div>
+          <div class="affirmation-text">"I am a crystal singer, resonating with the vibrational frequencies of the universe"</div>
+        </div>
+      </div>
+      <div class="affirmation-item">
+        <div class="affirmation-number">XV</div>
+        <div>
+          <div class="affirmation-text">"My soul is a crystal portal, bridging the realms of the known and unknown"</div>
+        </div>
+      </div>
+    </div>
+  </details>
+</div>
+
+<hr class="sanctuary-divider">
+
+<!-- PORTAL CARDS -->
+<div class="portal-section">
+  <h2 class="portal-section-title">✦ Enter the Realms ✦</h2>
+  
+  <div class="portal-grid">
+    <div class="portal-card">
+      <h3>🌌 Dream Toolkit</h3>
+      <p>8 interactive portals of transformation — Fire, Water, Earth, Air & beyond.</p>
+      <a href="/the-dreamtoolkit/" class="portal-btn">Enter</a>
+    </div>
+    
+    <div class="portal-card">
+      <h3>🎨 Musebox</h3>
+      <p>Daily visual prompts and mystical mantras from Zephyr, your poetic muse.</p>
+      <a href="/musebox-dreams/" class="portal-btn">Open</a>
+    </div>
+    
+    <div class="portal-card">
+      <h3>🎵 Soundbox</h3>
+      <p>Curated soundscapes for meditation, focus, and cosmic journeys.</p>
+      <a href="/soundbox/" class="portal-btn">Listen</a>
+    </div>
+    
+    <div class="portal-card">
+      <h3>🔮 Tarot</h3>
+      <p>AI-powered tarot for mystical guidance and cosmic wisdom.</p>
+      <a href="https://sparklebox-tarot.streamlit.app/" class="portal-btn">Draw Cards</a>
+    </div>
+  </div>
+</div>
+
+<hr class="sanctuary-divider">
+
+<!-- PERCEPTION ENGINE -->
+<div class="perception-feature">
+  <h2>△ The Perception Engine</h2>
+  <p class="tagline">Essays on Reality, Consciousness & the Art of Seeing</p>
+  
+  <p style="color: #5a4a6e; font-size: 0.95rem; max-width: 600px; margin: 0 auto 1.5rem;">
+    A philosophical exploration of how perception shapes reality — the "I am" state, feedback loops, and why curiosity keeps the soul alive.
   </p>
   
-  <p>
-    Here, we explore how perception shapes experience, how the quiet <em>"I am"</em> beneath identity influences the world we see, and how <strong>curiosity keeps life alive</strong>.
-  </p>
+  <div class="concept-pills">
+    <span class="concept-pill">👁️ Perceptive Creation</span>
+    <span class="concept-pill">✦ The "I Am" State</span>
+    <span class="concept-pill">🌀 Reality as Mirror</span>
+    <span class="concept-pill">⏳ Novelty & Time</span>
+  </div>
   
-  <p>
-    This is not about answers, doctrines, or beliefs. It is about <strong>noticing</strong>. Wondering. And gently re-entering the act of perception itself.
-  </p>
+  <a href="/categories/the-perception-engine/" class="portal-btn" style="margin-top: 1rem;">Explore the Series</a>
+</div>
+
+<hr class="sanctuary-divider">
+
+<!-- LATEST POSTS -->
+<div style="text-align: center; margin: 3rem auto; max-width: 600px;">
+  <h2 style="font-family: 'Cinzel', serif; font-size: 1.5rem; color: #2d2640; margin-bottom: 0.5rem;">📚 Latest Transmissions</h2>
+  <p style="color: #6b5b8a; font-size: 0.95rem;">Explore mystical wisdom and transformative insights from the archives.</p>
+  <a href="/posts/" style="display: inline-block; margin-top: 1rem; color: #4b2e83; font-weight: 500; text-decoration: none; border-bottom: 1px solid #4b2e83; padding-bottom: 2px;">View All Posts →</a>
+</div>
+
+<hr class="sanctuary-divider">
+
+<!-- NEWSLETTER -->
+<div class="newsletter-box">
+  <h2>💌 The Mystical Hour</h2>
+  <p>Daily affirmations, cosmic teachings, and practical magic delivered to your inbox.</p>
   
-  <div class="signature-line">
-    ✦ Perception is not a mirror of the world. It is the doorway through which the world arrives. ✦
+  <div style="display: flex; justify-content: center;">
+    <iframe src="https://sparklebox.substack.com/embed" width="100%" height="180" style="border: 1px solid rgba(75, 46, 131, 0.15); background: white; border-radius: 12px; max-width: 400px;" frameborder="0" scrolling="no"></iframe>
   </div>
-</div>
-
-<!-- WHAT SPARKLEBOX EXPLORES -->
-<div class="explore-grid">
-  <div class="explore-item">
-    <span>👁️</span>
-    <strong>Perception</strong>
-    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">How reality is experienced & reassured</p>
-  </div>
-  <div class="explore-item">
-    <span>🌙</span>
-    <strong>Inner Worlds</strong>
-    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Imagination, reflection & quiet thought</p>
-  </div>
-  <div class="explore-item">
-    <span>⏳</span>
-    <strong>Time & Novelty</strong>
-    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Why curiosity keeps life alive</p>
-  </div>
-  <div class="explore-item">
-    <span>🔮</span>
-    <strong>Dream & Symbol</strong>
-    <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.3rem;">Meaning beneath the visible</p>
-  </div>
-</div>
-
----
-
-<!-- TODAY'S AFFIRMATIONS -->
-<div class="affirmation-box">
-
-## 🫧 Today's Awakening
-**December 17, 2025**
-
-### Crystalline Clarity: Igniting Inner Light
-
-As we immerse ourselves in the mystical realm of crystals, we invoke the ancient wisdom that resides within their structures, allowing their vibrational essence to harmonize our being. Like crystalline formations, our souls possess a unique geometry, yearning to be acknowledged and nurtured. By embracing the crystalline energy, we embark on a journey of self-discovery and illumination.
-
----
-
-**I.** *"I innately trust the crystalline grid that underlies my existence, guiding me toward balance and cohesion"*
-
-This affirmation honors the intricate web of energy that connects us to the universe, fostering a sense of trust and unity with the cosmos.
-
-**II.** *"My heart is a crystal cave, where emotions are transmuted into luminescent wisdom"*
-
-This affirmation acknowledges the heart's capacity to transform and transcend emotional turmoil, revealing its innate wisdom.
-
-**III.** *"I am a prism of light, refracting experiences into a kaleidoscope of growth and understanding"*
-
-This affirmation celebrates the dynamic interplay between our inner light and the experiences that shape us, yielding a profound understanding of ourselves and the world.
-
-**IV.** *"My soul is a geode, containing hidden treasures of wisdom, waiting to be unearthed and shared"*
-
-This affirmation recognizes the soul's potential for concealing and revealing profound insights, encouraging us to explore our inner depths.
-
-**V.** *"I embody the crystalline structure of clarity, reflecting the purity and simplicity of my true nature"*
-
-This affirmation embodies the crystal's ability to clarify and simplify our perception, allowing us to reconnect with our authentic self.
-
-**VI.** *"My intentions are crystal clear, manifesting into reality through the power of focused awareness"*
-
-This affirmation harnesses the crystal's ability to focus and amplify intentions, bringing our desires into being.
-
-**VII.** *"I am attuned to the vibrational resonance of crystals, allowing their healing properties to harmonize my being"*
-
-This affirmation acknowledges the crystal's capacity to heal and balance our energy, facilitating a deeper connection with their therapeutic properties.
-
-**VIII.** *"My mind is a crystal lens, focusing the light of awareness on the depths of my subconscious"*
-
-This affirmation utilizes the crystal's ability to focus and clarify, illuminating the realms of our subconscious mind.
-
-**IX.** *"I trust the crystalline wisdom that guides me through life's transitions, navigating the ebbs and flows of transformation"*
-
-This affirmation honors the crystal's role in navigating the complexities of change, trusting in its guidance and wisdom.
-
-**X.** *"I am a guardian of the crystal kingdom, protecting and preserving the ancient wisdom that resides within"*
-
-This affirmation recognizes our responsibility as stewards of the crystal realm, safeguarding its secrets and wisdom for future generations.
-
-**XI.** *"My spirit is a crystal grid, interconnected with the web of life, pulsing with the rhythm of the universe"*
-
-This affirmation celebrates our inherent connection to the universe, recognizing the crystal grid as a symbol of unity and interconnectedness.
-
-**XII.** *"I embody the crystal's resilience, weathering life's storms with the strength and flexibility of my inner core"*
-
-This affirmation acknowledges the crystal's ability to endure and thrive in the face of adversity, inspiring us to cultivate similar resilience.
-
-**XIII.** *"My heart is a crystal rose, blossoming with compassion and love, nurturing the beauty within and around me"*
-
-This affirmation recognizes the heart's capacity to nurture and cultivate love, much like the crystal rose, which symbolizes the blossoming of compassion.
-
-**XIV.** *"I am a crystal singer, resonating with the vibrational frequencies of the universe, harmonizing my being with the celestial music"*
-
-This affirmation celebrates our innate ability to resonate with the universe, using our unique frequency to harmonize and heal.
-
-**XV.** *"My soul is a crystal portal, bridging the realms of the known and unknown, guiding me toward the mysteries of the universe"*
-
-This affirmation recognizes the soul's role as a gateway to the unknown, utilizing the crystal portal as a symbol of our innate capacity for exploration and discovery.
-
-
-</div>
-
----
-
-<h2 class="section-title">✨ Enter the Sparklebox Realms ✨</h2>
-
-<div class="portal-grid">
-
-<div class="portal-card">
-  <h3>🌌 Dream Toolkit Portals</h3>
-  <p>8 interactive realms of transformation - Fire, Water, Earth, Air & beyond. Each portal with unique colors, archetypes, and mystical experiences.</p>
-  <a href="/the-dreamtoolkit/" class="portal-btn">🌀 Enter the Portals</a>
-</div>
-
-<div class="portal-card">
-  <h3>🎨 Musebox - Visual Prompts</h3>
-  <p>Daily AI-generated prompts from Zephyr, your poetic muse. Dreamcore imagery, mystical mantras, and creative inspiration delivered daily.</p>
-  <a href="/musebox-dreams/" class="portal-btn">✨ Open the Musebox</a>
-</div>
-
-<div class="portal-card">
-  <h3>🎵 Soundbox - Ambient Music</h3>
-  <p>Curated soundscapes for meditation, focus, and cosmic journeys. Let the frequencies guide your transformation.</p>
-  <a href="/soundbox/" class="portal-btn">🎧 Enter Soundbox</a>
-</div>
-
-<div class="portal-card">
-  <h3>🔮 Tarot Readings</h3>
-  <p>Interactive AI-powered tarot for mystical guidance. Receive cosmic wisdom and navigate your path with clarity.</p>
-  <a href="https://sparklebox-tarot.streamlit.app/" class="portal-btn">🌟 Draw Your Cards</a>
-</div>
-
-</div>
-
----
-
-<!-- THE PERCEPTION ENGINE - SIGNATURE SERIES -->
-<div class="perception-engine-box">
-
-<div style="text-align: center;">
-  <div style="font-size: 3rem; margin-bottom: 0.5rem;">△</div>
-  <h2>The Perception Engine</h2>
-  <p class="subtitle">✦ Essays on Reality, Consciousness & the Art of Seeing ✦</p>
-</div>
-
-<p style="color: #5a4a75; font-size: 1.05rem; line-height: 1.8; text-align: center; margin-bottom: 2rem;">
-  A philosophical exploration of how <strong>perception shapes reality</strong>. These essays examine the "I am" state, the feedback loop between inner and outer worlds, and why <strong>novelty keeps the soul alive</strong>.
-</p>
-
-<div class="concept-grid">
-  <div class="concept-item">
-    <h4>👁️ Perceptive Creation</h4>
-    <p>Reality is not fixed — it is a feedback system that stabilizes perception. What you perceive yourself to be, the world reflects back.</p>
-  </div>
-  <div class="concept-item">
-    <h4>✦ The "I Am" State</h4>
-    <p>Before identity, before roles — there is a felt sense of being. This is where reality begins. This is the doorway.</p>
-  </div>
-  <div class="concept-item">
-    <h4>🌀 Novelty & Time</h4>
-    <p>When perception stagnates, life feels heavy. When curiosity returns, time stretches. Thinking keeps us alive.</p>
-  </div>
-  <div class="concept-item">
-    <h4>🪞 Reality as Mirror</h4>
-    <p>Your outer world constantly reassures your inner self-image. What repeats is what's being internally confirmed.</p>
-  </div>
-</div>
-
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="/categories/the-perception-engine/" style="display: inline-block; background: linear-gradient(135deg, #4b2e83 0%, #3f2469 100%); color: white; padding: 16px 40px; border-radius: 15px; text-decoration: none; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1rem; letter-spacing: 0.05em; text-transform: uppercase; transition: all 0.3s ease; box-shadow: 0 6px 25px rgba(75, 46, 131, 0.4);">
-    △ Enter The Perception Engine
-  </a>
-  <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">The philosophical backbone of Sparklebox</p>
-</div>
-
-</div>
-
----
-
-<!-- CLOSING INVITATION -->
-<div style="max-width: 700px; margin: 4rem auto; text-align: center; padding: 2rem;">
-  <p style="font-family: 'Cormorant', serif; font-size: 1.4rem; color: #5a4a75; line-height: 1.8; font-style: italic;">
-    If you feel drawn to question how you see,<br>
-    to wonder rather than rush,<br>
-    and to explore the subtle architecture behind experience —<br>
-    <strong style="color: #3f2469;">you are in the right place.</strong>
-  </p>
-</div>
-
----
-
-<div style="text-align: center; margin: 4rem auto; max-width: 700px;">
-  <h2 style="font-family: 'Cormorant', serif; color: #3f2469;">📚 Latest Transmissions</h2>
-  <p style="color: #5a4a75;">Explore mystical wisdom, spiritual practices, and transformative insights from the Sparklebox archives.</p>
-  <a href="/posts/" style="display: inline-block; margin-top: 1rem; color: #4b2e83; font-weight: 700; text-decoration: none; border-bottom: 2px solid #4b2e83;">View All Posts →</a>
-</div>
-
----
-
-<div style="max-width: 600px; margin: 4rem auto; padding: 3rem 2rem; background: linear-gradient(145deg, rgba(75, 46, 131, 0.08), rgba(63, 36, 105, 0.05)); border: 2px solid rgba(75, 46, 131, 0.3); border-radius: 25px; text-align: center; box-shadow: 0 10px 40px rgba(75, 46, 131, 0.15);">
-
-<h2 style="font-family: 'Cormorant', serif; color: #3f2469; font-size: 2rem; margin-bottom: 1rem;">💌 The Mystical Hour</h2>
-
-<p style="color: #5a4a75; font-size: 1.15rem; line-height: 1.8; margin-bottom: 1rem; font-weight: 500;">
-Transformational alchemy, ancient goddess wisdom, and mystical practices for the modern soul.
-</p>
-
-<p style="color: #4b2e83; font-size: 1rem; line-height: 1.6; margin-bottom: 2rem;">
-Daily affirmations, cosmic teachings, and practical magic delivered to your inbox every morning. ✨
-</p>
-
-<div style="display: flex; justify-content: center;">
-<iframe src="https://sparklebox.substack.com/embed" width="100%" height="200" style="border:2px solid rgba(75, 46, 131, 0.3); background:white; border-radius: 15px; max-width: 480px; overflow: hidden;" frameborder="0" scrolling="no"></iframe>
-</div>
-
-<p style="color: #999; font-size: 0.9rem; margin-top: 1.5rem; font-style: italic;">
-🔒 Your email is sacred. No spam, just wisdom. Join the cosmic journey. 🌙
-</p>
-
+  
+  <p style="color: #999; font-size: 0.8rem; margin-top: 1rem;">🔒 Your email is sacred. No spam, just wisdom.</p>
 </div>

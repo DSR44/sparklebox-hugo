@@ -85,32 +85,32 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-card">
 <div class="affirmation-header">
 <h2>🫧 Today's Awakening</h2>
-<span class="date">February 07, 2026</span>
+<span class="date">February 08, 2026</span>
 </div>
 <div class="affirmation-theme">
-<h3>Blooming in Harmony with Nature's Symphony</h3>
-<p>As the sun rises over the horizon, its warm rays awaken the earth, and the gentle rustle of leaves whispers secrets to the wind. In this serene landscape, we find solace and peace, reminding us of our...</p>
+<h3>Crystal Clarity: Awakening to Inner Light</h3>
+<p>As we embark on a journey of self-discovery, the wisdom of crystals guides us toward the depths of our own inner radiance. Like precious gemstones, our souls hold the power to reflect and refract the ...</p>
 </div>
 <div class="affirmation-list">
 <div class="affirmation-item">
 <div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I inhabit a world where every moment is an opportunity to breathe in the beauty of nature and exhale stress and anxiety."</div></div>
+<div><div class="affirmation-text">"I inhabit a realm of crystalline purity, where my thoughts and emotions resonate with the harmonies of the universe"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My spirit is nourished by the vibrant colors and textures of the natural world, filling me with inspiration and creativity."</div></div>
+<div><div class="affirmation-text">"My heart is a crystal cavern, filled with ancient wisdom and mystical knowledge waiting to be unearthed"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I trust in the cyclical nature of life, knowing that every ending marks a new beginning, just like the seasons that ebb and flow."</div></div>
+<div><div class="affirmation-text">"I trust in the crystal grid that surrounds me, a web of interconnectedness that weaves my spirit into the fabric of the universe"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"My heart beats in harmony with the rhythm of the earth, connecting me to the land and its ancient wisdom."</div></div>
+<div><div class="affirmation-text">"My soul is a polished crystal, reflecting the brilliance of my inner light and illuminating the path ahead"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"I allow myself to be still and quiet, listening to the whispers of the forest, and honoring the wisdom that lies within."</div></div>
+<div><div class="affirmation-text">"I am a crystal seed, planted in the rich soil of my own potential, nurturing the growth of my highest self"</div></div>
 </div>
 </div>
 <details style="padding: 0 2rem 2rem;">
@@ -118,43 +118,43 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-list" style="padding-top: 1rem;">
 <div class="affirmation-item">
 <div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"My soul is reflected in the majesty of the mountains, reminding me of my own strength and resilience."</div></div>
+<div><div class="affirmation-text">"My thoughts are crystal clear, like a still mountain lake that reflects the beauty and wonder of the world"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"I am cradled by the gentle embrace of the earth, feeling safe and supported in every moment."</div></div>
+<div><div class="affirmation-text">"I embody the crystal qualities of resilience and adaptability, bending and flexing with the ebbs and flows of life"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"My journey is like a river, flowing effortlessly to its destination, twisting and turning through life's landscapes with ease and grace."</div></div>
+<div><div class="affirmation-text">"My emotions are a crystal prism, refracting and reflecting the full spectrum of human experience"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"I honor the interconnectedness of all living beings, recognizing that every action ripples out into the world, impacting the delicate balance of nature."</div></div>
+<div><div class="affirmation-text">"I am a crystal guardian, entrusted with the care and protection of my own inner world and the world around me"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"My inner world is a reflection of the natural world, with its own seasons, rhythms, and cycles, reminding me to trust in the ebb and flow of life."</div></div>
+<div><div class="affirmation-text">"My spirit is a crystal wand, channeling the raw energy of the universe and shaping it into creative expression"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"I am a part of the grand tapestry of life, woven from the threads of earth, air, water, and fire, connected to all that exists."</div></div>
+<div><div class="affirmation-text">"I resonate with the crystal song, a vibrational hum that harmonizes my being with the symphony of the spheres"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"My spirit soars on the wings of the wind, carrying me to new heights and perspectives, with the freedom and joy of a bird in flight."</div></div>
+<div><div class="affirmation-text">"My inner wisdom is a crystal oracle, offering guidance and insight into the mysteries of the universe"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"I trust in the wisdom of the earth, knowing that it holds the secrets of the past, present, and future, and that its ancient knowledge is available to me."</div></div>
+<div><div class="affirmation-text">"I am a crystal bridge, spanning the gaps between dimensions and connecting the threads of my own multidimensional tapestry"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"My life is a garden, filled with the beauty and diversity of nature, requiring nurturing, care, and attention to flourish."</div></div>
+<div><div class="affirmation-text">"My life is a crystal lattice, a intricate web of relationships and experiences that reflect the beauty and complexity of the universe"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"I embody the resilience and adaptability of nature, able to weather any storm, and emerge stronger, wiser, and more radiant than before."</div></div>
+<div><div class="affirmation-text">"My essence is a crystal drop, a distilled essence of my highest self that shines like a beacon in the darkness"</div></div>
 </div>
 </div>
 </details>

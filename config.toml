@@ -28,17 +28,17 @@ theme = "PaperMod"
     weight = 1
   
   [[menu.main]]
-    name = "🏛️ Ancient Wisdom"
+    name = "Ancient Wisdom"
     url = "/categories/mystical-wisdom-series/"
     weight = 2
   
   [[menu.main]]
-    name = "𖤐 Dream Portals"
+    name = "Dream Portals"
     url = "/the-dreamtoolkit/"
     weight = 3
   
   [[menu.main]]
-    name = "◈ Musebox"
+    name = "Musebox"
     url = "/musebox-dreams/"
     weight = 4
   
@@ -48,7 +48,7 @@ theme = "PaperMod"
     weight = 5
   
   [[menu.main]]
-    name = "☽ Tarot"
+    name = "Tarot"
     url = "https://sparklebox-tarot.streamlit.app/"
     weight = 6
   
@@ -88,10 +88,14 @@ theme = "PaperMod"
   hideSummary = false
   showtoc = false
   tocopen = false
+  ShowFullTextinRSS = true
+  
+  # CRITICAL: Don't show posts list on homepage
+  mainSections = []
   
   # Profile Mode for Homepage
   [params.profileMode]
-    enabled = false  # Set to true if you want a profile page instead of blog list
+    enabled = false
     title = "Sparklebox ✨"
     subtitle = "Your portal to daily soft power, inner healing, and cosmic becoming."
     imageUrl = ""
@@ -99,10 +103,10 @@ theme = "PaperMod"
     imageHeight = 120
     imageTitle = "Sparklebox"
   
-  # Home Info Mode (default)
+  # Disable Home Info Mode - we use custom _index.md instead
   [params.homeInfoParams]
-    Title = "✨ Welcome to Sparklebox"
-    Content = "Your portal to daily soft power, inner healing, and cosmic becoming. Explore mystical wisdom, spiritual practices, and transformative insights."
+    Title = ""
+    Content = ""
 
   # Social icons in footer
   [[params.socialIcons]]

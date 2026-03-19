@@ -1,51 +1,51 @@
 /*
- * Sparklebox Custom CSS - HIGH-SHINE MYSTICAL CYBERPUNK
- * Enhanced with depth, glow, and atmospheric effects
+ * Sparklebox Custom CSS - COHESIVE MYSTICAL DESIGN
+ * Purple-Pink Gradient Theme with Elegant Consistency
  */
 
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600;700&family=DM+Sans:wght@400;500;700;800&family=Cormorant:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600;700&family=DM+Sans:wght@400;500;700;800&family=Cormorant:wght@300;400;600;700&family=Cinzel:wght@400;500;600&display=swap');
 
-/* ENHANCED Color Scheme - High Contrast Mystical Cyberpunk */
+/* CHROMATIC IRIDESCENT Color Scheme - Metallic Pink & Purple */
 :root {
-    /* Main brand colors - RICHER, DEEPER */
-    --primary: #6d4ca8;           /* Richer mystical purple */
-    --primary-glow: #8b66d8;      /* Lighter purple for glow effects */
-    --heading-color: #2d1b4e;     /* MUCH darker purple for headings (better contrast) */
-    --text-color: #2a2244;        /* Darker text for readability */
-    --caption-color: #5a4a75;     /* Caption purple */
-    --bg-light: #fafbfd;          /* Slightly cooler background */
-    --bg-theme: #e8ecf4;          /* Theme background */
+    /* Chromatic metallic colors */
+    --chrome-purple: #8b5cf6;         /* Vibrant chrome purple */
+    --chrome-pink: #ec4899;           /* Hot metallic pink */
+    --chrome-fuchsia: #d946ef;        /* Bright fuchsia */
+    --chrome-violet: #a855f7;         /* Deep violet */
+    --chrome-rose: #f472b6;           /* Rose pink */
     
-    /* Cyberpunk accent colors */
-    --neon-pink: #ff6ec7;
-    --neon-purple: #b794f6;
-    --steel-blue: #5dade2;
-    --violet-haze: #a78bfa;
+    /* Iridescent gradients */
+    --gradient-main: linear-gradient(135deg, #8b5cf6 0%, #ec4899 25%, #d946ef 50%, #a855f7 75%, #ec4899 100%);
+    --gradient-header: linear-gradient(135deg, #1a0b2e 0%, #2d1b4e 50%, #1a0b2e 100%);
+    --gradient-card: linear-gradient(145deg, rgba(139, 92, 246, 0.1), rgba(236, 72, 153, 0.1));
     
-    /* Glow effects */
-    --glow-primary: rgba(109, 76, 168, 0.4);
-    --glow-pink: rgba(255, 110, 199, 0.3);
-    --glow-blue: rgba(93, 173, 226, 0.3);
+    /* Text colors */
+    --heading-color: #ffffff;         /* White headings */
+    --text-color: #e2e8f0;           /* Light gray text */
+    --text-light: #ffffff;            /* White text */
+    --text-muted: #cbd5e1;           /* Muted gray */
+    
+    /* Background colors */
+    --bg-dark: #0f172a;               /* Very dark blue-gray */
+    --bg-card: rgba(26, 11, 46, 0.85); /* Deep purple matching body background */
+    --bg-light: #2d1b4e;               /* Lighter purple shade */
+    
+    /* Border and shadow with iridescent glow */
+    --border-chrome: 2px solid transparent;
+    --border-gradient: linear-gradient(135deg, #8b5cf6, #ec4899, #d946ef);
+    --shadow-chrome: 0 8px 32px rgba(139, 92, 246, 0.3), 0 4px 16px rgba(236, 72, 153, 0.2);
+    --glow-chrome: 0 0 30px rgba(217, 70, 239, 0.6), 0 0 60px rgba(168, 85, 247, 0.3);
     
     /* PaperMod overrides */
-    --theme: var(--primary);
-    --entry: var(--bg-light);
+    --theme: var(--chrome-purple);
+    --entry: var(--bg-card);
     --secondary: var(--heading-color);
-    --code-bg: #f3f4f6;
-    --border: #d1d5db;
+    --code-bg: #1e293b;
+    --border: rgba(139, 92, 246, 0.2);
 }
 
-/* Dark mode (keeping mystical purple theme) */
-.dark {
-    --primary: #a78bfa;
-    --heading-color: #e9d5ff;
-    --text-color: #d8b4fe;
-    --bg-light: #1a1a2e;
-    --bg-theme: #0f0f1e;
-}
-
-/* === ENHANCED Typography === */
+/* === Typography === */
 
 body {
     font-family: 'Playfair Display', serif;
@@ -53,9 +53,43 @@ body {
     font-weight: 400;
     line-height: 1.7;
     color: var(--text-color);
-    background: linear-gradient(135deg, #2d1b4e 0%, #4b2e83 50%, #2d1b4e 100%);
-    background-attachment: fixed;
+    background: linear-gradient(135deg, 
+        #0a0118 0%, 
+        #1a0b2e 15%, 
+        #2d1b4e 30%, 
+        #1a0b2e 50%,
+        #0a0118 70%,
+        #1a0b2e 100%
+    ) !important;
+    background-size: 200% 200% !important;
+    background-attachment: fixed !important;
+    animation: gradient-shift 15s ease infinite !important;
 }
+
+/* Consistent heading styles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel', serif;
+    color: var(--heading-color);
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-size: 200% auto;
+    animation: chromatic-shine 3s linear infinite;
+}
+
+@keyframes chromatic-shine {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+}
+
+h1 { font-size: clamp(2rem, 4vw, 2.5rem); margin-bottom: 1.5rem; }
+h2 { font-size: clamp(1.5rem, 3vw, 2rem); margin-bottom: 1.2rem; }
+h3 { font-size: clamp(1.25rem, 2.5vw, 1.75rem); margin-bottom: 1rem; }
+h4 { font-size: clamp(1.1rem, 2vw, 1.5rem); margin-bottom: 0.8rem; }
 
 /* Single post page wrapper - dark background */
 .post-single {
@@ -149,203 +183,792 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
     transform: scaleX(1);
 }
 
-/* === GLOWING BOXES - The "High Shine" Effect === */
+/* === Special Effects === */
 
-/* Homepage affirmation box - INDIGO BACKGROUND with WHITE TEXT */
-.entry-content,
-.post-content > div,
-.home .post-content {
-    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
-    border: 2px solid rgba(167, 139, 250, 0.4);
-    border-radius: 20px;
-    padding: 2.5rem;
-    box-shadow: 
-        0 10px 40px rgba(109, 76, 168, 0.4),
-        0 2px 12px rgba(139, 102, 216, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.1);
-    position: relative;
-    overflow: hidden;
-    backdrop-filter: blur(10px);
-    color: #ffffff !important;
+/* Chromatic shine animation */
+@keyframes chromatic-shine {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
 }
 
-/* Make all text inside these boxes WHITE for readability */
-.entry-content *,
-.post-content > div *,
-.home .post-content * {
-    color: #ffffff !important;
+/* Glow pulse animation */
+@keyframes glow-pulse {
+    0%, 100% { box-shadow: var(--shadow-chrome); }
+    50% { box-shadow: var(--glow-chrome); }
 }
 
-/* Keep headings bright white */
-.entry-content h1,
-.entry-content h2,
-.entry-content h3,
-.entry-content h4,
-.post-content > div h1,
-.post-content > div h2,
-.post-content > div h3,
-.post-content > div h4 {
-    color: #ffffff !important;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-}
-
-/* Shimmer effect on hover */
-.entry-content::before,
-.post-content > div::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: linear-gradient(
-        45deg,
-        transparent 30%,
-        rgba(255, 255, 255, 0.3) 50%,
-        transparent 70%
-    );
-    transform: rotate(45deg);
-    animation: shimmer 3s infinite;
-    pointer-events: none;
-}
-
-@keyframes shimmer {
-    0%, 100% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-    50% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-}
-
-/* Enhanced border glow */
-.entry-content::after,
-.post-content > div::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    border-radius: 20px;
-    padding: 2px;
-    background: linear-gradient(135deg, var(--neon-purple), var(--neon-pink), var(--steel-blue));
-    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    opacity: 0.8;
-    pointer-events: none;
-}
-
-/* Links inside indigo boxes should be bright and visible */
-.entry-content a,
-.post-content > div a,
-.home .post-content a {
-    color: #ffd700 !important;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
-}
-
-.entry-content a:hover,
-.post-content > div a:hover,
-.home .post-content a:hover {
-    color: #ffeb3b !important;
-    text-shadow: 0 0 12px rgba(255, 235, 59, 0.7);
-}
-
-/* Post entry cards - INDIGO BACKGROUNDS with WHITE TEXT */
-.post-entry {
-    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
-    border: 2px solid rgba(167, 139, 250, 0.4);
-    border-radius: 16px;
-    padding: 1.5rem;
-    box-shadow: 
-        0 8px 30px rgba(109, 76, 168, 0.4),
-        0 2px 8px rgba(139, 102, 216, 0.3);
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    position: relative;
-    overflow: hidden;
-}
-
+/* Apply glow pulse to certain elements */
+.entry-content:hover,
+.post-content > div:hover,
 .post-entry:hover {
-    transform: translateY(-6px);
-    box-shadow: 
-        0 20px 50px rgba(167, 139, 250, 0.5),
-        0 8px 20px rgba(255, 110, 199, 0.3),
-        0 0 40px var(--glow-pink);
-    border-color: var(--neon-pink);
+    animation: glow-pulse 2s infinite;
 }
 
-.post-entry::before {
-    content: '';
-    position: absolute;
+/* Scroll progress bar - chromatic */
+.scroll-progress {
+    position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 4px;
-    background: linear-gradient(90deg, var(--neon-pink), var(--neon-purple), var(--steel-blue));
-    transform: scaleX(0);
-    transform-origin: left;
-    transition: transform 0.4s ease;
+    width: 0;
+    height: 3px;
+    background: var(--gradient-main);
+    z-index: 9999;
+    box-shadow: 0 2px 12px rgba(236, 72, 153, 0.6);
 }
 
-.post-entry:hover::before {
-    transform: scaleX(1);
+/* === Homepage Specific Styles === */
+
+/* Hero section - consistent sizing */
+.sanctuary-hero {
+    text-align: center;
+    padding: 3rem 1rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
-/* All text in post entry cards should be WHITE */
-.post-entry h2,
-.post-entry .entry-header h2,
-.post-entry .post-title,
-.post-entry .entry-title {
-    color: #ffffff !important;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-}
-
-.post-entry p,
-.post-entry .entry-content,
-.post-entry .entry-content p,
-.post-entry span,
-.post-entry time {
-    color: #ffffff !important;
-}
-
-/* Post entry footer (date/author) */
-.post-entry .entry-footer,
-.post-entry .entry-footer span {
-    color: rgba(255, 255, 255, 0.8) !important;
-}
-
-/* Links in post entry cards */
-.post-entry a {
-    color: #ffffff !important;
-}
-
-.post-entry a:hover {
-    color: #ffd700 !important;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
-}
-
-/* === Site Header - Enhanced === */
-
-.site-title,
-#site-title {
-    font-family: 'Cormorant', serif;
-    font-size: clamp(2rem, 4.5vw, 3rem);
-    font-weight: 300;
-    color: var(--primary);
-    letter-spacing: 0.08em;
-    text-shadow: 0 2px 12px var(--glow-primary);
-}
-
-/* Navigation */
-nav a {
-    font-family: 'DM Sans', sans-serif;
+.sanctuary-title {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(2rem, 4vw, 2.5rem);
     font-weight: 600;
-    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899, #d946ef);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-size: 200% auto;
+    animation: chromatic-shine 3s linear infinite;
+}
+
+.sanctuary-subtitle {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #cbd5e1;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    font-size: 0.875rem;
-    padding: 8px 16px;
-    border-radius: 8px;
+    margin-top: 0.5rem;
+}
+
+/* Pyramid - chromatic colors */
+.pyramid-container {
+    width: 200px;
+    height: 200px;
+    margin: 2.5rem auto;
+    position: relative;
+    perspective: 500px;
+}
+
+.pyramid-main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    animation: pyramid-float 5s ease-in-out infinite;
+}
+
+.pyramid-face {
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.pyramid-face-1 {
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 170px solid rgba(139, 92, 246, 0.8);
+    filter: drop-shadow(0 0 30px rgba(236, 72, 153, 0.6));
+    animation: pyramid-glow 4s ease-in-out infinite;
+}
+
+.pyramid-face-2 {
+    border-left: 85px solid transparent;
+    border-right: 85px solid transparent;
+    border-bottom: 145px solid rgba(236, 72, 153, 0.6);
+    top: 12px;
+    filter: drop-shadow(0 0 20px rgba(217, 70, 239, 0.5));
+    animation: pyramid-glow 4s ease-in-out infinite 0.5s;
+}
+
+.pyramid-face-3 {
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 120px solid rgba(217, 70, 239, 0.4);
+    top: 24px;
+    filter: drop-shadow(0 0 15px rgba(168, 85, 247, 0.4));
+    animation: pyramid-glow 4s ease-in-out infinite 1s;
+}
+
+.pyramid-eye {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    left: 50%;
+    top: 70px;
+    transform: translateX(-50%);
+    border: 2px solid rgba(236, 72, 153, 0.9);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    animation: eye-glow 3s ease-in-out infinite;
+}
+
+.pyramid-eye::after {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: rgba(236, 72, 153, 0.9);
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px rgba(236, 72, 153, 0.8);
+}
+
+@keyframes pyramid-float {
+    0%, 100% { transform: translateY(0) rotateY(0deg); }
+    50% { transform: translateY(-15px) rotateY(5deg); }
+}
+
+@keyframes pyramid-glow {
+    0%, 100% { opacity: 0.7; }
+    50% { opacity: 1; }
+}
+
+@keyframes eye-glow {
+    0%, 100% { box-shadow: 0 0 10px rgba(236, 72, 153, 0.5); }
+    50% { box-shadow: 0 0 25px rgba(236, 72, 153, 0.9); }
+}
+
+/* Philosophy statement */
+.philosophy-statement {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(1.3rem, 2.5vw, 1.6rem);
+    font-weight: 500;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899, #d946ef);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-align: center;
+    margin: 1.5rem auto;
+    letter-spacing: 0.12em;
+}
+
+.invitation-box {
+    max-width: 700px;
+    margin: 0 auto 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(45, 27, 78, 0.6), rgba(139, 92, 246, 0.15));
+    border: 2px solid rgba(236, 72, 153, 0.4);
+    border-radius: 16px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);
+}
+
+.invitation-box p {
+    font-size: 1rem;
+    color: #cbd5e1;
+    line-height: 1.8;
+    margin: 0;
+}
+
+.invitation-box em {
+    color: #f472b6;
+}
+
+.sanctuary-divider {
+    width: 80px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(236, 72, 153, 0.8), transparent);
+    margin: 3rem auto;
+    border: none;
+}
+
+/* Affirmation card - chromatic theme */
+.affirmation-card {
+    max-width: 800px;
+    margin: 2rem auto 3rem;
+    background: rgba(26, 11, 46, 0.85);
+    border: 2px solid rgba(139, 92, 246, 0.4);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(139, 92, 246, 0.3), 0 4px 16px rgba(236, 72, 153, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.affirmation-header {
+    background: linear-gradient(135deg, #2d1b4e, #1a0b2e);
+    padding: 1.8rem 2rem;
+    text-align: center;
+    border-bottom: 2px solid rgba(139, 92, 246, 0.3);
+}
+
+.affirmation-header h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.affirmation-header .date {
+    color: #94a3b8;
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.affirmation-theme {
+    padding: 1.5rem 2rem;
+    background: rgba(139, 92, 246, 0.05);
+    border-bottom: 1px solid rgba(139, 92, 246, 0.2);
+}
+
+.affirmation-theme h3 {
+    font-family: 'Cinzel', serif;
+    color: #f1f5f9;
+    font-size: 1.15rem;
+    margin: 0 0 0.8rem 0;
+    text-align: center;
+    font-weight: 500;
+}
+
+.affirmation-theme p {
+    color: #cbd5e1;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    text-align: center;
+    margin: 0;
+}
+
+.affirmation-list {
+    padding: 1.5rem 2rem 2rem;
+    display: grid;
+    gap: 1rem;
+}
+
+.affirmation-item {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem;
+    background: rgba(139, 92, 246, 0.06);
+    border-radius: 12px;
+    border: 1px solid rgba(139, 92, 246, 0.2);
     transition: all 0.3s ease;
 }
 
-nav a:hover {
-    background: linear-gradient(135deg, var(--neon-purple), var(--neon-pink));
-    color: white;
-    box-shadow: 0 4px 15px var(--glow-pink);
+.affirmation-item:hover {
+    border-color: rgba(236, 72, 153, 0.5);
+    box-shadow: 0 4px 15px rgba(217, 70, 239, 0.2);
+    background: rgba(236, 72, 153, 0.08);
+}
+
+.affirmation-number {
+    width: 38px;
+    height: 38px;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.4);
+}
+
+.affirmation-text {
+    font-style: italic;
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.affirmation-note {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-top: 0.5rem;
+    font-style: normal;
+}
+
+.show-more-btn {
+    display: block;
+    width: fit-content;
+    margin: 1rem auto 0;
+    padding: 0.7rem 1.8rem;
+    background: transparent;
+    border: 2px solid rgba(139, 92, 246, 0.5);
+    color: #cbd5e1;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.show-more-btn:hover {
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+    color: #fff;
+    border-color: rgba(236, 72, 153, 0.8);
+    box-shadow: 0 4px 15px rgba(217, 70, 239, 0.4);
+}
+
+/* Portal section - consistent spacing */
+.portal-section {
+    margin: 3rem auto;
+    max-width: 1100px;
+}
+
+.portal-section-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.6rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.portal-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.portal-card {
+    background: rgba(26, 11, 46, 0.85);
+    border: 2px solid rgba(139, 92, 246, 0.3);
+    border-radius: 16px;
+    padding: 1.8rem;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 20px rgba(139, 92, 246, 0.15);
+    backdrop-filter: blur(10px);
+}
+
+.portal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 35px rgba(236, 72, 153, 0.3);
+    border-color: rgba(236, 72, 153, 0.5);
+}
+
+.portal-card h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.15rem;
+    color: #f1f5f9;
+    margin-bottom: 0.6rem;
+    font-weight: 500;
+}
+
+.portal-card p {
+    font-size: 0.9rem;
+    color: #94a3b8;
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+}
+
+.perception-feature {
+    max-width: 850px;
+    margin: 3rem auto;
+    padding: 2.5rem;
+    background: linear-gradient(135deg, rgba(45, 27, 78, 0.6), rgba(139, 92, 246, 0.15));
+    border: 2px solid rgba(236, 72, 153, 0.4);
+    border-radius: 20px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(236, 72, 153, 0.2);
+}
+
+.perception-feature h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(135deg, #8b5cf6, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.perception-feature .tagline {
+    color: #94a3b8;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+}
+
+.perception-feature p {
+    color: #cbd5e1;
+}
+
+.concept-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+    margin: 1.5rem 0;
+}
+
+.concept-pill {
+    background: rgba(139, 92, 246, 0.1);
+    border: 1px solid rgba(139, 92, 246, 0.3);
+    padding: 0.6rem 1.2rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: #cbd5e1;
+}
+
+/* Mobile responsive for homepage */
+@media (max-width: 768px) {
+    .pyramid-container {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .pyramid-face-1 {
+        border-left: 75px solid transparent;
+        border-right: 75px solid transparent;
+        border-bottom: 130px solid rgba(139, 92, 246, 0.8);
+    }
+    
+    .pyramid-face-2 {
+        border-left: 65px solid transparent;
+        border-right: 65px solid transparent;
+        border-bottom: 110px solid rgba(236, 72, 153, 0.6);
+    }
+    
+    .pyramid-face-3 {
+        border-left: 55px solid transparent;
+        border-right: 55px solid transparent;
+        border-bottom: 90px solid rgba(217, 70, 239, 0.4);
+    }
+    
+    .affirmation-item {
+        grid-template-columns: 1fr;
+    }
+    
+    .affirmation-number {
+        margin: 0 auto;
+    }
+    
+    .sanctuary-title {
+        font-size: 1.8rem !important;
+    }
+    
+    .portal-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    
+    h1 {
+        font-size: 1.75rem !important;
+        line-height: 1.3;
+        margin-bottom: 1rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem !important;
+        line-height: 1.4;
+        margin-bottom: 0.75rem;
+    }
+    
+    h3 {
+        font-size: 1.25rem !important;
+        line-height: 1.4;
+    }
+    
+    h4 {
+        font-size: 1.1rem !important;
+    }
+    
+    .entry-content,
+    .post-content > div,
+    .home .post-content,
+    .post-content {
+        padding: 1.5rem;
+        border-radius: 16px;
+    }
+    
+    .post-entry {
+        padding: 1.25rem;
+        width: 100% !important;
+        margin: 0.75rem 0 !important;
+    }
+    
+    .site-title,
+    #site-title {
+        font-size: 1.5rem;
+    }
+    
+    nav a,
+    .menu a,
+    #menu a {
+        font-size: 0.85rem !important;
+        padding: 0.5rem 1rem !important;
+    }
+    
+    .main,
+    main {
+        padding: 1rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem !important;
+    }
+    
+    h2 {
+        font-size: 1.3rem !important;
+    }
+    
+    .entry-content,
+    .post-content > div,
+    .home .post-content,
+    .post-content {
+        padding: 1.25rem;
+    }
+}
+
+/* ========================================
+   CRITICAL: Hide ALL PaperMod Homepage Defaults
+   ======================================== */
+
+/* Hide PaperMod's default homepage boxes */
+body.home .home-info,
+body.home .first-entry,
+body.home article.post-entry,
+.profile,
+#profile {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    width: 0 !important;
+    overflow: hidden !important;
+}
+
+/* ========================================
+   HOMEPAGE - body.home (not .list!)
+   ======================================== */
+
+body.home {
+    --main-width: 900px !important;
+}
+
+body.home .main,
+body.home main {
+    display: block !important;
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    padding: 2rem !important;
+    grid-template-columns: none !important;
+}
+
+/* Fix: Prevent grid bleed from posts page */
+
+/* ========================================
+   Posts Page Grid (Homepage stays default)
+   ======================================== */
+
+/* ONLY Posts List Page gets grid */
+body.list main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+body.list .post-entry {
+    width: 100%;
+}
+
+@media (max-width: 1200px) {
+    body.list main {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    body.list main {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* === Post Cards Styling (List Page Only) === */
+
+body.list .post-entry {
+    background: var(--bg-card);
+    border: 2px solid rgba(139, 92, 246, 0.3);
+    border-radius: 16px;
+    padding: 0;
+    box-shadow: var(--shadow-chrome);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+body.list .post-entry:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--glow-chrome);
+    border-color: rgba(236, 72, 153, 0.5);
+}
+
+/* Control Pinterest-sized images */
+body.list .post-entry .entry-cover,
+body.list .post-entry img {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+    border-radius: 12px 12px 0 0 !important;
+    margin: 0 !important;
+}
+
+/* Content area below image */
+body.list .post-entry .entry-content,
+body.list .post-entry .entry-header,
+body.list .post-entry > div {
+    padding: 1.5rem !important;
+}
+
+body.list .post-entry h2,
+body.list .post-entry .entry-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+    background: var(--gradient-main);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.4;
+}
+
+body.list .post-entry p,
+body.list .post-entry .entry-summary {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+}
+
+body.list .post-entry time,
+body.list .post-entry .post-meta {
+    color: #64748b;
+    font-size: 0.85rem;
+}
+
+/* === Clean Modern Header - No Boxes === */
+
+header,
+.header,
+#header {
+    background: var(--gradient-header) !important;
+    border: none !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+    padding: 1rem 2rem !important;
+    backdrop-filter: blur(10px);
+}
+
+/* Site title - clean, no box */
+.site-title,
+#site-title,
+.logo a {
+    font-family: 'Cinzel', serif !important;
+    font-size: clamp(1.5rem, 3vw, 2rem) !important;
+    font-weight: 600 !important;
+    background: var(--gradient-main) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    background-size: 200% auto !important;
+    animation: chromatic-shine 3s linear infinite !important;
+    letter-spacing: 0.08em !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Navigation - clean buttons, equal size */
+nav,
+.menu,
+#menu {
+    display: flex !important;
+    gap: 0.5rem !important;
+    align-items: center !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+nav a,
+.menu a,
+#menu a,
+#menu li a {
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 0.9rem !important;
+    letter-spacing: 0.03em !important;
+    text-transform: none !important;
+    color: var(--text-color) !important;
+    padding: 0.6rem 1.2rem !important;
+    border-radius: 8px !important;
+    background: rgba(139, 92, 246, 0.1) !important;
+    border: 1px solid rgba(139, 92, 246, 0.3) !important;
+    transition: all 0.3s ease !important;
+    white-space: nowrap !important;
+    text-align: center !important;
+    min-width: fit-content !important;
+}
+
+nav a:hover,
+.menu a:hover,
+#menu a:hover,
+#menu li a:hover {
+    background: rgba(236, 72, 153, 0.2) !important;
+    border-color: rgba(236, 72, 153, 0.5) !important;
+    color: var(--text-light) !important;
+    box-shadow: 0 4px 15px rgba(217, 70, 239, 0.4) !important;
+    transform: translateY(-2px) !important;
+}
+
+/* Remove unnecessary lines and borders */
+.header::before,
+.header::after,
+nav::before,
+nav::after {
+    display: none !important;
+}
+
+/* Mobile menu */
+#menu {
+    background: var(--gradient-header) !important;
+    border: 1px solid rgba(139, 92, 246, 0.3) !important;
+    border-radius: 12px !important;
+    padding: 1rem !important;
+}
+
+#menu li {
+    margin: 0.5rem 0 !important;
 }
 
 /* === Post Styling === */
@@ -358,24 +981,105 @@ nav a:hover {
     text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
 }
 
-/* MAIN POST CONTENT - INDIGO BACKGROUND WITH WHITE TEXT */
-.post-content {
-    font-size: 18px;
-    line-height: 1.75;
-    color: #ffffff !important;
-    background: linear-gradient(145deg, #4b2e83, #6d4ca8);
-    border-radius: 20px;
-    padding: 2.5rem;
-    box-shadow: 
-        0 10px 40px rgba(109, 76, 168, 0.4),
-        0 2px 12px rgba(139, 102, 216, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.1);
-    border: 2px solid rgba(167, 139, 250, 0.4);
-    position: relative;
-    overflow: hidden;
+
+/* === Enhanced Buttons - Chromatic Gradient === */
+
+button,
+.button,
+.wp-element-button,
+.portal-btn {
+    background: linear-gradient(135deg, var(--chrome-purple), var(--chrome-pink)) !important;
+    color: var(--text-light) !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.9rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.05em !important;
+    text-transform: uppercase !important;
+    padding: 0.7rem 1.8rem !important;
+    border: 2px solid transparent !important;
+    border-radius: 25px !important;
+    cursor: pointer !important;
+    transition: all 0.3s ease !important;
+    box-shadow: var(--shadow-chrome) !important;
+    position: relative !important;
+    overflow: hidden !important;
+    text-decoration: none !important;
+    display: inline-block !important;
 }
 
-/* All text elements inside post content should be WHITE */
+button:hover,
+.button:hover,
+.portal-btn:hover {
+    background: linear-gradient(135deg, var(--chrome-fuchsia), var(--chrome-rose)) !important;
+    box-shadow: var(--glow-chrome) !important;
+    transform: translateY(-2px) scale(1.05) !important;
+    border-color: rgba(236, 72, 153, 0.6) !important;
+}
+
+/* === Content Boxes - Chromatic Style === */
+
+.entry-content,
+.post-content > div,
+.home .post-content {
+    background: var(--bg-card) !important;
+    border: 2px solid rgba(139, 92, 246, 0.3) !important;
+    border-radius: 20px !important;
+    padding: 2.5rem !important;
+    box-shadow: var(--shadow-chrome) !important;
+    position: relative !important;
+    overflow: hidden !important;
+    backdrop-filter: blur(10px) !important;
+    color: var(--text-color) !important;
+}
+
+.entry-content *,
+.post-content > div *,
+.home .post-content * {
+    color: var(--text-color) !important;
+}
+
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.post-content > div h1,
+.post-content > div h2,
+.post-content > div h3,
+.post-content > div h4 {
+    background: var(--gradient-main) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+}
+
+.entry-content a,
+.post-content > div a,
+.home .post-content a {
+    color: var(--chrome-pink) !important;
+    text-decoration: underline !important;
+}
+
+.entry-content a:hover,
+.post-content > div a:hover,
+.home .post-content a:hover {
+    color: var(--chrome-fuchsia) !important;
+}
+
+/* === MAIN POST CONTENT === */
+
+.post-content {
+    font-size: 1.05rem !important;
+    line-height: 1.8 !important;
+    color: var(--text-color) !important;
+    background: var(--bg-card) !important;
+    border-radius: 20px !important;
+    padding: 2.5rem !important;
+    box-shadow: var(--shadow-chrome) !important;
+    border: 2px solid rgba(139, 92, 246, 0.3) !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
 .post-content p,
 .post-content h1,
 .post-content h2,
@@ -386,142 +1090,68 @@ nav a:hover {
 .post-content li,
 .post-content span,
 .post-content strong,
-.post-content em,
-.post-content blockquote {
-    color: #ffffff !important;
+.post-content em {
+    color: var(--text-color) !important;
 }
 
-/* Post content headings - bright and clear */
 .post-content h1,
 .post-content h2,
 .post-content h3,
 .post-content h4 {
-    color: #ffffff !important;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    background: var(--gradient-main) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
 }
 
-/* Links inside blog posts - gold/yellow for visibility */
 .post-content a {
-    color: #ffd700 !important;
-    text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
-    text-decoration: underline;
+    color: var(--chrome-pink) !important;
+    text-decoration: underline !important;
 }
 
 .post-content a:hover {
-    color: #ffeb3b !important;
-    text-shadow: 0 0 12px rgba(255, 235, 59, 0.7);
+    color: var(--chrome-fuchsia) !important;
 }
 
-.post-meta {
-    font-family: 'DM Sans', sans-serif;
-    font-size: 13px;
-    color: var(--caption-color);
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-}
-
-/* === Enhanced Buttons === */
-
-button,
-.button,
-.wp-element-button {
-    background: linear-gradient(135deg, var(--primary), var(--primary-glow));
-    color: #ffffff;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    padding: 18px 32px;
-    border: none;
-    border-radius: 12px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    box-shadow: 
-        0 6px 20px rgba(109, 76, 168, 0.3),
-        0 2px 8px rgba(109, 76, 168, 0.2);
-    position: relative;
-    overflow: hidden;
-}
-
-button::before,
-.button::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 0;
-    height: 0;
-    border-radius: 50%;
-    background: rgba(255, 255, 255, 0.3);
-    transform: translate(-50%, -50%);
-    transition: width 0.5s, height 0.5s;
-}
-
-button:hover,
-.button:hover {
-    background: linear-gradient(135deg, var(--neon-purple), var(--neon-pink));
-    box-shadow: 
-        0 12px 40px rgba(255, 110, 199, 0.4),
-        0 4px 16px rgba(167, 139, 250, 0.3),
-        0 0 30px var(--glow-pink);
-    transform: translateY(-2px);
-}
-
-button:hover::before,
-.button:hover::before {
-    width: 300px;
-    height: 300px;
-}
-
-/* === Blockquotes - Glowing === */
+/* === Blockquotes - Chromatic === */
 
 blockquote {
-    border-left: 4px solid var(--neon-pink);
-    padding-left: 2rem;
-    padding: 1.5rem 1.5rem 1.5rem 2rem;
-    font-style: italic;
-    color: #ffffff !important;
-    margin: 2.5rem 0;
-    background: linear-gradient(90deg, rgba(255, 110, 199, 0.2), transparent);
-    border-radius: 0 12px 12px 0;
-    box-shadow: -4px 0 12px rgba(255, 110, 199, 0.3);
-    position: relative;
-}
-
-blockquote::before {
-    content: '"';
-    position: absolute;
-    top: -10px;
-    left: 10px;
-    font-size: 4rem;
-    color: var(--neon-pink);
-    opacity: 0.4;
-    font-family: Georgia, serif;
-    line-height: 1;
+    border-left: 4px solid var(--chrome-pink) !important;
+    padding-left: 2rem !important;
+    padding: 1.5rem 1.5rem 1.5rem 2rem !important;
+    font-style: italic !important;
+    color: var(--text-color) !important;
+    margin: 2.5rem 0 !important;
+    background: linear-gradient(90deg, rgba(236, 72, 153, 0.1), transparent) !important;
+    border-radius: 0 12px 12px 0 !important;
+    box-shadow: -4px 0 12px rgba(236, 72, 153, 0.2) !important;
+    position: relative !important;
 }
 
 blockquote p {
-    color: #ffffff !important;
+    color: var(--text-color) !important;
 }
 
-/* === Images with glow === */
+/* === Images === */
 
 img {
-    border-radius: 16px;
-    box-shadow: 
-        0 10px 40px rgba(109, 76, 168, 0.15),
-        0 4px 16px rgba(109, 76, 168, 0.1);
-    transition: all 0.4s ease;
+    border-radius: 16px !important;
+    box-shadow: var(--shadow-chrome) !important;
+    transition: all 0.3s ease !important;
 }
 
 img:hover {
-    box-shadow: 
-        0 20px 60px rgba(109, 76, 168, 0.25),
-        0 8px 24px rgba(167, 139, 250, 0.2),
-        0 0 40px var(--glow-primary);
-    transform: scale(1.02);
+    box-shadow: var(--glow-chrome) !important;
+    transform: scale(1.02) !important;
+}
+
+
+/* === Spacing === */
+
+.portal-grid,
+.concept-pills,
+.affirmation-list {
+    gap: 1.5rem;
 }
 
 /* === Enhanced Layout === */
@@ -534,130 +1164,123 @@ img:hover {
 }
 
 .post-content {
-    max-width: 720px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
-/* === Footer - Atmospheric === */
+/* === Footer - Chromatic Theme === */
 
 .footer {
-    text-align: center;
-    padding: 3rem 2rem;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 14px;
-    background: linear-gradient(135deg, var(--bg-theme) 0%, #dce4ed 100%);
-    border-top: 1px solid rgba(109, 76, 168, 0.15);
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    text-align: center !important;
+    padding: 2.5rem 2rem !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.9rem !important;
+    background: var(--gradient-header) !important;
+    border-top: 2px solid rgba(139, 92, 246, 0.3) !important;
+    box-shadow: inset 0 1px 0 rgba(139, 92, 246, 0.1) !important;
+    color: var(--text-muted) !important;
+    margin-top: 4rem !important;
 }
 
-/* === Special Effects === */
-
-/* Mystical particle effect on page load */
-@keyframes float {
-    0%, 100% { transform: translateY(0) rotate(0deg); }
-    50% { transform: translateY(-20px) rotate(180deg); }
+.footer * {
+    color: var(--text-muted) !important;
 }
 
-/* Glow pulse animation for special elements */
-@keyframes glow-pulse {
-    0%, 100% { box-shadow: 0 0 20px var(--glow-primary); }
-    50% { box-shadow: 0 0 40px var(--glow-pink), 0 0 60px var(--glow-blue); }
+.footer a {
+    color: var(--text-light) !important;
+    text-decoration: none !important;
+    font-weight: 600 !important;
+    background: var(--gradient-main) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
 }
 
-/* Apply glow pulse to certain elements */
-.entry-content:hover,
-.post-content > div:hover {
-    animation: glow-pulse 3s infinite;
+.footer a:hover {
+    background-size: 200% auto !important;
+    animation: chromatic-shine 2s linear infinite !important;
 }
 
-/* Scroll progress bar */
-.scroll-progress {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 0;
+/* === Custom Scrollbar - Subtle & Chromatic === */
+
+/* For header/menu scrollbar */
+#menu::-webkit-scrollbar,
+nav::-webkit-scrollbar {
+    width: 4px;
     height: 4px;
-    background: linear-gradient(90deg, var(--neon-pink), var(--neon-purple), var(--steel-blue));
-    z-index: 9999;
-    box-shadow: 0 2px 12px rgba(255, 110, 199, 0.6);
 }
 
-/* === MOBILE OPTIMIZATION === */
+#menu::-webkit-scrollbar-track,
+nav::-webkit-scrollbar-track {
+    background: rgba(139, 92, 246, 0.1);
+    border-radius: 10px;
+}
 
-/* Better mobile typography */
-@media (max-width: 768px) {
-    body {
-        font-size: 16px;
-    }
-    
-    h1 {
-        font-size: 1.5rem !important;
-        line-height: 1.3;
-        margin-bottom: 1rem;
-        word-break: break-word;
-        overflow-wrap: break-word;
-    }
-    
-    h2 {
-        font-size: 1.35rem !important;
-        line-height: 1.4;
-        margin-bottom: 0.75rem;
-        word-break: break-word;
-        overflow-wrap: break-word;
-    }
-    
-    h3 {
-        font-size: 1.2rem !important;
-        line-height: 1.4;
-        word-break: break-word;
-    }
-    
-    h4 {
-        font-size: 1.1rem !important;
-    }
-    
-    /* Homepage affirmation boxes - better mobile padding */
-    .entry-content,
-    .post-content > div,
-    .home .post-content {
-        padding: 1.5rem;
-        border-radius: 16px;
-    }
-    
-    /* Post content - better mobile spacing */
-    .post-content {
-        padding: 1.5rem;
-        font-size: 16px;
-    }
-    
-    /* Post entry cards - mobile friendly */
-    .post-entry {
-        padding: 1.25rem;
-    }
-    
-    /* Site title - prevent awkward breaking */
-    .site-title,
-    #site-title {
-        font-size: 1.5rem;
-        line-height: 1.3;
-        word-spacing: 0.2em;
+#menu::-webkit-scrollbar-thumb,
+nav::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.4), rgba(236, 72, 153, 0.4));
+    border-radius: 10px;
+}
+
+#menu::-webkit-scrollbar-thumb:hover,
+nav::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.6), rgba(236, 72, 153, 0.6));
+}
+
+/* Firefox scrollbar */
+#menu,
+nav {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(139, 92, 246, 0.4) rgba(139, 92, 246, 0.1);
+}
+
+/* === Homepage Posts Grid - Scoped Only === */
+
+.homepage-posts-grid {
+    margin-top: 2rem !important;
+}
+
+.homepage-post-card {
+    background: rgba(26, 11, 46, 0.85) !important;
+    border: 2px solid rgba(139, 92, 246, 0.3) !important;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    transition: all 0.3s ease !important;
+    display: block !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
+}
+
+.homepage-post-card:hover {
+    transform: translateY(-8px) !important;
+    box-shadow: 0 12px 30px rgba(236, 72, 153, 0.4) !important;
+    border-color: rgba(236, 72, 153, 0.5) !important;
+}
+
+.homepage-post-card img {
+    transition: transform 0.3s ease !important;
+}
+
+.homepage-post-card:hover img {
+    transform: scale(1.05) !important;
+}
+
+.homepage-post-card h3 {
+    background: linear-gradient(135deg, #8b5cf6, #ec4899) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+}
+
+/* Responsive grid */
+@media (max-width: 1024px) {
+    .homepage-posts-grid > div {
+        grid-template-columns: repeat(2, 1fr) !important;
     }
 }
 
-/* Very small screens */
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.35rem !important;
-    }
-    
-    h2 {
-        font-size: 1.2rem !important;
-    }
-    
-    .entry-content,
-    .post-content > div,
-    .home .post-content,
-    .post-content {
-        padding: 1.25rem;
+@media (max-width: 640px) {
+    .homepage-posts-grid > div {
+        grid-template-columns: 1fr !important;
     }
 }
+

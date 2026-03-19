@@ -883,9 +883,26 @@ header,
 #header {
     background: var(--gradient-header) !important;
     border: none !important;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
-    padding: 1rem 2rem !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+    padding: 0.75rem 2rem !important;
     backdrop-filter: blur(10px);
+}
+
+/* Remove the outer nav box - no border, no background */
+nav.nav,
+.nav {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+/* Remove any divider line below header */
+.header::after,
+header::after {
+    display: none !important;
+    border: none !important;
 }
 
 /* Site title - clean, no box */
@@ -920,24 +937,45 @@ nav,
     padding: 0 !important;
 }
 
+/* Individual menu item boxes - small, equal, sparkly */
+#menu {
+    gap: 0.35rem !important;
+    flex-wrap: wrap !important;
+    overflow: visible !important;
+}
+
+#menu li {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
 nav a,
 .menu a,
 #menu a,
 #menu li a {
     font-family: 'DM Sans', sans-serif !important;
     font-weight: 500 !important;
-    font-size: 0.9rem !important;
-    letter-spacing: 0.03em !important;
+    font-size: 0.78rem !important;
+    letter-spacing: 0.04em !important;
     text-transform: none !important;
-    color: var(--text-color) !important;
-    padding: 0.6rem 1.2rem !important;
-    border-radius: 8px !important;
-    background: rgba(139, 92, 246, 0.1) !important;
-    border: 1px solid rgba(139, 92, 246, 0.3) !important;
-    transition: all 0.3s ease !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+    padding: 0.35rem 0.75rem !important;
+    border-radius: 20px !important;
+    background: rgba(139, 92, 246, 0.12) !important;
+    border: 1px solid rgba(139, 92, 246, 0.35) !important;
+    transition: all 0.25s ease !important;
     white-space: nowrap !important;
-    text-align: center !important;
-    min-width: fit-content !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+}
+
+/* Add tiny sparkle before each menu item */
+#menu li a span::before {
+    content: '✦ ' !important;
+    font-size: 0.55rem !important;
+    color: rgba(236, 72, 153, 0.7) !important;
+    vertical-align: middle !important;
 }
 
 nav a:hover,
@@ -945,10 +983,18 @@ nav a:hover,
 #menu a:hover,
 #menu li a:hover {
     background: rgba(236, 72, 153, 0.2) !important;
-    border-color: rgba(236, 72, 153, 0.5) !important;
-    color: var(--text-light) !important;
-    box-shadow: 0 4px 15px rgba(217, 70, 239, 0.4) !important;
-    transform: translateY(-2px) !important;
+    border-color: rgba(236, 72, 153, 0.6) !important;
+    color: #ffffff !important;
+    box-shadow: 0 0 12px rgba(236, 72, 153, 0.3) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* Active page highlight */
+#menu a span.active,
+#menu .active {
+    color: #ffffff !important;
+    background: rgba(139, 92, 246, 0.25) !important;
+    border-color: rgba(139, 92, 246, 0.6) !important;
 }
 
 /* Remove unnecessary lines and borders */
@@ -959,12 +1005,12 @@ nav::after {
     display: none !important;
 }
 
-/* Mobile menu */
+/* No outer box on menu */
 #menu {
-    background: var(--gradient-header) !important;
-    border: 1px solid rgba(139, 92, 246, 0.3) !important;
-    border-radius: 12px !important;
-    padding: 1rem !important;
+    background: transparent !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
 }
 
 #menu li {
@@ -1282,5 +1328,282 @@ nav {
     .homepage-posts-grid > div {
         grid-template-columns: 1fr !important;
     }
+}
+
+/* ========================================
+   ✦ SPARKLE EFFECTS - Elegant & Subtle
+   ======================================== */
+
+@keyframes sparkle-twinkle {
+    0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }
+    50%       { opacity: 1; transform: scale(1) rotate(180deg); }
+}
+
+@keyframes sparkle-float {
+    0%, 100% { transform: translateY(0px) rotate(0deg); opacity: 0.6; }
+    50%       { transform: translateY(-8px) rotate(90deg); opacity: 1; }
+}
+
+@keyframes sparkle-pulse {
+    0%, 100% { opacity: 0.2; transform: scale(0.8); }
+    50%       { opacity: 1; transform: scale(1.2); }
+}
+
+/* Sparkles around the site title / logo */
+.site-title,
+.logo {
+    position: relative;
+}
+
+.site-title::before {
+    content: '✦';
+    position: absolute;
+    top: -8px;
+    left: -18px;
+    font-size: 0.7rem;
+    color: #ec4899;
+    animation: sparkle-twinkle 2.5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.site-title::after {
+    content: '✧';
+    position: absolute;
+    bottom: -4px;
+    right: -14px;
+    font-size: 0.65rem;
+    color: #8b5cf6;
+    animation: sparkle-twinkle 3s ease-in-out infinite 1.2s;
+    pointer-events: none;
+}
+
+/* Sparkles on the welcome title */
+.sanctuary-title {
+    position: relative;
+}
+
+.sanctuary-title::before {
+    content: '✦';
+    position: absolute;
+    top: -12px;
+    left: 10%;
+    font-size: 0.8rem;
+    color: #ec4899;
+    animation: sparkle-float 3s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.sanctuary-title::after {
+    content: '✧';
+    position: absolute;
+    top: -10px;
+    right: 10%;
+    font-size: 0.75rem;
+    color: #a855f7;
+    animation: sparkle-float 2.8s ease-in-out infinite 0.8s;
+    pointer-events: none;
+}
+
+/* Scattered sparkles on the page using the hero section */
+.sanctuary-hero {
+    position: relative;
+    overflow: visible;
+}
+
+.sanctuary-hero::before {
+    content: '✦ ✧ ✦';
+    position: absolute;
+    top: 0;
+    right: 5%;
+    font-size: 0.65rem;
+    letter-spacing: 8px;
+    color: rgba(236, 72, 153, 0.5);
+    animation: sparkle-pulse 4s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.sanctuary-hero::after {
+    content: '✧ ✦ ✧';
+    position: absolute;
+    bottom: 10px;
+    left: 5%;
+    font-size: 0.6rem;
+    letter-spacing: 8px;
+    color: rgba(139, 92, 246, 0.5);
+    animation: sparkle-pulse 3.5s ease-in-out infinite 1s;
+    pointer-events: none;
+}
+
+/* Sparkle glow on affirmation card header */
+.affirmation-header::after {
+    content: '✦';
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 1rem;
+    color: rgba(236, 72, 153, 0.6);
+    animation: sparkle-twinkle 2s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.affirmation-header {
+    position: relative;
+}
+
+/* Sparkle on portal cards hover */
+.portal-card::after {
+    content: '✦';
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    font-size: 0.7rem;
+    color: rgba(139, 92, 246, 0.4);
+    animation: sparkle-pulse 3s ease-in-out infinite;
+    pointer-events: none;
+    transition: opacity 0.3s;
+}
+
+.portal-card {
+    position: relative;
+}
+
+.portal-card:hover::after {
+    color: rgba(236, 72, 153, 0.9);
+}
+
+/* Subtle sparkle shimmer on section dividers */
+.sanctuary-divider {
+    position: relative;
+}
+
+.sanctuary-divider::before {
+    content: '✦';
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    transform: translateX(-50%);
+    font-size: 0.75rem;
+    color: rgba(236, 72, 153, 0.7);
+    animation: sparkle-twinkle 2.5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+/* ========================================
+   ✦ FLOATING SPARKLES ACROSS THE PAGE
+   ======================================== */
+
+@keyframes drift-1 {
+    0%,100% { transform: translateY(0px) translateX(0px) rotate(0deg); opacity: 0.5; }
+    33%      { transform: translateY(-15px) translateX(5px) rotate(60deg); opacity: 1; }
+    66%      { transform: translateY(-8px) translateX(-4px) rotate(120deg); opacity: 0.7; }
+}
+@keyframes drift-2 {
+    0%,100% { transform: translateY(0px) translateX(0px) rotate(0deg); opacity: 0.4; }
+    50%      { transform: translateY(-20px) translateX(-6px) rotate(90deg); opacity: 0.9; }
+}
+@keyframes drift-3 {
+    0%,100% { transform: translateY(0px) rotate(0deg); opacity: 0.3; }
+    40%      { transform: translateY(-12px) rotate(45deg); opacity: 0.8; }
+    80%      { transform: translateY(-6px) rotate(90deg); opacity: 0.5; }
+}
+
+/* Sparkles scattered across the main content area */
+.main {
+    position: relative;
+}
+
+/* Far left floating sparkle */
+.main::before {
+    content: '✦';
+    position: fixed;
+    top: 25%;
+    left: 3%;
+    font-size: 0.6rem;
+    color: rgba(236, 72, 153, 0.45);
+    animation: drift-1 5s ease-in-out infinite;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Far right floating sparkle */
+.main::after {
+    content: '✧';
+    position: fixed;
+    top: 45%;
+    right: 3%;
+    font-size: 0.55rem;
+    color: rgba(139, 92, 246, 0.45);
+    animation: drift-2 6s ease-in-out infinite 1s;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Sparkles on the invitation box edges */
+.invitation-box::before {
+    content: '✦';
+    position: absolute;
+    top: -10px;
+    left: 12%;
+    font-size: 0.6rem;
+    color: rgba(236, 72, 153, 0.6);
+    animation: drift-1 4s ease-in-out infinite 0.5s;
+    pointer-events: none;
+}
+
+.invitation-box::after {
+    content: '✧';
+    position: absolute;
+    bottom: -10px;
+    right: 12%;
+    font-size: 0.55rem;
+    color: rgba(168, 85, 247, 0.6);
+    animation: drift-2 4.5s ease-in-out infinite 1.5s;
+    pointer-events: none;
+}
+
+/* Sparkles drifting beside the pyramid */
+.pyramid-container::before {
+    content: '✦';
+    position: absolute;
+    top: 10%;
+    left: -30px;
+    font-size: 0.65rem;
+    color: rgba(236, 72, 153, 0.55);
+    animation: drift-3 3.5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.pyramid-container::after {
+    content: '✧';
+    position: absolute;
+    top: 20%;
+    right: -25px;
+    font-size: 0.6rem;
+    color: rgba(139, 92, 246, 0.55);
+    animation: drift-1 4s ease-in-out infinite 0.7s;
+    pointer-events: none;
+}
+
+/* Perception feature - sparkles floating at top corners */
+.perception-feature::before {
+    content: '✦';
+    position: absolute;
+    top: -12px;
+    left: 8%;
+    font-size: 0.65rem;
+    color: rgba(244, 114, 182, 0.65);
+    animation: drift-2 5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.perception-feature::after {
+    content: '✧';
+    position: absolute;
+    top: -10px;
+    right: 8%;
+    font-size: 0.6rem;
+    color: rgba(168, 85, 247, 0.6);
+    animation: drift-3 4.5s ease-in-out infinite 1.2s;
+    pointer-events: none;
 }
 

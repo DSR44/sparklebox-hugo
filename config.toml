@@ -1,6 +1,6 @@
 baseURL = "https://sparklebox.blog/"
 languageCode = "en-us"
-title = "Sparklebox 𝘣𝘺 𝙴𝚕𝚕𝚎 𝚅𝚒𝚍𝚊"
+title = "Sparklebox"
 theme = "PaperMod"
 
 [pagination]

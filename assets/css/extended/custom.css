@@ -905,24 +905,73 @@ header::after {
     border: none !important;
 }
 
-/* Site title - clean, no box */
+/* ✦ MYSTICAL LOGO STYLING ✦ */
+.logo {
+    display: flex !important;
+    align-items: flex-start !important;
+    line-height: 1 !important;
+}
+
+.logo a,
 .site-title,
-#site-title,
-.logo a {
-    font-family: 'Cinzel', serif !important;
-    font-size: clamp(1.5rem, 3vw, 2rem) !important;
-    font-weight: 600 !important;
-    background: var(--gradient-main) !important;
+#site-title {
+    font-family: 'Cinzel Decorative', serif !important;
+    font-size: clamp(1.1rem, 2.5vw, 1.5rem) !important;
+    font-weight: 700 !important;
+    background: linear-gradient(135deg, #c084fc 0%, #ec4899 40%, #f9a8d4 60%, #a855f7 100%) !important;
     -webkit-background-clip: text !important;
     -webkit-text-fill-color: transparent !important;
     background-clip: text !important;
     background-size: 200% auto !important;
-    animation: chromatic-shine 3s linear infinite !important;
-    letter-spacing: 0.08em !important;
+    animation: chromatic-shine 4s linear infinite !important;
+    letter-spacing: 0.12em !important;
     padding: 0 !important;
     margin: 0 !important;
     border: none !important;
     box-shadow: none !important;
+    text-decoration: none !important;
+    line-height: 1.3 !important;
+}
+
+/* △ Pyramid inside the logo — soft blush-pink, matching palette */
+.logo-pyramid {
+    display: inline-block !important;
+    font-size: 0.85em !important;
+    vertical-align: middle !important;
+    line-height: 1 !important;
+    position: relative !important;
+    top: -0.05em !important;
+    background: linear-gradient(160deg, #fce7f3 0%, #f9a8d4 50%, #e879f9 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    filter: drop-shadow(0 0 5px rgba(236, 72, 153, 0.45)) !important;
+    animation: pyramid-glow 3s ease-in-out infinite !important;
+    background-size: 200% auto !important;
+}
+
+@keyframes pyramid-glow {
+    0%, 100% { filter: drop-shadow(0 0 3px rgba(236, 72, 153, 0.3)); }
+    50%       { filter: drop-shadow(0 0 8px rgba(192, 132, 252, 0.7)); }
+}
+
+/* "by Elle Vida" part - elegant italic underneath */
+.logo a::after {
+    content: 'Perception is Creation';
+    display: block !important;
+    font-family: 'Cormorant Garamond', serif !important;
+    font-style: italic !important;
+    font-weight: 300 !important;
+    font-size: 0.65rem !important;
+    letter-spacing: 0.2em !important;
+    background: linear-gradient(135deg, #f9a8d4, #c084fc) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    animation: none !important;
+    opacity: 0.9 !important;
+    margin-top: 2px !important;
+    text-transform: lowercase !important;
 }
 
 /* Navigation - clean buttons, equal size */
@@ -1349,32 +1398,24 @@ nav {
     50%       { opacity: 1; transform: scale(1.2); }
 }
 
-/* Sparkles around the site title / logo */
-.site-title,
+/* Sparkles around the logo */
 .logo {
     position: relative;
 }
 
-.site-title::before {
+.logo::before {
     content: '✦';
     position: absolute;
-    top: -8px;
-    left: -18px;
-    font-size: 0.7rem;
-    color: #ec4899;
+    top: 0px;
+    left: -16px;
+    font-size: 0.6rem;
+    color: rgba(236, 72, 153, 0.6);
     animation: sparkle-twinkle 2.5s ease-in-out infinite;
     pointer-events: none;
 }
 
-.site-title::after {
-    content: '✧';
-    position: absolute;
-    bottom: -4px;
-    right: -14px;
-    font-size: 0.65rem;
-    color: #8b5cf6;
-    animation: sparkle-twinkle 3s ease-in-out infinite 1.2s;
-    pointer-events: none;
+.logo::after {
+    content: '';
 }
 
 /* Sparkles on the welcome title */

@@ -1794,3 +1794,80 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     text-shadow: none !important;
 }
 
+/* === SHARE BUTTONS === */
+
+.share-section {
+    margin: 2.5rem 0 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.share-label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    color: rgba(249, 168, 212, 0.7);
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.share-buttons {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.share-buttons li {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.share-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 0.4rem !important;
+    padding: 0.3rem 0.85rem !important;
+    border-radius: 20px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.75rem !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.04em !important;
+    text-decoration: none !important;
+    transition: all 0.22s ease !important;
+    border: 1px solid rgba(236, 72, 153, 0.35) !important;
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.12) 0%,
+        rgba(192, 132, 252, 0.08) 50%,
+        rgba(236, 72, 153, 0.12) 100%) !important;
+    color: rgba(255, 255, 255, 0.88) !important;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0.88) !important;
+}
+
+.share-btn svg {
+    flex-shrink: 0;
+    opacity: 0.85;
+}
+
+.share-btn:hover {
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.28) 0%,
+        rgba(192, 132, 252, 0.2) 50%,
+        rgba(236, 72, 153, 0.28) 100%) !important;
+    border-color: rgba(236, 72, 153, 0.65) !important;
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    box-shadow: 0 0 12px rgba(236, 72, 153, 0.3) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* Subtle colour tint per platform on hover */
+.share-pinterest:hover { border-color: rgba(230, 0, 35, 0.5) !important; box-shadow: 0 0 12px rgba(230, 0, 35, 0.25) !important; }
+.share-facebook:hover  { border-color: rgba(66, 103, 178, 0.5) !important; box-shadow: 0 0 12px rgba(66, 103, 178, 0.25) !important; }
+.share-whatsapp:hover  { border-color: rgba(37, 211, 102, 0.5) !important; box-shadow: 0 0 12px rgba(37, 211, 102, 0.25) !important; }
+.share-x:hover         { border-color: rgba(255, 255, 255, 0.4) !important; box-shadow: 0 0 12px rgba(255, 255, 255, 0.15) !important; }
+

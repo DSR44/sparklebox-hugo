@@ -121,56 +121,61 @@
                 {{- end }}
             </div>
         </div>
-        <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle menu" aria-expanded="false">
-            ✦ Menu
-        </button>
-
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+            {{- if le .Weight 6 }}
             <li>
-                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
+                <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
                 {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- .Pre }}
-                        {{- .Name -}}
-                        {{ .Post -}}
+                        {{- .Pre }}{{- .Name -}}{{ .Post -}}
                     </span>
-                    {{- if (findRE "://" .URL) }}&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
-                    {{- end }}
                 </a>
             </li>
             {{- end }}
+            {{- end }}
+            {{- /* Secondary items (weight > 6) inside "More" dropdown */ -}}
+            <li class="menu-more-item">
+                <button class="menu-more-btn" id="moreMenuBtn" aria-expanded="false">✦ More ▾</button>
+                <ul class="menu-more-dropdown" id="moreMenuDropdown">
+                    {{- range site.Menus.main }}
+                    {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+                    {{- $page_url:= $currentPage.Permalink | absLangURL }}
+                    {{- if gt .Weight 6 }}
+                    <li>
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                            <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                                {{- .Name -}}
+                            </span>
+                        </a>
+                    </li>
+                    {{- end }}
+                    {{- end }}
+                </ul>
+            </li>
         </ul>
     </nav>
 </header>
 
 <script>
 (function() {
-    var btn = document.getElementById('mobileMenuBtn');
-    var menu = document.getElementById('menu');
-    if (!btn || !menu) return;
-    btn.addEventListener('click', function() {
-        var isOpen = menu.classList.toggle('menu-open');
+    var btn = document.getElementById('moreMenuBtn');
+    var dropdown = document.getElementById('moreMenuDropdown');
+    if (!btn || !dropdown) return;
+    btn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var isOpen = dropdown.classList.toggle('open');
         btn.setAttribute('aria-expanded', isOpen);
-        btn.innerHTML = isOpen ? '✕ Close' : '✦ Menu';
+        btn.innerHTML = isOpen ? '✦ More ▴' : '✦ More ▾';
     });
-    // Close menu when a link is clicked
-    menu.addEventListener('click', function(e) {
-        if (e.target.closest('a')) {
-            menu.classList.remove('menu-open');
-            btn.setAttribute('aria-expanded', 'false');
-            btn.innerHTML = '✦ Menu';
-        }
+    document.addEventListener('click', function() {
+        dropdown.classList.remove('open');
+        btn.setAttribute('aria-expanded', 'false');
+        btn.innerHTML = '✦ More ▾';
     });
 })();
 </script>

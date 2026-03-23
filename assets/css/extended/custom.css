@@ -1057,74 +1057,128 @@ nav::after {
     display: none !important;
 }
 
-/* === MOBILE HAMBURGER MENU === */
+/* === "MORE" DROPDOWN for secondary menu items === */
 
-.mobile-menu-btn {
+.menu-more-item {
+    position: relative !important;
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.menu-more-btn {
+    font-family: 'DM Sans', sans-serif !important;
+    font-weight: 500 !important;
+    font-size: 0.72rem !important;
+    letter-spacing: 0.05em !important;
+    color: rgba(255, 255, 255, 0.92) !important;
+    padding: 0.25rem 0.65rem !important;
+    border-radius: 20px !important;
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.18) 0%,
+        rgba(192, 132, 252, 0.12) 50%,
+        rgba(236, 72, 153, 0.18) 100%) !important;
+    border: 1px solid rgba(236, 72, 153, 0.38) !important;
+    cursor: pointer !important;
+    white-space: nowrap !important;
+    transition: all 0.22s ease !important;
+    line-height: 1 !important;
+}
+
+.menu-more-btn:hover {
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.35) 0%,
+        rgba(192, 132, 252, 0.25) 50%,
+        rgba(236, 72, 153, 0.35) 100%) !important;
+    border-color: rgba(236, 72, 153, 0.7) !important;
+    box-shadow: 0 0 10px rgba(236, 72, 153, 0.3) !important;
+}
+
+/* Dropdown panel */
+.menu-more-dropdown {
     display: none;
-    align-items: center;
-    gap: 0.4rem;
-    cursor: pointer;
-    font-family: 'DM Sans', sans-serif;
-    font-size: 0.78rem;
-    font-weight: 500;
-    color: rgba(255, 255, 255, 0.92);
-    padding: 0.28rem 0.75rem;
-    border-radius: 20px;
-    background: linear-gradient(135deg, rgba(236, 72, 153, 0.2), rgba(192, 132, 252, 0.14));
-    border: 1px solid rgba(236, 72, 153, 0.45);
-    transition: all 0.22s ease;
-    white-space: nowrap;
+    position: absolute !important;
+    top: calc(100% + 6px) !important;
+    right: 0 !important;
+    min-width: 160px !important;
+    background: rgba(15, 5, 30, 0.97) !important;
+    backdrop-filter: blur(20px) !important;
+    border: 1px solid rgba(236, 72, 153, 0.25) !important;
+    border-radius: 12px !important;
+    padding: 0.5rem !important;
+    z-index: 300 !important;
+    flex-direction: column !important;
+    gap: 0.3rem !important;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.4) !important;
+    list-style: none !important;
+    margin: 0 !important;
 }
 
-.mobile-menu-btn:hover {
-    background: linear-gradient(135deg, rgba(236, 72, 153, 0.35), rgba(192, 132, 252, 0.25));
-    border-color: rgba(236, 72, 153, 0.7);
-    box-shadow: 0 0 10px rgba(236, 72, 153, 0.3);
+.menu-more-dropdown.open {
+    display: flex !important;
 }
 
+.menu-more-dropdown li {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+.menu-more-dropdown a {
+    display: block !important;
+    width: 100% !important;
+    padding: 0.35rem 0.75rem !important;
+    border-radius: 8px !important;
+    font-size: 0.78rem !important;
+    color: rgba(255,255,255,0.88) !important;
+    text-decoration: none !important;
+    transition: background 0.18s ease !important;
+    white-space: nowrap !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.menu-more-dropdown a:hover {
+    background: rgba(236, 72, 153, 0.18) !important;
+    color: #ffffff !important;
+    transform: none !important;
+    box-shadow: none !important;
+}
+
+/* Header positioning for dropdown */
+.header {
+    position: relative !important;
+}
+
+/* Mobile — make nav wrap tidily, stay in header */
 @media (max-width: 768px) {
-    /* Show hamburger button */
-    .mobile-menu-btn {
-        display: inline-flex !important;
-    }
-
-    /* Hide menu by default on mobile */
-    #menu {
-        display: none !important;
-        position: absolute !important;
-        top: 100% !important;
-        left: 0 !important;
-        right: 0 !important;
-        flex-direction: column !important;
-        align-items: flex-start !important;
+    .nav {
+        flex-wrap: wrap !important;
+        align-items: center !important;
         gap: 0.4rem !important;
-        padding: 1rem 1.5rem 1.2rem !important;
-        background: rgba(15, 5, 30, 0.97) !important;
-        backdrop-filter: blur(20px) !important;
-        border-bottom: 1px solid rgba(236, 72, 153, 0.2) !important;
-        z-index: 200 !important;
-        flex-wrap: nowrap !important;
     }
 
-    /* Show menu when open */
-    #menu.menu-open {
-        display: flex !important;
-    }
-
-    #menu li {
+    #menu {
+        flex-wrap: wrap !important;
+        gap: 0.3rem !important;
         width: 100% !important;
     }
 
     #menu li a {
-        width: 100% !important;
-        justify-content: flex-start !important;
-        padding: 0.45rem 0.9rem !important;
-        font-size: 0.85rem !important;
+        font-size: 0.7rem !important;
+        padding: 0.22rem 0.55rem !important;
     }
 
-    /* Header needs relative positioning for dropdown */
-    .header {
-        position: relative !important;
+    .menu-more-btn {
+        font-size: 0.7rem !important;
+        padding: 0.22rem 0.55rem !important;
+    }
+
+    /* Dropdown opens upward on mobile if near bottom, left-align */
+    .menu-more-dropdown {
+        right: auto !important;
+        left: 0 !important;
     }
 
     /* Compact logo on mobile */

@@ -71,6 +71,7 @@ theme = "PaperMod"
 [params]
   description = "✨ Sparklebox | Your portal to daily soft power, inner healing, and cosmic becoming."
   author = "Elle Vida"
+  disableThemeToggle = true
   
   # PaperMod specific settings
   ShowReadingTime = false

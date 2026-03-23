@@ -121,6 +121,10 @@
                 {{- end }}
             </div>
         </div>
+        <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle menu" aria-expanded="false">
+            ✦ Menu
+        </button>
+
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -149,3 +153,24 @@
         </ul>
     </nav>
 </header>
+
+<script>
+(function() {
+    var btn = document.getElementById('mobileMenuBtn');
+    var menu = document.getElementById('menu');
+    if (!btn || !menu) return;
+    btn.addEventListener('click', function() {
+        var isOpen = menu.classList.toggle('menu-open');
+        btn.setAttribute('aria-expanded', isOpen);
+        btn.innerHTML = isOpen ? '✕ Close' : '✦ Menu';
+    });
+    // Close menu when a link is clicked
+    menu.addEventListener('click', function(e) {
+        if (e.target.closest('a')) {
+            menu.classList.remove('menu-open');
+            btn.setAttribute('aria-expanded', 'false');
+            btn.innerHTML = '✦ Menu';
+        }
+    });
+})();
+</script>

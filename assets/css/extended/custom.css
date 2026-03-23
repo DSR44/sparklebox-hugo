@@ -4,7 +4,7 @@
  */
 
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@300;400;600;700&family=DM+Sans:wght@400;500;700;800&family=Cormorant:wght@300;400;600;700&family=Cinzel:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;700;800&display=swap');
 
 /* CHROMATIC IRIDESCENT Color Scheme - Metallic Pink & Purple */
 :root {
@@ -48,7 +48,7 @@
 /* === Typography === */
 
 body {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Cinzel', serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 1.7;
@@ -103,7 +103,7 @@ h4 { font-size: clamp(1.1rem, 2vw, 1.5rem); margin-bottom: 0.8rem; }
 
 /* Headings - MORE DRAMATIC */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Cormorant', serif;
+    font-family: 'Cormorant Garamond', serif;
     color: var(--heading-color);
     font-weight: 700;
     letter-spacing: 0.12em;
@@ -137,7 +137,7 @@ h3 {
 }
 
 h4 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Cinzel', serif;
     font-size: 1.35rem;
     letter-spacing: 0.02em;
     text-transform: none;
@@ -716,12 +716,7 @@ a:not(.post-title a):not(.site-title a):not(nav a):hover::after {
         font-size: 1.5rem;
     }
     
-    nav a,
-    .menu a,
-    #menu a {
-        font-size: 0.85rem !important;
-        padding: 0.5rem 1rem !important;
-    }
+    /* Menu handled by hamburger on mobile */
     
     .main,
     main {
@@ -975,55 +970,58 @@ header::after {
 }
 
 /* Navigation - clean buttons, equal size */
+/* === NAVIGATION MENU === */
+
 nav,
 .menu,
 #menu {
     display: flex !important;
-    gap: 0.5rem !important;
+    gap: 0.3rem !important;
     align-items: center !important;
+    flex-wrap: wrap !important;
     background: transparent !important;
     border: none !important;
     padding: 0 !important;
 }
 
-/* Individual menu item boxes - small, equal, sparkly */
-#menu {
-    gap: 0.35rem !important;
-    flex-wrap: wrap !important;
-    overflow: visible !important;
-}
-
 #menu li {
     margin: 0 !important;
     padding: 0 !important;
+    list-style: none !important;
 }
 
+/* Menu pill boxes — chromatic pink gradient */
 nav a,
 .menu a,
 #menu a,
 #menu li a {
     font-family: 'DM Sans', sans-serif !important;
     font-weight: 500 !important;
-    font-size: 0.78rem !important;
-    letter-spacing: 0.04em !important;
+    font-size: 0.72rem !important;
+    letter-spacing: 0.05em !important;
     text-transform: none !important;
-    color: rgba(255, 255, 255, 0.9) !important;
-    padding: 0.35rem 0.75rem !important;
+    color: rgba(255, 255, 255, 0.92) !important;
+    padding: 0.25rem 0.65rem !important;
     border-radius: 20px !important;
-    background: rgba(139, 92, 246, 0.12) !important;
-    border: 1px solid rgba(139, 92, 246, 0.35) !important;
-    transition: all 0.25s ease !important;
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.18) 0%,
+        rgba(192, 132, 252, 0.12) 50%,
+        rgba(236, 72, 153, 0.18) 100%) !important;
+    border: 1px solid rgba(236, 72, 153, 0.38) !important;
+    transition: all 0.22s ease !important;
     white-space: nowrap !important;
     display: inline-flex !important;
     align-items: center !important;
-    gap: 4px !important;
+    gap: 3px !important;
+    line-height: 1 !important;
+    text-decoration: none !important;
 }
 
-/* Add tiny sparkle before each menu item */
+/* Sparkle prefix */
 #menu li a span::before {
     content: '✦ ' !important;
-    font-size: 0.55rem !important;
-    color: rgba(236, 72, 153, 0.7) !important;
+    font-size: 0.5rem !important;
+    opacity: 0.7 !important;
     vertical-align: middle !important;
 }
 
@@ -1031,22 +1029,27 @@ nav a:hover,
 .menu a:hover,
 #menu a:hover,
 #menu li a:hover {
-    background: rgba(236, 72, 153, 0.2) !important;
-    border-color: rgba(236, 72, 153, 0.6) !important;
+    background: linear-gradient(135deg,
+        rgba(236, 72, 153, 0.35) 0%,
+        rgba(192, 132, 252, 0.25) 50%,
+        rgba(236, 72, 153, 0.35) 100%) !important;
+    border-color: rgba(236, 72, 153, 0.7) !important;
     color: #ffffff !important;
-    box-shadow: 0 0 12px rgba(236, 72, 153, 0.3) !important;
+    box-shadow: 0 0 10px rgba(236, 72, 153, 0.35) !important;
     transform: translateY(-1px) !important;
 }
 
-/* Active page highlight */
+/* Active page */
 #menu a span.active,
-#menu .active {
-    color: #ffffff !important;
-    background: rgba(139, 92, 246, 0.25) !important;
-    border-color: rgba(139, 92, 246, 0.6) !important;
+#menu .active,
+#menu li a:has(span.active) {
+    background: linear-gradient(135deg,
+        rgba(192, 132, 252, 0.3) 0%,
+        rgba(236, 72, 153, 0.25) 100%) !important;
+    border-color: rgba(192, 132, 252, 0.6) !important;
 }
 
-/* Remove unnecessary lines and borders */
+/* Remove stray borders */
 .header::before,
 .header::after,
 nav::before,
@@ -1054,22 +1057,90 @@ nav::after {
     display: none !important;
 }
 
-/* No outer box on menu */
-#menu {
-    background: transparent !important;
-    border: none !important;
-    border-radius: 0 !important;
-    padding: 0 !important;
+/* === MOBILE HAMBURGER MENU === */
+
+.mobile-menu-btn {
+    display: none;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.92);
+    padding: 0.28rem 0.75rem;
+    border-radius: 20px;
+    background: linear-gradient(135deg, rgba(236, 72, 153, 0.2), rgba(192, 132, 252, 0.14));
+    border: 1px solid rgba(236, 72, 153, 0.45);
+    transition: all 0.22s ease;
+    white-space: nowrap;
 }
 
-#menu li {
-    margin: 0.5rem 0 !important;
+.mobile-menu-btn:hover {
+    background: linear-gradient(135deg, rgba(236, 72, 153, 0.35), rgba(192, 132, 252, 0.25));
+    border-color: rgba(236, 72, 153, 0.7);
+    box-shadow: 0 0 10px rgba(236, 72, 153, 0.3);
+}
+
+@media (max-width: 768px) {
+    /* Show hamburger button */
+    .mobile-menu-btn {
+        display: inline-flex !important;
+    }
+
+    /* Hide menu by default on mobile */
+    #menu {
+        display: none !important;
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        gap: 0.4rem !important;
+        padding: 1rem 1.5rem 1.2rem !important;
+        background: rgba(15, 5, 30, 0.97) !important;
+        backdrop-filter: blur(20px) !important;
+        border-bottom: 1px solid rgba(236, 72, 153, 0.2) !important;
+        z-index: 200 !important;
+        flex-wrap: nowrap !important;
+    }
+
+    /* Show menu when open */
+    #menu.menu-open {
+        display: flex !important;
+    }
+
+    #menu li {
+        width: 100% !important;
+    }
+
+    #menu li a {
+        width: 100% !important;
+        justify-content: flex-start !important;
+        padding: 0.45rem 0.9rem !important;
+        font-size: 0.85rem !important;
+    }
+
+    /* Header needs relative positioning for dropdown */
+    .header {
+        position: relative !important;
+    }
+
+    /* Compact logo on mobile */
+    .logo a {
+        font-size: 1rem !important;
+    }
+
+    .logo a::after {
+        font-size: 0.55rem !important;
+    }
 }
 
 /* === Post Styling === */
 
 .post-title {
-    font-family: 'Cormorant', serif;
+    font-family: 'Cormorant Garamond', serif;
     color: #ffffff;
     font-size: clamp(1.75rem, 3.5vw, 2.5rem);
     font-weight: 700;

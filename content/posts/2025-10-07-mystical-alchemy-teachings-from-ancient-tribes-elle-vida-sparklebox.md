@@ -100,4 +100,4 @@ Will you begin with breath, or with fire? With word, or with silence?
 
 ## 𖤐 Latest Posts
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida

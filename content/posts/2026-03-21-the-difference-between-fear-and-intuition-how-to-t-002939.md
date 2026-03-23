@@ -32,7 +32,7 @@ As I close this reflection, I'm reminded of the importance of approaching this d
 
 Perception is not a mirror of the world. It is the doorway through which the world arrives. And it's up to us to choose which doorway we want to open, and which world we want to create. 
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

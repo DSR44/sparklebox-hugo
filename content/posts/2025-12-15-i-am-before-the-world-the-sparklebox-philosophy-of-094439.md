@@ -39,7 +39,7 @@ In the stillness of the night, when the world is quiet, and the stars are shinin
 
 You don't need to become someone else. You don't need to fix yourself. You only need to notice: What am I repeatedly perceiving myself to be? That question alone can open a door. And once curiosity returns, reality is already shifting. The world is already changing. You are already becoming. And so, I leave you with this: Perception is not a mirror of the world. It is the doorway through which the world arrives. What will you create today?
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

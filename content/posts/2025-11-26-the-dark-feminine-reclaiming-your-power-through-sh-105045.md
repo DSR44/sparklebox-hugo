@@ -45,7 +45,7 @@ As I write these words, I am reminded of my own journey of reclamation. I am rem
 ## 🌈 Gentle Close
 So, my dear friends, I invite you to join me on this journey of reclamation. I invite you to rise up, to express your rage, and to reclaim your power. I invite you to embody the dark feminine, to wear your black, your leather, and your boldness. I invite you to look in the mirror, to see the fierce gaze of the wild woman staring back at you, and to remember your true nature. You are the storm, you are the fire, and you are the earth. You are the goddess, you are the witch, and you are the wild woman. Remember, your rage is medicine, your boundaries are non-negotiable, and your power is undeniable. 
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

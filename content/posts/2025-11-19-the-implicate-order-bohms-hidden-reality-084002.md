@@ -41,7 +41,7 @@ As we come to the end of this journey into the implicate order, I invite you to 
 
 And so, dear friends, as we close this chapter on the implicate order, I invite you to continue the journey, to explore the depths of this mystical realm, and to embody the wisdom that lies within. It's not just about the destination, but about the journey itself, where every step, every breath, and every heartbeat is a chance to tap into the hidden patterns that underlie all of existence. May you walk in wonder, may you walk in awe, and may you always remember that the secrets of the universe lie within, waiting to be uncovered.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

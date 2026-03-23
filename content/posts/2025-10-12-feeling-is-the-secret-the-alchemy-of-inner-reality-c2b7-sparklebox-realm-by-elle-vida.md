@@ -64,4 +64,4 @@ And in that shift, life softened.Reality began to echo my gentler frequencies.Th
 
 ## 𖤐 Latest Posts
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida

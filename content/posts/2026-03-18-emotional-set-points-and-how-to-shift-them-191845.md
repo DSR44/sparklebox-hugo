@@ -37,7 +37,7 @@ As we embark on this journey, we may also discover that our emotional set points
 In the end, shifting our emotional set points is not about achieving a specific emotional state, but about cultivating a deeper sense of emotional awareness, resilience, and freedom. It's about recognizing that our emotions are not fixed, but rather dynamic and evolving, and that we have the power to shape them, to mold them, and to transform them. As we embark on this journey, we may discover that our emotional set points are not just a reflection of our past, but a doorway to our future, a future that is filled with possibility, promise, and potential.
 
 Perception is not a mirror of the world. It is the doorway through which the world arrives. 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

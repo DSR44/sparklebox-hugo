@@ -41,7 +41,7 @@ As I sit in the stillness, surrounded by the quiet of the night, I'm reminded of
 
 Perception is not a mirror of the world. It is the doorway through which the world arrives. And it's here, in this doorway, that we find the power to create, to shape, and to reimagine the reality that surrounds us. We don't need to become someone else. We don't need to fix ourselves. We only need to notice: What am I repeatedly perceiving myself to be? That question alone can open a door. And once curiosity returns, reality is already shifting.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

@@ -53,7 +53,7 @@ It's not just about the destination; it's about the journey. It's not just about
 
 As you continue on your journey, remember that you are not alone. You are part of a vast and interconnected web of beings, each with their own unique perspective and experience. You are part of a multiverse that is full of infinite possibilities, infinite selves, and infinite realities. And you are the creator of your own reality, the navigator of your own journey, and the embodiment of your own highest self.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

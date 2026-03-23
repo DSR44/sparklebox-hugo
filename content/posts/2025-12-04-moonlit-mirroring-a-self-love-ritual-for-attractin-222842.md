@@ -36,7 +36,7 @@ In the end, it's not about finding love outside, but about cultivating it within
 
 And so, I'll leave you with this: may you, too, find your way back to yourself, to the love that's always waiting within. May you, too, feel the warmth of your own heart, the tenderness of your own soul, and the depth of your own love. May you, too, remember that you are enough, just as you are, and that you are worthy of love and acceptance, not because of what you do or who you are to others, but simply because you exist.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

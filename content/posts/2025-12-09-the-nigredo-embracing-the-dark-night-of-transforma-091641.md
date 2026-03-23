@@ -38,7 +38,7 @@ In the end, it's not the darkness that defines us, but our willingness to embrac
 
 As I close my eyes, and breathe in the stillness, I'm reminded of the ancient wisdom that has guided me thus far – that the only way to truly find ourselves is to first, lose ourselves in the darkness. And so, I'll carry this wisdom with me, like a beacon in the night, a reminder that the only way to truly transform is to first, surrender to the unknown.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

@@ -34,7 +34,7 @@ As I close this invitation, I am reminded of the words of Rumi, "The wound is th
 
 Perception is not a mirror of the world. It is the doorway through which the world arrives.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

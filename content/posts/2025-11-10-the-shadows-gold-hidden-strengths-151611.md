@@ -49,7 +49,7 @@ In closing, my friend, I invite you to join me on this journey of discovery. Let
 ## 💫 The Final Whisper
 And so, dear friend, I leave you with a final whisper. May you always remember that your shadow is not something to be feared, but something to be loved. May you always recall that your hidden strengths are waiting to be unveiled, and that your inner gold is shining brighter with every passing moment. May you walk in the light of your own inner wisdom, and may you always know that you are a precious, unique, and vital part of the grand tapestry of life.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

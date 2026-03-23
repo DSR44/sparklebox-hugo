@@ -177,4 +177,4 @@ Ready to take your rituals off the screen?
 
 ## 𖤐 Latest Posts
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida

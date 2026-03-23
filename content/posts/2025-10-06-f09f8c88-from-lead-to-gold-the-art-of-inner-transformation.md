@@ -50,4 +50,4 @@ These affirmations are designed to be powerful tools for linguistic rewiring, he
 
 ## 𖤐 Latest Posts
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida

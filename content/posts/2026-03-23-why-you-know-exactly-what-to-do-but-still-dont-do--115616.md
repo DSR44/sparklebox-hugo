@@ -58,7 +58,7 @@ What would you do tomorrow if you trusted that your body isn't sabotaging you—
 
 The answer isn't to know more. The answer is to love yourself while you know, and to let that love be what finally moves your feet.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

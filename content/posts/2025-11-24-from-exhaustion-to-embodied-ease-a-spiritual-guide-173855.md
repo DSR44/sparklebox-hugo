@@ -55,7 +55,7 @@ As we close this journey together, I invite you to take one final step. To commi
 
 And so, my friend, I leave you with this: may you walk in the light of your own inner wisdom, may you embody the power of your own energy, and may you live a life of ease, flow, and receptivity. May you remember that you are not broken, but simply overstimulated. And may you always trust in the journey, with all its mysteries, wonders, and surprises. 🌙
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

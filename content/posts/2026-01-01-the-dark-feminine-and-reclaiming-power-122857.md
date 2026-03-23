@@ -44,7 +44,7 @@ Perception is not a mirror of the world. It is the doorway through which the wor
 
 You don't need to become someone else. You don't need to fix yourself. You only need to notice: What am I repeatedly perceiving myself to be? That question alone can open a door. And once curiosity returns, reality is already shifting.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

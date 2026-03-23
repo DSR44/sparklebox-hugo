@@ -57,7 +57,7 @@ It's not just about the ritual, it's about the resonance. Allow the rose energy 
 
 As I close this invitation to the Rose Petal Ritual, I offer you a final reminder: it's not about the external, it's about the internal. The rose's symbolism is not just a tool for healing, but a mirror to the soul, reflecting back to us our own inner wisdom, our own heart's desire, and our own deepest longing for self-love and self-acceptance. May you, dear friends, embark on this journey with an open heart, and may the rose's gentle wisdom guide you home to the deepest, most loving aspects of your own being. 
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

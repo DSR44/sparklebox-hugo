@@ -61,7 +61,7 @@ Take a few moments each day to breathe into your desired frequency. Assume the f
 
 It's not about the destination; it's about the journey. It's not about becoming something; it's about unfolding into the embodiment of what you already are. And so, my friend, I leave you with this gentle invitation: embark on the journey of frequency embodiment, and watch as your reality transforms into a reflection of your highest self. 
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

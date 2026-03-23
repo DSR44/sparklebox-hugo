@@ -111,10 +111,10 @@ Learn the art of conscious transmutation — where words, awareness, and energy 
 
   Experience more healing soundbaths and frequencies in our Soundbox collection — designed for meditation, focus, and inner transformation.
 
-© 2025 Sparklebox | The Elle Vida Method™ — All rights reserved.
+© 2026 Sparklebox | The Elle Vida Method™ — All rights reserved.
 
 A proprietary framework for mental alchemy and creative transformation.
 
 ## 𖤐 Latest Posts
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida

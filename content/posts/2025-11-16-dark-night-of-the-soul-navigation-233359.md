@@ -55,7 +55,7 @@ So, my friend, I invite you to join me on this journey. To navigate the dark nig
 
 As you continue on your own journey, I offer you these final words of wisdom: ease is not avoidance, ease is alignment. Ease is the state where your inner frequency and your outer reality finally agree. So, my friend, I invite you to find ease in the darkness, to find alignment in the unknown, and to trust in the wisdom of your own soul. May you navigate the dark night of the soul with courage, with faith, and with an open heart. May you discover the power of transformation, the alchemy of the soul, and the magic of your own inner wisdom.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

@@ -52,7 +52,7 @@ Remember, it's not about the stones; it's about the energy we infuse into the gr
 
 In the stillness of the night, when the world is hushed and the stars twinkle like diamonds in the sky, I'll be here, guiding you, supporting you, and walking alongside you on this mystical path 🌟. May our crystal grids become a reflection of our deepest desires, our highest potential, and our most profound connection to the universe 🔮.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

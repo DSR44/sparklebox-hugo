@@ -67,7 +67,7 @@ In the words of the great mystic, "The divine is not something that is outside o
 
 And so, dear friend, let us discover this divine presence within us, let us embody the energy of the inner goddess, and let us shine our light for all to see.
 
-© 2025 Sparklebox | Written by Elle Vida
+© 2026 Sparklebox | Written by Elle Vida
 
 ---
 

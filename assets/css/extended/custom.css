@@ -1057,7 +1057,63 @@ nav::after {
     display: none !important;
 }
 
-/* === "MORE" DROPDOWN for secondary menu items === */
+/* === THE DRIFT — Highlighted Menu Item === */
+
+@keyframes drift-float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-2px); }
+}
+
+@keyframes drift-sparkle {
+    0%, 100% { opacity: 0.5; text-shadow: 0 0 4px rgba(236, 72, 153, 0.3); }
+    50% { opacity: 1; text-shadow: 0 0 12px rgba(236, 72, 153, 0.6), 0 0 20px rgba(192, 132, 252, 0.3); }
+}
+
+.drift-item {
+    animation: drift-float 3s ease-in-out infinite !important;
+}
+
+.drift-link,
+.drift-link span {
+    background: linear-gradient(135deg, #ec4899 0%, #f9a8d4 40%, #c084fc 70%, #ec4899 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    background-size: 200% auto !important;
+    animation: chromatic-shine 3s linear infinite, drift-sparkle 2.5s ease-in-out infinite !important;
+    font-weight: 600 !important;
+    border-color: rgba(236, 72, 153, 0.55) !important;
+    position: relative !important;
+}
+
+.drift-link span::before {
+    content: '' !important;
+}
+
+.drift-link::before,
+.drift-link::after {
+    position: absolute !important;
+    font-size: 0.45rem !important;
+    animation: sparkle-twinkle 2s ease-in-out infinite !important;
+    pointer-events: none !important;
+}
+
+.drift-link::before {
+    content: '✧' !important;
+    top: -4px !important;
+    left: -2px !important;
+    color: rgba(249, 168, 212, 0.7) !important;
+}
+
+.drift-link::after {
+    content: '✦' !important;
+    bottom: -3px !important;
+    right: -2px !important;
+    color: rgba(192, 132, 252, 0.6) !important;
+    animation-delay: 1s !important;
+}
+
+/* === CLEAN FOLDER DROPDOWN === */
 
 .menu-more-item {
     position: relative !important;
@@ -1067,49 +1123,38 @@ nav::after {
 }
 
 .menu-more-btn {
-    font-family: 'DM Sans', sans-serif !important;
-    font-weight: 500 !important;
-    font-size: 0.72rem !important;
-    letter-spacing: 0.05em !important;
-    color: rgba(255, 255, 255, 0.92) !important;
-    padding: 0.25rem 0.65rem !important;
-    border-radius: 20px !important;
-    background: linear-gradient(135deg,
-        rgba(236, 72, 153, 0.18) 0%,
-        rgba(192, 132, 252, 0.12) 50%,
-        rgba(236, 72, 153, 0.18) 100%) !important;
-    border: 1px solid rgba(236, 72, 153, 0.38) !important;
+    font-size: 0.9rem !important;
+    color: rgba(255, 255, 255, 0.75) !important;
+    padding: 0.2rem 0.5rem !important;
+    border-radius: 8px !important;
+    background: transparent !important;
+    border: 1px solid rgba(139, 92, 246, 0.25) !important;
     cursor: pointer !important;
-    white-space: nowrap !important;
     transition: all 0.22s ease !important;
     line-height: 1 !important;
 }
 
 .menu-more-btn:hover {
-    background: linear-gradient(135deg,
-        rgba(236, 72, 153, 0.35) 0%,
-        rgba(192, 132, 252, 0.25) 50%,
-        rgba(236, 72, 153, 0.35) 100%) !important;
-    border-color: rgba(236, 72, 153, 0.7) !important;
-    box-shadow: 0 0 10px rgba(236, 72, 153, 0.3) !important;
+    color: #ffffff !important;
+    border-color: rgba(236, 72, 153, 0.5) !important;
+    background: rgba(236, 72, 153, 0.1) !important;
 }
 
-/* Dropdown panel */
 .menu-more-dropdown {
     display: none;
     position: absolute !important;
-    top: calc(100% + 6px) !important;
+    top: calc(100% + 8px) !important;
     right: 0 !important;
-    min-width: 160px !important;
-    background: rgba(15, 5, 30, 0.97) !important;
-    backdrop-filter: blur(20px) !important;
-    border: 1px solid rgba(236, 72, 153, 0.25) !important;
-    border-radius: 12px !important;
-    padding: 0.5rem !important;
+    min-width: 170px !important;
+    background: rgba(10, 1, 24, 0.98) !important;
+    backdrop-filter: blur(24px) !important;
+    border: 1px solid rgba(236, 72, 153, 0.2) !important;
+    border-radius: 14px !important;
+    padding: 0.6rem 0.5rem !important;
     z-index: 300 !important;
     flex-direction: column !important;
-    gap: 0.3rem !important;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.4) !important;
+    gap: 0.15rem !important;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.5), 0 0 1px rgba(236, 72, 153, 0.2) !important;
     list-style: none !important;
     margin: 0 !important;
 }
@@ -1125,14 +1170,19 @@ nav::after {
 }
 
 .menu-more-dropdown a {
-    display: block !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.5rem !important;
     width: 100% !important;
-    padding: 0.35rem 0.75rem !important;
-    border-radius: 8px !important;
-    font-size: 0.78rem !important;
-    color: rgba(255,255,255,0.88) !important;
+    padding: 0.5rem 0.85rem !important;
+    border-radius: 10px !important;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.8rem !important;
+    font-weight: 400 !important;
+    color: rgba(255,255,255,0.8) !important;
+    -webkit-text-fill-color: rgba(255,255,255,0.8) !important;
     text-decoration: none !important;
-    transition: background 0.18s ease !important;
+    transition: all 0.18s ease !important;
     white-space: nowrap !important;
     background: transparent !important;
     border: none !important;
@@ -1140,18 +1190,29 @@ nav::after {
 }
 
 .menu-more-dropdown a:hover {
-    background: rgba(236, 72, 153, 0.18) !important;
+    background: rgba(236, 72, 153, 0.12) !important;
     color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
     transform: none !important;
     box-shadow: none !important;
+    padding-left: 1rem !important;
 }
 
-/* Header positioning for dropdown */
+.menu-more-dropdown a span::before {
+    content: none !important;
+}
+
+/* Header positioning */
 .header {
     position: relative !important;
 }
 
-/* Mobile — make nav wrap tidily, stay in header */
+/* Remove scroll from nav */
+#menu {
+    overflow: visible !important;
+}
+
+/* Mobile */
 @media (max-width: 768px) {
     .nav {
         flex-wrap: wrap !important;
@@ -1161,33 +1222,37 @@ nav::after {
 
     #menu {
         flex-wrap: wrap !important;
-        gap: 0.3rem !important;
+        gap: 0.25rem !important;
         width: 100% !important;
+        overflow: visible !important;
     }
 
     #menu li a {
-        font-size: 0.7rem !important;
-        padding: 0.22rem 0.55rem !important;
+        font-size: 0.68rem !important;
+        padding: 0.2rem 0.5rem !important;
     }
 
     .menu-more-btn {
-        font-size: 0.7rem !important;
-        padding: 0.22rem 0.55rem !important;
+        font-size: 0.8rem !important;
+        padding: 0.2rem 0.45rem !important;
     }
 
-    /* Dropdown opens upward on mobile if near bottom, left-align */
     .menu-more-dropdown {
-        right: auto !important;
-        left: 0 !important;
+        right: 0 !important;
+        left: auto !important;
     }
 
-    /* Compact logo on mobile */
     .logo a {
         font-size: 1rem !important;
     }
 
     .logo a::after {
         font-size: 0.55rem !important;
+    }
+
+    .drift-link::before,
+    .drift-link::after {
+        display: none !important;
     }
 }
 
@@ -1423,36 +1488,9 @@ img:hover {
 
 /* === Custom Scrollbar - Subtle & Chromatic === */
 
-/* For header/menu scrollbar */
-#menu::-webkit-scrollbar,
-nav::-webkit-scrollbar {
-    width: 4px;
-    height: 4px;
-}
-
-#menu::-webkit-scrollbar-track,
-nav::-webkit-scrollbar-track {
-    background: rgba(139, 92, 246, 0.1);
-    border-radius: 10px;
-}
-
-#menu::-webkit-scrollbar-thumb,
-nav::-webkit-scrollbar-thumb {
-    background: linear-gradient(135deg, rgba(139, 92, 246, 0.4), rgba(236, 72, 153, 0.4));
-    border-radius: 10px;
-}
-
-#menu::-webkit-scrollbar-thumb:hover,
-nav::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(135deg, rgba(139, 92, 246, 0.6), rgba(236, 72, 153, 0.6));
-}
-
-/* Firefox scrollbar */
-#menu,
-nav {
-    scrollbar-width: thin;
-    scrollbar-color: rgba(139, 92, 246, 0.4) rgba(139, 92, 246, 0.1);
-}
+/* Hide scrollbar on nav/menu — items wrap, no scroll needed */
+#menu::-webkit-scrollbar, nav::-webkit-scrollbar { display: none !important; }
+#menu, nav { scrollbar-width: none !important; overflow: visible !important; }
 
 /* === Homepage Posts Grid - Scoped Only === */
 

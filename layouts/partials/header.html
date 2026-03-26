@@ -126,28 +126,28 @@
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
-            {{- if le .Weight 6 }}
-            <li>
+            {{- if le .Weight 5 }}
+            <li{{ if eq .Name "The Drift" }} class="drift-item"{{ end }}>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
-                {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                    {{ if eq .Name "The Drift" }}class="drift-link" target="_blank" rel="noopener"{{ end }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- .Pre }}{{- .Name -}}{{ .Post -}}
+                        {{- if eq .Name "The Drift" }}✦ {{ end }}{{- .Name -}}
                     </span>
                 </a>
             </li>
             {{- end }}
             {{- end }}
-            {{- /* Secondary items (weight > 6) inside "More" dropdown */ -}}
+
             <li class="menu-more-item">
-                <button class="menu-more-btn" id="moreMenuBtn" aria-expanded="false">✦ More ▾</button>
+                <button class="menu-more-btn" id="moreMenuBtn" aria-expanded="false">☰</button>
                 <ul class="menu-more-dropdown" id="moreMenuDropdown">
                     {{- range site.Menus.main }}
                     {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
                     {{- $page_url:= $currentPage.Permalink | absLangURL }}
-                    {{- if gt .Weight 6 }}
+                    {{- if gt .Weight 5 }}
                     <li>
-                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
+                            {{ if findRE "://" .URL }}target="_blank" rel="noopener"{{ end }}>
                             <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
                                 {{- .Name -}}
                             </span>
@@ -170,12 +170,12 @@
         e.stopPropagation();
         var isOpen = dropdown.classList.toggle('open');
         btn.setAttribute('aria-expanded', isOpen);
-        btn.innerHTML = isOpen ? '✦ More ▴' : '✦ More ▾';
+        btn.innerHTML = isOpen ? '✕' : '☰';
     });
     document.addEventListener('click', function() {
         dropdown.classList.remove('open');
         btn.setAttribute('aria-expanded', 'false');
-        btn.innerHTML = '✦ More ▾';
+        btn.innerHTML = '☰';
     });
 })();
 </script>

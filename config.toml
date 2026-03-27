@@ -28,54 +28,54 @@ theme = "PaperMod"
     weight = 1
   
   [[menu.main]]
-    name = "Ancient Wisdom"
-    url = "/categories/mystical-wisdom-series/"
-    weight = 2
-  
-  [[menu.main]]
-    name = "Dream Portals"
-    url = "/the-dreamtoolkit/"
-    weight = 3
-  
-  [[menu.main]]
     name = "The Drift"
     url = "https://huggingface.co/spaces/FutureHAi/thedrift"
-    weight = 4
+    weight = 2
   
   [[menu.main]]
     name = "Elle's Oracle"
     url = "https://huggingface.co/spaces/FutureHAi/thedrift?tab=elles-oracle"
-    weight = 5
+    weight = 3
   
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 6
+    weight = 4
+  
+  [[menu.main]]
+    name = "Dream Portals"
+    url = "/the-dreamtoolkit/"
+    weight = 5
+  
+  [[menu.main]]
+    name = "Ancient Wisdom"
+    url = "/categories/mystical-wisdom-series/"
+    weight = 7
   
   [[menu.main]]
     name = "Musebox"
     url = "/musebox-dreams/"
-    weight = 7
+    weight = 8
   
   [[menu.main]]
     name = "Tarot"
     url = "https://sparklebox-tarot.streamlit.app/"
-    weight = 8
+    weight = 9
   
   [[menu.main]]
     name = "Categories"
     url = "/categories/"
-    weight = 9
+    weight = 10
   
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 10
+    weight = 11
   
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 11
+    weight = 12
 
 # PaperMod Theme Settings
 [params]

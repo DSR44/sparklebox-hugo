@@ -1113,6 +1113,36 @@ nav::after {
     animation-delay: 1s !important;
 }
 
+/* === ELLE'S ORACLE — Menu Item === */
+
+@keyframes oracle-pulse {
+    0%, 100% { box-shadow: 0 0 4px rgba(192, 132, 252, 0.2); }
+    50% { box-shadow: 0 0 14px rgba(192, 132, 252, 0.4), 0 0 20px rgba(236, 72, 153, 0.15); }
+}
+
+.oracle-item a,
+.oracle-link {
+    background: linear-gradient(135deg,
+        rgba(139, 92, 246, 0.2) 0%,
+        rgba(192, 132, 252, 0.15) 50%,
+        rgba(139, 92, 246, 0.2) 100%) !important;
+    border-color: rgba(192, 132, 252, 0.45) !important;
+    animation: oracle-pulse 3s ease-in-out infinite !important;
+}
+
+.oracle-link span,
+.oracle-item a span {
+    background: linear-gradient(135deg, #c084fc 0%, #f9a8d4 50%, #a855f7 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    font-weight: 600 !important;
+}
+
+.oracle-link span::before {
+    content: '' !important;
+}
+
 /* === CLEAN FOLDER DROPDOWN === */
 
 .menu-more-item {

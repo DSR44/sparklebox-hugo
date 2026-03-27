@@ -43,9 +43,14 @@ theme = "PaperMod"
     weight = 4
   
   [[menu.main]]
+    name = "Elle's Oracle"
+    url = "https://huggingface.co/spaces/FutureHAi/thedrift?tab=elles-oracle"
+    weight = 5
+  
+  [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 5
+    weight = 6
   
   [[menu.main]]
     name = "Musebox"

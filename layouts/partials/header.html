@@ -126,12 +126,13 @@
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- if le .Weight 5 }}
-            <li{{ if eq .Name "The Drift" }} class="drift-item"{{ end }}>
+            {{- if le .Weight 6 }}
+            <li{{ if eq .Name "The Drift" }} class="drift-item"{{ else if eq .Name "Elle's Oracle" }} class="oracle-item"{{ end }}>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
-                    {{ if eq .Name "The Drift" }}class="drift-link" target="_blank" rel="noopener"{{ end }}>
+                    {{ if eq .Name "The Drift" }}class="drift-link" target="_blank" rel="noopener"{{ end }}
+                    {{ if eq .Name "Elle's Oracle" }}class="oracle-link" target="_blank" rel="noopener"{{ end }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- if eq .Name "The Drift" }}✦ {{ end }}{{- .Name -}}
+                        {{- if eq .Name "The Drift" }}✦ {{ end }}{{- if eq .Name "Elle's Oracle" }}◉ {{ end }}{{- .Name -}}
                     </span>
                 </a>
             </li>
@@ -144,7 +145,7 @@
                     {{- range site.Menus.main }}
                     {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
                     {{- $page_url:= $currentPage.Permalink | absLangURL }}
-                    {{- if gt .Weight 5 }}
+                    {{- if gt .Weight 6 }}
                     <li>
                         <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
                             {{ if findRE "://" .URL }}target="_blank" rel="noopener"{{ end }}>

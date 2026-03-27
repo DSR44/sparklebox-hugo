@@ -34,7 +34,7 @@ theme = "PaperMod"
   
   [[menu.main]]
     name = "Elle's Oracle"
-    url = "https://huggingface.co/spaces/FutureHAi/thedrift?tab=elles-oracle"
+    url = "https://huggingface.co/spaces/FutureHAi/thedrift#elles-oracle"
     weight = 3
   
   [[menu.main]]

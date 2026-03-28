@@ -27,77 +27,37 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-card">
 <div class="affirmation-header">
 <h2>🫧 Today's Awakening</h2>
-<span class="date">March 27, 2026</span>
+<span class="date">March 28, 2026</span>
 </div>
 <div class="affirmation-theme">
-<h3>Mindful Musings: A Journey of Inner Discovery</h3>
-<p>As we embark on this mindful journey, may our hearts be filled with the warmth of self-love and our minds be illuminated with the light of inner wisdom. May we cultivate the courage to dive deep into ...</p>
+<h3>Crystal Whispered Alignments</h3>
+<p>Between facets of light and stillness, I am carved clear and kind.</p>
 </div>
 <div class="affirmation-list">
 <div class="affirmation-item">
 <div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I illuminate my inner world with the gentle glow of self-awareness, allowing myself to navigate life's complexities with clarity and purpose."</div></div>
+<div><div class="affirmation-text">"I breathe here, and the cosmos breathes with me"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My heart is a sanctuary of peace, where love, compassion, and kindness reside, guiding me to respond to life's challenges with empathy and understanding."</div></div>
+<div><div class="affirmation-text">"I breathe here, and the cosmos breathes with me"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I trust the wisdom of my intuition, allowing it to guide me toward making decisions that align with my values, passions, and highest good."</div></div>
+<div><div class="affirmation-text">"I breathe here, and the cosmos breathes with me"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"My mind is a canvas of creativity, where innovative ideas and inspiration flow freely, enabling me to approach life's challenges with a sense of curiosity and wonder."</div></div>
+<div><div class="affirmation-text">"I breathe here, and the cosmos breathes with me"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"I embody the resilience of a tree, rooted deeply in the earth, yet flexible and adaptable in the face of life's winds and storms."</div></div>
+<div><div class="affirmation-text">"I breathe here, and the cosmos breathes with me"</div></div>
 </div>
 </div>
 <details style="padding: 0 2rem 2rem;">
 <summary class="show-more-btn">View All 15 Affirmations</summary>
 <div class="affirmation-list" style="padding-top: 1rem;">
-<div class="affirmation-item">
-<div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"My spirit is a flame of passion, burning brightly with purpose and intention, illuminating my path and guiding me toward my highest aspirations."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"I nurture my body with love and care, honoring its wisdom and respecting its boundaries, allowing it to thrive and flourish in optimal health and well-being."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"My emotions are a symphony of feelings, each one a unique and valuable thread in the intricate tapestry of my inner world, worthy of exploration, understanding, and compassion."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"I am a guardian of my inner peace, protecting it from the turbulence of the external world, and cultivating a sense of calm and serenity in the midst of life's chaos."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"My relationships are a garden of mutual growth, nurtured by empathy, understanding, and open communication, where love, trust, and respect flourish."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"I walk the path of mindfulness, present in each moment,-aware of my thoughts, feelings, and surroundings, and open to the beauty and wonder of life."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"My inner critic is a wise and gentle guide, offering constructive feedback and encouragement, helping me to learn, grow, and evolve with kindness and compassion."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"I am a weaver of my own destiny, crafting a tapestry of purpose, passion, and meaning, thread by thread, with each choice and decision I make."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"My life is a journey of unfolding growth, where challenges become opportunities for expansion, and setbacks become stepping stones for learning and evolution."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"I embody the wisdom of my highest self, shining brightly with authenticity, integrity, and love, inspiring others to do the same, and creating a ripple effect of kindness and compassion in the world."</div></div>
-</div>
 </div>
 </details>
 </div>

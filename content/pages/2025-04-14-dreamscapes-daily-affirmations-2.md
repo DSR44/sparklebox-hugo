@@ -1,7 +1,7 @@
 ---
 title: "Radiating Grace"
 date: 2025-04-14T16:17:29+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "dreamscapes-daily-affirmations-2"
 draft: false
 aliases:

@@ -1,7 +1,7 @@
 ---
 title: "Ember Gate: Fire Portal · Sparklebox Realm"
 date: 2025-10-11T11:43:19+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "ember-gate-fire-portal-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

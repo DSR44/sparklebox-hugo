@@ -1,7 +1,7 @@
 ---
 title: "Chalice of Flow: Water–Air Portal · Sparklebox Realm"
 date: 2025-10-11T18:21:17+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "chalice-of-flow-water-air-portal-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

@@ -1,7 +1,7 @@
 ---
 title: "Lunar Haven: Quiet Sky Sanctuary · Sparklebox Realm"
 date: 2025-10-11T19:29:28+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "lunar-haven-quiet-sky-sanctuary-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

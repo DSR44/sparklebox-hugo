@@ -1,7 +1,7 @@
 ---
 title: "Celestium: Beyond the Veil · Sparklebox Realm"
 date: 2025-10-12T10:04:25+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "celestium-beyond-the-veil-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

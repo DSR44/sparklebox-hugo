@@ -1,7 +1,7 @@
 ---
 title: "Chamber of Resonance: Earth Portal · Sparklebox Realm"
 date: 2025-10-11T14:18:21+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "chamber-of-resonance-earth-portal-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

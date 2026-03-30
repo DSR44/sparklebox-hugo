@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2025-10-04T12:37:15+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "privacy-policy"
 draft: false
 aliases:

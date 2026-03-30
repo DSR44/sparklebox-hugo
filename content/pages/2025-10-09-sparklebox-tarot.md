@@ -1,7 +1,7 @@
 ---
 title: "Sparklebox Tarot"
 date: 2025-10-09T12:27:31+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "sparklebox-tarot"
 draft: false
 aliases:

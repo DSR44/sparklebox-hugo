@@ -1,7 +1,7 @@
 ---
 title: "Donations"
 date: 2025-10-08T07:35:32+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "donations"
 draft: false
 aliases:

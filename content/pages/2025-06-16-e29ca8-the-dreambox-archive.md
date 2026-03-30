@@ -1,7 +1,7 @@
 ---
 title: "𓆸The Dreambox Archive"
 date: 2025-06-16T07:04:49+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "%e2%9c%a8-the-dreambox-archive"
 draft: false
 aliases:

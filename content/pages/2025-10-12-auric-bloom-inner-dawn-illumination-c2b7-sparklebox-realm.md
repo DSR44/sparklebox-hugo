@@ -1,7 +1,7 @@
 ---
 title: "Auric Bloom: Inner Dawn Illumination · Sparklebox Realm"
 date: 2025-10-12T08:00:12+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "auric-bloom-inner-dawn-illumination-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

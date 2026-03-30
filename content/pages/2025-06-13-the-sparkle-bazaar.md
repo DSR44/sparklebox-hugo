@@ -1,7 +1,7 @@
 ---
 title: "The Sparkle Bazaar"
 date: 2025-06-13T15:05:46+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "the-sparkle-bazaar"
 draft: false
 aliases:

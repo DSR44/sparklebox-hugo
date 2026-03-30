@@ -1,7 +1,7 @@
 ---
 title: "Shadow Vault: Reclaim Your Fragments · Sparklebox Realm"
 date: 2025-10-12T09:28:41+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "shadow-vault-reclaim-your-fragments-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

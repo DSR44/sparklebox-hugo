@@ -1,7 +1,7 @@
 ---
 title: "Rose Veil: Water Portal · Sparklebox Realm"
 date: 2025-10-11T16:37:58+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "rose-veil-water-portal-%c2%b7-sparklebox-realm"
 draft: false
 aliases:

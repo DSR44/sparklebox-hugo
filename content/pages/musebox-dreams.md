@@ -1,7 +1,7 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
 date: 2026-03-30T06:00:00+0000
-author: "manoulasfit"
+author: "Elle Vida"
 slug: "musebox-dreams"
 draft: false
 aliases:

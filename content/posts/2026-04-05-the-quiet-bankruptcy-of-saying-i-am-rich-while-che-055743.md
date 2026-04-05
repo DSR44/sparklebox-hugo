@@ -1,5 +1,5 @@
 ---
-title: "The Quiet Bankruptcy of Saying "I Am Rich" While Checking Your Overdraft"
+title: "The Quiet Bankruptcy of Saying 'I Am Rich' While Checking Your Overdraft"
 date: 2026-04-05T07:57:43+00:00
 categories:
   - "Sparklebox Realm"
@@ -11,7 +11,7 @@ tags:
 description: "The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in..."
 cover:
   image: "/pinterest-images/8224693822_perception-creates-reality-mindset.png"
-  alt: "The Quiet Bankruptcy of Saying "I Am Rich" While Checking Your Overdraft"
+  alt: "The Quiet Bankruptcy of Saying 'I Am Rich' While Checking Your Overdraft"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---

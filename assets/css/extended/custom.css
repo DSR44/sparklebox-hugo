@@ -1143,6 +1143,36 @@ nav::after {
     content: '' !important;
 }
 
+/* Frequency Upgrade menu — blue signal accent */
+.freq-menu-item {
+    position: relative;
+}
+
+.freq-link,
+.freq-link span {
+    background: linear-gradient(135deg, #818cf8 0%, #3b82f6 50%, #6366f1 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.04em !important;
+    animation: freq-menu-glow 3s ease-in-out infinite !important;
+}
+
+.freq-link:hover span {
+    text-shadow: 0 0 12px rgba(99, 102, 241, 0.6);
+    filter: brightness(1.2);
+}
+
+.freq-link span::before {
+    content: '' !important;
+}
+
+@keyframes freq-menu-glow {
+    0%, 100% { filter: brightness(1); }
+    50% { filter: brightness(1.25); }
+}
+
 /* === CLEAN FOLDER DROPDOWN === */
 
 .menu-more-item {
@@ -1938,4 +1968,521 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 .share-facebook:hover  { border-color: rgba(66, 103, 178, 0.5) !important; box-shadow: 0 0 12px rgba(66, 103, 178, 0.25) !important; }
 .share-whatsapp:hover  { border-color: rgba(37, 211, 102, 0.5) !important; box-shadow: 0 0 12px rgba(37, 211, 102, 0.25) !important; }
 .share-x:hover         { border-color: rgba(255, 255, 255, 0.4) !important; box-shadow: 0 0 12px rgba(255, 255, 255, 0.15) !important; }
+
+/* ============================================================================
+   THE FREQUENCY UPGRADE — Blue/Indigo Campaign Page
+   ============================================================================ */
+
+.freq-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+/* Hero */
+.freq-hero {
+    text-align: center;
+    padding: 4rem 2rem 3rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.freq-signal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    transform: translate(-50%, -50%);
+    animation: freq-pulse 4s ease-in-out infinite;
+}
+
+.freq-signal-2 {
+    width: 450px;
+    height: 450px;
+    border-color: rgba(59, 130, 246, 0.1);
+    animation-delay: 1s;
+    animation-duration: 5s;
+}
+
+.freq-signal-3 {
+    width: 600px;
+    height: 600px;
+    border-color: rgba(99, 102, 241, 0.06);
+    animation-delay: 2s;
+    animation-duration: 6s;
+}
+
+@keyframes freq-pulse {
+    0%, 100% { transform: translate(-50%, -50%) scale(0.9); opacity: 0.3; }
+    50% { transform: translate(-50%, -50%) scale(1.1); opacity: 0.8; }
+}
+
+.freq-title {
+    font-family: 'Cinzel', serif;
+    font-size: 2.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #818cf8 0%, #3b82f6 30%, #6366f1 60%, #a5b4fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-tagline {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    font-style: italic;
+    color: rgba(165, 180, 252, 0.9);
+    letter-spacing: 0.06em;
+    max-width: 500px;
+    margin: 0 auto 0.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-tagline-sub {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    background: linear-gradient(135deg, #6366f1, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-top: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+/* Intro */
+.freq-intro {
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto 2rem;
+    padding: 2rem;
+}
+
+.freq-intro p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: rgba(226, 232, 240, 0.9);
+    margin-bottom: 1rem;
+}
+
+.freq-intro p:last-child {
+    font-weight: 600;
+    color: rgba(165, 180, 252, 1);
+    font-size: 1.2rem;
+}
+
+/* Divider */
+.freq-divider {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(99, 102, 241, 0.3), rgba(59, 130, 246, 0.4), rgba(99, 102, 241, 0.3), transparent);
+    margin: 3rem auto;
+    max-width: 400px;
+}
+
+/* Section titles */
+.freq-section-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.6rem;
+    text-align: center;
+    letter-spacing: 0.1em;
+    background: linear-gradient(135deg, #a5b4fc, #6366f1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 2rem;
+}
+
+/* Frequency Levels */
+.freq-levels {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.freq-level {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    padding: 1.8rem;
+    margin-bottom: 1.2rem;
+    border-radius: 12px;
+    border: 1px solid rgba(99, 102, 241, 0.12);
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.6), rgba(30, 27, 75, 0.4));
+    transition: all 0.4s ease;
+}
+
+.freq-level:hover {
+    border-color: rgba(99, 102, 241, 0.3);
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.1);
+}
+
+.freq-level-marker {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2.2rem;
+    font-weight: 300;
+    font-style: italic;
+    min-width: 50px;
+    text-align: center;
+    line-height: 1;
+    padding-top: 0.3rem;
+}
+
+.freq-level-beta .freq-level-marker { color: rgba(148, 163, 184, 0.6); }
+.freq-level-alpha .freq-level-marker { color: rgba(129, 140, 248, 0.8); }
+.freq-level-theta .freq-level-marker { color: rgba(99, 102, 241, 1); text-shadow: 0 0 20px rgba(99, 102, 241, 0.5); }
+.freq-level-prime .freq-level-marker {
+    background: linear-gradient(135deg, #818cf8, #3b82f6, #6366f1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 2rem;
+    font-weight: 600;
+    text-shadow: none;
+}
+
+.freq-level-content h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.5rem;
+    color: rgba(226, 232, 240, 0.95);
+}
+
+.freq-level-content p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: rgba(203, 213, 225, 0.85);
+    margin-bottom: 0.5rem;
+}
+
+.freq-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: rgba(148, 163, 184, 0.5);
+}
+
+.freq-label-prime {
+    background: linear-gradient(135deg, #818cf8, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    font-weight: 700;
+}
+
+.freq-level-prime {
+    border-color: rgba(99, 102, 241, 0.25);
+    background: linear-gradient(135deg, rgba(30, 27, 75, 0.5), rgba(49, 46, 129, 0.2));
+    box-shadow: 0 0 30px rgba(99, 102, 241, 0.08);
+}
+
+/* Mechanism section */
+.freq-mechanism {
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+}
+
+.freq-mechanism p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: rgba(226, 232, 240, 0.85);
+    margin-bottom: 1rem;
+}
+
+.freq-mechanism strong {
+    color: rgba(165, 180, 252, 1);
+}
+
+.freq-hint {
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.12em;
+    margin-top: 2rem !important;
+    background: linear-gradient(135deg, #818cf8, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    opacity: 0.8;
+    animation: freq-hint-pulse 3s ease-in-out infinite;
+}
+
+@keyframes freq-hint-pulse {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+}
+
+/* Transmissions Grid */
+.freq-transmissions {
+    text-align: center;
+}
+
+.freq-transmissions-sub {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: rgba(165, 180, 252, 0.6);
+    margin-bottom: 2rem;
+}
+
+.freq-transmission-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.2rem;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.freq-transmission-card {
+    padding: 1.8rem 1.4rem;
+    border-radius: 12px;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    background: linear-gradient(145deg, rgba(15, 23, 42, 0.7), rgba(30, 27, 75, 0.3));
+    text-align: left;
+    transition: all 0.4s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.freq-transmission-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(99, 102, 241, 0.4), transparent);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.freq-transmission-card:hover {
+    border-color: rgba(99, 102, 241, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(99, 102, 241, 0.1);
+}
+
+.freq-transmission-card:hover::before {
+    opacity: 1;
+}
+
+.freq-card-spiral {
+    display: block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(99, 102, 241, 0.6);
+    margin-bottom: 0.5rem;
+}
+
+.freq-card-status {
+    display: block;
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    letter-spacing: 0.05em;
+    color: rgba(226, 232, 240, 0.9);
+    margin-bottom: 0.8rem;
+}
+
+.freq-transmission-card p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: rgba(203, 213, 225, 0.6);
+    margin-bottom: 1rem;
+}
+
+.freq-card-tag {
+    display: inline-block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    color: rgba(165, 180, 252, 0.6);
+    background: rgba(99, 102, 241, 0.05);
+}
+
+.freq-locked {
+    cursor: default;
+}
+
+/* CTA */
+.freq-cta {
+    text-align: center;
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.freq-cta-text {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: rgba(203, 213, 225, 0.75);
+    margin-bottom: 0.8rem;
+}
+
+.freq-cta-sub {
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.15em;
+    background: linear-gradient(135deg, #818cf8, #3b82f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin: 1.5rem 0;
+}
+
+.freq-cta-btn {
+    display: inline-block;
+    font-family: 'Cinzel', serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    padding: 0.8rem 2rem;
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    border-radius: 8px;
+    color: rgba(165, 180, 252, 0.9) !important;
+    -webkit-text-fill-color: rgba(165, 180, 252, 0.9) !important;
+    text-decoration: none;
+    background: linear-gradient(135deg, rgba(30, 27, 75, 0.4), rgba(49, 46, 129, 0.15));
+    transition: all 0.4s ease;
+    margin-top: 1rem;
+}
+
+.freq-cta-btn:hover {
+    border-color: rgba(99, 102, 241, 0.6);
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.2);
+    transform: translateY(-1px);
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+}
+
+/* Homepage Teaser */
+.freq-homepage-teaser {
+    text-align: center;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 2.5rem 2rem;
+    border-radius: 16px;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    background: linear-gradient(145deg, rgba(15, 23, 42, 0.6), rgba(30, 27, 75, 0.3));
+    position: relative;
+    overflow: hidden;
+    transition: all 0.4s ease;
+}
+
+.freq-homepage-teaser:hover {
+    border-color: rgba(99, 102, 241, 0.35);
+    box-shadow: 0 0 30px rgba(99, 102, 241, 0.1);
+}
+
+.freq-teaser-signal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid rgba(99, 102, 241, 0.08);
+    transform: translate(-50%, -50%);
+    animation: freq-pulse 5s ease-in-out infinite;
+    pointer-events: none;
+}
+
+.freq-teaser-label {
+    display: inline-block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    color: rgba(129, 140, 248, 0.7);
+    background: rgba(99, 102, 241, 0.06);
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-teaser-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #818cf8, #3b82f6, #6366f1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-teaser-text {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: rgba(203, 213, 225, 0.7);
+    margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-teaser-btn {
+    display: inline-block;
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    padding: 0.6rem 1.5rem;
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    border-radius: 8px;
+    color: rgba(165, 180, 252, 0.9) !important;
+    -webkit-text-fill-color: rgba(165, 180, 252, 0.9) !important;
+    text-decoration: none;
+    background: rgba(99, 102, 241, 0.06);
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-teaser-btn:hover {
+    border-color: rgba(99, 102, 241, 0.6);
+    box-shadow: 0 0 15px rgba(99, 102, 241, 0.2);
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .freq-title { font-size: 2rem; }
+    .freq-hero { padding: 3rem 1rem 2rem; }
+    .freq-level { flex-direction: column; gap: 0.8rem; padding: 1.4rem; }
+    .freq-level-marker { min-width: auto; text-align: left; }
+    .freq-transmission-grid { grid-template-columns: 1fr; }
+    .freq-signal, .freq-signal-2, .freq-signal-3 { display: none; }
+}
 

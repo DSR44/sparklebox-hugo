@@ -127,12 +127,13 @@
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- if le .Weight 5 }}
-            <li{{ if eq .Name "The Drift" }} class="drift-item"{{ else if eq .Name "Elle's Oracle" }} class="oracle-item"{{ end }}>
+            <li{{ if eq .Name "The Drift" }} class="drift-item"{{ else if eq .Name "Elle's Oracle" }} class="oracle-item"{{ else if eq .Name "Frequency Upgrade" }} class="freq-menu-item"{{ end }}>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
                     {{ if eq .Name "The Drift" }}class="drift-link" target="_blank" rel="noopener"{{ end }}
-                    {{ if eq .Name "Elle's Oracle" }}class="oracle-link" target="_blank" rel="noopener"{{ end }}>
+                    {{ if eq .Name "Elle's Oracle" }}class="oracle-link" target="_blank" rel="noopener"{{ end }}
+                    {{ if eq .Name "Frequency Upgrade" }}class="freq-link"{{ end }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- if eq .Name "The Drift" }}✦ {{ end }}{{- if eq .Name "Elle's Oracle" }}◉ {{ end }}{{- .Name -}}
+                        {{- if eq .Name "The Drift" }}✦ {{ end }}{{- if eq .Name "Elle's Oracle" }}◉ {{ end }}{{- if eq .Name "Frequency Upgrade" }}⚡ {{ end }}{{- .Name -}}
                     </span>
                 </a>
             </li>

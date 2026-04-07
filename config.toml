@@ -38,14 +38,19 @@ theme = "PaperMod"
     weight = 3
   
   [[menu.main]]
+    name = "Frequency Upgrade"
+    url = "/frequency-upgrade/"
+    weight = 4
+  
+  [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 4
+    weight = 5
   
   [[menu.main]]
     name = "Dream Portals"
     url = "/the-dreamtoolkit/"
-    weight = 5
+    weight = 6
   
   [[menu.main]]
     name = "Ancient Wisdom"

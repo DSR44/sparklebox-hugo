@@ -147,6 +147,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
+<div class="freq-homepage-teaser">
+<div class="freq-teaser-signal"></div>
+<span class="freq-teaser-label">New Series</span>
+<h2 class="freq-teaser-title">The Frequency Upgrade</h2>
+<p class="freq-teaser-text">Most people operate at a default cognitive frequency they never chose. There is a structure behind every shift — and it is not what the wellness industry teaches.</p>
+<a href="/frequency-upgrade/" class="freq-teaser-btn">Enter →</a>
+</div>
+
+<hr class="sanctuary-divider">
+
 <div style="text-align: center; margin: 3rem auto 2rem; max-width: 600px;">
 <h2 style="font-family: 'Cinzel', serif; font-size: 1.8rem; margin-bottom: 1rem;">Latest Transmissions</h2>
 <p style="color: rgba(255,255,255,0.75); font-size: 0.95rem;">Explore mystical wisdom and transformative insights from the archives.</p>

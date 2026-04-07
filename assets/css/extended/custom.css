@@ -2476,6 +2476,205 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     -webkit-text-fill-color: #ffffff !important;
 }
 
+/* Clickable Spiral Cards */
+a.freq-transmission-card.freq-clickable {
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+}
+
+a.freq-transmission-card.freq-clickable:hover {
+    border-color: rgba(99, 102, 241, 0.5);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(99, 102, 241, 0.15);
+}
+
+a.freq-transmission-card.freq-clickable:hover .freq-card-tag {
+    color: rgba(165, 180, 252, 1);
+    border-color: rgba(99, 102, 241, 0.4);
+}
+
+/* Spiral Page Header */
+.freq-spiral-header {
+    text-align: center;
+    padding: 3rem 2rem 2rem;
+    position: relative;
+}
+
+.freq-spiral-badge {
+    display: inline-block;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    color: rgba(129, 140, 248, 0.8);
+    background: rgba(99, 102, 241, 0.08);
+    margin-bottom: 1.5rem;
+}
+
+.freq-spiral-status {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: rgba(99, 102, 241, 0.5);
+    letter-spacing: 0.15em;
+    margin-top: 1rem;
+}
+
+/* Post List on Spiral Pages */
+.freq-post-list {
+    max-width: 650px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+
+a.freq-post-card,
+div.freq-post-card {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 1.4rem 1.6rem;
+    border-radius: 12px;
+    border: 1px solid rgba(99, 102, 241, 0.12);
+    background: linear-gradient(135deg, rgba(15, 23, 42, 0.6), rgba(30, 27, 75, 0.3));
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+a.freq-post-card:hover {
+    border-color: rgba(99, 102, 241, 0.4);
+    box-shadow: 0 4px 20px rgba(99, 102, 241, 0.12);
+    transform: translateX(4px);
+}
+
+.freq-post-number {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 300;
+    font-style: italic;
+    color: rgba(99, 102, 241, 0.4);
+    min-width: 35px;
+    text-align: center;
+}
+
+a.freq-post-card:hover .freq-post-number {
+    color: rgba(129, 140, 248, 0.9);
+}
+
+.freq-post-info {
+    flex: 1;
+}
+
+.freq-post-info h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+    color: rgba(226, 232, 240, 0.9);
+    margin-bottom: 0.3rem;
+    line-height: 1.4;
+}
+
+.freq-post-info p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.9rem;
+    color: rgba(203, 213, 225, 0.5);
+    margin: 0;
+    line-height: 1.5;
+}
+
+.freq-post-arrow {
+    font-size: 1.1rem;
+    color: rgba(99, 102, 241, 0.4);
+    transition: all 0.3s ease;
+}
+
+a.freq-post-card:hover .freq-post-arrow {
+    color: rgba(129, 140, 248, 0.9);
+    transform: translateX(3px);
+}
+
+.freq-post-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.55rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.6rem;
+    border-radius: 12px;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    color: rgba(165, 180, 252, 0.4);
+    background: rgba(99, 102, 241, 0.04);
+    white-space: nowrap;
+}
+
+.freq-post-upcoming {
+    opacity: 0.6;
+}
+
+/* Spiral Navigation */
+.freq-spiral-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 1rem 0;
+}
+
+.freq-nav-link {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: rgba(129, 140, 248, 0.7) !important;
+    -webkit-text-fill-color: rgba(129, 140, 248, 0.7) !important;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.freq-nav-link:hover {
+    border-color: rgba(99, 102, 241, 0.4);
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    box-shadow: 0 0 12px rgba(99, 102, 241, 0.15);
+}
+
+/* Frequency-Styled Tags on Posts */
+.post-tags a[href*="frequency"],
+.post-tags a[href*="consciousness"],
+.post-tags a[href*="cognitive"],
+.post-tags a[href*="theta"],
+.post-tags a[href*="perception"] {
+    background: rgba(99, 102, 241, 0.08) !important;
+    border: 1px solid rgba(99, 102, 241, 0.2) !important;
+    color: rgba(165, 180, 252, 0.8) !important;
+    -webkit-text-fill-color: rgba(165, 180, 252, 0.8) !important;
+    border-radius: 20px !important;
+    padding: 0.2rem 0.8rem !important;
+    transition: all 0.3s ease !important;
+}
+
+.post-tags a[href*="frequency"]:hover,
+.post-tags a[href*="consciousness"]:hover,
+.post-tags a[href*="cognitive"]:hover,
+.post-tags a[href*="theta"]:hover,
+.post-tags a[href*="perception"]:hover {
+    background: rgba(99, 102, 241, 0.15) !important;
+    border-color: rgba(99, 102, 241, 0.4) !important;
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    box-shadow: 0 0 10px rgba(99, 102, 241, 0.2) !important;
+}
+
 /* Mobile adjustments */
 @media (max-width: 768px) {
     .freq-title { font-size: 2rem; }
@@ -2484,5 +2683,8 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     .freq-level-marker { min-width: auto; text-align: left; }
     .freq-transmission-grid { grid-template-columns: 1fr; }
     .freq-signal, .freq-signal-2, .freq-signal-3 { display: none; }
+    .freq-post-card { flex-wrap: wrap; gap: 0.8rem; }
+    .freq-post-number { min-width: auto; }
+    .freq-spiral-nav { flex-direction: column; gap: 0.8rem; }
 }
 

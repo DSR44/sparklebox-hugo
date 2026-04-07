@@ -82,40 +82,40 @@ author: "Elle Vida"
 
 <div class="freq-transmission-grid">
 
-<div class="freq-transmission-card freq-locked">
+<a href="/frequency-upgrade/spiral-1/" class="freq-transmission-card freq-clickable">
 <span class="freq-card-spiral">Spiral I</span>
 <span class="freq-card-status">The Opening</span>
 <p>Five transmissions that introduce a language you already feel but never had words for.</p>
-<span class="freq-card-tag">Arriving</span>
-</div>
+<span class="freq-card-tag">Arriving →</span>
+</a>
 
-<div class="freq-transmission-card freq-locked">
+<a href="/frequency-upgrade/spiral-2/" class="freq-transmission-card freq-clickable">
 <span class="freq-card-spiral">Spiral II</span>
 <span class="freq-card-status">The Mechanism</span>
 <p>The science emerges. Not clinical. Not abstract. Felt.</p>
-<span class="freq-card-tag">Forming</span>
-</div>
+<span class="freq-card-tag">Forming →</span>
+</a>
 
-<div class="freq-transmission-card freq-locked">
+<a href="/frequency-upgrade/spiral-3/" class="freq-transmission-card freq-clickable">
 <span class="freq-card-spiral">Spiral III</span>
 <span class="freq-card-status">The Pattern</span>
 <p>Something mathematical reveals itself. The hint becomes a structure.</p>
-<span class="freq-card-tag">Compiling</span>
-</div>
+<span class="freq-card-tag">Compiling →</span>
+</a>
 
-<div class="freq-transmission-card freq-locked">
+<a href="/frequency-upgrade/spiral-4/" class="freq-transmission-card freq-clickable">
 <span class="freq-card-spiral">Spiral IV</span>
 <span class="freq-card-status">The Identity</span>
 <p>You will know the upgrade happened when the world quietly reorganises.</p>
-<span class="freq-card-tag">Calibrating</span>
-</div>
+<span class="freq-card-tag">Calibrating →</span>
+</a>
 
-<div class="freq-transmission-card freq-locked">
+<a href="/frequency-upgrade/spiral-5/" class="freq-transmission-card freq-clickable">
 <span class="freq-card-spiral">Spiral V</span>
 <span class="freq-card-status">Convergence</span>
 <p>Where perception meets deterministic mathematics. The system reveals itself.</p>
-<span class="freq-card-tag">∞</span>
-</div>
+<span class="freq-card-tag">∞ →</span>
+</a>
 
 </div>
 </div>

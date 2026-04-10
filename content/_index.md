@@ -132,27 +132,23 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
-<div class="perception-feature">
-<h2>The Perception Engine</h2>
-<p class="tagline">Essays on Reality, Consciousness & the Art of Seeing</p>
-<p style="color: rgba(255,255,255,0.85); font-size: 0.95rem; max-width: 600px; margin: 0 auto 1.5rem;">A philosophical exploration of how perception shapes reality — the "I am" state, feedback loops, and why curiosity keeps the soul alive.</p>
-<div class="concept-pills">
-<span class="concept-pill">👁️ Perceptive Creation</span>
-<span class="concept-pill">✦ The "I Am" State</span>
-<span class="concept-pill">🌀 Reality as Mirror</span>
-<span class="concept-pill">⏳ Novelty & Time</span>
+<div class="freq-homepage-hero">
+<div class="freq-hero-signal"></div>
+<div class="freq-hero-signal freq-hero-signal-2"></div>
+<span class="freq-hero-badge">⚡ Featured Series</span>
+<h2 class="freq-hero-title">The Frequency Upgrade</h2>
+<p class="freq-hero-subtitle">Your brain has a default cognitive frequency. You never chose it. There is a structure behind every shift — and it is not what the wellness industry teaches.</p>
+<div class="freq-hero-levels">
+<span class="freq-hero-level">β Baseline</span>
+<span class="freq-hero-arrow">→</span>
+<span class="freq-hero-level">α Alpha</span>
+<span class="freq-hero-arrow">→</span>
+<span class="freq-hero-level">θ Theta</span>
+<span class="freq-hero-arrow">→</span>
+<span class="freq-hero-level freq-hero-level-prime">α' Prime</span>
 </div>
-<a href="/categories/the-perception-engine/" class="portal-btn" style="margin-top: 1rem;">Explore the Series</a>
-</div>
-
-<hr class="sanctuary-divider">
-
-<div class="freq-homepage-teaser">
-<div class="freq-teaser-signal"></div>
-<span class="freq-teaser-label">New Series</span>
-<h2 class="freq-teaser-title">The Frequency Upgrade</h2>
-<p class="freq-teaser-text">Most people operate at a default cognitive frequency they never chose. There is a structure behind every shift — and it is not what the wellness industry teaches.</p>
-<a href="/frequency-upgrade/" class="freq-teaser-btn">Enter →</a>
+<p class="freq-hero-hint">5 spirals. 25 transmissions. One permanent recalibration.</p>
+<a href="/frequency-upgrade/" class="freq-hero-btn">Begin the Upgrade →</a>
 </div>
 
 <hr class="sanctuary-divider">

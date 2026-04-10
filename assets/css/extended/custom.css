@@ -2381,99 +2381,173 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 /* Homepage Teaser */
-.freq-homepage-teaser {
+.freq-homepage-hero {
     text-align: center;
-    max-width: 550px;
-    margin: 2rem auto;
-    padding: 2.5rem 2rem;
-    border-radius: 16px;
-    border: 1px solid rgba(99, 102, 241, 0.15);
-    background: linear-gradient(145deg, rgba(15, 23, 42, 0.6), rgba(30, 27, 75, 0.3));
+    max-width: 700px;
+    margin: 3rem auto;
+    padding: 3.5rem 2.5rem;
+    border-radius: 20px;
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    background: linear-gradient(160deg, rgba(15, 23, 42, 0.8), rgba(30, 27, 75, 0.4), rgba(49, 46, 129, 0.2));
     position: relative;
     overflow: hidden;
     transition: all 0.4s ease;
 }
 
-.freq-homepage-teaser:hover {
-    border-color: rgba(99, 102, 241, 0.35);
-    box-shadow: 0 0 30px rgba(99, 102, 241, 0.1);
+.freq-homepage-hero:hover {
+    border-color: rgba(99, 102, 241, 0.4);
+    box-shadow: 0 0 50px rgba(99, 102, 241, 0.12), 0 0 100px rgba(99, 102, 241, 0.05);
 }
 
-.freq-teaser-signal {
+.freq-hero-signal {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
-    border: 1px solid rgba(99, 102, 241, 0.08);
+    border: 1px solid rgba(99, 102, 241, 0.06);
     transform: translate(-50%, -50%);
     animation: freq-pulse 5s ease-in-out infinite;
     pointer-events: none;
 }
 
-.freq-teaser-label {
+.freq-hero-signal-2 {
+    width: 500px;
+    height: 500px;
+    animation-delay: 2.5s;
+    border-color: rgba(59, 130, 246, 0.04);
+}
+
+.freq-hero-badge {
     display: inline-block;
     font-family: 'DM Sans', sans-serif;
-    font-size: 0.6rem;
+    font-size: 0.65rem;
     font-weight: 700;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    padding: 0.3rem 0.8rem;
+    padding: 0.4rem 1rem;
     border-radius: 20px;
-    border: 1px solid rgba(99, 102, 241, 0.25);
-    color: rgba(129, 140, 248, 0.7);
-    background: rgba(99, 102, 241, 0.06);
-    margin-bottom: 1rem;
-    position: relative;
-    z-index: 1;
-}
-
-.freq-teaser-title {
-    font-family: 'Cinzel', serif;
-    font-size: 1.5rem;
-    letter-spacing: 0.08em;
-    background: linear-gradient(135deg, #818cf8, #3b82f6, #6366f1);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin-bottom: 1rem;
-    position: relative;
-    z-index: 1;
-}
-
-.freq-teaser-text {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1rem;
-    line-height: 1.7;
-    color: rgba(203, 213, 225, 0.7);
+    border: 1px solid rgba(99, 102, 241, 0.3);
+    color: rgba(165, 180, 252, 0.85);
+    background: rgba(99, 102, 241, 0.08);
     margin-bottom: 1.5rem;
     position: relative;
     z-index: 1;
 }
 
-.freq-teaser-btn {
+.freq-hero-title {
+    font-family: 'Cinzel', serif;
+    font-size: 2.2rem;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #a5b4fc, #818cf8, #3b82f6, #6366f1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 1.2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-hero-subtitle {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: rgba(203, 213, 225, 0.75);
+    max-width: 550px;
+    margin: 0 auto 2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-hero-levels {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.8rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-hero-level {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    padding: 0.35rem 0.8rem;
+    border-radius: 6px;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    color: rgba(165, 180, 252, 0.6);
+    background: rgba(99, 102, 241, 0.04);
+}
+
+.freq-hero-level-prime {
+    border-color: rgba(99, 102, 241, 0.4);
+    color: rgba(165, 180, 252, 1);
+    background: rgba(99, 102, 241, 0.12);
+    box-shadow: 0 0 12px rgba(99, 102, 241, 0.15);
+}
+
+.freq-hero-arrow {
+    color: rgba(99, 102, 241, 0.3);
+    font-size: 0.7rem;
+}
+
+.freq-hero-hint {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    color: rgba(129, 140, 248, 0.45);
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.freq-hero-btn {
     display: inline-block;
     font-family: 'Cinzel', serif;
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     letter-spacing: 0.12em;
-    padding: 0.6rem 1.5rem;
-    border: 1px solid rgba(99, 102, 241, 0.3);
-    border-radius: 8px;
-    color: rgba(165, 180, 252, 0.9) !important;
-    -webkit-text-fill-color: rgba(165, 180, 252, 0.9) !important;
+    padding: 0.8rem 2rem;
+    border: 1px solid rgba(99, 102, 241, 0.35);
+    border-radius: 10px;
+    color: rgba(165, 180, 252, 1) !important;
+    -webkit-text-fill-color: rgba(165, 180, 252, 1) !important;
     text-decoration: none;
-    background: rgba(99, 102, 241, 0.06);
+    background: rgba(99, 102, 241, 0.08);
     transition: all 0.3s ease;
     position: relative;
     z-index: 1;
 }
 
-.freq-teaser-btn:hover {
-    border-color: rgba(99, 102, 241, 0.6);
-    box-shadow: 0 0 15px rgba(99, 102, 241, 0.2);
+.freq-hero-btn:hover {
+    border-color: rgba(99, 102, 241, 0.7);
+    box-shadow: 0 0 25px rgba(99, 102, 241, 0.25);
     color: #ffffff !important;
     -webkit-text-fill-color: #ffffff !important;
+    background: rgba(99, 102, 241, 0.15);
+}
+
+@media (max-width: 768px) {
+    .freq-homepage-hero {
+        padding: 2.5rem 1.5rem;
+        margin: 2rem auto;
+    }
+    .freq-hero-title {
+        font-size: 1.6rem;
+    }
+    .freq-hero-subtitle {
+        font-size: 1rem;
+    }
+    .freq-hero-levels {
+        gap: 0.3rem;
+    }
+    .freq-hero-level {
+        font-size: 0.6rem;
+        padding: 0.25rem 0.6rem;
+    }
 }
 
 /* Clickable Spiral Cards */

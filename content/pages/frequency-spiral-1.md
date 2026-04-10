@@ -31,14 +31,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/the-difference-between-a-stimulated-mind-and-an-elevated-one-is-not-effort-it-is-frequency/" class="freq-post-card">
 <span class="freq-post-number">02</span>
 <div class="freq-post-info">
 <h3>The Difference Between a Stimulated Mind and an Elevated One Is Not Effort — It Is Frequency</h3>
 <p>Noise and signal feel different in the body. Learn to tell them apart.</p>
 </div>
-<span class="freq-post-tag">Arriving</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">03</span>

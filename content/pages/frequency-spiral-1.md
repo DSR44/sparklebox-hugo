@@ -40,14 +40,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/you-can-feel-when-your-thinking-is-running-on-the-wrong-channel-you-just-never-had-the-word-for-it/" class="freq-post-card">
 <span class="freq-post-number">03</span>
 <div class="freq-post-info">
 <h3>You Can Feel When Your Thinking Is Running on the Wrong Channel</h3>
 <p>You already have the instrument. You just never had the word for what it measures.</p>
 </div>
-<span class="freq-post-tag">Arriving</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">04</span>

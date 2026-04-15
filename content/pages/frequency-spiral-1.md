@@ -49,14 +49,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/something-is-shifting-in-how-high-performers-process-reality-and-it-is-not-meditation/" class="freq-post-card">
 <span class="freq-post-number">04</span>
 <div class="freq-post-info">
 <h3>Something Is Shifting in How High Performers Process Reality</h3>
 <p>It is not meditation. It is not discipline. It is calibration.</p>
 </div>
-<span class="freq-post-tag">Arriving</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">05</span>

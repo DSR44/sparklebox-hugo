@@ -11,7 +11,7 @@ tags:
   - "theta state"
 description: "I used to think the difference between people who bend reality and people who get bent by it was willpower. Then I watched a portfolio-manager..."
 cover:
-  image: "/pinterest-images/8224400017_cognitive-upgrade-frequency-design.png"
+  image: "/pinterest-images/8224399855_torus-field-consciousness-map.png"
   alt: "Something is shifting in how high performers process reality — and it is not meditation"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false

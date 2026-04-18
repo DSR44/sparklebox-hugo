@@ -58,14 +58,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/there-is-a-frequency-your-nervous-system-reaches-only-when-it-stops-optimising-most-people-have-felt-it-once/" class="freq-post-card">
 <span class="freq-post-number">05</span>
 <div class="freq-post-info">
 <h3>There Is a Frequency Your Nervous System Reaches Only When It Stops Optimising</h3>
 <p>Most people have felt it once. The question is how to stay.</p>
 </div>
-<span class="freq-post-tag">Arriving</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 </div>
 

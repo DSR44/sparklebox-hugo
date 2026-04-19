@@ -1,5 +1,6 @@
 ---
-title: "bundance is not a mindset — it is a mechanism"
+title: "Abundance is not a mindset — it is a mechanism"
+slug: "bundance-is-not-a-mindset-it-is-a-mechanism"
 date: 2026-03-28T05:14:20+00:00
 categories:
   - "Sparklebox Realm"
@@ -11,7 +12,7 @@ tags:
 description: "The thing about abundance is that most people never notice when they’re actually living inside it. They’re looking for a feeling—expansive, weightless..."
 cover:
   image: "/generic-post-images/leonardo-37.jpg"
-  alt: "bundance is not a mindset — it is a mechanism"
+  alt: "Abundance is not a mindset — it is a mechanism"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---

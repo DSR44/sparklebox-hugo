@@ -1,14 +1,7 @@
 {
   "buildCommand": "npm install && npx hugo --minify",
   "outputDirectory": "public",
-  "functions": {
-    "api/*.js": {
-      "runtime": "@vercel/node@3"
-    }
-  },
-  "rewrites": [
-    { "source": "/api/:path*", "destination": "/api/:path*" }
-  ],
+  "framework": null,
   "github": {
     "silent": true
   },

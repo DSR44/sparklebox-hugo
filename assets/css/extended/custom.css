@@ -66,13 +66,13 @@ body {
     animation: gradient-shift 15s ease infinite !important;
 }
 
-/* Sacred geometry presence — ambient background figure */
-body::before {
+/* Sacred geometry presence — ambient background figures */
+body::before,
+body::after {
     content: "";
     position: fixed;
     top: 5%;
-    right: -8%;
-    width: 65%;
+    width: 55%;
     height: 90%;
     background: url('/images/presence-bg.png') no-repeat center center;
     background-size: contain;
@@ -83,11 +83,26 @@ body::before {
     -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.15) 50%, transparent 85%);
 }
 
+body::before {
+    right: -5%;
+}
+
+body::after {
+    left: -5%;
+    transform: scaleX(-1);
+}
+
 @media (max-width: 768px) {
     body::before {
-        right: -20%;
-        width: 80%;
-        opacity: 0.07;
+        right: -15%;
+        width: 75%;
+        opacity: 0.12;
+    }
+    body::after {
+        left: -15%;
+        width: 75%;
+        opacity: 0.12;
+        transform: scaleX(-1);
     }
 }
 

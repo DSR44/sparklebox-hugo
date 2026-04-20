@@ -1,0 +1,216 @@
+{{ $slug := .File.ContentBaseName }}
+<div class="obs-feed" data-slug="{{ $slug }}">
+
+  <div class="obs-header">
+    <span class="obs-icon">🌿</span>
+    <h3 class="obs-title">What did you notice today?</h3>
+    <p class="obs-subtitle">A space for human perception — no likes, no algorithm, just what you saw.</p>
+  </div>
+
+  <form class="obs-form" onsubmit="return SparkleObs.submit(event)">
+    <input type="text" class="obs-name-input" placeholder="Your name (optional)" maxlength="50" />
+    <textarea class="obs-body-input" placeholder="What did you notice?" maxlength="2000" rows="3" required></textarea>
+    <div class="obs-form-footer">
+      <span class="obs-char-count">0 / 2000</span>
+      <button type="submit" class="obs-submit-btn">Share Observation</button>
+    </div>
+  </form>
+
+  <div class="obs-divider"></div>
+
+  <div class="obs-list" id="obs-list">
+    <div class="obs-loading">Loading observations...</div>
+  </div>
+
+  <button class="obs-load-more" id="obs-load-more" style="display:none" onclick="SparkleObs.loadMore()">
+    Load more observations
+  </button>
+</div>
+
+<script>
+(function() {
+  var API = '/api';
+  var feed = document.querySelector('.obs-feed');
+  var slug = feed.dataset.slug;
+  var list = document.getElementById('obs-list');
+  var moreBtn = document.getElementById('obs-load-more');
+  var page = 0;
+  var total = 0;
+  var loaded = 0;
+
+  function timeAgo(dateStr) {
+    var diff = Date.now() - new Date(dateStr).getTime();
+    var mins = Math.floor(diff / 60000);
+    if (mins < 1) return 'just now';
+    if (mins < 60) return mins + 'm ago';
+    var hrs = Math.floor(mins / 60);
+    if (hrs < 24) return hrs + 'h ago';
+    var days = Math.floor(hrs / 24);
+    if (days < 30) return days + 'd ago';
+    return new Date(dateStr).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  }
+
+  function esc(str) {
+    var d = document.createElement('div');
+    d.textContent = str;
+    return d.innerHTML;
+  }
+
+  function renderObservation(obs) {
+    var el = document.createElement('div');
+    el.className = 'obs-item';
+    el.dataset.id = obs.id;
+    el.innerHTML =
+      '<div class="obs-meta">' +
+        '<span class="obs-author">\uD83C\uDF3F ' + esc(obs.display_name) + '</span>' +
+        '<span class="obs-time">' + timeAgo(obs.created_at) + '</span>' +
+      '</div>' +
+      '<div class="obs-body">\u201C' + esc(obs.body) + '\u201D</div>' +
+      '<div class="obs-responses" id="resp-' + obs.id + '"></div>' +
+      '<button class="obs-reply-toggle" onclick="SparkleObs.toggleReply(\'' + obs.id + '\')">' +
+        '\u21B3 Respond' +
+      '</button>' +
+      '<div class="obs-reply-form" id="reply-form-' + obs.id + '" style="display:none">' +
+        '<input type="text" placeholder="Your name (optional)" maxlength="50" class="obs-reply-name" />' +
+        '<textarea placeholder="Your response..." maxlength="1000" rows="2" class="obs-reply-body" required></textarea>' +
+        '<button class="obs-reply-btn" onclick="SparkleObs.submitReply(\'' + obs.id + '\')">Send</button>' +
+      '</div>';
+    return el;
+  }
+
+  function loadObservations() {
+    fetch(API + '/observations?slug=' + encodeURIComponent(slug) + '&page=' + page)
+      .then(function(res) { return res.json(); })
+      .then(function(data) {
+        total = data.total || 0;
+        if (page === 0) {
+          list.innerHTML = '';
+          if (total === 0) {
+            list.innerHTML = '<div class="obs-empty">No observations yet. Be the first to notice something.</div>';
+            moreBtn.style.display = 'none';
+            return;
+          }
+        }
+        (data.observations || []).forEach(function(obs) {
+          list.appendChild(renderObservation(obs));
+          loaded++;
+          loadResponses(obs.id);
+        });
+        moreBtn.style.display = loaded < total ? 'block' : 'none';
+      })
+      .catch(function() {
+        if (page === 0) list.innerHTML = '<div class="obs-empty">Could not load observations.</div>';
+      });
+  }
+
+  function loadResponses(obsId) {
+    fetch(API + '/responses?observation_id=' + obsId)
+      .then(function(res) { return res.json(); })
+      .then(function(data) {
+        var container = document.getElementById('resp-' + obsId);
+        if (!container || !data.responses || data.responses.length === 0) return;
+        container.innerHTML = data.responses.map(function(r) {
+          return '<div class="obs-response">' +
+            '<span class="obs-response-author">\u21B3 ' + esc(r.display_name) + '</span>' +
+            '<span class="obs-time">' + timeAgo(r.created_at) + '</span>' +
+            '<div class="obs-response-body">\u201C' + esc(r.body) + '\u201D</div>' +
+          '</div>';
+        }).join('');
+      })
+      .catch(function() {});
+  }
+
+  window.SparkleObs = {
+    submit: function(e) {
+      e.preventDefault();
+      var form = feed.querySelector('.obs-form');
+      var nameInput = form.querySelector('.obs-name-input');
+      var bodyInput = form.querySelector('.obs-body-input');
+      var btn = form.querySelector('.obs-submit-btn');
+      var body = bodyInput.value.trim();
+      if (!body) return false;
+
+      btn.disabled = true;
+      btn.textContent = 'Sending...';
+      fetch(API + '/observations', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          slug: slug,
+          display_name: nameInput.value.trim() || 'Anonymous Observer',
+          body: body
+        })
+      })
+      .then(function(res) { return res.ok ? res.json() : Promise.reject(); })
+      .then(function(obs) {
+        var empty = list.querySelector('.obs-empty');
+        if (empty) empty.remove();
+        list.insertBefore(renderObservation(obs), list.firstChild);
+        loaded++;
+        total++;
+        nameInput.value = '';
+        bodyInput.value = '';
+        feed.querySelector('.obs-char-count').textContent = '0 / 2000';
+      })
+      .catch(function() {})
+      .finally(function() {
+        btn.disabled = false;
+        btn.textContent = 'Share Observation';
+      });
+      return false;
+    },
+
+    toggleReply: function(obsId) {
+      var form = document.getElementById('reply-form-' + obsId);
+      form.style.display = form.style.display === 'none' ? 'block' : 'none';
+    },
+
+    submitReply: function(obsId) {
+      var form = document.getElementById('reply-form-' + obsId);
+      var nameInput = form.querySelector('.obs-reply-name');
+      var bodyInput = form.querySelector('.obs-reply-body');
+      var btn = form.querySelector('.obs-reply-btn');
+      var body = bodyInput.value.trim();
+      if (!body) return;
+
+      btn.disabled = true;
+      btn.textContent = 'Sending...';
+      fetch(API + '/responses', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          observation_id: obsId,
+          display_name: nameInput.value.trim() || 'Anonymous Observer',
+          body: body
+        })
+      })
+      .then(function(res) {
+        if (res.ok) {
+          nameInput.value = '';
+          bodyInput.value = '';
+          form.style.display = 'none';
+          loadResponses(obsId);
+        }
+      })
+      .catch(function() {})
+      .finally(function() {
+        btn.disabled = false;
+        btn.textContent = 'Send';
+      });
+    },
+
+    loadMore: function() {
+      page++;
+      loadObservations();
+    }
+  };
+
+  var textarea = feed.querySelector('.obs-body-input');
+  var counter = feed.querySelector('.obs-char-count');
+  textarea.addEventListener('input', function() {
+    counter.textContent = this.value.length + ' / 2000';
+  });
+
+  loadObservations();
+})();
+</script>

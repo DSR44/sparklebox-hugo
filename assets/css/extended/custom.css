@@ -99,6 +99,13 @@ h4 { font-size: clamp(1.1rem, 2vw, 1.5rem); margin-bottom: 0.8rem; }
 .post-header {
     background: transparent;
     margin-bottom: 2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.breadcrumbs {
+    position: relative;
+    z-index: 1;
 }
 
 /* Headings - MORE DRAMATIC */
@@ -1205,16 +1212,16 @@ nav::after {
     position: absolute !important;
     top: calc(100% + 8px) !important;
     right: 0 !important;
-    min-width: 170px !important;
-    background: rgba(10, 1, 24, 0.98) !important;
+    min-width: 185px !important;
+    background: #0d0519 !important;
     backdrop-filter: blur(24px) !important;
-    border: 1px solid rgba(236, 72, 153, 0.2) !important;
+    border: 1px solid rgba(236, 72, 153, 0.35) !important;
     border-radius: 14px !important;
     padding: 0.6rem 0.5rem !important;
-    z-index: 300 !important;
+    z-index: 9000 !important;
     flex-direction: column !important;
     gap: 0.15rem !important;
-    box-shadow: 0 12px 40px rgba(0,0,0,0.5), 0 0 1px rgba(236, 72, 153, 0.2) !important;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.7), 0 0 30px rgba(139, 92, 246, 0.15), inset 0 1px 0 rgba(236, 72, 153, 0.1) !important;
     list-style: none !important;
     margin: 0 !important;
 }
@@ -1262,9 +1269,15 @@ nav::after {
     content: none !important;
 }
 
-/* Header positioning */
+/* Header positioning — must sit above all page content for dropdown */
 .header {
     position: relative !important;
+    z-index: 1000 !important;
+}
+
+.nav {
+    position: relative !important;
+    z-index: 1000 !important;
 }
 
 /* Remove scroll from nav */

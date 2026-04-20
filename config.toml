@@ -28,8 +28,8 @@ theme = "PaperMod"
     weight = 1
   
   [[menu.main]]
-    name = "The Drift"
-    url = "https://huggingface.co/spaces/FutureHAi/thedrift"
+    name = "Frequency Upgrade"
+    url = "/frequency-upgrade/"
     weight = 2
   
   [[menu.main]]
@@ -38,13 +38,13 @@ theme = "PaperMod"
     weight = 3
   
   [[menu.main]]
-    name = "Frequency Upgrade"
-    url = "/frequency-upgrade/"
+    name = "Posts"
+    url = "/posts/"
     weight = 4
   
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "The Drift"
+    url = "https://huggingface.co/spaces/FutureHAi/thedrift"
     weight = 5
   
   [[menu.main]]

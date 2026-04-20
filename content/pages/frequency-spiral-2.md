@@ -21,14 +21,14 @@ author: "Elle Vida"
 
 <div class="freq-post-list">
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/theta-state-is-where-your-brain-stops-performing-and-starts-generating-here-is-what-that-actually-means/" class="freq-post-card">
 <span class="freq-post-number">06</span>
 <div class="freq-post-info">
 <h3>Theta State Is Where Your Brain Stops Performing and Starts Generating</h3>
 <p>Here is what that actually means — in your body, not in a textbook.</p>
 </div>
-<span class="freq-post-tag">Forming</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">07</span>

@@ -30,14 +30,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/04/why-clarity-is-not-a-mindset-but-a-frequency-band-and-why-most-people-are-tuned-to-the-wrong-one/" class="freq-post-card">
 <span class="freq-post-number">07</span>
 <div class="freq-post-info">
 <h3>Why Clarity Is Not a Mindset but a Frequency Band</h3>
 <p>And why most people are tuned to the wrong one.</p>
 </div>
-<span class="freq-post-tag">Forming</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">08</span>

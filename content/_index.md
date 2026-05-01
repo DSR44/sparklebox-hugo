@@ -27,32 +27,32 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-card">
 <div class="affirmation-header">
 <h2>🫧 Today's Awakening</h2>
-<span class="date">April 30, 2026</span>
+<span class="date">May 01, 2026</span>
 </div>
 <div class="affirmation-theme">
-<h3>Awakening to Inner Light: A Journey of Spiritual Discovery</h3>
-<p>As we embark on this sacred journey, may our hearts be filled with the essence of divine love, and may our souls be guided by the gentle whispers of inner wisdom. In the stillness of the night, may we...</p>
+<h3>Moonlit Serenity: Affirmations for a Peaceful Night's Journey</h3>
+<p>As the moon casts its silvery glow upon our paths, we embark on a journey of self-discovery and introspection, where the soft whispers of the night guide us toward our deepest truths. In this realm of...</p>
 </div>
 <div class="affirmation-list">
 <div class="affirmation-item">
 <div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I am a vessel for the divine, allowing its wisdom to flow through me in every moment."</div></div>
+<div><div class="affirmation-text">"I invite the gentle light of the moon to illuminate my inner world, revealing the depths of my soul and the secrets of my heart."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My heart is a sanctuary of peace, where love and compassion reside in perfect harmony."</div></div>
+<div><div class="affirmation-text">"My heart beats in harmony with the lunar cycles, ebbing and flowing with the tides of transformation and growth."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I trust in the unfolding of my soul's journey, knowing that every experience is an opportunity for growth and evolution."</div></div>
+<div><div class="affirmation-text">"I trust in the wisdom of my intuition, which shines like a beacon in the darkness, guiding me through life's twists and turns."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"My intuition is a powerful guide, illuminating my path and leading me to my highest truth."</div></div>
+<div><div class="affirmation-text">"My spirit is a reflection of the moon's gentle glow, radiant with an inner light that illuminates my path and guides me home."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"I am a unique expression of the universe, with a distinct purpose and contribution to make in the world."</div></div>
+<div><div class="affirmation-text">"I surrender to the mystery of the night, allowing myself to be cradled in the darkness, and to emerge renewed and reborn with each new moon."</div></div>
 </div>
 </div>
 <details style="padding: 0 2rem 2rem;">
@@ -60,43 +60,43 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-list" style="padding-top: 1rem;">
 <div class="affirmation-item">
 <div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"My spirit is a flame that burns brightly, illuminating the darkness and guiding me through life's challenges."</div></div>
+<div><div class="affirmation-text">"My inner world is a sanctuary of peace and tranquility, a sacred space where I can retreat from the world and connect with my deepest self."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"I am connected to the natural world, and its rhythms and cycles remind me of the beauty and wonder of life."</div></div>
+<div><div class="affirmation-text">"I am a lunar warrior, strong and resilient, with the power to navigate the darkest nights and to emerge victorious in the light of the new moon."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"My soul is a wingspan of freedom, soaring on the winds of possibility and exploring the depths of my own potential."</div></div>
+<div><div class="affirmation-text">"My soul is a canvas of endless possibilities, painted with the vibrant colors of my dreams and imagination, and illuminated by the soft light of the moon."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"I am a droplet of water in the vast ocean of existence, yet my presence ripples out and touches the hearts of all those around me."</div></div>
+<div><div class="affirmation-text">"I trust in the ebb and flow of life, knowing that each phase of the moon brings its own unique wisdom and guidance, and that I am always exactly where I need to be."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"My heart is a bridge that spans the distances between myself and others, connecting us in a web of love and understanding."</div></div>
+<div><div class="affirmation-text">"My heart is a vessel for the moon's gentle light, overflowing with compassion, empathy, and love for all beings, and guiding me on my journey of self-discovery and growth."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"I am a co-creator with the universe, bringing my unique vision and imagination to the world and manifesting my deepest desires."</div></div>
+<div><div class="affirmation-text">"I am a guardian of my own inner peace, protecting and nurturing my spirit with the gentle care of a lunar mother, and trusting in my ability to create a sense of calm and serenity in all aspects of my life."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"My spirit is a temple of inner peace, where love and wisdom reside in perfect harmony."</div></div>
+<div><div class="affirmation-text">"My spirit is a bridge between the worlds, connecting the earthly and celestial realms, and guiding me on my journey of spiritual growth and exploration."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"I am a leaf on the tree of life, connected to the roots of my past and the branches of my future, yet uniquely positioned to bloom in the present moment."</div></div>
+<div><div class="affirmation-text">"I am a lunar alchemist, transforming my challenges into opportunities for growth, and turning my darkness into light, guided by the moon's gentle glow."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"My soul is a tapestry of stories, woven from the threads of my experiences and the wisdom of my heart."</div></div>
+<div><div class="affirmation-text">"My soul is a celestial map, guiding me through the twists and turns of life's journey, and illuminating my path with the soft light of the moon."</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"I am a beacon of light in the darkness, shining brightly to guide others on their own journey of spiritual discovery."</div></div>
+<div><div class="affirmation-text">"I am a moonlit traveler, journeying through the realms of my own heart, and exploring the depths of my soul, guided by the gentle light of the moon, and emerging transformed and renewed with each new cycle."</div></div>
 </div>
 </div>
 </details>

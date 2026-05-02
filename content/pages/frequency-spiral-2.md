@@ -39,14 +39,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/the-architecture-of-an-elevated-mind-what-neuroscience-calls-it-vs-what-you-actually-feel-when-it-happens/" class="freq-post-card">
 <span class="freq-post-number">08</span>
 <div class="freq-post-info">
 <h3>The Architecture of an Elevated Mind</h3>
 <p>What neuroscience calls it vs what you actually feel when it happens.</p>
 </div>
-<span class="freq-post-tag">Forming</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">09</span>

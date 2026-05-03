@@ -5,6 +5,3 @@ layouts/
 assets/
 .git/
 .gitignore
-*.md
-*.toml
-*.yaml

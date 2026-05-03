@@ -1,0 +1,16 @@
+static/
+content/
+themes/
+layouts/
+assets/
+*.md
+*.toml
+*.yaml
+*.json
+*.lock
+.git/
+.gitignore
+package-lock.json
+node_modules/
+public/
+hugo-extended/

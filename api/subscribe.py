@@ -41,8 +41,8 @@ def send_welcome_email(email):
         "-H", f"Authorization: Bearer {RESEND_API_KEY}",
         "-H", "Content-Type: application/json",
         "-d", json.dumps({
-            "from": "hello@sparklebox.blog",
-            "reply_to": "hello@sparklebox.blog",
+            "from": "Elle Vida <Elle_Vida@sparklebox.blog>",
+            "reply_to": "Elle_Vida@sparklebox.blog",
             "to": email,
             "subject": "Welcome to the Sparklebox Sanctuary",
             "html": WELCOME_HTML

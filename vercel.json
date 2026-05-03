@@ -4,7 +4,7 @@
   "framework": null,
   "functions": {
     "api/**/*.py": {
-      "excludeFiles": ["static/**", "content/**", "themes/**", "layouts/**", "assets/**", "node_modules/hugo-extended/**"]
+      "maxDuration": 10
     }
   },
   "github": {

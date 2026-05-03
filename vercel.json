@@ -2,6 +2,11 @@
   "buildCommand": "npm install && npx hugo --minify",
   "outputDirectory": "public",
   "framework": null,
+  "functions": {
+    "api/**/*.py": {
+      "excludeFiles": ["static/**", "content/**", "themes/**", "layouts/**", "assets/**", "node_modules/hugo-extended/**"]
+    }
+  },
   "github": {
     "silent": true
   },

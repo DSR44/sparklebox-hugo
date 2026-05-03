@@ -2,11 +2,6 @@
   "buildCommand": "npm install && npx hugo --minify",
   "outputDirectory": "public",
   "framework": null,
-  "functions": {
-    "api/**/*.py": {
-      "maxDuration": 10
-    }
-  },
   "github": {
     "silent": true
   },

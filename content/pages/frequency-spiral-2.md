@@ -48,14 +48,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/how-to-tell-which-cognitive-frequency-you-are-operating-at-right-now-without-any-technology/" class="freq-post-card">
 <span class="freq-post-number">09</span>
 <div class="freq-post-info">
 <h3>How to Tell Which Cognitive Frequency You Are Operating At Right Now</h3>
 <p>Without any technology. Just your body.</p>
 </div>
-<span class="freq-post-tag">Forming</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">10</span>

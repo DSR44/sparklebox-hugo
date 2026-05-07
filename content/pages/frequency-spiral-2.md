@@ -57,14 +57,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/your-nervous-system-already-knows-how-to-make-this-shift-the-problem-is-everything-around-you-that-prevents-it/" class="freq-post-card">
 <span class="freq-post-number">10</span>
 <div class="freq-post-info">
 <h3>Your Nervous System Already Knows How to Make This Shift</h3>
 <p>The problem is everything around you that prevents it.</p>
 </div>
-<span class="freq-post-tag">Forming</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 </div>
 

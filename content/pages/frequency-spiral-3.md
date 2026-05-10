@@ -21,14 +21,14 @@ author: "Elle Vida"
 
 <div class="freq-post-list">
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/i-mapped-the-mathematics-behind-how-perception-shifts-here-is-the-first-thing-i-found/" class="freq-post-card">
 <span class="freq-post-number">11</span>
 <div class="freq-post-info">
 <h3>I Mapped the Mathematics Behind How Perception Shifts</h3>
 <p>Here is the first thing I found.</p>
 </div>
-<span class="freq-post-tag">Compiling</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">12</span>

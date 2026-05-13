@@ -30,14 +30,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/what-if-your-brain-could-compile-clarity-the-way-a-program-compiles-code/" class="freq-post-card">
 <span class="freq-post-number">12</span>
 <div class="freq-post-info">
 <h3>What If Your Brain Could Compile Clarity the Way a Program Compiles Code</h3>
 <p>Not a metaphor. A mechanism.</p>
 </div>
-<span class="freq-post-tag">Compiling</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">13</span>

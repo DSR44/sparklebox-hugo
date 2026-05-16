@@ -39,14 +39,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/the-equation-nobody-in-wellness-talks-about-where-deterministic-math-meets-consciousness/" class="freq-post-card">
 <span class="freq-post-number">13</span>
 <div class="freq-post-info">
 <h3>The Equation Nobody in Wellness Talks About</h3>
 <p>Where deterministic math meets consciousness.</p>
 </div>
-<span class="freq-post-tag">Compiling</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">14</span>

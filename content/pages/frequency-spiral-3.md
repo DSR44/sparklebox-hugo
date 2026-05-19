@@ -48,14 +48,14 @@ author: "Elle Vida"
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/when-your-thinking-starts-to-feel-like-a-tuned-instrument-that-is-not-a-metaphor-and-it-is-not-random/" class="freq-post-card">
 <span class="freq-post-number">14</span>
 <div class="freq-post-info">
 <h3>When Your Thinking Starts to Feel Like a Tuned Instrument</h3>
 <p>That is not a metaphor and it is not random.</p>
 </div>
-<span class="freq-post-tag">Compiling</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">15</span>

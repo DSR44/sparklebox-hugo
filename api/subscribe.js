@@ -32,9 +32,9 @@ export default async function handler(req) {
     }
 
     const RESEND_API_KEY = process.env.RESEND_API_KEY;
-    const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID;
+    const SEGMENT_ID = process.env.RESEND_AUDIENCE_ID || process.env.RESEND_SEGMENT_ID;
 
-    // Add contact to audience
+    // Add contact and attach to Sparklebox segment (required for broadcasts)
     const contactRes = await fetch('https://api.resend.com/contacts', {
       method: 'POST',
       headers: {
@@ -43,12 +43,23 @@ export default async function handler(req) {
       },
       body: JSON.stringify({
         email,
-        audience_id: AUDIENCE_ID,
         unsubscribed: false,
+        segments: SEGMENT_ID ? [{ id: SEGMENT_ID }] : undefined,
       }),
     });
 
     const contactData = await contactRes.json();
+
+    // Ensure existing contacts are also in the segment
+    if (SEGMENT_ID && contactRes.ok) {
+      await fetch(`https://api.resend.com/contacts/${encodeURIComponent(email)}/segments/${SEGMENT_ID}`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${RESEND_API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+      });
+    }
 
     // Send welcome email
     const welcomeRes = await fetch('https://api.resend.com/emails', {
@@ -73,7 +84,7 @@ export default async function handler(req) {
         <p style="font-size: 16px; line-height: 1.7; color: #94a3b8; margin-bottom: 16px;">Welcome to Sparklebox. I am glad you are here.</p>
         <p style="font-size: 16px; line-height: 1.7; color: #94a3b8; margin-bottom: 16px;">This is a space where perception becomes creation. Where the way you see shapes what you experience. I share what I have learned about tuning into the rhythms of nature, finding stillness in the noise, and trusting the cycles that carry us.</p>
         <p style="font-size: 16px; line-height: 1.7; color: #94a3b8; margin-bottom: 16px;">No rush. No noise. Just a gentle reminder that reality is not fixed. It begins with you.</p>
-        <p style="font-size: 16px; line-height: 1.7; color: #94a3b8; margin-bottom: 16px;">You will hear from me when there is something worth sharing.</p>
+        <p style="font-size: 16px; line-height: 1.7; color: #94a3b8; margin-bottom: 16px;">You will hear from me when there is something worth sharing — including new Frequency Upgrade posts as the campaign unfolds.</p>
         <p style="font-size: 16px; color: #ec4899; font-weight: 600;">Elle Vida</p>
     </div>
     <div style="background: #1a0a2e; padding: 20px 24px; text-align: center;">

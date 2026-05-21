@@ -21,6 +21,23 @@ author: "Elle Vida"
 <p>The question is why you only visit that state by accident.</p>
 </div>
 
+<div class="freq-product">
+<span class="freq-product-badge">Available Now · Early Calibration</span>
+<h2 class="freq-section-title">The Frequency Field Test</h2>
+<p class="freq-product-lead">A 9-page workbook to identify which cognitive frequency you're operating on — three body-based field tests, a self-assessment, and a seven-day calibration log. No app. No woo. Just your nervous system reporting what your mind forgot how to read.</p>
+<ul class="freq-product-features">
+<li>The Four Channels — Beta, Alpha, Theta, Alpha Prime</li>
+<li>Three field tests you can run in under five minutes</li>
+<li>Seven-day calibration log</li>
+<li>Instant PDF download</li>
+</ul>
+<p class="freq-product-price">$19</p>
+<a href="https://sparkleboxblog.gumroad.com/l/frequency-field-test" class="freq-product-btn gumroad-button" data-gumroad-overlay-checkout="true">Get the Workbook →</a>
+<p class="freq-product-note">For the ones who noticed early — before the crowd catches on.</p>
+</div>
+
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+
 <hr class="freq-divider">
 
 <div class="freq-levels">

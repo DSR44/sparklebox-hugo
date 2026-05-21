@@ -2,6 +2,7 @@
 title: "Spiral IV — The Identity"
 slug: "frequency-upgrade/spiral-4"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">

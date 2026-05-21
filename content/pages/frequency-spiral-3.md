@@ -2,6 +2,7 @@
 title: "Spiral III — The Pattern"
 slug: "frequency-upgrade/spiral-3"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">

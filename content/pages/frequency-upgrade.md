@@ -2,6 +2,7 @@
 title: "The Frequency Upgrade"
 slug: "frequency-upgrade"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">
@@ -15,26 +16,18 @@ author: "Elle Vida"
 <p class="freq-tagline-sub">This is where that changes.</p>
 </div>
 
-<div class="freq-intro">
+<div class="freq-intro freq-intro-clean">
 <p>There is a frequency your nervous system reaches only when it stops optimising. Most people have felt it once — in the shower, on a long drive, in the three seconds before falling asleep. That feeling of <em>everything just clicked</em> is not luck.</p>
 <p>It is your brain operating at its actual capacity.</p>
 <p>The question is why you only visit that state by accident.</p>
 </div>
 
-<div class="freq-product">
-<span class="freq-product-badge">Available Now · Early Calibration</span>
+<section class="freq-product freq-product-clean">
+<p class="freq-product-eyebrow">Available now · Early calibration</p>
 <h2 class="freq-section-title">The Frequency Field Test</h2>
-<p class="freq-product-lead">A 9-page workbook to identify which cognitive frequency you're operating on — three body-based field tests, a self-assessment, and a seven-day calibration log. No app. No woo. Just your nervous system reporting what your mind forgot how to read.</p>
-<ul class="freq-product-features">
-<li>The Four Channels — Beta, Alpha, Theta, Alpha Prime</li>
-<li>Three field tests you can run in under five minutes</li>
-<li>Seven-day calibration log</li>
-<li>Instant PDF download</li>
-</ul>
-<p class="freq-product-price">$19</p>
-<a href="https://sparkleboxblog.gumroad.com/l/frequency-field-test" class="freq-product-btn gumroad-button" data-gumroad-overlay-checkout="true">Get the Workbook →</a>
-<p class="freq-product-note">For the ones who noticed early — before the crowd catches on.</p>
-</div>
+<p class="freq-product-lead">A 9-page workbook — three body-based field tests, a self-assessment, and a seven-day log. No app. No woo.</p>
+<a href="https://sparkleboxblog.gumroad.com/l/frequency-field-test" class="freq-product-btn gumroad-button" data-gumroad-overlay-checkout="true">Get the Workbook · $19 →</a>
+</section>
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 
@@ -83,11 +76,10 @@ author: "Elle Vida"
 
 <hr class="freq-divider">
 
-<div class="freq-mechanism">
+<div class="freq-mechanism freq-mechanism-clean">
 <h2 class="freq-section-title">This Is Not Metaphor</h2>
-<p>Most approaches to "raising your frequency" treat it as poetry. Feel better. Think positive. Align your energy.</p>
-<p>But frequency has a <strong>deterministic structure</strong>. The brain's oscillation patterns are measurable, reproducible, and — critically — they can be mathematically described.</p>
-<p>What if clarity could be <em>compiled</em> — not hoped for, not meditated into, but structurally generated using the same mathematics that prevents repetition and forces novelty?</p>
+<p>Most approaches treat frequency as poetry. Feel better. Think positive. Align your energy.</p>
+<p>But frequency has a <strong>deterministic structure</strong>. The brain's oscillation patterns are measurable, reproducible, and mathematically describable.</p>
 <p class="freq-hint">There is a system behind this. And it is already running.</p>
 </div>
 

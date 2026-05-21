@@ -2,6 +2,7 @@
 title: "Spiral II — The Mechanism"
 slug: "frequency-upgrade/spiral-2"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">

@@ -20,63 +20,64 @@ theme = "PaperMod"
   category = "categories"
   tag = "tags"
 
-# Menu - Streamlined & Strategic
+# Menu — Main bar (1–5) + dropdown (6+)
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
-  
-  [[menu.main]]
-    name = "Frequency Upgrade"
-    url = "/frequency-upgrade/"
-    weight = 2
-  
-  [[menu.main]]
-    name = "Elle's Oracle"
-    url = "https://huggingface.co/spaces/FutureHAi/thedrift#elles-oracle"
-    weight = 3
-  
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 4
-  
-  [[menu.main]]
-    name = "The Drift"
-    url = "https://huggingface.co/spaces/FutureHAi/thedrift"
-    weight = 5
-  
-  [[menu.main]]
-    name = "Dream Portals"
-    url = "/the-dreamtoolkit/"
-    weight = 6
-  
-  [[menu.main]]
-    name = "Ancient Wisdom"
-    url = "/categories/mystical-wisdom-series/"
-    weight = 7
-  
+
   [[menu.main]]
     name = "Musebox"
     url = "/musebox-dreams/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Frequency Upgrade"
+    url = "/frequency-upgrade/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Bazaar"
+    url = "/the-sparkle-bazaar/"
+    weight = 5
+
+  # Tools & more (dropdown)
+  [[menu.main]]
+    name = "The Drift & Oracle"
+    url = "https://huggingface.co/spaces/FutureHAi/thedrift"
+    weight = 6
+
+  [[menu.main]]
+    name = "Constellation Compiler"
+    url = "https://constellationcompiler.art/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Dream Portals"
+    url = "/the-dreamtoolkit/"
     weight = 8
-  
+
   [[menu.main]]
     name = "Tarot"
     url = "https://sparklebox-tarot.streamlit.app/"
     weight = 9
-  
+
   [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Ancient Wisdom"
+    url = "/categories/mystical-wisdom-series/"
     weight = 10
-  
+
   [[menu.main]]
     name = "Search"
     url = "/search/"
     weight = 11
-  
+
   [[menu.main]]
     name = "Contact"
     url = "/contact/"

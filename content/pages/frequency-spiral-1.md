@@ -2,6 +2,7 @@
 title: "Spiral I — The Opening"
 slug: "frequency-upgrade/spiral-1"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">

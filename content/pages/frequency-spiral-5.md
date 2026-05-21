@@ -2,6 +2,7 @@
 title: "Spiral V — Convergence"
 slug: "frequency-upgrade/spiral-5"
 author: "Elle Vida"
+layout: landing
 ---
 
 <div class="freq-page">

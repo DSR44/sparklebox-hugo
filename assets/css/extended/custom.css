@@ -2704,6 +2704,157 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     font-style: italic;
 }
 
+/* Landing pages — no blog chrome */
+.landing-page {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+}
+
+.landing-content {
+    width: 100%;
+    max-width: none;
+    padding: 0;
+}
+
+.landing-content > .post-content,
+.landing-page .post-content {
+    margin: 0;
+    padding: 0;
+}
+
+main:has(.landing-page) .post-single,
+main:has(.landing-page) {
+    max-width: 100%;
+}
+
+main:has(.landing-page) article {
+    max-width: 100%;
+}
+
+/* Musebox + Bazaar menu accents */
+.musebox-link span,
+.bazaar-link span {
+    font-family: 'Cinzel', serif;
+}
+
+.bazaar-link span::before {
+    color: #c084fc;
+}
+
+/* Frequency page — cleaner, less boxy */
+.freq-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 1.25rem 3rem;
+}
+
+.freq-intro-clean {
+    padding: 0 0 2rem;
+    margin-bottom: 0;
+}
+
+.freq-product-clean {
+    text-align: center;
+    padding: 2rem 0 2.5rem;
+    margin: 0 0 1rem;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-top: 1px solid rgba(99, 102, 241, 0.2);
+    border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+}
+
+.freq-product-eyebrow {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.65rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #818cf8;
+    margin-bottom: 0.75rem;
+}
+
+.freq-mechanism-clean {
+    text-align: center;
+    max-width: 580px;
+    margin: 0 auto;
+    padding: 0 0 1rem;
+}
+
+.freq-mechanism-clean p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: rgba(203, 213, 225, 0.85);
+}
+
+.freq-section-title {
+    color: #c7d2fe;
+    background: none;
+    -webkit-text-fill-color: #c7d2fe;
+    font-size: 1.45rem;
+}
+
+.freq-title {
+    color: #e0e7ff;
+    background: none;
+    -webkit-text-fill-color: #e0e7ff;
+}
+
+.freq-tagline-sub {
+    color: #818cf8;
+    background: none;
+    -webkit-text-fill-color: #818cf8;
+}
+
+.freq-level {
+    padding: 1.25rem 0;
+    margin-bottom: 0;
+    border: none;
+    border-bottom: 1px solid rgba(99, 102, 241, 0.12);
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+}
+
+.freq-level:last-child {
+    border-bottom: none;
+}
+
+.freq-level:hover {
+    box-shadow: none;
+    border-color: rgba(99, 102, 241, 0.12);
+}
+
+.freq-transmission-card {
+    background: rgba(15, 23, 42, 0.35);
+    border: 1px solid rgba(99, 102, 241, 0.15);
+}
+
+.freq-cta {
+    padding: 2rem 0 0;
+}
+
+.sb-store {
+    padding: 2rem 1.25rem 3rem;
+}
+
+.sb-store-card {
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    background: rgba(15, 23, 42, 0.35);
+}
+
+.sb-store-card-featured {
+    box-shadow: none;
+}
+
+.sb-store-title {
+    color: #e0e7ff;
+    background: none;
+    -webkit-text-fill-color: #e0e7ff;
+}
+
 /* Homepage Teaser */
 .freq-homepage-hero {
     text-align: center;

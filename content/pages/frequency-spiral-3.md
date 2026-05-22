@@ -58,14 +58,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/there-is-a-structure-behind-every-frequency-shift-and-it-is-the-opposite-of-what-the-self-help-industry-sells/" class="freq-post-card">
 <span class="freq-post-number">15</span>
 <div class="freq-post-info">
 <h3>There Is a Structure Behind Every Frequency Shift</h3>
 <p>And it is the opposite of what the self-help industry sells.</p>
 </div>
-<span class="freq-post-tag">Compiling</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 </div>
 

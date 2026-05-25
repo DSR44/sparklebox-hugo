@@ -22,14 +22,14 @@ layout: landing
 
 <div class="freq-post-list">
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/you-will-know-the-upgrade-happened-when-these-five-things-quietly-change/" class="freq-post-card">
 <span class="freq-post-number">16</span>
 <div class="freq-post-info">
 <h3>You Will Know the Upgrade Happened When These Five Things Quietly Change</h3>
 <p>The shift does not announce itself. It reorganises.</p>
 </div>
-<span class="freq-post-tag">Calibrating</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">17</span>

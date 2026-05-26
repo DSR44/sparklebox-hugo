@@ -18,7 +18,7 @@ Sparklebox is a **consciousness & perception architecture** blog — not a lifes
 ## Supporting series
 
 - [Daily Affirmations](/categories/daily-affirmations/) — homepage transmissions (body-first language)
-- [Dreamweaver's Tales](/categories/dream-and-muse-tools/) — narrative dream essays (pillar: Dream and Muse Tools)
+- [Musebox Dreams](/musebox-dreams/) · [Dream Toolkit](/the-dreamtoolkit/) — live interactive tools (pillar: Dream and Muse Tools)
 - [Ancient Wisdom](/categories/ancient-wisdom/) — cross-cultural inner maps
 - [Transmutational Alchemy](/categories/transmutational-alchemy/) — shadow and initiation work
 

@@ -4,7 +4,7 @@ date: 2025-07-13T14:19:00+0000
 
 slug: "base-class-chapter2"
 categories:
-  - "Dream and Muse Tools"
+  - "The Sparklebox Method"
 tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"

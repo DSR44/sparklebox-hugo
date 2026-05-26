@@ -38,7 +38,7 @@
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
       <h2>{{ .Title }}</h2>
       {{- if ne (.Param "hideSummary") true }}
-      <p>{{ .Summary | plainify | truncate 120 }}</p>
+      <p>{{ with .Description }}{{ . | plainify | truncate 120 }}{{ else }}{{ .Summary | plainify | truncate 120 }}{{ end }}</p>
       {{- end }}
       <span class="sb-post-card__cta">Read transmission →</span>
     </div>

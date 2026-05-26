@@ -33,6 +33,20 @@ body.sb-portal {
   text-align: center;
 }
 
+body.sb-portal a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+body.sb-portal a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+body.sb-portal a::after {
+  display: none !important;
+}
+
 /* Per-portal accent (element tint, not pink) */
 .sb-portal--ember { --portal-accent: #fb923c; --portal-accent-soft: rgba(251, 146, 60, 0.12); }
 .sb-portal--rose { --portal-accent: #22d3ee; --portal-accent-soft: rgba(34, 211, 238, 0.12); }
@@ -126,6 +140,7 @@ body.sb-portal {
   padding: 1.75rem 1.5rem;
   margin: 2rem auto;
   max-width: 800px;
+  width: calc(100% - 0.5rem);
   box-shadow: 0 0 40px rgba(34, 211, 238, 0.06);
 }
 
@@ -147,10 +162,12 @@ body.sb-portal {
 
 .archetype-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
   gap: 1.25rem;
   margin: 2.5rem auto;
-  max-width: 960px;
+  max-width: 900px;
+  justify-items: stretch;
+  width: 100%;
 }
 
 .archetype-card {

@@ -12,7 +12,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-brand-hero__copy">
 <p class="sb-brand-hero__eyebrow">Elle Vida · Sparklebox</p>
 <h1 class="sb-brand-hero__title">Perception is Creation</h1>
-<p class="sb-brand-hero__tagline">Ancient wisdom through a futuristic lens — AI muse, dream portals, novel theory, and the Frequency Upgrade. Mystical, automated, exclusive.</p>
+<p class="sb-brand-hero__tagline">How you see shapes what you live. A digital sanctuary for dream portals, daily muse transmissions, and the Frequency Upgrade.</p>
 <div class="sb-brand-hero__actions">
 <a class="sb-btn sb-btn--primary" href="/the-dreamtoolkit/">Enter Dream Portals</a>
 <a class="sb-btn" href="/frequency-upgrade/">Frequency Upgrade</a>

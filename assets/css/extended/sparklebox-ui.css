@@ -1788,6 +1788,7 @@ body.list main {
 .post-content:has(.sb-error),
 .post-content:has(.sb-musebox),
 .post-content:has(.sb-contact),
+.post-content:has(.sb-dreamtoolkit),
 .post-content:has(.freq-page) {
   background: transparent !important;
   border: none !important;
@@ -1859,10 +1860,10 @@ body.list main {
   -webkit-text-fill-color: var(--sb-neon-cyan) !important;
 }
 
-.post-content a,
-.entry-content a,
-.sb-prose a,
-.post-content > div a {
+.post-content a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile):not(.sb-post-card__link),
+.entry-content a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile),
+.sb-prose a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile),
+.post-content > div a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile) {
   color: var(--sb-neon-cyan) !important;
   -webkit-text-fill-color: var(--sb-neon-cyan) !important;
   font-weight: 600 !important;
@@ -1870,9 +1871,9 @@ body.list main {
   border-bottom: 1px solid rgba(34, 211, 238, 0.35) !important;
 }
 
-.post-content a:hover,
-.entry-content a:hover,
-.sb-prose a:hover {
+.post-content a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile):not(.sb-post-card__link):hover,
+.entry-content a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile):hover,
+.sb-prose a:not(.sb-btn):not(.sb-play-card):not(.sb-portal-tile):hover {
   color: #67e8f9 !important;
   -webkit-text-fill-color: #67e8f9 !important;
   border-bottom-color: var(--sb-neon-cyan) !important;
@@ -1964,10 +1965,151 @@ blockquote p,
 
 .sb-portals-footer {
   text-align: center;
-  margin-top: 1.5rem;
+  margin-top: 1.75rem;
   font-size: 0.85rem;
   color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
   letter-spacing: 0.06em;
+}
+
+/* === Dream Toolkit landing — centered bento, no link underline bleed === */
+.post-single:has(.sb-dreamtoolkit) .sb-post-header {
+  display: none !important;
+}
+
+.post-single:has(.sb-dreamtoolkit) {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+}
+
+.sb-dreamtoolkit {
+  margin: 0 auto 2rem !important;
+  width: 100%;
+}
+
+.sb-dreamtoolkit__header {
+  text-align: center;
+  margin-bottom: 2rem !important;
+}
+
+.sb-dreamtoolkit__header p {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.sb-dreamtoolkit__title {
+  font-family: var(--sb-font-display) !important;
+  font-size: clamp(1.75rem, 4vw, 2.25rem) !important;
+  font-weight: 600 !important;
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  background: none !important;
+  margin: 0.35rem 0 0.65rem !important;
+  line-height: 1.15 !important;
+}
+
+.sb-play-grid--portals {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
+  width: 100%;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  .sb-play-grid--portals {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 820px;
+  }
+}
+
+@media (min-width: 960px) {
+  .sb-play-grid--portals {
+    grid-template-columns: repeat(4, 1fr);
+    max-width: 100%;
+  }
+}
+
+.sb-dreamtoolkit .sb-play-card,
+.sb-portal-tile {
+  animation: none !important;
+  width: 100%;
+  text-align: left;
+}
+
+.sb-dreamtoolkit .sb-play-card--wide {
+  grid-column: auto;
+}
+
+/* Card links are NOT text links — strip underline / cyan link styling */
+a.sb-play-card,
+a.sb-portal-tile,
+.post-content a.sb-play-card,
+.post-content a.sb-portal-tile,
+.sb-playground a.sb-play-card,
+.sb-dreamtoolkit a.sb-play-card {
+  text-decoration: none !important;
+  border: 1px solid rgba(99, 102, 241, 0.28) !important;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.28) !important;
+  color: inherit !important;
+  -webkit-text-fill-color: inherit !important;
+  font-weight: inherit !important;
+}
+
+a.sb-play-card:hover,
+a.sb-portal-tile:hover,
+.post-content a.sb-play-card:hover,
+.post-content a.sb-portal-tile:hover {
+  border: 1px solid rgba(34, 211, 238, 0.55) !important;
+  border-bottom: 1px solid rgba(34, 211, 238, 0.55) !important;
+  text-decoration: none !important;
+}
+
+a.sb-play-card *,
+.post-content a.sb-play-card *,
+.post-content a.sb-portal-tile * {
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
+.post-content a.sb-play-card .sb-play-card__label,
+a.sb-play-card .sb-play-card__label {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  font-weight: 600 !important;
+}
+
+.post-content a.sb-play-card h3,
+a.sb-play-card h3 {
+  color: #f1f5f9 !important;
+  -webkit-text-fill-color: #f1f5f9 !important;
+  font-weight: 600 !important;
+}
+
+.post-content a.sb-play-card p,
+a.sb-play-card p {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  font-weight: 400 !important;
+}
+
+.post-content a.sb-play-card .sb-play-card__chev,
+a.sb-play-card .sb-play-card__chev {
+  color: rgba(34, 211, 238, 0.45) !important;
+  -webkit-text-fill-color: rgba(34, 211, 238, 0.45) !important;
+}
+
+.post-content a.sb-play-card:hover .sb-play-card__chev {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+}
+
+/* Homepage + explore hub play cards — same fix */
+.post-content a.sb-play-card,
+.sb-home-wrap a.sb-play-card {
+  border-bottom: none !important;
 }
 
 .sb-play-card__icon[class*="sb-portal-icon"] {

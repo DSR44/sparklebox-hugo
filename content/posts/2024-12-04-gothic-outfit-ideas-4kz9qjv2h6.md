@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/goddess-7.jpg"
   alt: "13 Gothic Outfit Ideas That Blend Edgy with Western Charm (Get Inspired by #5!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "gothic"
+  - "outfit"
+  - "ideas"
+  - "blend"
+  - "edgy"
 ---Step into a hauntingly beautiful world where gothic elements intertwine with the rugged charm of western wear. 
 
 This unique fusion creates outfits that are not only edgy but also rich in character, perfect for those who dare to express their individuality. 

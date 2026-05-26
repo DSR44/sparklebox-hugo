@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/beauty-bathroom-4.jpg"
   alt: "21 Divine Self-Care Rituals to Channel Your Inner Goddess (You Won't Believe #11!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "divine"
+  - "self"
+  - "care"
+  - "rituals"
+  - "channel"
 ---In a world that often demands more than we can give, the importance of self-care cannot be overstated. 
 
 This listicle invites you to embrace your inner goddess with 21 divine self-care rituals designed to elevate your beauty and nurture your spirit. 

@@ -14,7 +14,7 @@ tags:
 draft: false
 aliases:
   - "/when-the-world-feels-heavy-let-the-whimsy-clouds-hold-you/"
-description: "Whimsy Clouds Affirmations are gentle whispers you can return to anytime you feel heavy."
+description: "When the World Feels Heavy, Let the Whimsy Clouds Hold You — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "dream coded affirmations"
   - "dreamcore wellness"

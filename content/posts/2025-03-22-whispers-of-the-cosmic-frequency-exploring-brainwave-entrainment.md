@@ -15,7 +15,7 @@ tags:
 draft: false
 aliases:
   - "/whispers-of-the-cosmic-frequency-exploring-brainwave-entrainment/"
-description: "Whispers of the Cosmic Frequency: Exploring Brainwave Entrainment. Close your eyes for a moment and picture this."
+description: "Whispers of the Cosmic Frequency: Exploring Brainwave Entrainment. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the $19…"
 keywords:
   - "brainwave entrainment"
   - "wellness"

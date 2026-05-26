@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-52.jpg"
   alt: "12 Fashion Styles Inspired by Jazz Culture (You Won't Believe #5!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "fashion"
+  - "styles"
+  - "inspired"
+  - "jazz"
+  - "culture"
 ---Step back into the vibrant world of jazz culture, where music and fashion intertwine to create iconic looks that have stood the test of time.
 
 This listicle explores 12 stunning fashion styles that are heavily influenced by the jazz renaissance, showcasing the unique flair, elegance, and audacity that defined an era. From sharp suits to flapper dresses, these styles are sure to inspire your next wardrobe refresh.

@@ -12,7 +12,7 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation/"
-description: "Radiant Self: 20 Affirmations | SparkleBox.blog Radiant Self: 20 Affirmations to Illuminate Your Path"
+description: "🌙✨ A Whimsy of Light: Today’s Sparkle Affirmation — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "dream coded affirmations"
   - "whimsical affirmations"

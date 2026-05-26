@@ -15,6 +15,12 @@ cover:
   image: "/generic-post-images/aphrodite_beauty.png"
   alt: "✨📦 Manifestation Masterpieces: A Sparklebox of Divine Affirmations"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "manifestation"
+  - "masterpieces"
+  - "divine"
+  - "affirmations"
+  - "sparklebox"
 ---*🕊️ Where your desires become brushstrokes on the canvas of destiny.
 🌐 by **El***le Vida
 

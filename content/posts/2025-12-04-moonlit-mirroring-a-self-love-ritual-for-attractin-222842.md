@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget."
+description: "Moonlit Mirroring: A Self-Love Ritual for Attracting True Love — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/mystical-5.jpg"
   alt: "Moonlit Mirroring: A Self-Love Ritual for Attracting True Love"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The way it casts a silver glow on the world, illuminating the shadows and whispering secrets to those who listen. It's a call to return to myself, to the inner sanctuary where love and truth reside. For too long, I've been searching for love outside, seeking validation in the eyes of others, only to find that the more I look, the more elusive it becomes. The loneliness that follows is a hollow ache, a sense of disconnection from the very essence of myself.
+---The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The way it casts a silver glow on the world, illuminating the shadows and whispering secrets to those who listen. It's a call to return to myself, to the inner sanctuary where love and truth reside. For too long, I've been searching for love outside, seeking validation in the eyes of others, only to find that the more I look, the more elusive it becomes. The loneliness that follows is a hollow ache, a sense of disconnection from the very essence of myself.
 
 In the stillness of this moonlit night, I'm reminded of the radical truth that self-love is the ultimate homecoming. It's the whispered promise that I am enough, that I am worthy of love and acceptance, not because of what I do or who I am to others, but simply because I exist. This truth is not something I learned in a book or a workshop, but in the quiet moments of solitude, when the world's noise fades away and I'm left with the gentle hum of my own heartbeat. It's a reminder that I've been carrying within me all along, a spark of light that flickers with every breath, waiting to be fanned into a flame.
 

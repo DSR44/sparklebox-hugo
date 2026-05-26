@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-22.jpg"
   alt: "10 Incredible Natural Herbs That Will Transform Your Health (You Won't Believe #5!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "incredible"
+  - "natural"
+  - "herbs"
+  - "transform"
+  - "health"
 ---In a world where health trends come and go, natural herbs stand the test of time, offering countless benefits for our bodies and minds.
 
 From boosting immunity to enhancing mental clarity, these powerhouses of nature are a staple for anyone seeking holistic health solutions. 

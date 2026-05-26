@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/mystical-2.jpg"
   alt: "10 Easy and Budget-Friendly Protein Smoothies You Can Make in 5 Minutes!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "easy"
+  - "budget"
+  - "friendly"
+  - "protein"
+  - "smoothies"
 ---In a world where time is of the essence, maintaining a healthy diet can feel like a daunting task. 
 
 But what if we told you that you could whip up delicious, protein-packed smoothies in just five minutes? 

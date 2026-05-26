@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Your nervous system is already trying to do this without you."
+description: "Your nervous system already knows how to make this shift — the problem is everything around you that prevents it. Part of The Frequency Upgrade — Elle…"
 cover:
   image: "/pinterest-images/8224401471_theta-state-frequency-design.png"
   alt: "Your nervous system already knows how to make this shift — the problem is everything around you that prevents it"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-Your nervous system is already trying to do this without you.
+---Your nervous system is already trying to do this without you.
 
 The first truth: every mammalian body is wired to return to coherence. Heart-rate variability climbs back toward baseline after the threat passes. Cortisol metabolises. The vagus nerve fans open like a morning-glory blossom, signalling safety to every organ. This is not optimism; it is mammalian design. Your cells remember the instructions.
 

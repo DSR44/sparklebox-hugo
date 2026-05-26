@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-50.jpg"
   alt: "20 Protein-Packed International Dishes You Need to Try Right Now!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "protein"
+  - "packed"
+  - "international"
+  - "dishes"
+  - "try"
 ---Travel the world through your taste buds with these 20 protein-rich meals that bring global flavors straight to your kitchen. 
 
 From the vibrant spices of Indian cuisine to the hearty comfort of Mediterranean dishes, each recipe is a delicious way to boost your protein intake while exploring new tastes. 

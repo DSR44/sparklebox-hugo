@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-14.jpg"
   alt: "15 Fusion Tacos That Will Make You Rethink Taco Night Forever!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "fusion"
+  - "tacos"
+  - "make"
+  - "rethink"
+  - "taco"
 ---Taco night just got a revolutionary makeover! 
 
 Imagine the delightful crunch of a taco shell filled with ingredients that dance between cultures, bringing together the best of Mexican and Asian cuisine. 

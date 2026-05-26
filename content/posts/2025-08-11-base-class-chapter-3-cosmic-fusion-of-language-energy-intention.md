@@ -9,7 +9,7 @@ categories:
 tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
-description: "Language is more than a tool for communication — it is the architecture of reality. Each word shapes the energy around us, setting intention into motion like ripples through space. When we speak with awareness, we are not just talking; we are sculpting the unseen."
+description: "Base Class Chapter 3 — Cosmic Fusion of Language, Energy & Intention. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
 aliases:
   - "/base-class-chapter-3-cosmic-fusion-of-language-energy-intention/"

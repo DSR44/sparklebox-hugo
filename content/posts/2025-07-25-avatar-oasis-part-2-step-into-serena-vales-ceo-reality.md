@@ -11,7 +11,7 @@ tags:
   - "identity work"
   - "self concept"
   - "TheDreamToolkit"
-description: "Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow"
+description: "Avatar Oasis – Part 2: Step Into Serena Vale’s CEO Reality — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/avatar-oasis-part-2-step-into-serena-vales-ceo-reality/"

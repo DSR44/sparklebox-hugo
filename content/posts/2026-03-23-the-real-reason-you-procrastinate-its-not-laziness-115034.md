@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "There's a particular kind of exhaustion that comes from procrastination."
+description: "The real reason you procrastinate (it's not laziness) — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_2_04cc1f02_1013.jpg"
   alt: "The real reason you procrastinate (it's not laziness)"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-There's a particular kind of exhaustion that comes from procrastination. It's not the exhaustion of having done too much, but the exhaustion of having done nothing at all. The weight of unfinished tasks, unmet deadlines, and unfulfilled potential can be crushing. And yet, we often find ourselves stuck in this cycle, unable to break free.
+---There's a particular kind of exhaustion that comes from procrastination. It's not the exhaustion of having done too much, but the exhaustion of having done nothing at all. The weight of unfinished tasks, unmet deadlines, and unfulfilled potential can be crushing. And yet, we often find ourselves stuck in this cycle, unable to break free.
 
 If you're reading this, you're likely no stranger to procrastination. You know the feeling of being paralyzed by fear, doubt, or simply a lack of motivation. You know the guilt and shame that follows, the self-criticism and the promises to "do better next time." But despite your best intentions, you find yourself repeating the same patterns, stuck in a cycle of procrastination and self-doubt.
 

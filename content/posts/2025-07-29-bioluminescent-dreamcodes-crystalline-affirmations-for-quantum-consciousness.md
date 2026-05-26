@@ -11,7 +11,7 @@ tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"
   - "TheDreamToolkit"
-description: "These are not affirmations—they are synaptic fire. Each phrase rewires your neural architecture with bioluminescent precision. You will feel this in your cells before you understand it with your mind. Execute without hesitation."
+description: "Bioluminescent Dreamcodes: Crystalline Affirmations for Quantum Consciousness. Perception is Creation — Elle Vida on perceptive authorship, not…"
 draft: false
 aliases:
   - "/bioluminescent-dreamcodes-crystalline-affirmations-for-quantum-consciousness/"

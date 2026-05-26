@@ -9,7 +9,7 @@ categories:
 tags:
   - "Dream Coded Affirmations"
   - "TheDreamToolkit"
-description: "In the hush between heartbeats, stardust remembers it is light. Every breath becomes a bridge between earth and sky — a whispered alignment of body, spirit, and infinite possibility."
+description: "Sacred Transformation — Mysteries in Whispered Alignment — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/sacred-transformation-mysteries-in-whispered-alignment/"

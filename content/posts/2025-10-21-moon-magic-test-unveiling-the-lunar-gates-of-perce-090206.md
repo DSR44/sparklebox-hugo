@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "In the secret hours of the night, when the moon casts its silvery glow upon the earth, the boundaries between reality and myth blur."
+description: "Moon Magic Test: Unveiling the Lunar Gates of Perception — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/leonardo-15.jpg"
   alt: "Moon Magic Test: Unveiling the Lunar Gates of Perception"
@@ -20,8 +20,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
----
-In the secret hours of the night, when the moon casts its silvery glow upon the earth, the boundaries between reality and myth blur. It is during these moments that the lunar gates of perception swing open, inviting us to step into the mystical realm of the moon. Here, the rational and the irrational, the logical and the intuitive, converge in a dance of contradictions. As we embark on this journey, we are called to surrender our attachment to the familiar and embrace the mystery that lies at the heart of the moon's magic.
+---In the secret hours of the night, when the moon casts its silvery glow upon the earth, the boundaries between reality and myth blur. It is during these moments that the lunar gates of perception swing open, inviting us to step into the mystical realm of the moon. Here, the rational and the irrational, the logical and the intuitive, converge in a dance of contradictions. As we embark on this journey, we are called to surrender our attachment to the familiar and embrace the mystery that lies at the heart of the moon's magic.
 
 Imagine yourself standing at the edge of a forest, with the moon hovering above like a ghostly lantern. The trees, like sentinels of the night, stand guard over the secrets that lie within. As you breathe in the scent of damp earth and decaying leaves, you begin to feel the pulse of the forest, a rhythm that echoes the beat of your own heart. The moon's light filters through the canopy above, casting dappled shadows on the ground below. It is here, in this liminal space, that we find the threshold to the moon's mystical realm.
 

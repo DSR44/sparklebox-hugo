@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_3_f826d71b_1013.jpg"
   alt: "21 Gorgeous Coffin Nail Designs Perfect for Your Winter Wonderland!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "gorgeous"
+  - "coffin"
+  - "nail"
+  - "designs"
+  - "perfect"
 ---Winter is the season of cozy vibes, festive cheer, and stunning nail designs that can elevate your style. 
 
 Coffin nails, known for their elegant shape and versatile designs, are the perfect canvas to showcase your creativity during this magical time of year. 

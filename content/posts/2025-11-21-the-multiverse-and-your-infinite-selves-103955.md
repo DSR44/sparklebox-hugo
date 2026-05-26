@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "In the vast expanse of the multiverse, a tapestry of infinite possibilities unfolds."
+description: "The multiverse and your infinite selves. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_cosmic2_1013.png"
   alt: "The multiverse and your infinite selves"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-In the vast expanse of the multiverse, a tapestry of infinite possibilities unfolds. It's a realm where every decision, every choice, and every thought creates a new reality, a new dimension. As I sit in stillness, I am reminded of the ancient Tibetan teachings that speak of the interconnectedness of all things. The multiverse, a concept that was once considered the realm of science fiction, is now a widely accepted theory in the scientific community. But what does it mean for us, as individuals, to exist within this vast multiverse? 
+---In the vast expanse of the multiverse, a tapestry of infinite possibilities unfolds. It's a realm where every decision, every choice, and every thought creates a new reality, a new dimension. As I sit in stillness, I am reminded of the ancient Tibetan teachings that speak of the interconnectedness of all things. The multiverse, a concept that was once considered the realm of science fiction, is now a widely accepted theory in the scientific community. But what does it mean for us, as individuals, to exist within this vast multiverse? 
 
 It's not just about the idea of parallel universes; it's about the infinite selves that exist within us. The selves that represent every possibility, every choice, and every decision. It's a concept that can be both exhilarating and overwhelming. As I delve deeper into the mysteries of the multiverse, I am drawn to the teachings of Neville Goddard, who spoke of the power of assumption. He taught that our assumptions, our deeply held beliefs, have the power to shape our reality. But what if our assumptions are limited by our current understanding of the world? What if we are capable of assuming more, of being more, than we ever thought possible?
 

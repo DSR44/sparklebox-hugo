@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-7.jpg"
   alt: "12 Minimalist Black T Shirts with Trendy Prints for a Sleek and Chic Look!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "minimalist"
+  - "black"
+  - "shirts"
+  - "trendy"
+  - "prints"
 ---In the world of fashion, less is often more, and minimalist black t-shirts with trendy prints embody this philosophy perfectly. 
 
 These versatile pieces can effortlessly elevate your wardrobe, making them essential for anyone aiming for a sleek, modern aesthetic. 

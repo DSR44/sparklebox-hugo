@@ -13,6 +13,12 @@ cover:
   image: "/pinterest-images/8224400017_cognitive-upgrade-frequency-design.png"
   alt: "22 Castlecore Decor Ideas That'll Transform Your Home into a Fairytale Castle!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "castlecore"
+  - "decor"
+  - "ideas"
+  - "transform"
+  - "home"
 ---Step into a realm of enchantment with these captivating castlecore decor ideas that will turn your home into a magnificent fairytale castle. 
 
 Inspired by medieval aesthetics, these trends embrace the charm of ancient castles and regal elegance, inviting you to weave a tapestry of fantasy within your living space. 

@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "There is a tightness in your throat right now. Not pain. Just pressure. A quiet constriction that appears every time someone says \"you just need...\""
+description: "There is a structure behind every frequency shift — and it is the opposite of what the self-help industry sells. Part of The Frequency Upgrade — Elle Vida…"
 cover:
   image: "/pinterest-images/8224422564_sacred-geometry-geometric-blueprint.png"
   alt: "There is a structure behind every frequency shift — and it is the opposite of what the self-help industry sells"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-There is a tightness in your throat right now. Not pain. Just pressure. A quiet constriction that appears every time someone says "you just need to believe it" or "raise your frequency" or "change your mindset." That feeling is not failure. It is intelligence.
+---There is a tightness in your throat right now. Not pain. Just pressure. A quiet constriction that appears every time someone says "you just need to believe it" or "raise your frequency" or "change your mindset." That feeling is not failure. It is intelligence.
 
 The self-help industry has sold you a map that goes backwards. They tell you to feel better first, then reality will change. They say the frequency shift comes from positive thinking, from vision boards, from waking up at 5am to journal your desires. But your body knows something they never mention: this approach creates a loop of self-betrayal that keeps the exact frequency you're trying to escape running in the background.
 

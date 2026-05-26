@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit in stillness, surrounded by the whispers of the universe, I am reminded of the hidden realities that lie beyond the veil of our everyday…"
+description: "The implicate order: Bohm's hidden reality. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/leonardo-30.jpg"
   alt: "The implicate order: Bohm's hidden reality"
@@ -45,9 +45,7 @@ As we come to the end of this journey into the implicate order, I invite you to 
 And so, dear friends, as we close this chapter on the implicate order, I invite you to continue the journey, to explore the depths of this mystical realm, and to embody the wisdom that lies within. It's not just about the destination, but about the journey itself, where every step, every breath, and every heartbeat is a chance to tap into the hidden patterns that underlie all of existence. May you walk in wonder, may you walk in awe, and may you always remember that the secrets of the universe lie within, waiting to be uncovered.
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 ✨ **Explore more from Sparklebox:**
 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide

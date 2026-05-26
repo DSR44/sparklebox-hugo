@@ -8,7 +8,7 @@ categories:
 tags:
   - "The Hidden Work"
   - "The Sparklebox Method™"
-description: "The journey of Sparklebox evolves. What began as poetic language and self-affirmation now transforms into something deeper — The Sparklebox Method of Mental Alchemy."
+description: "From Assumptions to Alchemy: The Evolution of Sparklebox — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords: ["Sparklebox Method", "mental alchemy", "perception", "Elle Vida", "consciousness"]
 draft: false
 aliases:

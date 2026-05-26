@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Remember when you could feel the difference between thinking and scrolling?"
+description: "How to tell which cognitive frequency you are operating at right now — without any technology. Part of The Frequency Upgrade — Elle Vida on cognitive…"
 cover:
   image: "/pinterest-images/8224401250_vesica-piscis-cognitive-clarity.png"
   alt: "How to tell which cognitive frequency you are operating at right now — without any technology"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-Remember when you could feel the difference between thinking and scrolling?  
+---Remember when you could feel the difference between thinking and scrolling?  
 That thin edge where your mind went from humming to clattering—like a radio dial slipping off station.  
 You noticed it once, then forgot to notice again.
 

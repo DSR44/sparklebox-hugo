@@ -12,7 +12,7 @@ tags:
 draft: false
 aliases:
   - "/snapspells-3-instant-mood-shifters-for-energy-clarity/"
-description: "SnapSpells are quick, magical shifts you can activate anytime."
+description: "SnapSpells: 3 Instant Mood Shifters for Energy & Clarity — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "snapspells"
   - "thedreamtoolkit"

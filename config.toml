@@ -98,6 +98,7 @@ theme = "PaperMod"
   homeTitle = "Sparklebox | Perception is Creation — Consciousness & Frequency"
   description = "Sparklebox by Elle Vida: perception architecture, frequency upgrade, and consciousness tools. Where perception becomes creation."
   author = "Elle Vida"
+  env = "production"
   hreflang = "en"
   keywords = ["perception", "consciousness", "frequency upgrade", "mental alchemy", "Elle Vida", "Sparklebox"]
   disableThemeToggle = true
@@ -113,7 +114,7 @@ theme = "PaperMod"
     width = 1200
     height = 630
 
-  images = ["/favicon-32x32.png"]
+  images = ["/images/sparklebox-og.png"]
   
   # PaperMod specific settings
   ShowReadingTime = false

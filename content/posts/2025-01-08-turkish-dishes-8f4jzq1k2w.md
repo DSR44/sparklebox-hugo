@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-6.jpg"
   alt: "15 Irresistible Turkish Dishes You Can Whip Up in Your Kitchen Today!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "irresistible"
+  - "turkish"
+  - "dishes"
+  - "whip"
+  - "kitchen"
 ---Turkish cuisine is a delightful tapestry of flavors, colors, and aromas that can transform your kitchen into a Mediterranean haven. 
 
 From the bustling bazaars of Istanbul to the tranquil shores of the Aegean, each dish tells a story of rich heritage and culinary tradition. 

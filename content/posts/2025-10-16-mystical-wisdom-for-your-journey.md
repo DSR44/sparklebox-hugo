@@ -11,7 +11,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "Mystical Wisdom for Your Journey - Vol. 2 - Deep mystical psychology and ancient wisdom"
+description: "Mystical Wisdom for Your Journey - Vol. 2. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/leonardo-50.jpg"
   alt: "Mystical Wisdom for Your Journey"
@@ -23,8 +23,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
----
-**The Weight of Forgetting: How Your Body Holds the Memories You've Tried to Bury**
+---**The Weight of Forgetting: How Your Body Holds the Memories You've Tried to Bury**
 
 Do you ever feel like you're carrying a weight that isn't yours to bear? A heaviness that settles in your chest, a fatigue that clings to your bones, a sense of disconnection from the world around you? It's as if your body is holding onto memories that your mind has tried to forget. And it's not just the big traumas, the ones that leave visible scars. It's the small, everyday betrayals, the whispered lies, the subtle erosions of your sense of self. Your body remembers what your mind has forgotten, and it's time to listen to its whispers.
 

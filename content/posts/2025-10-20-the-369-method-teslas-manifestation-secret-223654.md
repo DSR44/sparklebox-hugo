@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "As I sit here, surrounded by the quiet of the morning, I am reminded of the power of intention — and the mysterious ways in which our deepest desires can…"
+description: "The 369 Method: Tesla's Manifestation Secret. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/leonardo-32.jpg"
   alt: "The 369 Method: Tesla's Manifestation Secret"
@@ -50,9 +50,7 @@ To integrate the 369 method into your daily life, try the following practice:
 * Reflect on your experiences with the 369 method — how have your desires manifested, and what have you learned about yourself and the universe?
 
 By following this practice, you can tap into the power of the 369 method — and unlock the secrets of manifestation and creation. Remember, the universe is always responding to your intentions — and by aligning your thoughts and emotions with your deepest desires, you can bring about profound transformation and change. **Then so it is.**
-
 ---
-
 ✨ **Elle Vida | Sparklebox**
 
 *Explore more: [Dream Portals](/the-dreamtoolkit/) • [Musebox](/musebox-dreams/) • [Soundbox](/soundbox/)*

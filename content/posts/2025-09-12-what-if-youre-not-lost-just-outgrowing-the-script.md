@@ -8,7 +8,7 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
   - "spiritual wellness"
-description: "I spent years traveling the world searching for something — a feeling, a purpose, a truth. But it wasn’t until I stopped moving that I began to see clearly: the answers were never out there. They were always waiting in the quiet within."
+description: "What If You’re Not Lost — Just Outgrowing the Script — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/what-if-youre-not-lost-just-outgrowing-the-script/"

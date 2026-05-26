@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit beneath the silvery glow of the moon, I am reminded of the ancient wisdom that whispers through the night air: that we are not just beings, but…"
+description: "Moonlit Miracles: A 7-Night Affirmation Ritual for Empowered Self-Love. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 cover:
   image: "/generic-post-images/alchemy-alchemy_tarot_pfp_1013.png"
   alt: "Moonlit Miracles: A 7-Night Affirmation Ritual for Empowered Self-Love"
@@ -62,9 +62,7 @@ As we conclude our 7-night journey, I invite you to continue exploring the realm
 May the light of the moon guide you on your journey, and may you always remember the way of the heart, the way of love. May you trust your inner wisdom, and may you always listen to the whispers of your own heart. And when the doubts creep in, and the fears arise, may you remember that you are not alone – you are part of a community, a sisterhood, a circle of women who are on this journey with you. 
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 ✨ **Explore more from Sparklebox:**
 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide

@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/beauty-ritual-2.jpg"
   alt: "7 Books That Will Help You Find Your Life Purpose (Your Journey Starts Here!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "books"
+  - "help"
+  - "find"
+  - "life"
+  - "purpose"
 ---Are you feeling lost and yearning for direction in your life?
 
 Finding your purpose can feel like an overwhelming task, but the right books can illuminate your path and inspire you to take action.

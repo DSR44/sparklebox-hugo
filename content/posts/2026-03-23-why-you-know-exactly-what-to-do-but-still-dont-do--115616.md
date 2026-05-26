@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "I was standing in the grocery store checkout line when I felt it—that familiar tug between knowing and doing."
+description: "Why you know exactly what to do but still don't do it — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/leonardo-41.jpg"
   alt: "Why you know exactly what to do but still don't do it"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-I was standing in the grocery store checkout line when I felt it—that familiar tug between knowing and doing. The chocolate bar I'd promised myself I'd stop stress-eating sat right there at eye level, whispering its sweet surrender. My hand reached for it while my mind recited every reason not to. This dance again. This knowing better but not doing better.
+---I was standing in the grocery store checkout line when I felt it—that familiar tug between knowing and doing. The chocolate bar I'd promised myself I'd stop stress-eating sat right there at eye level, whispering its sweet surrender. My hand reached for it while my mind recited every reason not to. This dance again. This knowing better but not doing better.
 
 You've felt this too, haven't you? That peculiar ache of clarity without follow-through. The meditation app gathering digital dust while anxiety builds its nest in your chest. The phone number of someone you need to call burning in your contacts while guilt smolders quietly. The project that could change everything for you waiting in a folder labeled "someday."
 

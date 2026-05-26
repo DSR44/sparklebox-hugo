@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-6.jpg"
   alt: "13 DIY Natural Remedies for Anti-Aging That Are Easier Than You Think!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "diy"
+  - "natural"
+  - "remedies"
+  - "anti"
+  - "aging"
 ---Aging gracefully doesn't have to involve expensive creams or treatments. 
 
 With the rise of potent natural anti-aging discoveries in cosmetics, you can harness the power of nature right in your home. 

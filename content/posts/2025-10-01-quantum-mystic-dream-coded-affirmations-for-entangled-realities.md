@@ -10,7 +10,7 @@ tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"
   - "TheDreamToolkit"
-description: "Step into the quantum dreamscape with these five dream-coded affirmations. Designed to help you collapse probability clouds, traverse entangled realities, and align with your holofractal purpose, each affirmation is a shimmering gift to tune your inner frequency and manifest with intention."
+description: "Quantum Mystic: Dream-Coded Affirmations for Entangled Realities — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/quantum-mystic-dream-coded-affirmations-for-entangled-realities/"

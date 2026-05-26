@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-47.jpg"
   alt: "18 Sustainable Knits That Will Make You Look Good and Feel Even Better!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "sustainable"
+  - "knits"
+  - "make"
+  - "look"
+  - "good"
 ---Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
 
 These beautiful jumpers and suits not only elevate your wardrobe but also support ethical fashion and conscious living. 

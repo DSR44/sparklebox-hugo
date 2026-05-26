@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/alchemy-alchemy_mediation_soundbath_1013.jpg"
   alt: "10 Easy DIY Protein Bars You Can Make in Under 10 Minutes (Snack Smarter Now!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "easy"
+  - "diy"
+  - "protein"
+  - "bars"
+  - "make"
 ---Are you tired of searching for healthy snacks that fit your busy lifestyle? 
 
 Look no further! These 10 easy DIY protein bars are not only quick to make, but they also pack a powerful protein punch to fuel your day. 

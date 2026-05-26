@@ -8,7 +8,7 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in three days."
+description: "The Quiet Bankruptcy of Saying 'I Am Rich' While Checking Your Overdraft. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 cover:
   image: "/pinterest-images/8224693822_perception-creates-reality-mindset.png"
   alt: "The Quiet Bankruptcy of Saying 'I Am Rich' While Checking Your Overdraft"
@@ -20,7 +20,6 @@ keywords:
   - "healing"
   - "body wisdom"
 ---
-
 The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in three days. She doesn’t notice I can see her screen. I wonder if she’s praying or lying.
 
 ## When the Universe Starts to Feel Like a Collections Agency

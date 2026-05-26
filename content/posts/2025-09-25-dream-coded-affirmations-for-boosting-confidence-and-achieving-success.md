@@ -10,7 +10,7 @@ tags:
   - "Boosting Confidence"
   - "Dream Coded Affirmations"
   - "TheDreamToolkit"
-description: "Confidence is not a performance — it is a quiet knowing. These Dream Coded Affirmations are designed to rewire your mind, dissolve self-doubt, and anchor you into your true strength. Read them slowly, let them settle, and step into the unshakable confidence that has always been yours."
+description: "Dream Coded Affirmations for Boosting Confidence and Achieving Success. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
 aliases:
   - "/dream-coded-affirmations-for-boosting-confidence-and-achieving-success/"

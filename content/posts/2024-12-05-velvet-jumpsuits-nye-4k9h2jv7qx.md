@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/floating-castle-3.jpg"
   alt: "10 Stunning Velvet Jumpsuits for NYE That'll Make You Look Like a Goddess!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "stunning"
+  - "velvet"
+  - "jumpsuits"
+  - "nye"
+  - "make"
 ---As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
 
 These luxurious pieces not only exude elegance but also provide comfort, allowing you to dance the night away. 

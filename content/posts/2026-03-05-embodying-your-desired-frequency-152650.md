@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "Embodying your desired frequency is an act of tender rebellion."
+description: "Embodying your desired frequency. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the $19 Frequency Field Test workbook."
 cover:
   image: "/generic-post-images/leonardo-15.jpg"
   alt: "Embodying your desired frequency"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-Embodying your desired frequency is an act of tender rebellion. It's a whispered promise to yourself that you will no longer wait for the world to align with your deepest longings, but instead, you will align with them yourself. It's a subtle yet profound shift in perception, one that recognizes the outer world as a reflection of your inner state.
+---Embodying your desired frequency is an act of tender rebellion. It's a whispered promise to yourself that you will no longer wait for the world to align with your deepest longings, but instead, you will align with them yourself. It's a subtle yet profound shift in perception, one that recognizes the outer world as a reflection of your inner state.
 
 I remember the first time I stumbled upon the concept of frequency. I was lost in a sea of self-doubt, struggling to find my place in the world. The idea that I could embody a particular vibration, one that resonated with my deepest desires, felt like a beacon of hope. It was as if I had been given a key to unlock a secret door, one that led to a world where my dreams and reality were no longer separate entities.
 

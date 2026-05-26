@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-23.jpg"
   alt: "💌 Your Sparklebox Gift: Blooming Inner Light"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "gift"
+  - "blooming"
+  - "inner"
+  - "light"
+  - "sparklebox"
 ---***An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power.***
 
 ### 🌱 *Affirmation 1*

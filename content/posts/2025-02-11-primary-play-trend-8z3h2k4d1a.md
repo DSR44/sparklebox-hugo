@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-9.jpg"
   alt: "Primary Play: The Bold Color Trend Transforming Home Interiors"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "primary"
+  - "play"
+  - "bold"
+  - "color"
+  - "trend"
 ---In recent years, home design has taken a vibrant turn with the rise of bold colors, creating living spaces that are as expressive as they are inviting.
 
 From striking reds to sunny yellows and deep blues, primary colors are making a comeback, infusing energy and personality into every corner of our homes.

@@ -15,6 +15,12 @@ cover:
   image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"
   alt: "Where the Blackbird Sings: A Tale of Beauty Amid the Chaos"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "blackbird"
+  - "sings"
+  - "tale"
+  - "beauty"
+  - "amid"
 ---#### The Blackbird on the Beam. **A true story from Elle Vida’s terrace**
 
 It began, as most sacred things do, without announcement.

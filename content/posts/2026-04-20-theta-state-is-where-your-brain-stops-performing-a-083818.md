@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "The version of you reading this at 2am knows something the daytime version keeps forgetting."
+description: "Theta state is where your brain stops performing and starts generating — here is what that actually means. Part of The Frequency Upgrade — Elle Vida on…"
 cover:
   image: "/pinterest-images/8224400801_seed-of-life-neural-architecture.png"
   alt: "Theta state is where your brain stops performing and starts generating — here is what that actually means"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-The version of you reading this at 2am knows something the daytime version keeps forgetting.
+---The version of you reading this at 2am knows something the daytime version keeps forgetting.
 
 That thoughts feel different when the world is quiet. Not better. Not worse. More *honest*. Like your mind finally took off the performance mask it's been wearing all day.
 

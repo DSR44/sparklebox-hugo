@@ -11,7 +11,7 @@ tags:
   - "identity work"
   - "self concept"
   - "TheDreamToolkit"
-description: "Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme"
+description: "Avatar Oasis – Part 5: Nova Saint’s Velvet Discipline Reality — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/avatar-oasis-part-5-nova-saints-velvet-discipline-reality/"

@@ -10,7 +10,7 @@ tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"
   - "TheDreamToolkit"
-description: "Step into a luminous realm of quantum affirmations and liminal language. This two-part ritual scroll guides you through entangled realities and neon corridors of consciousness — where thoughts become architecture and color becomes code. Let the bioluminescent current of your subconscious reshape the path ahead."
+description: "Bioluminescent Dreamcodes: A Two-Part Ritual to Rewire Reality Through Light. Perception is Creation — Elle Vida on perceptive authorship, not…"
 draft: false
 aliases:
   - "/bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light/"

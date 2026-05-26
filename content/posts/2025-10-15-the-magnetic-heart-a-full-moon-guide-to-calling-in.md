@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "There's a part of you that already knows the sensation of being fully seen and loved, a resonance that echoes through your entire being like a haunting…"
+description: "The Magnetic Heart: A Full Moon Guide to Calling in Your Soulmate — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/beauty-1.jpg"
   alt: "The Magnetic Heart: A Full Moon Guide to Calling in Your Soulmate"
@@ -45,9 +45,7 @@ The actual alchemy of calling in a soulmate involves a deep understanding of how
 **3. The Integration**: Embodiment is key – take time each day to connect with your body and listen to its wisdom. Practice yoga, meditation, or simply take a few deep breaths and notice the sensations in your body. As you do this, remember that you are not just a physical being, but a vibrational one, and that your energy is constantly shifting and evolving. Take a moment to reflect on how you can embody more self-love and self-awareness in your daily life – perhaps it's by setting healthy boundaries, prioritizing self-care, or simply being more mindful of your thoughts and emotions.
 
 As you embark on this journey of calling in your soulmate, remember that the true magic happens within. It's not about finding someone else; it's about becoming the lover you've been seeking, and embodying the frequency of love and self-love. The moment you stop looking for validation outside of yourself, you start becoming the magnetic heart that attracts a complementary vibration – and this is where the real alchemy happens. You are the portal to your own depth and wisdom, and when you embody this truth, you become a magnet for love, connection, and transformation.
-
 ---
-
 ✨ **Elle Vida | Sparklebox**
 
 *Explore more: [Dream Portals](/the-dreamtoolkit/) • [Musebox](/musebox-dreams/) • [Soundbox](/soundbox/)*

@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "You’ve been taught that mental sharpness comes from grinding — more podcasts, more optimization, more cold-plunge-no-sugar-一生中文字符串."
+description: "The difference between a stimulated mind and an elevated one is not effort — it is frequency. Part of The Frequency Upgrade — Elle Vida on cognitive…"
 cover:
   image: "/pinterest-images/8224400017_cognitive-upgrade-frequency-design.png"
   alt: "The difference between a stimulated mind and an elevated one is not effort — it is frequency"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-Stimulation feels like chasing.  
+---Stimulation feels like chasing.  
 Elevation feels like arriving.
 
 Same mind. Different frequency.

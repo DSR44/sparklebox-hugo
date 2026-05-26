@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "There's a part of you that has been whispering secrets in the dead of night, when the world outside is quiet and your soul is most awake."
+description: "The Dark Crucible: Unpacking the Spiritual Purpose of Your Worst Year. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013_01.jpg"
   alt: "The Dark Crucible: Unpacking the Spiritual Purpose of Your Worst Year"
@@ -20,8 +20,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
----
-There's a part of you that has been whispering secrets in the dead of night, when the world outside is quiet and your soul is most awake. You've felt the stirrings of a deeper wisdom, a knowing that transcends the chaos and uncertainty that has defined your most challenging year.
+---There's a part of you that has been whispering secrets in the dead of night, when the world outside is quiet and your soul is most awake. You've felt the stirrings of a deeper wisdom, a knowing that transcends the chaos and uncertainty that has defined your most challenging year.
 
 ## The Hidden Mechanism
 

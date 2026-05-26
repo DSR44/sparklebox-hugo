@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The weight of our emotions can be overwhelming at times."
+description: "Emotional set points and how to shift them. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/leonardo-40.jpg"
   alt: "Emotional set points and how to shift them"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-The weight of our emotions can be overwhelming at times. It's as if we're carrying a heavy backpack, filled with the burdens of our past, our fears, and our doubts. But what if I told you that this weight is not just a product of our external circumstances, but also of our internal emotional set points? These set points are like the default settings on our emotional thermostat, determining how we feel, react, and respond to the world around us.
+---The weight of our emotions can be overwhelming at times. It's as if we're carrying a heavy backpack, filled with the burdens of our past, our fears, and our doubts. But what if I told you that this weight is not just a product of our external circumstances, but also of our internal emotional set points? These set points are like the default settings on our emotional thermostat, determining how we feel, react, and respond to the world around us.
 
 I remember a time when my emotional set point was stuck on anxiety. Every little thing would trigger a wave of fear and worry, and I felt like I was constantly walking on eggshells, never knowing when the next storm would hit. But as I began to explore the concept of emotional set points, I realized that I had the power to shift them. It wasn't about changing my external circumstances, but about rewiring my internal emotional landscape.
 

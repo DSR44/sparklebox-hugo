@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/alchemy-3.jpg"
   alt: "22 Baggy Gym Fashion Styles That Are Taking Over the Streets (You Won't Want to Miss #4!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "baggy"
+  - "gym"
+  - "fashion"
+  - "styles"
+  - "taking"
 ---Get ready to upgrade your workout wardrobe with the latest in baggy gym fashion! 
 
 This trend is all about combining comfort with style, allowing you to hit the gym or the streets in outfits that make a statement. 

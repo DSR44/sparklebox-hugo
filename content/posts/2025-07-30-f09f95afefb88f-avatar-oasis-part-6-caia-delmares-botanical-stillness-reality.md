@@ -11,7 +11,7 @@ tags:
   - "identity work"
   - "self concept"
   - "TheDreamToolkit"
-description: "Type: Ritual Femininity | Mood: Botanical oil, candlelit floors, water priestess calm | Avatar: Caia Delmare — The Whisper Witch"
+description: "🕯️ Avatar Oasis – Part 6: Caia Delmare’s Botanical Stillness Reality. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
 aliases:
   - "/%f0%9f%95%af%ef%b8%8f-avatar-oasis-part-6-caia-delmares-botanical-stillness-reality/"

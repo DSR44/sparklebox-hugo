@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Your brain runs at Baseline Beta by default — reactive, scanning, performing. Learn the frequency hierarchy and why Alpha Prime is the upgrade Sparklebox maps."
+description: "Your brain is operating at Baseline Beta frequency — and you probably never chose the upgrade. Part of The Frequency Upgrade — Elle Vida on cognitive…"
 keywords: ["beta frequency", "brain frequency bands", "frequency upgrade", "cognitive upgrade", "theta state"]
 cover:
   image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
@@ -17,7 +17,6 @@ cover:
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---
-
 Your brain came pre-installed.  
 You never pressed accept.  
 

@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Remember when you were a kid and you could stare at a puddle for twenty minutes, completely absorbed by the way light fractured into colors across the…"
+description: "The equation nobody in wellness talks about: where deterministic math meets consciousness. Part of The Frequency Upgrade — Elle Vida on cognitive…"
 cover:
   image: "/pinterest-images/8224401602_flower-of-life-consciousness-map.png"
   alt: "The equation nobody in wellness talks about: where deterministic math meets consciousness"
@@ -58,9 +58,7 @@ The question I'm still mapping — the one that keeps me up at night — is whet
 But that's for another morning. Right now, there's a puddle somewhere waiting to show you what 8 Hz feels like in your chest. The mathematics will still be there when you get back.
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 **⚡ Your frequency shifted while you were reading.**
 
 There is a mathematical structure behind every frequency shift you just experienced. I mapped it. I am turning it into something you can use.

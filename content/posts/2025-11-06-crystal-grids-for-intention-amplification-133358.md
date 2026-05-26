@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "In the stillness of the night, when the world is hushed and the stars twinkle like diamonds in the sky, I often find myself drawn to the mystical realm of…"
+description: "Crystal grids for intention amplification. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013_01.jpg"
   alt: "Crystal grids for intention amplification"
@@ -56,9 +56,7 @@ Remember, it's not about the stones; it's about the energy we infuse into the gr
 In the stillness of the night, when the world is hushed and the stars twinkle like diamonds in the sky, I'll be here, guiding you, supporting you, and walking alongside you on this mystical path 🌟. May our crystal grids become a reflection of our deepest desires, our highest potential, and our most profound connection to the universe 🔮.
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 ✨ **Explore more from Sparklebox:**
 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide

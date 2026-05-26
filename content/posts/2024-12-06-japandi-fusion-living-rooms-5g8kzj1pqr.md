@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-11.jpg"
   alt: "10 Jaw-Dropping Japandi Fusion Living Rooms That Will Make You Want to Redecorate Today!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "jaw"
+  - "dropping"
+  - "japandi"
+  - "fusion"
+  - "living"
 ---Welcome to the world of Japandi fusion, where the serene simplicity of Japanese zen meets the cozy allure of Scandinavian comfort.
 
 This design trend is not just about aesthetics; it's a lifestyle choice that promotes tranquility and functionality within your living space. 

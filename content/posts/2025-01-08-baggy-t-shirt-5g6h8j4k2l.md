@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-31.jpg"
   alt: "10 Effortlessly Chic Baggy T-Shirt Looks That’ll Elevate Your Street Style Game!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "effortlessly"
+  - "chic"
+  - "baggy"
+  - "shirt"
+  - "looks"
 ---Street style is all about expressing your individuality while remaining effortlessly chic. 
 
 In this article, we’ll explore ten stunning baggy t-shirt looks that transform this simple wardrobe staple into a fashion statement. 

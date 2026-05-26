@@ -13,6 +13,12 @@ cover:
   image: "/pinterest-images/8224399717_frequency-shift-brain-upgrade.png"
   alt: "21 Berlin-Inspired Fashion Looks That'll Make You the Trendsetter of Your City!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "berlin"
+  - "inspired"
+  - "fashion"
+  - "looks"
+  - "make"
 ---Berlin is not just a city; it's a vibrant canvas of culture and creativity that spills over into its street style. 
 
 From edgy streetwear to chic vintage finds, Berlin fashion offers a unique blend of urban sophistication and artistic flair. 

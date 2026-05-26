@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/floating-castle-4.jpg"
   alt: "13 Dramatic NYE Hairstyles That Will Leave Everyone Speechless (You’ll Be Obsessed with #6!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "dramatic"
+  - "nye"
+  - "hairstyles"
+  - "leave"
+  - "everyone"
 ---As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
 
 From elegant updos to edgy braids, this year’s trends are all about making a statement. 

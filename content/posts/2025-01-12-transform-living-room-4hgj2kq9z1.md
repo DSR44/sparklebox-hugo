@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013.jpg"
   alt: "10 Stunning Ways to Transform Your Living Room with Rococo Revival Decor (You'll Be Amazed by #5!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "stunning"
+  - "ways"
+  - "transform"
+  - "living"
+  - "room"
 ---Rococo Revival decor captures the essence of luxury and vintage style, breathing new life into living spaces with its ornate details and grand aesthetics. 
 
 Imagine stepping into a room adorned with intricate moldings, sumptuous fabrics, and exquisite furniture that tells a story of elegance and sophistication. 

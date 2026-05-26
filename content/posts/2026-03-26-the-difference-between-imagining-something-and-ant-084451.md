@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "Imagination is present fulfilment; anticipation is future materialisation. Elle Vida explains why visualisation fails and how conscious anticipation selects timelines."
+description: "The difference between imagining something and anticipating it (and why it matters). Perception is Creation — Elle Vida on perceptive authorship, not…"
 keywords: ["anticipation theory", "imagination vs anticipation", "manifestation", "perception", "consciousness"]
 cover:
   image: "/generic-post-images/foggy-forest-1.jpg"
@@ -16,7 +16,6 @@ cover:
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---
-
 I used to think that if I could picture it clearly enough, it would have to come true.  
 I would lie on the rug in my tiny studio, lights off, city humming below, and build the scene in my mind like a film director: the hallway of the flat I wanted, the smell of coffee drifting from the kitchen, the particular sound of a particular person turning the key in the lock.  
 I saw every pixel.  

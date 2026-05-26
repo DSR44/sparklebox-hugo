@@ -15,6 +15,12 @@ cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013.jpg"
   alt: "✨ SnapSpells: 3 Visualization Rituals to Instantly Reclaim Your Light"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "snapspells"
+  - "visualization"
+  - "rituals"
+  - "instantly"
+  - "reclaim"
 ---**A Sparklebox Shift Series by Elle Vida**
 
 There are moments when your light feels distant.

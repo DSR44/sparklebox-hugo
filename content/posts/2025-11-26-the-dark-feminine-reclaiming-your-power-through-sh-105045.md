@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The Dark Feminine: Reclaiming Your Power Through Shadow Rage and Sacred Rebellion. I still remember the day I learned to silence my rage."
+description: "The Dark Feminine: Reclaiming Your Power Through Shadow, Rage, and Sacred Rebellion. Perception is Creation — Elle Vida on perceptive authorship, not…"
 cover:
   image: "/generic-post-images/goddess-4.jpg"
   alt: "The Dark Feminine: Reclaiming Your Power Through Shadow, Rage, and Sacred Rebellion"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-## ✨ The Dark Feminine: A Journey of Reclamation
+---## ✨ The Dark Feminine: A Journey of Reclamation
 I still remember the day I learned to silence my rage. To hide my true feelings behind a mask of politeness and submission. It was a lesson taught to me by society, by family, by friends - a lesson that would take years to unlearn. But the memory of that day still lingers, a reminder of the power that lies within me, waiting to be unleashed. The power of the dark feminine.
 
 As I look back, I realize that I was not alone in this journey of suppression. Women have been conditioned to hide their true nature, to suppress their rage, their boundaries, and their desires. We have been taught to be good girls, to be nice, to be liked. But what happens when we say yes when we mean no? When we hide our power and our truth? We burn out, we lose ourselves, and we forget the wild women we once were. 

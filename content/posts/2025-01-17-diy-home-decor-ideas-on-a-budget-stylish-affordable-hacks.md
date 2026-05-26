@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-25.jpg"
   alt: "DIY Home Decor Ideas on a Budget – Stylish &amp; Affordable Hacks!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "diy"
+  - "home"
+  - "decor"
+  - "ideas"
+  - "budget"
 ---Who doesn’t love a home that looks straight out of a Pinterest board? But let’s be real—decorating can get expensive fast! The good news? You **don’t** need a massive budget to create a stylish, cozy home. With a little creativity and some DIY magic, you can give your space a whole new vibe without spending a fortune. Here are some **affordable, easy, and trendy DIY home decor ideas** that will make your home look amazing!
 
 ### **1. Thrift & Flip: The Power of Second-Hand Finds**

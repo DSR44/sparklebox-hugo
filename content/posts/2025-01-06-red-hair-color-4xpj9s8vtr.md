@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013.jpg"
   alt: "10 Stunning Shades of Red Hair Color That Will Turn Heads (You Won't Believe #6!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "stunning"
+  - "shades"
+  - "red"
+  - "hair"
+  - "color"
 ---Red hair has long been associated with passion, vibrancy, and fierce individuality. 
 
 In this listicle, we delve into the most stunning shades of red hair color that will not only elevate your look but also turn heads wherever you go. 

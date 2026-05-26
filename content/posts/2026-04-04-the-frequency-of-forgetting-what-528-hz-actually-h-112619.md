@@ -8,7 +8,7 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The woman in the YouTube video promises that 528 Hz will repair my DNA, and I want to believe her the way I wanted to believe my ex would come back if I…"
+description: "The Frequency of Forgetting: What 528 Hz Actually Heals. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the $19 Frequency…"
 cover:
   image: "/pinterest-images/8224707070_cosmic-energy-meditation.png"
   alt: "The Frequency of Forgetting: What 528 Hz Actually Heals"
@@ -19,8 +19,7 @@ keywords:
   - "perception"
   - "healing"
   - "body wisdom"
----
-The woman in the YouTube video promises that 528 Hz will repair my DNA, and I want to believe her the way I wanted to believe my ex would come back if I just texted the right combination of words. She's sitting in front of singing bowls with 2.3 million views and a comment section full of people claiming their tumors disappeared, their anxiety melted, their dead plants bloomed back to life. Somewhere between the fourth and fifth minute, I realize I'm listening to this the same way I used to listen to his voicemails at 3 AM—not for the content, but for the shape of something I've lost.
+---The woman in the YouTube video promises that 528 Hz will repair my DNA, and I want to believe her the way I wanted to believe my ex would come back if I just texted the right combination of words. She's sitting in front of singing bowls with 2.3 million views and a comment section full of people claiming their tumors disappeared, their anxiety melted, their dead plants bloomed back to life. Somewhere between the fourth and fifth minute, I realize I'm listening to this the same way I used to listen to his voicemails at 3 AM—not for the content, but for the shape of something I've lost.
 
 ## The Sound of Missing Someone
 

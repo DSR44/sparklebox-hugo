@@ -13,6 +13,12 @@ cover:
   image: "/pinterest-images/8224399919_merkaba-frequency-design.png"
   alt: "15 Japanese Interior Design Trends That Will Transform Your Space into a Tranquil Oasis!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "japanese"
+  - "interior"
+  - "design"
+  - "trends"
+  - "transform"
 ---Japanese interior design is an artful blend of minimalism and nature, creating serene spaces that promote tranquility. 
 
 In this listicle, we explore 15 captivating trends that will help you transform your home into a peaceful oasis, where simplicity meets elegance. 

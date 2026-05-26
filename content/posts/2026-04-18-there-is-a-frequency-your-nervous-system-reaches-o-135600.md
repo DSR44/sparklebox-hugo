@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Ninety-two percent of people report their best ideas arrive while doing something completely unrelated to problem-solving."
+description: "There is a frequency your nervous system reaches only when it stops optimising — most people have felt it once. Part of The Frequency Upgrade — Elle Vida…"
 cover:
   image: "/pinterest-images/8224399919_merkaba-frequency-design.png"
   alt: "There is a frequency your nervous system reaches only when it stops optimising — most people have felt it once"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-Ninety-two percent of people report their best ideas arrive while doing something completely unrelated to problem-solving. In the shower. During a walk. While folding laundry. The brain is supposedly "idle" — yet this is when clarity arrives.
+---Ninety-two percent of people report their best ideas arrive while doing something completely unrelated to problem-solving. In the shower. During a walk. While folding laundry. The brain is supposedly "idle" — yet this is when clarity arrives.
 
 The inversion: your nervous system isn't idle at all. It's operating at a frequency that only becomes available when you stop trying to optimise every moment. Baseline Beta — the frequency of effort, of trying, of making it happen — cannot access what lives at Alpha Prime. The moment you stop reaching, what you were reaching for can finally reach you.
 

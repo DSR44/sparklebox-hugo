@@ -10,7 +10,7 @@ tags:
   - "mysticism"
   - "consciousness"
   - "inner work"
-description: "You know that feeling when you've been around someone who's totally drained your energy, and you can't shake off the sensation that you're still carrying…"
+description: "How to Energy-Cleanse After Toxic People. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/mystical-mystical_velvety_black_chamber_where_th_0_92392523_1013.jpg"
   alt: "How to Energy-Cleanse After Toxic People"
@@ -44,9 +44,7 @@ At 3am on Tuesday, I woke up feeling anxious, feeling like the weight of the wor
 And that's the thing about energy-cleansing: it's not just about getting rid of the negative vibes, it's about connecting with the positive ones. It's about remembering that you're part of a larger whole, that you're connected to the earth, to the sun, to the stars. When you tap into that sense of connection, that sense of oneness, you start to feel like you can handle anything that comes your way.
 
 The wound is the place where the Light enters you, right? Well, sometimes, the wound is the place where the toxic energy enters you, too. But the good news is that you have the power to heal that wound, to close that door, and to let the Light in. So, take care of yourself, take care of your energy, and remember that you're not alone. The universe is always working in your favor, even when it doesn't feel like it. Trust that, and trust yourself. You got this.
-
 ---
-
 ✨ **Elle Vida | Sparklebox**
 
 *Explore more: [Dream Portals](/the-dreamtoolkit/) • [Musebox](/musebox-dreams/) • [Soundbox](/soundbox/)*

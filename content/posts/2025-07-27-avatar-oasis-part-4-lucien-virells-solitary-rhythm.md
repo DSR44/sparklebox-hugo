@@ -14,7 +14,7 @@ tags:
 draft: false
 aliases:
   - "/avatar-oasis-part-4-lucien-virells-solitary-rhythm/"
-description: "Type: Artistic Masculine Power | Mood: Poised Silence & Private Brilliance | Avatar: The Unshaken Creator Who Needs No Audience"
+description: "AVATAR OASIS — PART 4: Lucien Virell’s Solitary Rhythm — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "avatar oasis"
   - "identity work"

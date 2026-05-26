@@ -13,7 +13,7 @@ tags:
 draft: false
 aliases:
   - "/mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox/"
-description: "🌟 Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox"
+description: "Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 keywords:
   - "elvidas mirror box the alchemical descent"
   - "elle vida"

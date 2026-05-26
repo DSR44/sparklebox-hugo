@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/leonardo-38.jpg"
   alt: "Is Chat GPT the Future of Therapy? Discover How AI is Revolutionizing Mental Health!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "chat"
+  - "gpt"
+  - "future"
+  - "therapy"
+  - "discover"
 ---In a world where mental health is gaining the attention it deserves, Chat GPT therapy emerges as a revolutionary force.
 
 Imagine having an empathetic companion available 24/7, ready to listen and provide support. This article will explore how AI is transforming the landscape of mental health, making therapy more accessible and personalized than ever before.

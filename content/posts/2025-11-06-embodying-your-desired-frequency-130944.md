@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit in stillness, I'm reminded of the profound wisdom of the ancient mystics: that our reality is not just a reflection of our thoughts, but a…"
+description: "Embodying your desired frequency. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the $19 Frequency Field Test workbook."
 cover:
   image: "/generic-post-images/alchemy-alchemy_mediation_soundbath_1013.jpg"
   alt: "Embodying your desired frequency"
@@ -65,9 +65,7 @@ Take a few moments each day to breathe into your desired frequency. Assume the f
 It's not about the destination; it's about the journey. It's not about becoming something; it's about unfolding into the embodiment of what you already are. And so, my friend, I leave you with this gentle invitation: embark on the journey of frequency embodiment, and watch as your reality transforms into a reflection of your highest self. 
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 ✨ **Explore more from Sparklebox:**
 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide

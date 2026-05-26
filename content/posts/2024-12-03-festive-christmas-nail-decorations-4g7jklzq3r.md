@@ -13,6 +13,12 @@ cover:
   image: "/pinterest-images/8224707070_cosmic-energy-meditation.png"
   alt: "22 Festive Christmas Nail Decorations That'll Take Your Nails to the Next Level!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "festive"
+  - "christmas"
+  - "nail"
+  - "decorations"
+  - "take"
 ---Christmas is a magical time of the year, filled with dazzling lights, festive decorations, and a whole lot of joy. 
 
 This season, let your nails join in on the celebration with stunning Christmas nail decorations that are sure to impress. 

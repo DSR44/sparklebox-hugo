@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/moon-spell-2.jpg"
   alt: "10 Bucket List Destinations You Can't Miss (Your Wanderlust Will Thank You!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "bucket"
+  - "list"
+  - "destinations"
+  - "miss"
+  - "wanderlust"
 ---Are you ready to embark on an unforgettable journey? 
 
 This guide presents ten breathtaking bucket list destinations that cater to your adventurous spirit and wanderlust goals. 

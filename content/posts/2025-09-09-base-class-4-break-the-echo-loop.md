@@ -12,7 +12,7 @@ tags:
 draft: false
 aliases:
   - "/base-class-4-break-the-echo-loop/"
-description: "The Echo Loop: How We Secretly Script Our Own Downfall (And How to Stop It)"
+description: "Base Class 4: Break the Self-Sabotage Loop. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 keywords:
   - "sparklebox base class"
   - "thedreamtoolkit"

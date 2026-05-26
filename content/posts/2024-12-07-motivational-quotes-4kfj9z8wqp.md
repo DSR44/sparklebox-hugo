@@ -13,6 +13,12 @@ cover:
   image: "/pinterest-images/8224400801_seed-of-life-neural-architecture.png"
   alt: "25 Motivational Quotes That Will Ignite Your Passion and Change Your Life Forever!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "motivational"
+  - "quotes"
+  - "ignite"
+  - "passion"
+  - "change"
 ---In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
 
 Motivational quotes have the power to uplift, encourage, and remind us of our potential. 

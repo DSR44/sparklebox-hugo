@@ -16,6 +16,11 @@ cover:
   image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013.jpg"
   alt: "🕯️  The Mirror Without a Frame"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "mirror"
+  - "frame"
+  - "sparklebox"
+  - "elle vida"
 ---*A Dreamweaver Tale of Inner Shadows and Sacred Light*
 
 ### 🌌 **The Tale**

@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "There will come a moment—maybe while you're rinsing the same coffee mug for the hundredth time, or folding laundry that still smells like yesterday's…"
+description: "You will know the upgrade happened when these five things quietly change. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the…"
 cover:
   image: "/pinterest-images/8224402060_geometric-consciousness-sacred-pattern.png"
   alt: "You will know the upgrade happened when these five things quietly change"
@@ -58,9 +58,7 @@ The question isn't whether these changes will come. They're already arriving, mo
 Or will you keep testing the water instead of swimming?
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 **⚡ The Frequency Protocol is opening.**
 
 4 weeks. Daily calibration. Mathematical precision. Your Baseline Beta ends here.

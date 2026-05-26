@@ -11,7 +11,7 @@ tags:
   - "sacred-feminine"
   - "inner-work"
   - "mysticism"
-description: "There's a version of you that already knows the depth of your own power."
+description: "The 7 Sacred Feminine Archetypes: A Portal to Remembering Your Sovereignty. Perception is Creation — Elle Vida on perceptive authorship, not…"
 cover:
   image: "/generic-post-images/leonardo-24.jpg"
   alt: "The 7 Sacred Feminine Archetypes: A Portal to Remembering Your Sovereignty"
@@ -23,8 +23,7 @@ keywords:
   - "sacred-feminine"
   - "inner-work"
   - "mysticism"
----
-There's a version of you that already knows the depth of your own power. You've felt her stir, a whisper in the darkness, a spark in the silence. What if this whisper is not just a call to awaken, but a reminder of the archetypes that have always resided within you, waiting to be embodied?
+---There's a version of you that already knows the depth of your own power. You've felt her stir, a whisper in the darkness, a spark in the silence. What if this whisper is not just a call to awaken, but a reminder of the archetypes that have always resided within you, waiting to be embodied?
 
 ## The Hidden Mechanism
 

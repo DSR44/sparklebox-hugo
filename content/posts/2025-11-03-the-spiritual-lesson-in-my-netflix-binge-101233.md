@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spirituality"
-description: "What if I told you that my latest Netflix obsession has been teaching me more about spirituality than any self-help book or meditation retreat?"
+description: "The Spiritual Lesson in My Netflix Binge. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/dreamcore-mirror-1.jpg"
   alt: "The Spiritual Lesson in My Netflix Binge"
@@ -20,8 +20,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spirituality"
----
-What if I told you that my latest Netflix obsession has been teaching me more about spirituality than any self-help book or meditation retreat? It sounds crazy, but hear me out. I've been devouring episodes of "The Haunting of Hill House" like they're going out of style. And yeah, it's a show about ghosts and trauma, but it's also about something deeper – the interconnectedness of our experiences, the power of storytelling, and the fragility of the human psyche.
+---What if I told you that my latest Netflix obsession has been teaching me more about spirituality than any self-help book or meditation retreat? It sounds crazy, but hear me out. I've been devouring episodes of "The Haunting of Hill House" like they're going out of style. And yeah, it's a show about ghosts and trauma, but it's also about something deeper – the interconnectedness of our experiences, the power of storytelling, and the fragility of the human psyche.
 
 At 3am on a Tuesday, I found myself replaying a particular scene in my head, where one of the characters is trying to make sense of their past. They're struggling to piece together fragmented memories, and it's like they're searching for a puzzle piece that's been lost forever. I couldn't shake off the feeling that this was more than just a plot device – it was a metaphor for our collective search for meaning. We're all trying to make sense of our own stories, to find the missing pieces that will help us understand who we are and where we're going.
 

@@ -8,7 +8,7 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The fact that you're not falling apart means you're probably already broken in exactly the right way."
+description: "The Quiet Fracture: Why Your Resilience Might Be Your Final Warning — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/pinterest-images/8224694061_light-within-mindset.png"
   alt: "The Quiet Fracture: Why Your Resilience Might Be Your Final Warning"
@@ -20,7 +20,6 @@ keywords:
   - "healing"
   - "body wisdom"
 ---
-
 The fact that you're not falling apart means you're probably already broken in exactly the right way.
 
 You're answering emails at midnight, making breakfast while on conference calls, remembering birthdays, paying mortgages, showing up to everything with the right expression painted on. The machinery of your life hums along without visible interruption. From the outside, you're the strongest person anyone knows.

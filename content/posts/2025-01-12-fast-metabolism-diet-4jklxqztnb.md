@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/leonardo-29.jpg"
   alt: "How to Create a Fast Metabolism Diet That Works Wonders in 2025 (Spoiler: It's Easier Than You Think!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "create"
+  - "fast"
+  - "metabolism"
+  - "diet"
+  - "works"
 ---Are you ready to boost your metabolism and achieve your fat loss goals in 2025? 
 
 The fast metabolism diet is your ticket to revitalizing your body and enhancing your energy levels while enjoying delicious meals. 

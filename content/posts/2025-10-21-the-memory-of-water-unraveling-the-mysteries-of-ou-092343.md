@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "In the forgotten corners of our minds, where the misty veil of memory shrouds the past, lies a realm that is both familiar and unknown."
+description: "The Memory of Water: Unraveling the Mysteries of Our Collective Unconscious. Perception is Creation — Elle Vida on perceptive authorship, not…"
 cover:
   image: "/generic-post-images/leonardo-3.jpg"
   alt: "The Memory of Water: Unraveling the Mysteries of Our Collective Unconscious"
@@ -20,8 +20,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
----
-In the forgotten corners of our minds, where the misty veil of memory shrouds the past, lies a realm that is both familiar and unknown. It is a place where the whispers of our ancestors mingle with the murmurs of the earth, where the rhythms of the universe harmonize with the beat of our hearts. This is the domain of the collective unconscious, a vast and mysterious ocean that holds the secrets of our shared humanity.
+---In the forgotten corners of our minds, where the misty veil of memory shrouds the past, lies a realm that is both familiar and unknown. It is a place where the whispers of our ancestors mingle with the murmurs of the earth, where the rhythms of the universe harmonize with the beat of our hearts. This is the domain of the collective unconscious, a vast and mysterious ocean that holds the secrets of our shared humanity.
 
 As I delve into the depths of this unfathomable sea, I am reminded of the words of the ancient Greek philosopher, Heraclitus: "No man ever steps in the same river twice, for it's not the same river and he's not the same man." The waters of our collective unconscious are in constant flux, shaping and reshaping the contours of our psyche, influencing the tides of our emotions, and guiding the currents of our thoughts.
 

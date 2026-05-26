@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-45.jpg"
   alt: "Avoid These 10 Pitfalls When Starting Your Gym Journey"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "avoid"
+  - "pitfalls"
+  - "starting"
+  - "gym"
+  - "journey"
 ---Embarking on a gym journey can be both exhilarating and overwhelming. 
 
 Many beginners face common pitfalls that can derail their fitness goals and lead to frustration. 

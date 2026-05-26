@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/leonardo-6.jpg"
   alt: "Unlock Your Signature Scent: How AI is Personalizing Fragrances Like Never Before!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "unlock"
+  - "signature"
+  - "scent"
+  - "personalizing"
+  - "fragrances"
 ---Imagine walking into a world where your fragrance is as unique as your fingerprint. 
 
 With advancements in artificial intelligence, personalized fragrances are no longer a distant dream but a vibrant reality. 

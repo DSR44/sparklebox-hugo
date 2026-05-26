@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Elle Vida mapped the mathematics behind perception shifts — SHA-256 deterministic novelty and the architecture behind how reality reorganises when perception changes."
+description: "I mapped the mathematics behind how perception shifts — here is the first thing I found. Part of The Frequency Upgrade — Elle Vida on cognitive frequency…"
 keywords: ["perception mathematics", "constellation compiler", "frequency upgrade", "perception architecture", "consciousness"]
 cover:
   image: "/pinterest-images/8224400380_frequency-shift-quantum-geometry.png"
@@ -17,7 +17,6 @@ cover:
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---
-
 The coffee had gone cold forty-three minutes ago. I was still holding the mug, tracing the same hairline crack in the ceramic with my thumb, watching the morning light shift from white to gold across the kitchen tiles. My laptop screen had dimmed to black—when I tapped the spacebar, the spreadsheet glowed back to life: seven hundred and twelve rows of perception data, each cell a tiny measurement of how reality bends when no one is looking.
 
 I thought mapping perception would feel like cartography. Instead it felt like archaeology—brushing dust off something that had been breathing underneath the whole time.

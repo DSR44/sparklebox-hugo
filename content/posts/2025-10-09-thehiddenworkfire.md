@@ -13,7 +13,7 @@ tags:
 draft: false
 aliases:
   - "/thehiddenworkfire/"
-description: "The Hidden Work | Element I · Fire — Transformation · Rebirth · Will Every alchemical journey begins in the flames."
+description: "Calcination — The Fire of Release | The Hidden Work · Inner Laboratory by Elle Vida. Perception is Creation — Elle Vida on perceptive authorship, not…"
 keywords:
   - "calcination"
   - "the hidden work"

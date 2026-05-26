@@ -13,7 +13,7 @@ tags:
 draft: false
 aliases:
   - "/sparklebox-base-class-chapter-1-linguistic-rewiring/"
-description: "Rewiring Subconscious Linguistics Through Affirmations “In a world of noise, language is your blueprint for becoming.” – Elle Vida"
+description: "Sparklebox Base Class, Chapter 1: Linguistic Rewiring — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "linguistic rewiring"
   - "sparklebox base class"

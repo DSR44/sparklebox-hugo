@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "The coffee had gone cold twenty minutes ago, but your fingers still cup the ceramic like it might warm back up if you just sit here long enough."
+description: "The architecture of an elevated mind: what neuroscience calls it vs what you actually feel when it happens. Part of The Frequency Upgrade — Elle Vida on…"
 cover:
   image: "/pinterest-images/8224400292_platonic-solids-cognitive-clarity.png"
   alt: "The architecture of an elevated mind: what neuroscience calls it vs what you actually feel when it happens"
@@ -21,8 +21,7 @@ keywords:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
----
-The coffee had gone cold twenty minutes ago, but your fingers still cup the ceramic like it might warm back up if you just sit here long enough. Outside, someone’s car alarm keeps stuttering every forty-three seconds—an accidental metronome that makes the silence inside your kitchen feel staged. The screen in front of you is blank except for one blinking cursor. You’re waiting for the sentence that will prove you’re still thinking clearly, still you, still capable of finishing a single thought without checking your phone for relief.
+---The coffee had gone cold twenty minutes ago, but your fingers still cup the ceramic like it might warm back up if you just sit here long enough. Outside, someone’s car alarm keeps stuttering every forty-three seconds—an accidental metronome that makes the silence inside your kitchen feel staged. The screen in front of you is blank except for one blinking cursor. You’re waiting for the sentence that will prove you’re still thinking clearly, still you, still capable of finishing a single thought without checking your phone for relief.
 
 They call it “hypofrontality” in the journals—an elegant way to say the boss has left the building. The prefront, the seat of executive order, has dimmed its lights. Meanwhile the limbic sirens wail unchecked, which is why your chest feels like it’s hosting a thunderstorm and your mind keeps circling the same three tomorrow-morning worries. Neuroscience labels the state; you feel it as a slow leak in every room you enter.
 

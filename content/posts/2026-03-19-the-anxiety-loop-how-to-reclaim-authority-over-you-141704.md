@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception There's a particular kind of anxiety that feels like being trapped in a never-ending…"
+description: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/leonardo-43.jpg"
   alt: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception"
@@ -44,9 +44,7 @@ As you close this post, take a moment to reflect on your own relationship with a
 Perception is not a mirror of the world. It is the doorway through which the world arrives.
 
 © 2026 Sparklebox | Written by Elle Vida
-
 ---
-
 ✨ **Explore more from Sparklebox:**
 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide

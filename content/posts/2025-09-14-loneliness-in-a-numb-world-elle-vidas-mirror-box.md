@@ -8,7 +8,7 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
   - "Loneliness in Modern Life"
-description: "Loneliness is no longer rare — it is the quiet hum beneath our modern lives. In this Mirror Box, Elvida reflects on why so many feel unseen and disconnected, and how reclaiming presence and self-concept can open the way back to the soul."
+description: "Loneliness in a Numb World | Elle Vida’s Mirror Box — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/loneliness-in-a-numb-world-elle-vidas-mirror-box/"

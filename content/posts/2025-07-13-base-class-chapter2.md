@@ -13,7 +13,7 @@ tags:
 draft: false
 aliases:
   - "/base-class-chapter2/"
-description: "Sparklebox Base Class — Chapter 2The Path of Least Resistance: Alchemy Alignment and the Myth of Motivation"
+description: "Sparklebox Base Class — Chapter 2The Path of Least Resistance: Alchemy, Alignment, and the Myth of Motivation. Perception is Creation — Elle Vida on…"
 keywords:
   - "sparklebox base class"
   - "thedreamtoolkit"

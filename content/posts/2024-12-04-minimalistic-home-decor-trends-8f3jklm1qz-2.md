@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/alchemy-alchemy_tarot_pfp_1013.png"
   alt: "25 Minimalistic Home Decor Trends Featuring Beige and Gold You Can’t Ignore (Check Out #12!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "minimalistic"
+  - "home"
+  - "decor"
+  - "trends"
+  - "featuring"
 ---Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
 
 In this article, we’ll explore 25 stunning decor trends that embrace clean lines, simplicity, and a touch of glamour. 

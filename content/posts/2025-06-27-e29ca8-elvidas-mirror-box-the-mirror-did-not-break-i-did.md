@@ -15,6 +15,12 @@ cover:
   image: "/generic-post-images/leonardo-35.jpg"
   alt: "✨ Elvida’s Mirror Box “The Mirror Did Not Break — I Did.”"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "elvida"
+  - "mirror"
+  - "box"
+  - "break"
+  - "sparklebox"
 ---#### *And then I put myself back together like a cosmic jewel.*
 
 ### 🌑 *Opening:*

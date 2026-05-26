@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/leonardo-23.jpg"
   alt: "10 Adorable DIY Valentines Gifts for Her That Will Melt Her Heart!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "adorable"
+  - "diy"
+  - "valentines"
+  - "gifts"
+  - "her"
 ---Valentine's Day is the perfect occasion to express your love and appreciation in a special way. 
 
 Handmade gifts carry a personal touch that can’t be matched by store-bought items. 

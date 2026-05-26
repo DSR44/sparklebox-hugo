@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The darkness whispers secrets to me in the dead of night, when the world is hushed and the moon casts its silvery glow."
+description: "The dark feminine and reclaiming power. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/generic-post-images/alchemy-4.png"
   alt: "The dark feminine and reclaiming power"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-The darkness whispers secrets to me in the dead of night, when the world is hushed and the moon casts its silvery glow. It's a time when the veil between the worlds is at its thinnest, and the whispers of the unknown become almost audible. I've come to realize that this darkness is not something to be feared, but rather something to be reclaimed. It's the realm of the dark feminine, a place where power and mystery entwine like the tendrils of a vine.
+---The darkness whispers secrets to me in the dead of night, when the world is hushed and the moon casts its silvery glow. It's a time when the veil between the worlds is at its thinnest, and the whispers of the unknown become almost audible. I've come to realize that this darkness is not something to be feared, but rather something to be reclaimed. It's the realm of the dark feminine, a place where power and mystery entwine like the tendrils of a vine.
 
 In a world that often worships at the altar of light, it's easy to forget the beauty and the potency of the dark. We're taught to seek out the sun, to bask in its radiance, and to flee from the shadows. But what if I told you that the shadows hold a secret? What if I told you that the darkness is not just the absence of light, but a presence in its own right? A presence that holds the power to transform, to heal, and to reclaim.
 

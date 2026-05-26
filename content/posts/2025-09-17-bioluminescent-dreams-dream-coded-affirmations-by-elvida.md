@@ -10,7 +10,7 @@ tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"
   - "TheDreamToolkit"
-description: "Step into bioluminescent dreams — a meditative journey through liquid light, cellular radiance, and deep-sea affirmations. These dream-coded rituals invite you to awaken your hidden glow and remember that even in shadow, you are luminous."
+description: "Bioluminescent Dreams | Dream-Coded Affirmations by Elvida — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/bioluminescent-dreams-dream-coded-affirmations-by-elvida/"

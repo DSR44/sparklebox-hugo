@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/beauty-bathroom-4.jpg"
   alt: "15 Quick Family Dinner Ideas That'll Make Your Weeknights a Breeze!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "quick"
+  - "family"
+  - "dinner"
+  - "ideas"
+  - "make"
 ---Weeknight dinners can often feel like a daunting task, but they don't have to be! 
 
 In this article, we’re sharing 15 quick family dinner ideas that are not only easy to prepare but also delicious and satisfying for everyone at the table. 

@@ -8,7 +8,7 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "Why You Still Hurt Even After You Did Everything Right. They say time heals, but time doesn't touch the wound."
+description: "Why You Still Hurt Even After You Did Everything Right — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"
   alt: "Why You Still Hurt Even After You Did Everything Right"
@@ -20,7 +20,6 @@ keywords:
   - "healing"
   - "body wisdom"
 ---
-
 They say time heals, but time doesn't touch the wound. It just teaches the pain to speak more quietly.
 
 The ache is still there, murmuring beneath everything. You've learned to make coffee while it whispers. You answer emails emails while it curls around your ribs. Your friends think you're better because you laugh at their jokes, but the laughter is just a newer, more sophisticated form of carrying.

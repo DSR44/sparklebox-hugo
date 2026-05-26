@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/leonardo-39.jpg"
   alt: "Unlock the Ultimate Summer Beauty Guide for 2025: 15 Trends You Can't Miss!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "unlock"
+  - "ultimate"
+  - "summer"
+  - "beauty"
+  - "guide"
 ---Summer 2025 is just around the corner, and with it comes an exciting wave of beauty trends that are sure to inspire. 
 
 From bold makeup statements to innovative skincare solutions, this guide will help you stay ahead of the curve. 

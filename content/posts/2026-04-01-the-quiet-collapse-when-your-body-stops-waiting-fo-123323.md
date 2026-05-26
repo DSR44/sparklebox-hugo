@@ -8,7 +8,7 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The Quiet Collapse: When Your Body Stops Waiting for You. The notification arrived at 3:47 AM."
+description: "The Quiet Collapse: When Your Body Stops Waiting for You — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_1_4b5868cc_1013.jpg"
   alt: "The Quiet Collapse: When Your Body Stops Waiting for You"
@@ -20,7 +20,6 @@ keywords:
   - "healing"
   - "body wisdom"
 ---
-
 The notification arrived at 3:47 AM. Not a text, not an email—your left shoulder simply decided it had carried enough. By morning, your arm hangs like a question mark you can't straighten, and somewhere in the panic, a stranger thought surfaces: *maybe this was always the plan.*
 
 You call it injury. Your body calls it exfiltration.

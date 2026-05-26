@@ -14,6 +14,12 @@ cover:
   image: "/generic-post-images/beauty-ritual-1.jpg"
   alt: "15 Inspiring Vision Board Ideas for 2025 to Achieve Your Wildest Goals!"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "inspiring"
+  - "vision"
+  - "board"
+  - "ideas"
+  - "2025"
 ---As we step into 2025, there's no better time to harness the power of visualization to manifest your dreams. 
 
 Vision boards are a transformative tool that allows you to visualize your goals, dreams, and aspirations in a creative, tangible way. 

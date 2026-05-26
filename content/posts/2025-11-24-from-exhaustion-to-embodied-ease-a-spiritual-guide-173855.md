@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "From Exhaustion to Embodied Ease: A Spiritual Guide to Reclaiming Your Energy. My friend, I see you."
+description: "From Exhaustion to Embodied Ease: A Spiritual Guide to Reclaiming Your Energy. Perception is Creation — Elle Vida on perceptive authorship, not…"
 cover:
   image: "/generic-post-images/leonardo-6.jpg"
   alt: "From Exhaustion to Embodied Ease: A Spiritual Guide to Reclaiming Your Energy"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-My friend, I see you. I see the exhaustion etched on your face, the weight of the world bearing down on your shoulders. You're not alone. So many of us, especially women, are trapped in a cycle of constant busyness, burnout, and depletion. We're told to push through, to hustle, to never stop. But what if I told you that it's not weakness that's holding you back, it's not a lack of willpower or discipline? It's not that you're broken, my friend. You're simply overstimulated. 🌟
+---My friend, I see you. I see the exhaustion etched on your face, the weight of the world bearing down on your shoulders. You're not alone. So many of us, especially women, are trapped in a cycle of constant busyness, burnout, and depletion. We're told to push through, to hustle, to never stop. But what if I told you that it's not weakness that's holding you back, it's not a lack of willpower or discipline? It's not that you're broken, my friend. You're simply overstimulated. 🌟
 
 We live in a world that values doing over being, a world that worships productivity and efficiency. But what about the cost? What about the toll it takes on our nervous system, our energy, our very soul? It's time to recognize that exhaustion is not just a physical state, but a spiritual one. It's a sign that we're disconnected from our feminine energy, from the natural rhythms of the earth, from our own inner wisdom. 🔮
 

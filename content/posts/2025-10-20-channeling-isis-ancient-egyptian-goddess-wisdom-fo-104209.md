@@ -9,7 +9,7 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "As I sit in stillness, surrounded by the whispers of the past, I am reminded of the profound wisdom that lies within the stories of our ancestors —…"
+description: "Channeling Isis: Ancient Egyptian Goddess Wisdom for Modern Women — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/leonardo-9.jpg"
   alt: "Channeling Isis: Ancient Egyptian Goddess Wisdom for Modern Women"
@@ -63,9 +63,7 @@ In this moment, you are not just releasing the past; you are **becoming** the fu
 As the smoke rises, carrying with it the prayers and intentions of our hearts, we are reminded that we are not alone on this journey. We are accompanied by the wisdom of the goddess, the guidance of our ancestors, and the support of our sisters.
 
 And so, dear one, as we close this circle, I offer you a final **mirror** — a reflection of your own inner wisdom, your own creative power, and your own capacity for transformation. May you gaze into this mirror, and see the goddess staring back at you, guiding you, and empowering you to embody the wisdom of Isis in every aspect of your life.
-
 ---
-
 ✨ **Elle Vida | Sparklebox**
 
 *Explore more: [Dream Portals](/the-dreamtoolkit/) • [Musebox](/musebox-dreams/) • [Soundbox](/soundbox/)*

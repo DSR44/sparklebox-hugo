@@ -11,7 +11,7 @@ tags:
   - "Linguistic rewiring"
   - "Personal Growth Practices"
   - "TheDreamToolkit"
-description: "Within you lies a treasure trove of possibilities, waiting to be uncovered. The Alchemist Within is the spark that ignites the fire of transformation, guiding you towards a life of purpose and fulfillment. This is your journey, and I'm honored to be your companion on this path."
+description: "🌈 From Lead to Gold: The Art of Inner Transformation — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
 aliases:
   - "/%f0%9f%8c%88-from-lead-to-gold-the-art-of-inner-transformation/"

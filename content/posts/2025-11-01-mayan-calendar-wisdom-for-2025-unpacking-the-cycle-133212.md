@@ -10,7 +10,7 @@ tags:
   - "mysticism"
   - "consciousness"
   - "inner work"
-description: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time. You know what's wild?"
+description: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013.jpg"
   alt: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time"
@@ -21,8 +21,7 @@ keywords:
   - "mysticism"
   - "consciousness"
   - "inner work"
----
-You know what's wild? The Mayans predicted that 2025 would be a year of massive transformation, and I'm not just talking about the usual New Year's resolutions. Like, have you ever noticed how certain years feel like a collective awakening, where everyone's suddenly questioning the status quo and seeking more meaningful connections? That's what the Mayans were tapping into with their calendar system.
+---You know what's wild? The Mayans predicted that 2025 would be a year of massive transformation, and I'm not just talking about the usual New Year's resolutions. Like, have you ever noticed how certain years feel like a collective awakening, where everyone's suddenly questioning the status quo and seeking more meaningful connections? That's what the Mayans were tapping into with their calendar system.
 
 The thing about the Mayan calendar is that it's not just a linear countdown to some apocalyptic event; it's a complex web of interlocking cycles that reveal patterns in time. Think of it like a cosmic game of Tetris, where each block represents a specific energy or theme that builds upon the previous one. And 2025 is a particularly interesting year because it marks the beginning of a new 9-year cycle, which the Mayans called the "Seed" cycle.
 

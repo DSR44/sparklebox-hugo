@@ -13,6 +13,12 @@ cover:
   image: "/generic-post-images/goddess-3.jpg"
   alt: "21 Kids Room Organization Ideas That'll Make Clean-Up Fun (Don't Miss #13!)"
   caption: "Elle Vida | Sparklebox"
+keywords:
+  - "kids"
+  - "room"
+  - "organization"
+  - "ideas"
+  - "make"
 ---Transforming your child's room into an organized haven can turn clean-up time into a fun adventure.
 
 These 21 innovative kids room organization ideas will not only declutter the space but also encourage your little ones to participate in keeping their room tidy. 

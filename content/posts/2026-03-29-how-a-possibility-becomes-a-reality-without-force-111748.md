@@ -8,7 +8,7 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "I used to think that if I wasn’t pushing, I was failing."
+description: "How a possibility becomes a reality without force — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 cover:
   image: "/generic-post-images/leonardo-39.jpg"
   alt: "How a possibility becomes a reality without force"
@@ -19,8 +19,7 @@ keywords:
   - "alchemy"
   - "consciousness"
   - "transformation"
----
-I used to think that if I wasn’t pushing, I was failing.  
+---I used to think that if I wasn’t pushing, I was failing.  
 That if a dream hadn’t yet arrived, I simply hadn’t bled enough for it.  
 So I white-knuckled my visions—journaling harder, visualising longer, chanting “I am worthy” until my throat rasped like sandpaper—while quietly terrified that nothing was listening.  
 

@@ -45,19 +45,20 @@
   <meta property="og:image:height" content="{{ site.Params.ogImage.height | default 630 }}">
 {{- else }}
   {{- $ogImg := "" }}
-  {{- with partial "templates/_funcs/get-page-images" . }}
-    {{- with index . 0 }}
-      {{- $ogImg = .Permalink }}
-      <meta property="og:image" content="{{ .Permalink }}">
-    {{- end }}
+  {{- $pageImages := partial "templates/_funcs/get-page-images" . }}
+  {{- with index $pageImages 0 }}
+    {{- $ogImg = .Permalink }}
   {{- end }}
   {{- if not $ogImg }}
     {{- with site.Params.images }}
       {{- $ogImg = index . 0 | absURL }}
-      <meta property="og:image" content="{{ $ogImg }}">
     {{- end }}
   {{- end }}
-  {{- if $ogImg }}
+  {{- if not $ogImg }}
+    {{- $ogImg = absURL "/images/sparklebox-og.png" }}
+  {{- end }}
+  {{- with $ogImg }}
+  <meta property="og:image" content="{{ . }}">
   <meta property="og:image:width" content="{{ site.Params.ogImage.width | default 1200 }}">
   <meta property="og:image:height" content="{{ site.Params.ogImage.height | default 630 }}">
   {{- end }}

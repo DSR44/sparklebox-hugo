@@ -9,7 +9,8 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "I used to think my brain was broken. Not dramatically — not in a way that would show up on a scan or warrant sympathy...."
+description: "Your brain runs at Baseline Beta by default — reactive, scanning, performing. Learn the frequency hierarchy and why Alpha Prime is the upgrade Sparklebox maps."
+keywords: ["beta frequency", "brain frequency bands", "frequency upgrade", "cognitive upgrade", "theta state"]
 cover:
   image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
   alt: "Your brain is operating at Baseline Beta frequency — and you probably never chose the upgrade"

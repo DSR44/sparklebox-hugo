@@ -2,6 +2,14 @@
   "buildCommand": "npm install && npx hugo --minify",
   "outputDirectory": "public",
   "framework": null,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "sparklebox.blog" }],
+      "destination": "https://www.sparklebox.blog/:path*",
+      "permanent": true
+    }
+  ],
   "github": {
     "silent": true
   },

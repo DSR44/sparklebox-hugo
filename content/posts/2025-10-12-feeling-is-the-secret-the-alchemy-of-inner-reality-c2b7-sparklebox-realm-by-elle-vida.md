@@ -12,6 +12,8 @@ tags:
   - "neville goddard"
   - "transmutational alchemy"
 draft: false
+description: "Neville Goddard's feeling is the secret meets Sparklebox alchemy — how inner resonance and embodied feeling transmute assumption into lived reality."
+keywords: ["feeling is the secret", "Neville Goddard", "mental alchemy", "inner reality", "Sparklebox"]
 aliases:
   - "/feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida/"
 ---

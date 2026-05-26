@@ -1,0 +1,13 @@
+{{- $desc := "" -}}
+{{- with .Description -}}
+  {{- $desc = . | plainify -}}
+{{- else -}}
+  {{- if or .IsPage .IsSection -}}
+    {{- $desc = (.Summary | default site.Params.description | default (printf "%s — %s" .Title site.Title)) | plainify -}}
+  {{- else -}}
+    {{- with site.Params.description -}}
+      {{- $desc = . | plainify -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $desc | truncate 155 -}}

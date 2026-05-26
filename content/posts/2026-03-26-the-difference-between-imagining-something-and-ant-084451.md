@@ -8,7 +8,8 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "I used to think that if I could picture it clearly enough, it would have to come true. I would lie on the rug in..."
+description: "Imagination is present fulfilment; anticipation is future materialisation. Elle Vida explains why visualisation fails and how conscious anticipation selects timelines."
+keywords: ["anticipation theory", "imagination vs anticipation", "manifestation", "perception", "consciousness"]
 cover:
   image: "/generic-post-images/foggy-forest-1.jpg"
   alt: "The difference between imagining something and anticipating it (and why it matters)"

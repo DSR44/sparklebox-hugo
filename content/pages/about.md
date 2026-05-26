@@ -3,6 +3,7 @@ title: "About Sparklebox"
 slug: "about"
 date: 2025-10-15T00:00:00Z
 draft: false
+description: "About Elle Vida and Sparklebox — perception architecture, mental alchemy, the Frequency Upgrade, and tools for conscious reality-building."
 ---
 
 <style>

@@ -14,3 +14,18 @@
 <!-- Force index, follow for all pages -->
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title }},
+  "url": {{ site.Home.Permalink }},
+  "description": {{ site.Params.description | plainify | truncate 155 | safeHTML }},
+  "publisher": {
+    "@type": "Person",
+    "name": "Elle Vida",
+    "url": {{ site.Home.Permalink | safeHTML }}
+  }
+}
+</script>

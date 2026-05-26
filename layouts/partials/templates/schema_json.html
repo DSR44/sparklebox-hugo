@@ -1,0 +1,343 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+  "name": {{ site.Title }},
+  "url": {{ site.Home.Permalink }},
+  "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
+  {{- if (eq site.Params.schema.publisherType "Person") }}
+  "image": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  {{- else }}
+  "logo": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  {{- end }}
+  "sameAs": [
+    {{- if site.Params.schema.sameAs }}
+      {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ trim $e " " | jsonify }}{{ end }}
+    {{- else}}
+      {{ range $i, $e := site.Params.SocialIcons }}{{ if $i }}, {{ end }}{{ trim $e.url " " | safeURL }}{{ end }}
+    {{- end}}
+  ]
+}
+</script>
+{{- else if (or .IsPage .IsSection (eq .Kind "term") (eq .Kind "taxonomy")) }}
+{{- $url := replace .Parent.Permalink ( printf "%s" site.Home.Permalink) "" }}
+{{- $lang_url := strings.TrimPrefix ( printf "%s/" .Lang) $url }}
+{{- $bc_list := (split $lang_url "/")}}
+
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+  {{- range $index, $element := $bc_list }}
+
+    {{- $scratch.Add "path" (printf "%s/" $element ) | safeJS }}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+
+    {{- if (and ($bc_pg) (gt (len . ) 0))}}
+    {{- if (and $index)}}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add 1 $index  }},
+      "name": {{ $bc_pg.Name }},
+      "item": {{ $bc_pg.Permalink | safeHTML }}
+    }
+    {{- end }}
+
+  {{- end }}
+  {{- if (ge (len $bc_list) 2) }}, {{end }}
+    {
+      "@type": "ListItem",
+      "position": {{len $bc_list}},
+      "name": {{ .Name }},
+      "item": {{ .Permalink | safeHTML }}
+    }
+  ]
+}
+</script>
+{{- if eq .Kind "term" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }
+  }
+}
+</script>
+{{- else if eq .Kind "taxonomy" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }
+  }
+}
+</script>
+{{- end }}
+{{- if .IsPage }}
+{{- $slug := .Params.slug | default .File.BaseFileName }}
+{{- if eq .Section "posts" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["BlogPosting", "Article"],
+  "headline": {{ .Title | plainify}},
+  "name": "{{ .Title | plainify }}",
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ .Summary | plainify  }}{{ end -}},
+  "keywords": [
+    {{- if .Params.keywords }}
+    {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- else }}
+    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- end }}
+  ],
+  "articleBody": {{ .Content | safeJS | htmlUnescape | plainify }},
+  "wordCount" : "{{ .WordCount }}",
+  "inLanguage": {{ .Language.Lang | default "en-us" }},
+  {{ if .Params.cover.image -}}
+  "image":
+    {{- if (ne .Params.cover.relative true) -}}
+    {{ .Params.cover.image | absURL }},
+    {{- else -}}
+    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
+    {{- end}}
+  {{- else }}
+    {{- $images := partial "templates/_funcs/get-page-images" . -}}
+    {{- with index $images 0 -}}
+  "image": {{ .Permalink }},
+    {{- end }}
+  {{- end -}}
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": {{ (site.Params.author | default "Elle Vida") | plainify }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "{{- ( site.Params.schema.publisherType | default "Organization") | title -}}",
+    "name": {{ site.Title }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }
+  }
+}
+</script>
+{{- partial "schema_faq.html" . }}
+{{- else if eq $slug "about" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": {{ printf "About %s" site.Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "dateModified": {{ .Lastmod }},
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Elle Vida",
+    "description": "Creator of Sparklebox — perception architect, consciousness writer, and builder of the Constellation Compiler.",
+    "url": {{ .Permalink | safeHTML }},
+    "jobTitle": "Writer & Perception Architect",
+    "knowsAbout": ["Perception", "Consciousness", "Frequency States", "Sacred Geometry", "Mental Alchemy", "Anticipation Theory"],
+    "sameAs": [
+      {{- if site.Params.schema.sameAs }}
+      {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ trim $e " " | jsonify }}{{ end }}
+      {{- end }}
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": {{ site.Title }},
+      "url": {{ site.Home.Permalink | safeHTML }}
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }
+  }
+}
+</script>
+{{- else if eq $slug "privacy-policy" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "dateModified": {{ .Lastmod }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": {{ printf "%s#organization" site.Home.Permalink | safeHTML }},
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  }
+}
+</script>
+{{- else if eq $slug "start-here" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "dateModified": {{ .Lastmod }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Start reading Sparklebox (perception architecture path)",
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "From Assumptions to Alchemy: The Evolution of Sparklebox",
+      "url": {{ "/posts/2025/10/from-assumptions-to-alchemy-the-evolution-of-sparklebox/" | absURL | safeHTML }}
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Feeling is the Secret: The Alchemy of Inner Reality",
+      "url": {{ "/posts/2025/10/feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida/" | absURL | safeHTML }}
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "The difference between imagining and anticipating",
+      "url": {{ "/posts/2026/03/the-difference-between-imagining-something-and-anticipating-it-and-why-it-matters/" | absURL | safeHTML }}
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Your brain is operating at Baseline Beta frequency",
+      "url": {{ "/posts/2026/04/your-brain-is-operating-at-baseline-beta-frequency-and-you-probably-never-chose-the-upgrade/" | absURL | safeHTML }}
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "The mathematics behind how perception shifts",
+      "url": {{ "/posts/2026/05/i-mapped-the-mathematics-behind-how-perception-shifts-here-is-the-first-thing-i-found/" | absURL | safeHTML }}
+    }
+  ]
+}
+</script>
+{{- else if eq $slug "faq" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "dateModified": {{ .Lastmod }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  }
+}
+</script>
+{{- partial "schema_faq.html" . }}
+{{- else }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | plainify }},
+  "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+  "url": {{ .Permalink | safeHTML }},
+  "inLanguage": {{ .Language.Lang | default "en" | safeHTML }},
+  "dateModified": {{ .Lastmod }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.Title }},
+    "url": {{ site.Home.Permalink | safeHTML }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }
+  }
+}
+</script>
+{{- end }}
+{{- end }}{{/* .IsPage end */}}
+
+{{- end -}}

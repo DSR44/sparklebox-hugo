@@ -1,4 +1,4 @@
-baseURL = "https://sparklebox.blog/"
+baseURL = "https://www.sparklebox.blog/"
 languageCode = "en-us"
 title = "Sparklebox"
 theme = "PaperMod"
@@ -28,24 +28,29 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
+    name = "Start Here"
+    url = "/start-here/"
+    weight = 2
+
+  [[menu.main]]
     name = "Musebox"
     url = "/musebox-dreams/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Frequency Upgrade"
     url = "/frequency-upgrade/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Bazaar"
     url = "/the-sparkle-bazaar/"
-    weight = 5
+    weight = 6
 
   # Tools & more (dropdown)
   [[menu.main]]
@@ -79,15 +84,36 @@ theme = "PaperMod"
     weight = 11
 
   [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 13
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 12
+    weight = 14
 
 # PaperMod Theme Settings
 [params]
-  description = "✨ Sparklebox | Your portal to daily soft power, inner healing, and cosmic becoming."
+  homeTitle = "Sparklebox | Perception is Creation — Consciousness & Frequency"
+  description = "Sparklebox by Elle Vida: perception architecture, frequency upgrade, and consciousness tools. Where perception becomes creation."
   author = "Elle Vida"
+  hreflang = "en"
+  keywords = ["perception", "consciousness", "frequency upgrade", "mental alchemy", "Elle Vida", "Sparklebox"]
   disableThemeToggle = true
+
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://huggingface.co/spaces/FutureHAi/thedrift",
+      "https://constellationcompiler.art/"
+    ]
+
+  [params.ogImage]
+    width = 1200
+    height = 630
+
+  images = ["/favicon-32x32.png"]
   
   # PaperMod specific settings
   ShowReadingTime = false

@@ -1,0 +1,62 @@
+{{- define "main" }}
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header sb-page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="sb-page-intro">{{ .Description | plainify }}</p>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="post-content sb-hub-content">
+  {{- .Content }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+<div class="sb-posts-grid">
+{{- range $paginator.Pages }}
+<article class="sb-post-card">
+  <a href="{{ .Permalink }}" class="sb-post-card__link">
+    {{- if .Params.cover.image }}
+    <div class="sb-post-card__media">
+      <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+    </div>
+    {{- else }}
+    <div class="sb-post-card__media sb-post-card__media--placeholder"></div>
+    {{- end }}
+    <div class="sb-post-card__body">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      <h2>{{ .Title }}</h2>
+      {{- if ne (.Param "hideSummary") true }}
+      <p>{{ .Summary | plainify | truncate 120 }}</p>
+      {{- end }}
+      <span class="sb-post-card__cta">Read transmission →</span>
+    </div>
+  </a>
+</article>
+{{- end }}
+</div>
+
+{{- if gt $paginator.TotalPages 1 }}
+<nav class="sb-pagination" aria-label="Pagination">
+  {{- if $paginator.HasPrev }}
+  <a class="sb-pagination__btn" href="{{ $paginator.Prev.URL | absURL }}">← Previous</a>
+  {{- end }}
+  <span class="sb-pagination__info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+  {{- if $paginator.HasNext }}
+  <a class="sb-pagination__btn" href="{{ $paginator.Next.URL | absURL }}">Next →</a>
+  {{- end }}
+</nav>
+{{- end }}
+
+{{- end }}

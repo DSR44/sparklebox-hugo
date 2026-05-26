@@ -1,25 +1,39 @@
 {{- define "main" }}
-<div style="max-width: 900px !important; margin: 0 auto !important; padding: 2rem 1.5rem !important; width: 100% !important; display: block !important; position: relative !important;">
+<div class="sb-home-wrap">
     {{ .Content }}
 </div>
 
-<!-- Latest Posts Grid (scoped to homepage only) -->
-<div class="homepage-posts-grid" style="max-width: 1200px; margin: 2rem auto; padding: 0 1.5rem;">
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+<section class="sb-home-latest" aria-label="Latest transmissions">
+  <div class="sb-home-latest__header">
+    <span class="sb-explore-hub__eyebrow">From the archives</span>
+    <h2>Latest Transmissions</h2>
+    <p>Perception architecture, frequency science, and mystical essays — newest first.</p>
+    <a class="sb-btn" href="/posts/">View all posts →</a>
+  </div>
+  <div class="homepage-posts-grid">
+    <div class="sb-posts-grid sb-posts-grid--home">
         {{- range first 6 (where site.RegularPages "Type" "posts") }}
-        <a href="{{ .RelPermalink }}" class="homepage-post-card" style="text-decoration: none;">
+        <article class="sb-post-card">
+          <a href="{{ .RelPermalink }}" class="sb-post-card__link">
             {{- if .Params.cover.image }}
-            <div style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px 12px 0 0;">
-                <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;">
+            <div class="sb-post-card__media">
+              <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
             </div>
+            {{- else }}
+            <div class="sb-post-card__media sb-post-card__media--placeholder"></div>
             {{- end }}
-            <div style="padding: 1.5rem;">
-                <h3 style="font-family: 'Cinzel', serif; font-size: 1.1rem; margin-bottom: 0.5rem; color: #f1f5f9;">{{ .Title }}</h3>
-                <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.6;">{{ .Summary | truncate 120 }}</p>
-                <time style="color: #64748b; font-size: 0.85rem;">{{ .Date.Format "January 2, 2006" }}</time>
+            <div class="sb-post-card__body">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+              <h2>{{ .Title }}</h2>
+              <p>{{ .Summary | plainify | truncate 120 }}</p>
+              <span class="sb-post-card__cta">Read →</span>
             </div>
-        </a>
+          </a>
+        </article>
         {{- end }}
     </div>
-</div>
+  </div>
+</section>
+
+{{ partial "sb_explore_hub.html" . }}
 {{- end }}

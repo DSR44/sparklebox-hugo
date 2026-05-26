@@ -1,7 +1,7 @@
 {{- define "main" }}
 
 <article class="post-single">
-  <header class="post-header">
+  <header class="post-header sb-post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title entry-hint-parent">
       {{ .Title }}
@@ -44,11 +44,13 @@
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms $tags) }}
+    {{- with ($.GetTerms $tags) }}
+    <ul class="post-tags sb-tags">
+      {{- range . }}
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+    {{- end }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
@@ -60,6 +62,10 @@
   {{/* Observation Feed — appears on all posts unless disableObservations: true */}}
   {{- if and (eq .Section "posts") (ne .Params.disableObservations true) }}
   {{ partial "observation-feed.html" . }}
+  {{- end }}
+
+  {{- if and (eq .Section "posts") (ne .Params.disableExploreHub true) }}
+  {{ partial "sb_explore_hub.html" . }}
   {{- end }}
 
   {{- if (.Param "comments") }}

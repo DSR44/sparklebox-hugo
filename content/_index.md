@@ -2,18 +2,23 @@
 title: "Welcome to the Sparklebox Sanctuary"
 ---
 
-<div class="sanctuary-hero">
-<h1 class="sanctuary-title">Welcome to the Sparklebox Sanctuary</h1>
-<p class="sanctuary-subtitle">Where Perception Becomes Creation</p>
+<section class="sb-brand-hero">
+<div class="sb-brand-hero__glow" aria-hidden="true"></div>
+<img class="sb-brand-hero__visual" src="/images/sparklebox-og.png" alt="Sparklebox — Perception is Creation" width="1200" height="630" loading="eager">
+<div class="sb-brand-hero__copy">
+<p class="sb-brand-hero__eyebrow">Elle Vida · Sparklebox</p>
+<h1 class="sb-brand-hero__title">Perception is Creation</h1>
+<p class="sb-brand-hero__tagline">Ancient wisdom through a futuristic lens — AI muse, dream portals, novel theory, and the Frequency Upgrade. Mystical, automated, exclusive.</p>
+<div class="sb-brand-hero__actions">
+<a class="sb-btn sb-btn--primary" href="/the-dreamtoolkit/">Enter Dream Portals</a>
+<a class="sb-btn" href="/frequency-upgrade/">Frequency Upgrade</a>
+<a class="sb-btn" href="/musebox-dreams/">Musebox AI</a>
 </div>
+</div>
+</section>
 
-<div class="pyramid-container">
-<div class="pyramid-main">
-<div class="pyramid-face pyramid-face-1"></div>
-<div class="pyramid-face pyramid-face-2"></div>
-<div class="pyramid-face pyramid-face-3"></div>
-<div class="pyramid-eye"></div>
-</div>
+<div class="sanctuary-hero">
+<p class="sanctuary-subtitle">Where Perception Becomes Creation</p>
 </div>
 
 <p class="philosophy-statement">PERCEPTION IS CREATION</p>
@@ -149,12 +154,4 @@ title: "Welcome to the Sparklebox Sanctuary"
 </div>
 <p class="freq-hero-hint">5 spirals. 25 transmissions. One permanent recalibration.</p>
 <a href="/frequency-upgrade/" class="freq-hero-btn">Begin the Upgrade →</a>
-</div>
-
-<hr class="sanctuary-divider">
-
-<div style="text-align: center; margin: 3rem auto 2rem; max-width: 600px;">
-<h2 style="font-family: 'Cinzel', serif; font-size: 1.8rem; margin-bottom: 1rem;">Latest Transmissions</h2>
-<p style="color: rgba(255,255,255,0.75); font-size: 0.95rem;">Explore mystical wisdom and transformative insights from the archives.</p>
-<a href="/posts/" style="display: inline-block; margin-top: 1rem; color: #ec4899; font-weight: 500; text-decoration: none; border-bottom: 2px solid #ec4899; padding-bottom: 4px;">View All Posts →</a>
 </div>

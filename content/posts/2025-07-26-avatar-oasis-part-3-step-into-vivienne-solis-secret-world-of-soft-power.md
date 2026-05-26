@@ -4,8 +4,7 @@ date: 2025-07-26T07:36:01+0000
 
 slug: "avatar-oasis-part-3-step-into-vivienne-solis-secret-world-of-soft-power"
 categories:
-  - "Avatar Oasis"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

@@ -4,9 +4,7 @@ date: 2025-10-12T21:26:37+0000
 
 slug: "feeling-is-the-secret-the-alchemy-of-inner-reality-%c2%b7-sparklebox-realm-by-elle-vida"
 categories:
-  - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"
-  - "Elle Vidas Mirror Box"
-  - "Neville Goddard"
+  - "The Sparklebox Method"
 tags:
   - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"
   - "neville goddard"

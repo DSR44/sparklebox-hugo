@@ -4,9 +4,7 @@ date: 2025-04-21T07:40:00+0000
 
 slug: "dreamwalker-protagonist-a-journey-through-the-labyrinthine-mirror"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

@@ -4,7 +4,7 @@ date: 2025-06-27T08:29:00+0000
 
 slug: "%e2%9c%a8-elvidas-mirror-box-the-mirror-did-not-break-i-did"
 categories:
-  - "🪞 THE MIRROR HALL"
+  - "Sparklebox Realm"
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false

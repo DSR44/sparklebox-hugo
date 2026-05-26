@@ -4,9 +4,7 @@ date: 2025-03-26T16:45:00+0000
 
 slug: "%f0%9f%8c%99-day-3-within-yourself"
 categories:
-  - "7 Days Of Becoming"
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "daily affirmations"

@@ -2,9 +2,7 @@
 title: "The 7 Sacred Feminine Archetypes: A Portal to Remembering Your Sovereignty"
 date: 2025-10-18T04:59:22+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
-  - "Sacred Feminine"
+  - "Mystical Wisdom Series"
 tags:
   - "feminine-archetypes"
   - "goddesses"

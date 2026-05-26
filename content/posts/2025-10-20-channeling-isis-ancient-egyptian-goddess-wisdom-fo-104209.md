@@ -2,8 +2,7 @@
 title: "Channeling Isis: Ancient Egyptian Goddess Wisdom for Modern Women"
 date: 2025-10-20T05:42:09+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

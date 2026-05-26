@@ -29,6 +29,7 @@ cover:
   image: "/generic-post-images/leonardo-51.jpg"
   alt: "Modern Surrealism: How To Add Whimsy To Your Interior Design"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---Are you ready to bring **playfulness and creativity** into your home? One of **2025’s hottest interior trends**, **modern surrealism**, is making waves on Pinterest. This trend blends **art, fantasy, and unexpected design elements** to create a **dreamlike, visually striking space**.
 
 In this post, you’ll learn **how to embrace modern surrealism** with **bold decor ideas, fun color schemes, and unique design elements**.

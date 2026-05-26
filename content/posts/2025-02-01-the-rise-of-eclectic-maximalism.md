@@ -46,6 +46,7 @@ cover:
   image: "/generic-post-images/leonardo-28.jpg"
   alt: "The Rise of Eclectic Maximalism:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---![](/Primary-Play-The-Bold-Color-Trend-Transforming-Home-Interiors-2.-Statement-Furniture-Bold-Pieces-that-Pop.webp)
 
 ### **How to Embrace Bold, Vibrant Interiors in 2025**

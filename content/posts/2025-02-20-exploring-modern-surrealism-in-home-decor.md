@@ -24,6 +24,7 @@ cover:
   image: "/generic-post-images/indigo-stars-1.jpg"
   alt: "Exploring Modern Surrealism in Home Décor"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Modern Surrealism: The Pinterest-Famous Home Décor Trend That’s Changing Interiors
 
 Home décor is undergoing a bold transformation, and there's one trend that's making waves on Pinterest like never before—modern surrealism. From whimsical, dreamlike elements to bold juxtapositions that defy logic, this design approach is captivating interior design enthusiasts and sparking creativity across the globe.

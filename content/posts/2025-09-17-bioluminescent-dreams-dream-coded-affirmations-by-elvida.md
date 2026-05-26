@@ -4,8 +4,7 @@ date: 2025-09-17T08:01:51+0000
 
 slug: "bioluminescent-dreams-dream-coded-affirmations-by-elvida"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"

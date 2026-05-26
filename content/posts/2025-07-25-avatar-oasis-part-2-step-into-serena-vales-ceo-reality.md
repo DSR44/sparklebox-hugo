@@ -4,8 +4,7 @@ date: 2025-07-25T10:24:00+0000
 
 slug: "avatar-oasis-part-2-step-into-serena-vales-ceo-reality"
 categories:
-  - "Avatar Oasis"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

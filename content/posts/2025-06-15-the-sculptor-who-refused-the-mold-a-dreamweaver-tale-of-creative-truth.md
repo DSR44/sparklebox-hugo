@@ -4,8 +4,7 @@ date: 2025-06-15T08:30:00+0000
 
 slug: "the-sculptor-who-refused-the-mold-a-dreamweaver-tale-of-creative-truth"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞 THE MIRROR HALL"
+  - "Dream and Muse Tools"
 tags:
   - "dreamweaver tales"
   - "The Library of Dreams"

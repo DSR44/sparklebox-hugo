@@ -4,8 +4,7 @@ date: 2025-10-09T07:15:13+0000
 
 slug: "thehiddenworkfire"
 categories:
-  - "The Hidden Work · Inner Laboratory by Elle Vida"
-  - "The Sparklebox Method™"
+  - "The Sparklebox Method"
 tags:
   - "Calcination"
   - "The Hidden Work"

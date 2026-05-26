@@ -4,8 +4,7 @@ date: 2025-09-01T14:39:20+0000
 
 slug: "avatar-oasis-part-7-solene-the-sunbound-frequency"
 categories:
-  - "Avatar Oasis"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

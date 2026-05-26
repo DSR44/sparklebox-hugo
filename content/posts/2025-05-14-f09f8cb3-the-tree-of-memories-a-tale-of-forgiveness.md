@@ -4,9 +4,7 @@ date: 2025-05-14T06:53:33+0000
 
 slug: "%f0%9f%8c%b3-the-tree-of-memories-a-tale-of-forgiveness"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

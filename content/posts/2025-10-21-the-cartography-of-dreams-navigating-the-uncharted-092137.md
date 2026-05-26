@@ -3,8 +3,6 @@ title: "The Cartography of Dreams: Navigating the Uncharted Territories of the S
 date: 2025-10-21T04:21:37+00:00
 categories:
   - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
 tags:
   - "mystical-wisdom-series"
   - "mysticism"

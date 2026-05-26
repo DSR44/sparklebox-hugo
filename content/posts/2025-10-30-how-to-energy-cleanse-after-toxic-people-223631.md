@@ -3,8 +3,6 @@ title: "How to Energy-Cleanse After Toxic People"
 date: 2025-10-30T18:36:31+00:00
 categories:
   - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
 tags:
   - "mystical-wisdom-series"
   - "mysticism"

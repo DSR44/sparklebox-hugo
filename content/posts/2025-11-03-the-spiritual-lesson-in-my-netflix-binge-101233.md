@@ -2,8 +2,7 @@
 title: "The Spiritual Lesson in My Netflix Binge"
 date: 2025-11-03T06:12:33+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

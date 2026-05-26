@@ -4,10 +4,7 @@ date: 2025-05-18T08:49:07+0000
 
 slug: "%f0%9f%90%9e-the-secret-life-of-ladybugs-a-tale-of-tiny-magic-and-inner-light"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
-  - "🪞 THE MIRROR HALL"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

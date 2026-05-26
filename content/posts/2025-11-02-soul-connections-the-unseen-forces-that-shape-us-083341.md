@@ -3,8 +3,6 @@ title: "Soul Connections: The Unseen Forces that Shape Us"
 date: 2025-11-02T04:33:41+00:00
 categories:
   - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
 tags:
   - "mystical-wisdom-series"
   - "mysticism"

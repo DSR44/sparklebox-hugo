@@ -4,9 +4,7 @@ date: 2025-04-14T15:26:08+0000
 
 slug: "dreamsseedlings-of-reality"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "Wellness Through Dreamscapes"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

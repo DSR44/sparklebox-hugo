@@ -2,8 +2,7 @@
 title: "Harnessing Cosmic Energy for Daily Transformation"
 date: 2025-10-14T21:15:01+03:00
 categories:
-  - "Spirituality"
-  - "Energy Work"
+  - "Sparklebox Realm"
 tags:
   - "cosmic energy"
   - "transformation"

@@ -2,8 +2,7 @@
 title: "The 369 Method: Tesla's Manifestation Secret"
 date: 2025-10-20T17:36:54+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

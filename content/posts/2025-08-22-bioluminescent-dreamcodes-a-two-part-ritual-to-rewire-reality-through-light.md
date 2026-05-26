@@ -4,8 +4,7 @@ date: 2025-08-22T06:39:03+0000
 
 slug: "bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"

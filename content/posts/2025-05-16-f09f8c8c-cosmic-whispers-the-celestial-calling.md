@@ -4,9 +4,7 @@ date: 2025-05-16T09:18:49+0000
 
 slug: "%f0%9f%8c%8c-cosmic-whispers-the-celestial-calling"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🗺️ The Cartographer’s Wing"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

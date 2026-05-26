@@ -4,8 +4,7 @@ date: 2025-03-16T12:42:35+0000
 
 slug: "ai-dream-affirmations-for-confidence"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "Confidence Affirmations"
   - "Dreamcore Wellness"

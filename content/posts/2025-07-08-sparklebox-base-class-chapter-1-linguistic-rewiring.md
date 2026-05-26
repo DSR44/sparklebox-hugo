@@ -4,8 +4,7 @@ date: 2025-07-08T16:54:41+0000
 
 slug: "sparklebox-base-class-chapter-1-linguistic-rewiring"
 categories:
-  - "Sparklebox Base Class"
-  - "TheDreamToolkit"
+  - "The Sparklebox Method"
 tags:
   - "Linguistic rewiring"
   - "Sparklebox Base Class"

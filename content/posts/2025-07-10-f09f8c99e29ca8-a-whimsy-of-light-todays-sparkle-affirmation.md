@@ -4,8 +4,7 @@ date: 2025-07-10T08:53:33+0000
 
 slug: "%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation"
 categories:
-  - "TheDreamToolkit"
-  - "Whimsical Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "whimsical affirmations"

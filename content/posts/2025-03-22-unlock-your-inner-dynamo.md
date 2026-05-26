@@ -4,8 +4,7 @@ date: 2025-03-22T17:04:25+0000
 
 slug: "unlock-your-inner-dynamo"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "daily ai affirmations"

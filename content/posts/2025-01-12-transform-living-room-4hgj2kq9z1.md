@@ -19,6 +19,7 @@ keywords:
   - "transform"
   - "living"
   - "room"
+robotsNoIndex: true
 ---Rococo Revival decor captures the essence of luxury and vintage style, breathing new life into living spaces with its ornate details and grand aesthetics. 
 
 Imagine stepping into a room adorned with intricate moldings, sumptuous fabrics, and exquisite furniture that tells a story of elegance and sophistication. 

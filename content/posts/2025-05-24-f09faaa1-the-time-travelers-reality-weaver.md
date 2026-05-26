@@ -4,9 +4,7 @@ date: 2025-05-24T15:23:00+0000
 
 slug: "%f0%9f%aa%a1-the-time-travelers-reality-weaver"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🌀 The Time Labyrinth"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

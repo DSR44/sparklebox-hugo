@@ -20,6 +20,7 @@ keywords:
   - "self-care"
   - "beauty-rituals"
   - "aphrodite"
+robotsNoIndex: true
 ---You know that feeling when you're getting ready for a night out and you catch a glimpse of yourself in the mirror, and for a split second, you feel like a goddess? That's what Aphrodite's skincare ritual is all about - tapping into that inner glow, that spark of divine femininity that lives within us all.
 
 Look, I used to think that skincare was just about slapping on some moisturizer and calling it a day. But the more I learned about Aphrodite, the Greek goddess of love and beauty, the more I realized that skincare can be a powerful ritual for connecting with our own inner beauty and radiance. And yeah, it's not just about looking good - it's about feeling good, too.

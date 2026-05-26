@@ -4,7 +4,7 @@ date: 2025-06-13T15:47:00+0000
 
 slug: "where-the-blackbird-sings-a-tale-of-beauty-amid-the-chaos"
 categories:
-  - "🪞 THE MIRROR HALL"
+  - "Sparklebox Realm"
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false

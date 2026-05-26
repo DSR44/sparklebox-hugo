@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_cosmic_1013.png"
   alt: "Futuristic Architecture:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### Innovative Urban Designs
 
 As cities continue to evolve, so does the architecture that shapes them. The future of urban spaces is no longer confined to glass skyscrapers and steel bridges—it’s about sustainability, technology, and innovation. From **smart cities** to **gravity-defying structures**, futuristic architecture is pushing boundaries like never before.

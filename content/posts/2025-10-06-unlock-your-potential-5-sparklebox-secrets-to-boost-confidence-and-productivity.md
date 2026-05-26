@@ -4,8 +4,7 @@ date: 2025-10-06T06:25:02+0000
 
 slug: "unlock-your-potential-5-sparklebox-secrets-to-boost-confidence-and-productivity"
 categories:
-  - "Sparklebox Base Class"
-  - "TheDreamToolkit"
+  - "The Sparklebox Method"
 tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"

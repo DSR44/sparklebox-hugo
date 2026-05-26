@@ -4,9 +4,7 @@ date: 2025-04-26T16:19:00+0000
 
 slug: "sing-of-glimmers-and-healing"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

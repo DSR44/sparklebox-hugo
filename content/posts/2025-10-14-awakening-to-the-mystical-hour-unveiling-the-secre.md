@@ -2,7 +2,7 @@
 title: "Awakening to the Mystical Hour: Unveiling the Secrets of 3 AM 🌙✨"
 date: 2025-10-14T10:00:00+00:00
 categories:
-  - "Transmutational Alchemy"
+  - "Sparklebox Realm"
 tags:
   - "spirituality"
   - "alchemy"

@@ -4,9 +4,7 @@ date: 2025-04-09T08:16:00+0000
 
 slug: "embracing-universal-abundance-unlocking-the-power-of-unwavering-trust"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

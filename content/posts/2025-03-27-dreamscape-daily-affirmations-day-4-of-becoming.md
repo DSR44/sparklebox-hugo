@@ -4,9 +4,7 @@ date: 2025-03-27T16:31:00+0000
 
 slug: "dreamscape-daily-affirmations-day-4-of-becoming"
 categories:
-  - "7 Days Of Becoming"
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "daily affirmations"

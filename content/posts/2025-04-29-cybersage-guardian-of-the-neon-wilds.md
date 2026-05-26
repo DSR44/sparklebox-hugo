@@ -4,9 +4,7 @@ date: 2025-04-29T08:13:16+0000
 
 slug: "cybersage-guardian-of-the-neon-wilds"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🌀 The Time Labyrinth"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

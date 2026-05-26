@@ -4,9 +4,7 @@ date: 2025-04-13T06:33:03+0000
 
 slug: "%f0%9f%aa%9emirrored-minds-the-dance-of-detachment-a-path-to-inner-success"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "Wellness Through Dreamscapes"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "dreamweaver tales"

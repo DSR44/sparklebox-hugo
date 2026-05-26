@@ -4,8 +4,7 @@ date: 2025-03-17T14:30:55+0000
 
 slug: "step-into-your-brilliance"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "Affirmations for Confidence"
   - "Dreamlike Inspiration"

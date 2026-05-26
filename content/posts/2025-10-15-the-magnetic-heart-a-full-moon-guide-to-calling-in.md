@@ -2,8 +2,7 @@
 title: "The Magnetic Heart: A Full Moon Guide to Calling in Your Soulmate"
 date: 2025-10-15T08:00:00+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

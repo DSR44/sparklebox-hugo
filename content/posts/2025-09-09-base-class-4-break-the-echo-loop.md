@@ -4,8 +4,7 @@ date: 2025-09-09T16:41:47+0000
 
 slug: "base-class-4-break-the-echo-loop"
 categories:
-  - "Sparklebox Base Class"
-  - "TheDreamToolkit"
+  - "The Sparklebox Method"
 tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"

@@ -4,9 +4,7 @@ date: 2025-04-25T10:01:02+0000
 
 slug: "the-glass-slipper-and-the-whispered-promise-of-hope"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

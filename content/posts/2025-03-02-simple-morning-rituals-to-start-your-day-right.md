@@ -23,6 +23,7 @@ cover:
   image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"
   alt: "Simple Morning Rituals to Start Your Day Right"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Simple Morning Rituals for a Happier, Healthier Start
 
 Mornings can often feel like a whirlwind. Alarms blaring, emails pinging, and the never-ending rush to get out the door—it’s no wonder many of us start the day stressed before it even begins. But what if mornings didn’t have to feel this way? With just a few intentional practices, you can transform your mornings into a peaceful foundation for a happier, healthier day.

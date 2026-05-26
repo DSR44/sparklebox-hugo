@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/foggy-forest-1.jpg"
   alt: "🪞Mirrored Minds 📜 A Reflection of Reality 🌊"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---As we gaze into the mirrored halls of our minds, we discover that the only reflection we truly see is the one we've created ourselves. Florence's wise words echo through the chambers of our consciousness, reminding us that **"Man can only receive what he sees himself receiving."** It's a powerful truth that whispers to us of the transformative power of visualization.
 
 ### **Weaving Reality with Mental Imagery 🎨**

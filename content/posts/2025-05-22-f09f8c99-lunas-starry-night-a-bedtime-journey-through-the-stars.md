@@ -4,9 +4,7 @@ date: 2025-05-22T16:06:00+0000
 
 slug: "%f0%9f%8c%99-lunas-starry-night-a-bedtime-journey-through-the-stars"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🗺️ The Cartographer’s Wing"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

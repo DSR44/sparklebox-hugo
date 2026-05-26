@@ -2,8 +2,7 @@
 title: "Moon Magic Test: Unveiling the Lunar Gates of Perception"
 date: 2025-10-21T04:02:06+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

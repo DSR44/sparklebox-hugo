@@ -4,8 +4,7 @@ date: 2025-10-06T08:12:20+0000
 
 slug: "%f0%9f%8c%88-from-lead-to-gold-the-art-of-inner-transformation"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Linguistic rewiring"

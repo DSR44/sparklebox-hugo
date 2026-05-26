@@ -4,7 +4,7 @@ date: 2025-09-14T07:47:10+0000
 
 slug: "loneliness-in-a-numb-world-elle-vidas-mirror-box"
 categories:
-  - "Elle Vidas Mirror Box"
+  - "The Sparklebox Method"
 tags:
   - "Elle Vida's Mirror Box 📦"
   - "Loneliness in Modern Life"

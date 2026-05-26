@@ -4,7 +4,7 @@ date: 2025-09-12T08:29:18+0000
 
 slug: "what-if-youre-not-lost-just-outgrowing-the-script"
 categories:
-  - "Elle Vidas Mirror Box"
+  - "The Sparklebox Method"
 tags:
   - "Elle Vida's Mirror Box 📦"
   - "spiritual wellness"

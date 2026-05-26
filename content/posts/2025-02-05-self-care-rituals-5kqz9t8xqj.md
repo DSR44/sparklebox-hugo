@@ -19,6 +19,7 @@ keywords:
   - "care"
   - "rituals"
   - "channel"
+robotsNoIndex: true
 ---In a world that often demands more than we can give, the importance of self-care cannot be overstated. 
 
 This listicle invites you to embrace your inner goddess with 21 divine self-care rituals designed to elevate your beauty and nurture your spirit. 

@@ -4,8 +4,7 @@ date: 2025-08-10T11:05:48+0000
 
 slug: "sacred-transformation-mysteries-in-whispered-alignment"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "TheDreamToolkit"

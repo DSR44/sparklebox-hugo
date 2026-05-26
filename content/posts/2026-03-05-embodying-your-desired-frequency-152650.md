@@ -56,3 +56,9 @@ You don't need to become someone else. You don't need to fix yourself. You only 
 • [The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/) — Mental Alchemy Guide
 • [Musebox](/musebox-dreams/) — Affirmations & Visual Rituals
 • [Soundbox](/soundbox/) — Healing Frequencies
+---
+
+**⚡ Part of [The Frequency Upgrade](/frequency-upgrade/)** — Elle Vida's series on cognitive frequency bands, perception architecture, and the path from Baseline Beta to Alpha Prime.
+
+→ [Browse the full series](/frequency-upgrade/) · [Start Here](/start-here/) · [FAQ](/faq/)
+

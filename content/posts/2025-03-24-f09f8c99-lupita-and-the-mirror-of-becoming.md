@@ -4,10 +4,7 @@ date: 2025-03-24T18:25:00+0000
 
 slug: "%f0%9f%8c%99-lupita-and-the-mirror-of-becoming"
 categories:
-  - "7 Days Of Becoming"
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
-  - "Wysteria Collection"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "Dreamscape"

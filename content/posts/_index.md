@@ -23,11 +23,13 @@ If you're exploring how **perception shapes reality**, you're in the right place
 - **[Frequency Upgrade](/frequency-upgrade/)** — the flagship campaign hub
 - **[Categories](/categories/)** · **[Tags](/tags/)** — browse by topic
 
-## Featured series
+## Featured series (five pillars)
 
 - [The Sparklebox Method](/categories/the-sparklebox-method/) — foundational philosophy
+- [The Frequency Upgrade](/frequency-upgrade/) — cognitive frequency campaign
+- [Sparklebox Realm](/categories/sparklebox-realm/) — perception & consciousness essays
 - [Mystical Wisdom Series](/categories/mystical-wisdom-series/) — ancient teachings
-- [Sparklebox Base Class](/tags/sparklebox-base-class/) — structured learning chapters
+- [Dream and Muse Tools](/categories/dream-and-muse-tools/) — Musebox, Dream Toolkit, affirmations
 
 ---
 

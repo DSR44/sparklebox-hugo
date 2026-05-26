@@ -2,7 +2,7 @@
 title: "Unlocking the Secrets of Transmutational Alchemy: A Journey of Spiritual Transformation"
 date: 2025-10-14T09:00:00+00:00
 categories:
-  - "Transmutational Alchemy"
+  - "Sparklebox Realm"
 tags:
   - "spirituality"
   - "alchemy"

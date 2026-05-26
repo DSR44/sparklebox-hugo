@@ -2,7 +2,6 @@
 title: "The Reality Architecture: How Our Beliefs Shape the World Around Us"
 date: 2025-12-17T17:15:20+00:00
 categories:
-  - "The Perception Engine"
   - "Sparklebox Realm"
 tags:
   - "perception"

@@ -4,10 +4,7 @@ date: 2025-05-26T18:30:00+0000
 
 slug: "%f0%9f%8c%95-moonlit-wings-a-tale-from-the-vale-of-sorelia"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞 THE MIRROR HALL"
-  - "The Library of Dreams 📜"
-  - "Wellness Through Dreamscapes"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

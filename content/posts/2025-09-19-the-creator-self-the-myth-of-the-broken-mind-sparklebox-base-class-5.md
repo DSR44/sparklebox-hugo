@@ -4,8 +4,7 @@ date: 2025-09-19T09:05:34+0000
 
 slug: "the-creator-self-the-myth-of-the-broken-mind-sparklebox-base-class-5"
 categories:
-  - "Sparklebox Base Class"
-  - "TheDreamToolkit"
+  - "The Sparklebox Method"
 tags:
   - "identity work"
   - "self concept"

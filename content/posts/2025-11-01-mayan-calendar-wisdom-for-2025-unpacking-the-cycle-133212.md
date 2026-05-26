@@ -3,8 +3,6 @@ title: "Mayan Calendar Wisdom for 2025: Unpacking the Cycles of Time"
 date: 2025-11-01T09:32:12+00:00
 categories:
   - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
 tags:
   - "mystical-wisdom-series"
   - "mysticism"

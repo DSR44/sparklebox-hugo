@@ -4,8 +4,7 @@ date: 2025-06-17T08:46:00+0000
 
 slug: "%f0%9f%95%af%ef%b8%8f-title-the-mirror-without-a-frame"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞 THE MIRROR HALL"
+  - "Dream and Muse Tools"
 tags:
   - "The Mirror Hall Collection 🌹"
 draft: false

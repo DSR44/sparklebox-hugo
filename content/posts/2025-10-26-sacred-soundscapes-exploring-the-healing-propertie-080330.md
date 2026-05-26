@@ -2,8 +2,7 @@
 title: "Sacred Soundscapes: Exploring the Healing Properties of Binaural Beats and Isochronic Tones for Meditation and Spiritual Growth"
 date: 2025-10-26T04:03:30+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

@@ -4,9 +4,7 @@ date: 2025-04-10T07:43:00+0000
 
 slug: "mirrored-minds-attracting-abundance-through-divine-alignment"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

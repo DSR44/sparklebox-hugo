@@ -4,8 +4,7 @@ date: 2025-06-04T12:19:22+0000
 
 slug: "libra-divine-balance-oracle"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "dreamweaver tales"

@@ -4,8 +4,7 @@ date: 2025-04-19T07:40:00+0000
 
 slug: "lunas-guide-to-cosmic-cartography-and-inner-peace"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🗺️ The Cartographer’s Wing"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

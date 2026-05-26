@@ -4,10 +4,7 @@ date: 2025-05-10T07:25:21+0000
 
 slug: "%f0%9f%95%b0%ef%b8%8f-the-clockmaker-of-vespara-a-tale-of-quiet-gratitude"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
-  - "🪞 THE MIRROR HALL"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

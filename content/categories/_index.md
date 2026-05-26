@@ -13,12 +13,12 @@ Sparklebox is a **consciousness & perception architecture** blog — not a lifes
 | **The Frequency Upgrade** | Cognitive frequency bands (Beta → Alpha Prime) | [Browse →](/categories/the-frequency-upgrade/) · [Hub](/frequency-upgrade/) |
 | **Sparklebox Realm** | Core philosophy essays — perception, anticipation, body | [Browse →](/categories/sparklebox-realm/) |
 | **Mystical Wisdom** | Ancient teachings through a futuristic lens | [Browse →](/categories/mystical-wisdom-series/) |
-| **Dream & Muse Tools** | Musebox, Dream Toolkit, visual frequency language | [Musebox](/musebox-dreams/) · [Dream Portals](/the-dreamtoolkit/) |
+| **Dream and Muse Tools** | Musebox, Dream Toolkit, visual frequency language | [Browse →](/categories/dream-and-muse-tools/) · [Musebox](/musebox-dreams/) |
 
 ## Supporting series
 
 - [Daily Affirmations](/categories/daily-affirmations/) — homepage transmissions (body-first language)
-- [Dreamweaver's Tales](/categories/dreamweavers-tales/) — narrative dream essays
+- [Dreamweaver's Tales](/categories/dream-and-muse-tools/) — narrative dream essays (pillar: Dream and Muse Tools)
 - [Ancient Wisdom](/categories/ancient-wisdom/) — cross-cultural inner maps
 - [Transmutational Alchemy](/categories/transmutational-alchemy/) — shadow and initiation work
 

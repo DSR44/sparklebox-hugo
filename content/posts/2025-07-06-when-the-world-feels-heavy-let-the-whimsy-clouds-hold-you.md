@@ -4,8 +4,7 @@ date: 2025-07-06T08:52:00+0000
 
 slug: "when-the-world-feels-heavy-let-the-whimsy-clouds-hold-you"
 categories:
-  - "Daily Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Dreamcore Wellness"

@@ -4,8 +4,7 @@ date: 2025-07-28T08:37:13+0000
 
 slug: "avatar-oasis-part-5-nova-saints-velvet-discipline-reality"
 categories:
-  - "Avatar Oasis"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

@@ -4,10 +4,7 @@ date: 2025-05-12T10:29:42+0000
 
 slug: "%f0%9f%8e%a8-the-painter-of-possible-worlds"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
-  - "🪞 THE MIRROR HALL"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

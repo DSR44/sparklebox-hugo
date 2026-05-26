@@ -4,9 +4,7 @@ date: 2025-07-24T08:23:25+0000
 
 slug: "avatar-oasis-part-1-step-into-celestes-dream-life"
 categories:
-  - "Avatar Oasis"
-  - "Dreamweaver’s Tales"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

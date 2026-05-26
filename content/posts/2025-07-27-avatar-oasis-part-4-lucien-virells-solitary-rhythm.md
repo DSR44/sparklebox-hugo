@@ -4,8 +4,7 @@ date: 2025-07-27T10:06:37+0000
 
 slug: "avatar-oasis-part-4-lucien-virells-solitary-rhythm"
 categories:
-  - "Avatar Oasis"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Avatar Oasis"
   - "identity work"

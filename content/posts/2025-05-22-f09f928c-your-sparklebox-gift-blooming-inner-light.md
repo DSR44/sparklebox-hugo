@@ -4,7 +4,7 @@ date: 2025-05-22T16:22:38+0000
 
 slug: "%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light"
 categories:
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 draft: false
 aliases:
   - "/%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light/"

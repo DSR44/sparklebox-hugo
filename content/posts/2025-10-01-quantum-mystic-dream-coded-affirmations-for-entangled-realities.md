@@ -4,8 +4,7 @@ date: 2025-10-01T14:15:59+0000
 
 slug: "quantum-mystic-dream-coded-affirmations-for-entangled-realities"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"

@@ -4,8 +4,7 @@ date: 2025-05-29T08:15:34+0000
 
 slug: "%e2%99%89%ef%b8%8f-taurus-grounding-the-anchor-in-chaos"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "🔮 The Oracle’s Grove"

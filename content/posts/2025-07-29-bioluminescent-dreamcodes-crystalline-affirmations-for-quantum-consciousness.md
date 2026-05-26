@@ -4,9 +4,7 @@ date: 2025-07-29T11:47:03+0000
 
 slug: "bioluminescent-dreamcodes-crystalline-affirmations-for-quantum-consciousness"
 categories:
-  - "Dreamweaver’s Tales"
-  - "Liminal Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Dream Coded Affirmations"
   - "Liminal Affirmations"

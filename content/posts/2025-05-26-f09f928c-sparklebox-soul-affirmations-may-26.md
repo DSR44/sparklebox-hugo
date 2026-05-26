@@ -4,7 +4,7 @@ date: 2025-05-26T08:37:18+0000
 
 slug: "%f0%9f%92%8c-sparklebox-soul-affirmations-may-26"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamscape"

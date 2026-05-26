@@ -4,9 +4,7 @@ date: 2025-05-19T13:03:00+0000
 
 slug: "%f0%9f%a7%9e%e2%99%82%ef%b8%8f-the-bottle-between-realities-a-tale-of-thought-and-dream"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

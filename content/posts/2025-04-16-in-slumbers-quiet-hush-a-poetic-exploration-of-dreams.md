@@ -4,8 +4,7 @@ date: 2025-04-16T11:06:45+0000
 
 slug: "in-slumbers-quiet-hush-a-poetic-exploration-of-dreams"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "Dreamcore Wellness"
   - "Dreamscape"

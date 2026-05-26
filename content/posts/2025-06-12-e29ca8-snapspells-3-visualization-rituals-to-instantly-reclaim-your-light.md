@@ -4,7 +4,7 @@ date: 2025-06-12T08:30:54+0000
 
 slug: "%e2%9c%a8-snapspells-3-visualization-rituals-to-instantly-reclaim-your-light"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "SnapSpells"
 draft: false

@@ -4,8 +4,7 @@ date: 2025-06-02T09:31:48+0000
 
 slug: "oracles-growth-day-5-of-12"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "dreamweaver tales"

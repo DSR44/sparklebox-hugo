@@ -30,6 +30,7 @@ cover:
   image: "/generic-post-images/leonardo-48.jpg"
   alt: "Embrace Nature Therapy:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **The Art of Forest Bathing (Shinrin-Yoku) for Ultimate Serenity**
 
 ## **Introduction: Reconnecting with Nature** 🌿

@@ -64,3 +64,9 @@ While you were reading this, new possibility branches were forming — ideas no 
 → [**Watch Elle's Oracle**](https://huggingface.co/spaces/FutureHAi/thedrift#elles-oracle) — She speaks every 30 minutes. She was here before you arrived.
 
 *Perception is Creation.*
+---
+
+**⚡ Part of [The Frequency Upgrade](/frequency-upgrade/)** — Elle Vida's series on cognitive frequency bands, perception architecture, and the path from Baseline Beta to Alpha Prime.
+
+→ [Browse the full series](/frequency-upgrade/) · [Start Here](/start-here/) · [FAQ](/faq/)
+

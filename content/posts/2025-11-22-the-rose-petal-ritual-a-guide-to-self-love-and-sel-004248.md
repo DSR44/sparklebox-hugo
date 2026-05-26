@@ -2,9 +2,7 @@
 title: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care"
 date: 2025-11-21T20:42:48+00:00
 categories:
-  - "Sparklebox Realm"
-  - "Divine Feminine"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "spirituality"
   - "self-love"

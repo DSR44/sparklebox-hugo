@@ -4,7 +4,7 @@ date: 2025-05-29T17:53:34+0000
 
 slug: "%e2%9c%a8-the-golden-unfolding-a-journey-of-letting-go"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

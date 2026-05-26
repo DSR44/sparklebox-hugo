@@ -4,8 +4,7 @@ date: 2025-09-25T09:44:31+0000
 
 slug: "dream-coded-affirmations-for-boosting-confidence-and-achieving-success"
 categories:
-  - "Dream Coded Affirmations"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Boosting Confidence"
   - "Dream Coded Affirmations"

@@ -4,9 +4,7 @@ date: 2025-03-25T16:18:00+0000
 
 slug: "%f0%9f%8c%99-day-2-7-days-of-becoming"
 categories:
-  - "7 Days Of Becoming"
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "daily affirmations"

@@ -4,9 +4,7 @@ date: 2025-03-24T01:33:36+0000
 
 slug: "unlock-the-magic-of-the-dreamweaver-within"
 categories:
-  - "Daily Affirmations"
-  - "Dreamwave"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "daily ai affirmations"

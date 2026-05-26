@@ -4,7 +4,7 @@ date: 2025-06-13T17:21:27+0000
 
 slug: "%f0%9f%97%9d%ef%b8%8f-unlocking-your-inner-sparklebox"
 categories:
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "TheDreamToolkit"
 draft: false

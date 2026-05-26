@@ -4,8 +4,7 @@ date: 2025-10-07T07:56:00+0000
 
 slug: "mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox"
 categories:
-  - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"
-  - "Elle Vidas Mirror Box"
+  - "Mystical Wisdom Series"
 tags:
   - "🜂 ELVIDA’S MIRROR BOX: THE ALCHEMICAL DESCENT"
   - "Elle Vida's Mirror Box 📦"

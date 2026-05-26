@@ -3,8 +3,6 @@ title: "Mystical Wisdom for Your Journey - Vol. 4"
 date: 2025-10-19T14:24:01+00:00
 categories:
   - "Mystical Wisdom Series"
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
 tags:
   - "mystical-wisdom-series"
   - "mysticism"

@@ -2,8 +2,7 @@
 title: "Sacred Geometry: The Hidden Code of the Universe"
 date: 2025-10-23T04:19:29+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

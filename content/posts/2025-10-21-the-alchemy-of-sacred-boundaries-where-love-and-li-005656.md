@@ -2,8 +2,7 @@
 title: "The Alchemy of Sacred Boundaries: Where Love and Limitation Entwine"
 date: 2025-10-20T19:56:56+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

@@ -4,7 +4,7 @@ date: 2025-06-09T20:19:06+0000
 
 slug: "%f0%9f%8e%a0-20-whimsical-affirmations-to-enchant-your-inner-world"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

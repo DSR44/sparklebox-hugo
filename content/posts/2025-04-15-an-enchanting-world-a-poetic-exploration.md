@@ -4,7 +4,7 @@ date: 2025-04-15T13:05:19+0000
 
 slug: "an-enchanting-world-a-poetic-exploration"
 categories:
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "library of dreams"
   - "self reflection"

@@ -4,8 +4,7 @@ date: 2025-03-31T18:09:39+0000
 
 slug: "the-weaver-of-shadows"
 categories:
-  - "7 Days Of Becoming"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "daily affirmations"

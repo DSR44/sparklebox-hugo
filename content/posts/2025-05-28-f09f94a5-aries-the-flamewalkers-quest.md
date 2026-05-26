@@ -4,8 +4,7 @@ date: 2025-05-28T10:34:34+0000
 
 slug: "%f0%9f%94%a5-aries-the-flamewalkers-quest"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "dreamweaver tales"

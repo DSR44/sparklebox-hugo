@@ -4,8 +4,7 @@ date: 2025-04-08T05:14:28+0000
 
 slug: "%f0%9f%aa%9e%e2%9c%a8mirrored-minds-%f0%9f%aa%9e%e2%9c%a8-the-boomerang-wisdom-of-life"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "daily ai affirmations"
   - "Florence Scovel Shinn"

@@ -4,7 +4,7 @@ date: 2025-05-31T12:18:26+0000
 
 slug: "%e2%99%8b%ef%b8%8f-cancer-the-healing-waters-of-emotional-truth-oracle-growth-series-day-3"
 categories:
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "dreamweaver tales"

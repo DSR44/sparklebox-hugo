@@ -23,6 +23,7 @@ cover:
   image: "/generic-post-images/leonardo-10.jpg"
   alt: "Beginner’s Guide to the 75 Soft Challenge"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### **Navigating the 75 Soft Challenge: A Beginner’s Guide to a Balanced Wellness Journey**
 
 Finding Success in Simplicity

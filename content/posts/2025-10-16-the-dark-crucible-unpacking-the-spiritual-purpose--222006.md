@@ -2,8 +2,7 @@
 title: "The Dark Crucible: Unpacking the Spiritual Purpose of Your Worst Year"
 date: 2025-10-16T17:20:06+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

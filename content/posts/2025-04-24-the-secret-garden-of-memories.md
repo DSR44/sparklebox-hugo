@@ -4,9 +4,7 @@ date: 2025-04-24T05:54:50+0000
 
 slug: "the-secret-garden-of-memories"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
-  - "The Library of Dreams 📜"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "Dreamscape"

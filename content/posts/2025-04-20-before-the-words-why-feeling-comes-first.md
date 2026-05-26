@@ -4,8 +4,7 @@ date: 2025-04-20T09:01:51+0000
 
 slug: "before-the-words-why-feeling-comes-first"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "Florence Scovel Shinn"
   - "mirrored minds"

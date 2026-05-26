@@ -4,8 +4,7 @@ date: 2025-04-17T07:15:00+0000
 
 slug: "the-singularitys-orphans-a-tale-of-sparkling-souls"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🌀 The Time Labyrinth"
+  - "Dream and Muse Tools"
 tags:
   - "dreamweaver tales"
   - "🌀 The Time Labyrinth"

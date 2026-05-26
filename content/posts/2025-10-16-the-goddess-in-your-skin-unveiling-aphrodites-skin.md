@@ -20,6 +20,7 @@ keywords:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
+robotsNoIndex: true
 ---There's a version of you that already knows the secret to radiant, glowing skin - a version that's been whispered to by the ancient priestesses of love and beauty. You've felt her presence in the mirror, when the gaze of self-love and self-acceptance meets the reflection of your own skin, and for a fleeting moment, you see the goddess that you are.
 
 ## The Hidden Mechanism

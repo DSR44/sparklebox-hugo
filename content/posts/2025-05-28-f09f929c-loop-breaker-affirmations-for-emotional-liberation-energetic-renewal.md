@@ -4,7 +4,7 @@ date: 2025-05-28T16:39:02+0000
 
 slug: "%f0%9f%92%9c-loop-breaker-affirmations-for-emotional-liberation-energetic-renewal"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

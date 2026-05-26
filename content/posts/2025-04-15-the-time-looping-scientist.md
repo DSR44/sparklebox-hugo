@@ -4,8 +4,7 @@ date: 2025-04-15T19:25:47+0000
 
 slug: "the-time-looping-scientist"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🌀 The Time Labyrinth"
+  - "Dream and Muse Tools"
 tags:
   - "dreamweaver"
   - "dreamweaver tales"

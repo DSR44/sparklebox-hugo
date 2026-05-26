@@ -4,8 +4,7 @@ date: 2025-04-18T07:43:00+0000
 
 slug: "the-whispering-woods-a-tale-of-ancient-prophecies-and-timeless-wisdom"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "daily ai affirmations"
   - "Dreamscape"

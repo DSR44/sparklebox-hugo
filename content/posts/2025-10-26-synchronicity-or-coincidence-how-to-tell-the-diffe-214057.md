@@ -2,8 +2,7 @@
 title: "Synchronicity or Coincidence: How to Tell the Difference"
 date: 2025-10-26T17:40:57+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

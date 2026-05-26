@@ -4,9 +4,7 @@ date: 2025-03-30T06:07:58+0000
 
 slug: "%f0%9f%8c%99-day-6-of-becoming-the-whispering-oracles-heartbeat"
 categories:
-  - "7 Days Of Becoming"
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "7 Days Of Becoming"
   - "daily affirmations"

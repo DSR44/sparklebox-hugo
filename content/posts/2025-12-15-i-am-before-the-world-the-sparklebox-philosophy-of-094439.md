@@ -2,7 +2,6 @@
 title: "I Am Before the World: The Sparklebox Philosophy of Perceptive Creation"
 date: 2025-12-15T05:44:39+00:00
 categories:
-  - "The Perception Engine"
   - "Mystical Wisdom Series"
 tags:
   - "perception"

@@ -4,7 +4,7 @@ date: 2025-02-15T12:10:45+0000
 
 slug: "18-powerful-mindset-shifts-you-need-to-embrace-for-ultimate-success"
 categories:
-  - "Mindset"
+  - "Sparklebox Realm"
 tags:
   - "healthy living"
   - "how to"

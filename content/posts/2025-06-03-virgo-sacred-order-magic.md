@@ -4,8 +4,7 @@ date: 2025-06-03T08:30:54+0000
 
 slug: "virgo-sacred-order-magic"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🔮 The Oracle’s Grove"
+  - "Mystical Wisdom Series"
 tags:
   - "#OraclesGrowth"
   - "dreamweaver tales"

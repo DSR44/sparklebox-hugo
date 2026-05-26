@@ -2,8 +2,7 @@
 title: "The Memory of Water: Unraveling the Mysteries of Our Collective Unconscious"
 date: 2025-10-21T04:23:43+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

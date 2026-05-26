@@ -4,7 +4,7 @@ date: 2025-10-08T17:12:27+0000
 
 slug: "from-assumptions-to-alchemy-the-evolution-of-sparklebox"
 categories:
-  - "The Sparklebox Method™"
+  - "The Sparklebox Method"
 tags:
   - "The Hidden Work"
   - "The Sparklebox Method™"

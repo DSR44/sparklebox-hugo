@@ -4,8 +4,7 @@ date: 2025-03-18T12:14:25+0000
 
 slug: "awaken-your-radiance"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
+  - "Dream and Muse Tools"
 tags:
   - "Confidence Affirmations"
   - "daily affirmations"

@@ -4,8 +4,7 @@ date: 2025-05-05T06:47:22+0000
 
 slug: "%f0%9f%8c%ab%ef%b8%8f-the-enigma-within-a-dreamscape-journey-through-identity-and-illusion"
 categories:
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "Dreamcore Wellness"
   - "dreamweaver tales"

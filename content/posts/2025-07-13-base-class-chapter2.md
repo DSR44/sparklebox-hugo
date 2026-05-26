@@ -4,9 +4,7 @@ date: 2025-07-13T14:19:00+0000
 
 slug: "base-class-chapter2"
 categories:
-  - "Dreamweaver’s Tales"
-  - "Sparklebox Base Class"
-  - "TheDreamToolkit"
+  - "Dream and Muse Tools"
 tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"

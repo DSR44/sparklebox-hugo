@@ -107,6 +107,11 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
   [params.schema]
     publisherType = "Person"
     sameAs = [
+      "https://www.sparklebox.blog/",
+      "https://sparkleboxblog.gumroad.com",
+      "https://www.instagram.com/sparklebox_by_elle_vida_/",
+      "https://www.pinterest.com/blingsp444/",
+      "https://www.youtube.com/@dreamweavertales_sparklebox",
       "https://huggingface.co/spaces/FutureHAi/thedrift",
       "https://constellationcompiler.art/"
     ]

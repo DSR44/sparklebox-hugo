@@ -50,6 +50,15 @@ Elle Vida is a writer, perception architect, and creator of Sparklebox — build
 - [Start Here](/start-here/)
 - [Contact](/contact/)
 
+## Connect with Elle Vida
+
+- [Instagram](https://www.instagram.com/sparklebox_by_elle_vida_/)
+- [Pinterest](https://www.pinterest.com/blingsp444/)
+- [YouTube — Dreamweaver Tales](https://www.youtube.com/@dreamweavertales_sparklebox)
+- [Gumroad — Sparkle Bazaar](https://sparkleboxblog.gumroad.com)
+- [The Drift & Oracle](https://huggingface.co/spaces/FutureHAi/thedrift)
+- [Constellation Compiler](https://constellationcompiler.art/)
+
 <blockquote class="sb-quote">In the space between thought and reality lies the power of transmutation.<br><cite>— Elle Vida</cite></blockquote>
 
 </div>

@@ -4,7 +4,7 @@ date: 2025-10-04T18:28:00+0000
 
 slug: "how-to-make-ease-your-superpower-elle-vidas-mirror-box-sparklebox"
 categories:
-  - "Elle Vidas Mirror Box"
+  - "The Sparklebox Method"
 tags:
   - "Elle Vida's Mirror Box 📦"
   - "self reflection"

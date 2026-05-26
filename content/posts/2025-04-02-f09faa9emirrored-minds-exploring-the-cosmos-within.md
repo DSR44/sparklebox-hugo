@@ -4,9 +4,7 @@ date: 2025-04-02T10:28:51+0000
 
 slug: "%f0%9f%aa%9emirrored-minds-exploring-the-cosmos-within"
 categories:
-  - "Daily Affirmations"
-  - "Dreamweaver’s Tales"
-  - "🪞Mirrored Minds: Exploring The Cosmos Within"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "dreamweaver tales"

@@ -4,7 +4,7 @@ date: 2025-06-16T15:06:46+0000
 
 slug: "%e2%9c%a8%f0%9f%93%a6-manifestation-masterpieces-a-sparklebox-of-divine-affirmations"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "Sparkleboxes"
 draft: false

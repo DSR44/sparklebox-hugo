@@ -2,8 +2,7 @@
 title: "The Sacred Art of Awakening: 5-Minute Morning Rituals to Ignite Your Inner Spark"
 date: 2025-10-19T14:39:51+00:00
 categories:
-  - "Transmutational Alchemy"
-  - "Ancient Wisdom"
+  - "Mystical Wisdom Series"
 tags:
   - "mysticism"
   - "consciousness"

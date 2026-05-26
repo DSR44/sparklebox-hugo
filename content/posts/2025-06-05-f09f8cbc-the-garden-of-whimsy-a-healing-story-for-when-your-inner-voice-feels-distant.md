@@ -4,7 +4,7 @@ date: 2025-06-05T15:40:00+0000
 
 slug: "%f0%9f%8c%bc-the-garden-of-whimsy-a-healing-story-for-when-your-inner-voice-feels-distant"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Newsletter"

@@ -4,7 +4,7 @@ date: 2025-06-10T17:30:46+0000
 
 slug: "%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-a-soft-stage-for-sacred-energy"
 categories:
-  - "Daily Affirmations"
+  - "Dream and Muse Tools"
 tags:
   - "daily affirmations"
   - "Dreamcore Wellness"

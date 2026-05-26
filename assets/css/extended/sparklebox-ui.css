@@ -108,6 +108,19 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   color: #fff !important;
   -webkit-text-fill-color: #fff !important;
   background: none !important;
+  animation: none !important;
+  text-shadow: none !important;
+}
+
+.logo a::after {
+  background: none !important;
+  -webkit-text-fill-color: #64748b !important;
+  color: #64748b !important;
+  animation: none !important;
+}
+
+.logo::before {
+  color: rgba(34, 211, 238, 0.5) !important;
 }
 
 .logo-pyramid {
@@ -119,26 +132,53 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   gap: 0.15rem !important;
 }
 
+nav a,
+.menu a,
+#menu a,
 #menu li a {
   font-family: var(--sb-font-body) !important;
   font-size: 0.8rem !important;
   font-weight: 500 !important;
   padding: 0.45rem 0.65rem !important;
   border-radius: var(--sb-radius-sm) !important;
-  border: 1px solid transparent !important;
-  background: transparent !important;
+  border: 1px solid rgba(99, 102, 241, 0.22) !important;
+  background: rgba(10, 18, 32, 0.6) !important;
   color: var(--sb-text-muted) !important;
   -webkit-text-fill-color: var(--sb-text-muted) !important;
   box-shadow: none !important;
   transition: color 0.2s, border-color 0.2s, background 0.2s !important;
 }
 
+#menu li a span::before {
+  content: none !important;
+}
+
+nav a:hover,
+.menu a:hover,
+#menu a:hover,
 #menu li a:hover,
-#menu li a span.active {
+#menu li a span.active,
+#menu li a:has(span.active) {
   color: #fff !important;
   -webkit-text-fill-color: #fff !important;
-  border-color: var(--sb-border) !important;
-  background: rgba(139, 92, 246, 0.08) !important;
+  border-color: rgba(34, 211, 238, 0.4) !important;
+  background: rgba(34, 211, 238, 0.08) !important;
+  box-shadow: 0 0 12px rgba(34, 211, 238, 0.1) !important;
+  transform: none !important;
+}
+
+.freq-link,
+.freq-link span {
+  background: none !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  color: var(--sb-neon-cyan) !important;
+  animation: none !important;
+  filter: none !important;
+}
+
+.freq-link:hover span {
+  text-shadow: 0 0 12px rgba(34, 211, 238, 0.4) !important;
+  filter: none !important;
 }
 
 .menu-more-btn {
@@ -220,8 +260,8 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   position: relative;
   z-index: 1;
   width: 100%;
-  aspect-ratio: 3 / 2;
-  max-height: 320px;
+  max-width: 440px;
+  line-height: 0;
   border-radius: 14px;
   overflow: hidden;
   background: #070b14;
@@ -232,9 +272,16 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
 .sb-brand-hero__visual {
   display: block;
   width: 100%;
-  height: 100%;
-  object-fit: contain;
+  height: auto !important;
+  max-height: none !important;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
   object-position: center;
+  border-radius: 0 !important;
+}
+
+.sb-brand-hero__visual:hover {
+  transform: none !important;
 }
 
 .sb-brand-hero__copy {
@@ -248,7 +295,9 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--sb-neon-cyan);
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  background: none !important;
   margin: 0 0 0.75rem;
   text-shadow: 0 0 16px rgba(34, 211, 238, 0.35);
 }
@@ -258,11 +307,18 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   font-size: clamp(1.75rem, 4vw, 2.35rem) !important;
   margin: 0 0 0.75rem !important;
   line-height: 1.15 !important;
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  background: none !important;
+  animation: none !important;
+  text-shadow: none !important;
+  text-transform: none !important;
 }
 
 .sb-brand-hero__tagline {
   font-size: 1rem;
-  color: var(--sb-text-muted);
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
   margin: 0 0 1.25rem;
   line-height: 1.6;
 }
@@ -281,29 +337,39 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
   font-family: var(--sb-font-body);
   font-size: 0.85rem;
   font-weight: 600;
-  text-decoration: none;
-  border-radius: var(--sb-radius-sm);
-  border: 1px solid var(--sb-border);
-  color: #fff;
-  background: rgba(139, 92, 246, 0.12);
+  text-decoration: none !important;
+  border-radius: var(--sb-radius-sm) !important;
+  border: 1px solid var(--sb-border) !important;
+  color: #fff !important;
+  background: rgba(99, 102, 241, 0.12) !important;
+  box-shadow: none !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
   transition: border-color 0.2s, background 0.2s, transform 0.2s;
 }
 
+.sb-btn::after {
+  display: none !important;
+}
+
 .sb-btn:hover {
-  border-color: var(--sb-border-hover);
-  background: rgba(139, 92, 246, 0.22);
+  border-color: var(--sb-border-hover) !important;
+  background: rgba(99, 102, 241, 0.22) !important;
   transform: translateY(-1px);
+  color: #fff !important;
+  text-shadow: none !important;
 }
 
 .sb-btn--primary {
-  background: linear-gradient(135deg, rgba(34, 211, 238, 0.18), rgba(99, 102, 241, 0.28));
-  border-color: rgba(34, 211, 238, 0.45);
-  box-shadow: 0 0 20px rgba(34, 211, 238, 0.12);
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.22), rgba(99, 102, 241, 0.32)) !important;
+  border-color: rgba(34, 211, 238, 0.45) !important;
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.12) !important;
 }
 
 .sb-btn--primary:hover {
-  border-color: var(--sb-neon-cyan);
-  box-shadow: 0 0 28px rgba(34, 211, 238, 0.25);
+  border-color: var(--sb-neon-cyan) !important;
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.3), rgba(99, 102, 241, 0.4)) !important;
+  box-shadow: 0 0 28px rgba(34, 211, 238, 0.25) !important;
 }
 
 /* Hide old pyramid — OG image is the brand mark now */
@@ -313,19 +379,53 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
 
 .sanctuary-hero {
   padding-top: 0 !important;
+  padding-bottom: 0.5rem !important;
+}
+
+.sanctuary-hero::before,
+.sanctuary-hero::after {
+  display: none !important;
 }
 
 .sanctuary-subtitle {
   font-family: var(--sb-font-body) !important;
-  color: var(--sb-text-muted) !important;
+  font-size: 0.78rem !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.16em !important;
+  text-transform: uppercase !important;
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+  background: none !important;
+  animation: none !important;
 }
 
 .philosophy-statement {
   font-family: var(--sb-font-body) !important;
-  font-size: 0.7rem !important;
-  letter-spacing: 0.25em !important;
-  color: var(--sb-accent-soft) !important;
-  opacity: 0.9;
+  font-size: 0.68rem !important;
+  letter-spacing: 0.28em !important;
+  text-transform: uppercase !important;
+  color: #475569 !important;
+  -webkit-text-fill-color: #475569 !important;
+  background: none !important;
+  animation: none !important;
+  text-shadow: none !important;
+  opacity: 1 !important;
+}
+
+.invitation-box p {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+}
+
+.invitation-box em {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  font-style: italic;
+}
+
+.invitation-box::before,
+.invitation-box::after {
+  display: none !important;
 }
 
 /* === Affirmation card — modern, not cute === */
@@ -940,7 +1040,11 @@ body.home main {
   }
 
   .sb-brand-hero__frame {
-    max-height: none;
+    max-width: 100%;
+  }
+
+  .sb-brand-hero__copy {
+    order: -1;
   }
 
   .sb-play-grid,
@@ -972,19 +1076,25 @@ body.home main {
 
 .philosophy-statement {
   background: none !important;
-  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
-  color: var(--sb-neon-cyan) !important;
-  text-shadow: 0 0 24px rgba(34, 211, 238, 0.25) !important;
+  -webkit-text-fill-color: #475569 !important;
+  color: #475569 !important;
+  text-shadow: none !important;
 }
 
 .invitation-box {
   border-color: rgba(99, 102, 241, 0.3) !important;
   background: rgba(10, 18, 32, 0.6) !important;
+  box-shadow: none !important;
 }
 
 .sanctuary-subtitle,
 .sanctuary-divider {
-  color: var(--sb-text-muted) !important;
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+}
+
+.sanctuary-divider {
+  background: linear-gradient(90deg, transparent, rgba(34, 211, 238, 0.45), transparent) !important;
 }
 
 .freq-homepage-hero,
@@ -1035,14 +1145,9 @@ body.home main {
   color: var(--sb-neon-cyan) !important;
 }
 
-header .menu a,
-header nav a {
-  background: rgba(10, 18, 32, 0.8) !important;
-  border-color: rgba(99, 102, 241, 0.25) !important;
-}
-
-header .menu a:hover,
-header nav a:hover {
-  border-color: rgba(34, 211, 238, 0.45) !important;
-  box-shadow: 0 0 16px rgba(34, 211, 238, 0.12) !important;
+nav a::after,
+.menu a::after,
+#menu a::after,
+.sb-btn::after {
+  display: none !important;
 }

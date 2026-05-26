@@ -19,7 +19,9 @@ keywords:
   - "fashion"
   - "styles"
   - "make"
----Harajuku fashion is a vibrant tapestry of styles that brilliantly encapsulates individuality and creativity. 
+robotsNoIndex: true
+---
+Harajuku fashion is a vibrant tapestry of styles that brilliantly encapsulates individuality and creativity. 
 
 Nestled in the heart of Tokyo, this iconic district is a playground for fashion enthusiasts, where self-expression reigns supreme. 
 

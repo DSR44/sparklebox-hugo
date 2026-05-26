@@ -1151,3 +1151,603 @@ nav a::after,
 .sb-btn::after {
   display: none !important;
 }
+
+/* ==========================================================================
+   V2 — Soundbox, Affirmation, Frequency Upgrade, unified cyber layer
+   ========================================================================== */
+
+/* === Soundbox === */
+.sb-soundbox {
+  position: relative;
+  max-width: 900px;
+  margin: 0 auto 3rem;
+  padding: 2.25rem 1.75rem 2rem;
+  border: 1px solid rgba(99, 102, 241, 0.32);
+  border-radius: 20px;
+  background:
+    linear-gradient(180deg, rgba(34, 211, 238, 0.05) 0%, transparent 22%),
+    linear-gradient(160deg, rgba(10, 18, 32, 0.96), rgba(15, 23, 42, 0.82));
+  box-shadow: var(--sb-glow);
+  overflow: hidden;
+}
+
+.sb-soundbox__neon-bar,
+.sb-affirmation__neon-bar,
+.sb-freq-teaser__neon-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--sb-neon-cyan), var(--sb-neon-violet), transparent);
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.55);
+}
+
+.sb-soundbox__header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sb-soundbox__eyebrow,
+.sb-affirmation__eyebrow {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  margin-bottom: 0.5rem;
+}
+
+.sb-soundbox__header h1 {
+  font-family: var(--sb-font-display) !important;
+  font-size: clamp(1.75rem, 4vw, 2.25rem) !important;
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  background: none !important;
+  margin: 0 0 0.75rem !important;
+}
+
+.sb-soundbox__header p {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  max-width: 520px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.sb-sound-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.sb-sound-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1.25rem;
+  border: 1px solid rgba(99, 102, 241, 0.28);
+  border-radius: 14px;
+  background: rgba(8, 14, 26, 0.72);
+  backdrop-filter: blur(12px);
+  transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s;
+}
+
+.sb-sound-card:hover {
+  border-color: rgba(34, 211, 238, 0.45);
+  box-shadow: 0 0 24px rgba(34, 211, 238, 0.1);
+  transform: translateY(-2px);
+}
+
+.sb-sound-card--accent {
+  border-color: rgba(34, 211, 238, 0.35);
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.06), rgba(99, 102, 241, 0.1));
+}
+
+.sb-sound-card__icon {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  border: 1px solid rgba(34, 211, 238, 0.25);
+  background: rgba(34, 211, 238, 0.06);
+  color: var(--sb-neon-cyan);
+}
+
+.sb-sound-card__icon svg {
+  width: 24px;
+  height: 24px;
+}
+
+.sb-sound-card__icon--accent {
+  color: #818cf8;
+  border-color: rgba(129, 140, 248, 0.35);
+  background: rgba(99, 102, 241, 0.1);
+}
+
+.sb-sound-card__body {
+  flex: 1;
+  min-width: 0;
+}
+
+.sb-sound-card__label {
+  display: block;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sb-neon-cyan);
+  margin-bottom: 0.25rem;
+}
+
+.sb-sound-card h2 {
+  font-family: var(--sb-font-display) !important;
+  font-size: 1.1rem !important;
+  color: #f1f5f9 !important;
+  -webkit-text-fill-color: #f1f5f9 !important;
+  background: none !important;
+  margin: 0 0 0.5rem !important;
+}
+
+.sb-sound-card p {
+  font-size: 0.88rem !important;
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  line-height: 1.55 !important;
+  margin: 0 0 0.75rem !important;
+}
+
+.sb-sound-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.85rem;
+}
+
+.sb-sound-card__tags span {
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(99, 102, 241, 0.25);
+  color: #818cf8;
+  background: rgba(99, 102, 241, 0.08);
+}
+
+.sb-sound-card audio {
+  width: 100%;
+  height: 40px;
+  border-radius: 8px;
+  filter: invert(0.88) hue-rotate(180deg) saturate(0.8);
+}
+
+.sb-soundbox__tip {
+  margin-top: 2rem;
+  padding: 1.25rem;
+  text-align: center;
+  border-radius: 12px;
+  border: 1px solid rgba(99, 102, 241, 0.2);
+  background: rgba(8, 14, 26, 0.5);
+}
+
+.sb-soundbox__tip p {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  font-size: 0.9rem !important;
+  margin: 0 !important;
+  line-height: 1.6 !important;
+}
+
+.sb-soundbox__tip strong {
+  color: var(--sb-neon-cyan) !important;
+}
+
+.sb-soundbox__credit {
+  margin-top: 0.75rem !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+}
+
+/* === Affirmation card — cyber === */
+.sb-affirmation {
+  position: relative;
+  max-width: 800px;
+  margin: 2rem auto 3rem !important;
+  padding-top: 0 !important;
+  overflow: hidden;
+  border-color: rgba(34, 211, 238, 0.28) !important;
+  box-shadow: var(--sb-glow), inset 0 1px 0 rgba(34, 211, 238, 0.08) !important;
+}
+
+.sb-affirmation__scanlines {
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(34, 211, 238, 0.012) 2px,
+    rgba(34, 211, 238, 0.012) 4px
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+.sb-affirmation .affirmation-header,
+.sb-affirmation .affirmation-theme,
+.sb-affirmation .affirmation-list,
+.sb-affirmation details {
+  position: relative;
+  z-index: 1;
+}
+
+.sb-affirmation .affirmation-header {
+  padding: 1.75rem 2rem 1rem !important;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.2) !important;
+  background: linear-gradient(180deg, rgba(34, 211, 238, 0.04), transparent) !important;
+}
+
+.sb-affirmation .affirmation-header::after {
+  display: none !important;
+}
+
+.sb-affirmation .affirmation-header h2 {
+  font-family: var(--sb-font-display) !important;
+  font-size: 1.15rem !important;
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  background: none !important;
+  margin: 0.35rem 0 0.25rem !important;
+}
+
+.sb-affirmation .affirmation-header .date {
+  font-size: 0.72rem !important;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+}
+
+.sb-affirmation .affirmation-theme {
+  padding: 1.25rem 2rem !important;
+  border-bottom: 1px solid rgba(99, 102, 241, 0.15) !important;
+}
+
+.sb-affirmation .affirmation-theme h3 {
+  font-family: var(--sb-font-display) !important;
+  font-size: 1rem !important;
+  color: #e2e8f0 !important;
+  -webkit-text-fill-color: #e2e8f0 !important;
+  background: none !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.sb-affirmation .affirmation-theme p {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  font-size: 0.92rem !important;
+  line-height: 1.65 !important;
+}
+
+.sb-affirmation .affirmation-list {
+  padding: 1rem 2rem 1.5rem !important;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.sb-affirmation .affirmation-item {
+  display: flex;
+  gap: 0.85rem;
+  align-items: flex-start;
+  padding: 0.85rem 1rem !important;
+  border: 1px solid rgba(99, 102, 241, 0.18) !important;
+  border-radius: 10px !important;
+  background: rgba(8, 14, 26, 0.45) !important;
+}
+
+.sb-affirmation .affirmation-item:hover {
+  border-color: rgba(34, 211, 238, 0.35) !important;
+  background: rgba(34, 211, 238, 0.04) !important;
+}
+
+.sb-affirmation .affirmation-text {
+  color: #cbd5e1 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.6 !important;
+  font-style: italic;
+}
+
+.sb-affirmation .show-more-btn {
+  cursor: pointer;
+  font-size: 0.78rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.75rem 2rem 1.5rem !important;
+  list-style: none;
+}
+
+.sb-affirmation details[open] .show-more-btn {
+  color: #64748b !important;
+}
+
+/* === Frequency Upgrade — landing + homepage teaser === */
+.sb-freq-teaser,
+.freq-homepage-hero {
+  position: relative;
+  max-width: 900px;
+  margin: 2rem auto 3rem !important;
+  padding: 2.25rem 2rem !important;
+  text-align: center;
+  border: 1px solid rgba(34, 211, 238, 0.3) !important;
+  border-radius: 20px !important;
+  background:
+    linear-gradient(180deg, rgba(34, 211, 238, 0.06) 0%, transparent 30%),
+    linear-gradient(160deg, rgba(10, 18, 32, 0.96), rgba(15, 23, 42, 0.85)) !important;
+  box-shadow: 0 0 48px rgba(34, 211, 238, 0.08), inset 0 1px 0 rgba(34, 211, 238, 0.1) !important;
+  overflow: hidden;
+}
+
+.freq-page {
+  max-width: 900px !important;
+}
+
+.freq-hero,
+.freq-homepage-hero,
+.sb-freq-teaser {
+  border-radius: 20px;
+}
+
+.freq-hero {
+  border: 1px solid rgba(34, 211, 238, 0.25) !important;
+  background:
+    linear-gradient(180deg, rgba(34, 211, 238, 0.06) 0%, transparent 28%),
+    linear-gradient(160deg, rgba(10, 18, 32, 0.96), rgba(15, 23, 42, 0.85)) !important;
+  border-radius: 20px !important;
+  margin-bottom: 2rem;
+}
+
+.freq-signal,
+.freq-hero-signal,
+.freq-hero-signal-2 {
+  border-color: rgba(34, 211, 238, 0.15) !important;
+}
+
+.freq-title,
+.freq-hero-title {
+  font-family: var(--sb-font-display) !important;
+  color: #f8fafc !important;
+  -webkit-text-fill-color: #f8fafc !important;
+  background: none !important;
+  animation: none !important;
+  text-shadow: 0 0 32px rgba(34, 211, 238, 0.15) !important;
+}
+
+.freq-tagline,
+.freq-tagline-sub,
+.freq-hero-subtitle {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+  background: none !important;
+  animation: none !important;
+}
+
+.freq-tagline-sub,
+.freq-hero-badge {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  font-size: 0.72rem !important;
+  letter-spacing: 0.16em !important;
+  text-transform: uppercase !important;
+}
+
+.freq-section-title {
+  font-family: var(--sb-font-display) !important;
+  color: #f1f5f9 !important;
+  -webkit-text-fill-color: #f1f5f9 !important;
+  background: none !important;
+}
+
+.freq-intro p,
+.freq-mechanism p,
+.freq-level-content p,
+.freq-transmissions-sub,
+.freq-cta-text {
+  color: #94a3b8 !important;
+  -webkit-text-fill-color: #94a3b8 !important;
+}
+
+.freq-intro p:last-child,
+.freq-mechanism strong,
+.freq-hint {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  background: none !important;
+  animation: none !important;
+}
+
+.freq-divider {
+  background: linear-gradient(90deg, transparent, rgba(34, 211, 238, 0.35), transparent) !important;
+}
+
+.freq-level {
+  border-color: rgba(99, 102, 241, 0.22) !important;
+  background: rgba(8, 14, 26, 0.65) !important;
+  border-radius: 14px !important;
+}
+
+.freq-level:hover {
+  border-color: rgba(34, 211, 238, 0.35) !important;
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.08) !important;
+}
+
+.freq-level-content h3 {
+  color: #e2e8f0 !important;
+  -webkit-text-fill-color: #e2e8f0 !important;
+  background: none !important;
+}
+
+.freq-level-marker,
+.freq-hero-level {
+  color: #818cf8 !important;
+  -webkit-text-fill-color: #818cf8 !important;
+  background: none !important;
+}
+
+.freq-level-prime .freq-level-marker,
+.freq-hero-level-prime {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  text-shadow: 0 0 16px rgba(34, 211, 238, 0.35) !important;
+}
+
+.freq-label-prime {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+  background: none !important;
+}
+
+.freq-hero-levels {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0;
+}
+
+.freq-hero-level {
+  font-size: 0.72rem !important;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(99, 102, 241, 0.25);
+  background: rgba(99, 102, 241, 0.08);
+}
+
+.freq-hero-level-prime {
+  border-color: rgba(34, 211, 238, 0.4) !important;
+  background: rgba(34, 211, 238, 0.1) !important;
+}
+
+.freq-hero-arrow {
+  color: #475569 !important;
+}
+
+.freq-hero-hint {
+  color: #64748b !important;
+  -webkit-text-fill-color: #64748b !important;
+  font-size: 0.85rem !important;
+}
+
+.freq-transmission-card,
+.freq-transmission-card.freq-clickable {
+  border-color: rgba(99, 102, 241, 0.22) !important;
+  background: rgba(8, 14, 26, 0.72) !important;
+  border-radius: 14px !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.freq-transmission-card:hover {
+  border-color: rgba(34, 211, 238, 0.4) !important;
+  box-shadow: 0 0 24px rgba(34, 211, 238, 0.1) !important;
+  transform: translateY(-3px) !important;
+}
+
+.freq-transmission-card::before {
+  background: linear-gradient(90deg, transparent, rgba(34, 211, 238, 0.5), transparent) !important;
+}
+
+.freq-card-spiral {
+  color: var(--sb-neon-cyan) !important;
+}
+
+.freq-card-status {
+  color: #e2e8f0 !important;
+}
+
+.freq-transmission-card p {
+  color: #94a3b8 !important;
+}
+
+.freq-card-tag {
+  color: #818cf8 !important;
+}
+
+.freq-product {
+  border: 1px solid rgba(34, 211, 238, 0.25) !important;
+  border-radius: 16px !important;
+  background: rgba(8, 14, 26, 0.6) !important;
+  padding: 2rem !important;
+  text-align: center;
+}
+
+.freq-product-eyebrow {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+}
+
+.freq-product-lead {
+  color: #94a3b8 !important;
+}
+
+.freq-product-btn,
+.freq-hero-btn,
+.freq-cta-btn {
+  display: inline-flex !important;
+  align-items: center;
+  padding: 0.75rem 1.4rem !important;
+  border-radius: 10px !important;
+  font-family: var(--sb-font-body) !important;
+  font-size: 0.85rem !important;
+  font-weight: 600 !important;
+  text-transform: none !important;
+  letter-spacing: 0 !important;
+  color: #fff !important;
+  background: linear-gradient(135deg, rgba(34, 211, 238, 0.22), rgba(99, 102, 241, 0.35)) !important;
+  border: 1px solid rgba(34, 211, 238, 0.45) !important;
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.12) !important;
+  text-decoration: none !important;
+}
+
+.freq-product-btn:hover,
+.freq-hero-btn:hover,
+.freq-cta-btn:hover {
+  border-color: var(--sb-neon-cyan) !important;
+  box-shadow: 0 0 28px rgba(34, 211, 238, 0.22) !important;
+  transform: translateY(-1px) !important;
+}
+
+.freq-cta-sub {
+  color: var(--sb-neon-cyan) !important;
+  -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+}
+
+.landing-page .landing-content {
+  max-width: 100% !important;
+  padding: 0 1rem 2rem !important;
+}
+
+@media (max-width: 768px) {
+  .sb-sound-card {
+    flex-direction: column;
+  }
+
+  .sb-affirmation .affirmation-header,
+  .sb-affirmation .affirmation-theme,
+  .sb-affirmation .affirmation-list {
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+  }
+}

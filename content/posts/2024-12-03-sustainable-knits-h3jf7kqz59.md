@@ -19,7 +19,9 @@ keywords:
   - "make"
   - "look"
   - "good"
----Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
+robotsNoIndex: true
+---
+Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
 
 These beautiful jumpers and suits not only elevate your wardrobe but also support ethical fashion and conscious living. 
 

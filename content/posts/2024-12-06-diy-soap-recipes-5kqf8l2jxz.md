@@ -19,7 +19,9 @@ keywords:
   - "soap"
   - "recipes"
   - "resist"
----If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes. 
+robotsNoIndex: true
+---
+If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes. 
 
 From vibrant colors to enchanting scents, each recipe offers a unique twist, making your soap-making journey both artistic and enjoyable. 
 

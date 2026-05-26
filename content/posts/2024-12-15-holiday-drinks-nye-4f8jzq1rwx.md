@@ -19,7 +19,9 @@ keywords:
   - "drinks"
   - "nye"
   - "wow"
----As the clock ticks closer to midnight, elevate your New Year's Eve celebration with stunning holiday drinks that will leave your guests in awe.
+robotsNoIndex: true
+---
+As the clock ticks closer to midnight, elevate your New Year's Eve celebration with stunning holiday drinks that will leave your guests in awe.
 
 From sparkling concoctions to exotic flavors, each drink is designed to bring a sense of festivity and indulgence to your party. Impress your friends and family with these carefully curated recipes that not only taste exquisite but also look fabulous in any glass. Cheers to a night filled with joy, laughter, and unforgettable memories!
 

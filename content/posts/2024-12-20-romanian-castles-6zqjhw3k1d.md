@@ -19,7 +19,9 @@ keywords:
   - "castles"
   - "make"
   - "feel"
----Romania is a treasure trove of history and architectural wonders, boasting enchanting castles that whisper tales of royalty and intrigue. 
+robotsNoIndex: true
+---
+Romania is a treasure trove of history and architectural wonders, boasting enchanting castles that whisper tales of royalty and intrigue. 
 
 From the majestic peaks of the Carpathians to the rolling hills of Transylvania, each castle reflects a unique blend of history and stunning architecture. 
 

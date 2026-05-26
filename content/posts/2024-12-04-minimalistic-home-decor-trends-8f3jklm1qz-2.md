@@ -19,7 +19,9 @@ keywords:
   - "decor"
   - "trends"
   - "featuring"
----Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
+robotsNoIndex: true
+---
+Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
 
 In this article, we’ll explore 25 stunning decor trends that embrace clean lines, simplicity, and a touch of glamour. 
 

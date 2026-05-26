@@ -19,7 +19,9 @@ keywords:
   - "nail"
   - "designs"
   - "shine"
----Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents. 
+robotsNoIndex: true
+---
+Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents. 
 
 Whether you prefer bold and striking or subtle and classy, there's a perfect design waiting for you. 
 

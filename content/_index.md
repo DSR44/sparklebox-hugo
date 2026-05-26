@@ -33,9 +33,12 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
-<div class="affirmation-card">
+<div class="affirmation-card sb-affirmation">
+<div class="sb-affirmation__neon-bar" aria-hidden="true"></div>
+<div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
-<h2>🫧 Today's Awakening</h2>
+<span class="sb-affirmation__eyebrow">Daily transmission</span>
+<h2>Today's Awakening</h2>
 <span class="date">May 25, 2026</span>
 </div>
 <div class="affirmation-theme">
@@ -142,7 +145,8 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
-<div class="freq-homepage-hero">
+<div class="freq-homepage-hero sb-freq-teaser">
+<div class="sb-freq-teaser__neon-bar" aria-hidden="true"></div>
 <div class="freq-hero-signal"></div>
 <div class="freq-hero-signal freq-hero-signal-2"></div>
 <span class="freq-hero-badge">⚡ Featured Series</span>

@@ -19,7 +19,9 @@ keywords:
   - "soda"
   - "hacks"
   - "change"
----Baking soda is not just for baking; it's a versatile powerhouse that can transform your cleaning routine! 
+robotsNoIndex: true
+---
+Baking soda is not just for baking; it's a versatile powerhouse that can transform your cleaning routine! 
 
 With its natural deodorizing properties and gentle abrasive quality, it stands out as a go-to solution for a myriad of household issues. 
 

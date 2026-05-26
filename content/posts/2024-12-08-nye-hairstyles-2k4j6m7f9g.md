@@ -19,7 +19,9 @@ keywords:
   - "hairstyles"
   - "leave"
   - "everyone"
----As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
+robotsNoIndex: true
+---
+As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
 
 From elegant updos to edgy braids, this year’s trends are all about making a statement. 
 

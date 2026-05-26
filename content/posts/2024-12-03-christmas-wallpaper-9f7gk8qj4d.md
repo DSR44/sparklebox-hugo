@@ -19,7 +19,9 @@ keywords:
   - "wallpaper"
   - "styles"
   - "take"
----As the holiday season approaches, the warmth of nostalgia fills the air. 
+robotsNoIndex: true
+---
+As the holiday season approaches, the warmth of nostalgia fills the air. 
 
 This year, why not transform your space with vintage-inspired Christmas wallpapers that evoke cherished memories? 
 

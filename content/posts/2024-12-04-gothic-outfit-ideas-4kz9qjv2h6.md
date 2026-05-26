@@ -19,7 +19,9 @@ keywords:
   - "ideas"
   - "blend"
   - "edgy"
----Step into a hauntingly beautiful world where gothic elements intertwine with the rugged charm of western wear. 
+robotsNoIndex: true
+---
+Step into a hauntingly beautiful world where gothic elements intertwine with the rugged charm of western wear. 
 
 This unique fusion creates outfits that are not only edgy but also rich in character, perfect for those who dare to express their individuality. 
 

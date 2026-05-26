@@ -19,7 +19,9 @@ keywords:
   - "makeup"
   - "ideas"
   - "make"
----As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup. 
+robotsNoIndex: true
+---
+As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup. 
 
 This collection showcases 15 stunning looks that blend dark elegance with seasonal charm, ensuring you'll make an unforgettable statement wherever you go. 
 

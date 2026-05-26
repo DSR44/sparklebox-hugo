@@ -19,7 +19,9 @@ keywords:
   - "gifts"
   - "melt"
   - "friends"
----Personalized gifts hold a special place in our hearts—they're not just items, but tokens of love, memories, and creativity.
+robotsNoIndex: true
+---
+Personalized gifts hold a special place in our hearts—they're not just items, but tokens of love, memories, and creativity.
 
 In this list, we’ll explore 20 DIY personalized gifts that are not only thoughtful but also incredibly easy to make. Each idea is infused with a personal touch that will surely melt your friends' hearts. You won’t believe how simple and affordable these handmade treasures can be!
 

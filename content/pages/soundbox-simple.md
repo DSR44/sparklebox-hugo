@@ -1,139 +1,68 @@
 ---
-title: "🎵 Soundbox - Mystical Audio Collection"
+title: "Soundbox"
 slug: "soundbox"
 date: 2025-10-14T00:00:00Z
 draft: false
+description: "Curated soundscapes for focus, drift, and cosmic calm — Sparklebox audio by Elle Vida."
+keywords:
+  - "soundbox"
+  - "soundscapes"
+  - "meditation audio"
+  - "Sparklebox"
+  - "Elle Vida"
 ---
 
-<style>
-.audio-gallery {
-    max-width: 900px;
-    margin: 2rem auto;
-    padding: 2rem;
-}
+<section class="sb-soundbox">
+<div class="sb-soundbox__neon-bar" aria-hidden="true"></div>
 
-.audio-track {
-    background: linear-gradient(145deg, rgba(250, 253, 255, 0.9), rgba(238, 244, 247, 0.7));
-    border: 2px solid rgba(75, 46, 131, 0.2);
-    border-radius: 20px;
-    padding: 2rem;
-    margin-bottom: 2rem;
-    transition: all 0.3s ease;
-}
+<header class="sb-soundbox__header">
+<span class="sb-soundbox__eyebrow">Audio · Sparklebox</span>
+<h1>Soundbox</h1>
+<p>Soundscapes for focus, drift, and cosmic calm. Headphones on — enter the frequency.</p>
+</header>
 
-.audio-track:hover {
-    transform: translateY(-5px);
-    border-color: rgba(75, 46, 131, 0.4);
-    box-shadow: 0 10px 30px rgba(75, 46, 131, 0.2);
-}
+<div class="sb-sound-grid">
 
-.track-title {
-    font-family: 'Cormorant', serif;
-    font-size: 1.8rem;
-    color: #3f2469;
-    margin-bottom: 0.5rem;
-}
-
-.track-description {
-    color: #5a4a75;
-    font-size: 1rem;
-    margin-bottom: 1.5rem;
-    line-height: 1.6;
-}
-
-.track-tags {
-    display: flex;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-}
-
-.tag {
-    background: rgba(75, 46, 131, 0.1);
-    color: #4b2e83;
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.85rem;
-}
-
-audio {
-    width: 100%;
-    margin-top: 1rem;
-    border-radius: 10px;
-}
-
-.intro {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 2rem;
-    background: rgba(75, 46, 131, 0.05);
-    border-radius: 20px;
-}
-
-.intro h1 {
-    font-family: 'Cormorant', serif;
-    color: #3f2469;
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
-
-.intro p {
-    color: #5a4a75;
-    font-size: 1.1rem;
-    line-height: 1.8;
-}
-</style>
-
-<div class="audio-gallery">
-
-<div class="intro">
-<h1>🧘‍♀️ Sound Bath Collection</h1>
-<p>Immerse yourself in peaceful healing frequencies for deep meditation, relaxation, and inner stillness.</p>
-<p><em>✨ Put on your headphones, find a comfortable space, and let the healing vibrations wash over you... ✨</em></p>
+<article class="sb-sound-card">
+<div class="sb-sound-card__icon" aria-hidden="true">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3a9 9 0 0 1 9 9v3a3 3 0 0 1-3 3h-1l-3 3v-6H9a3 3 0 0 1-3-3v-3a9 9 0 0 1 6-8.66"/></svg>
 </div>
-
-<div class="audio-track">
-<div class="track-title">🌸 Zen Oasis - Peaceful Healing</div>
-<div class="track-tags">
-<span class="tag">zen</span>
-<span class="tag">healing</span>
-<span class="tag">peaceful</span>
-<span class="tag">meditation</span>
-</div>
-<div class="track-description">
-Gentle healing frequencies for deep relaxation and inner peace. Perfect for meditation, yoga, or simply finding your center in the chaos of life. Let the zen vibrations restore your soul.
+<div class="sb-sound-card__body">
+<span class="sb-sound-card__label">Zen · Healing</span>
+<h2>Zen Oasis</h2>
+<p>Gentle healing frequencies for deep relaxation and inner peace. Perfect for meditation, yoga, or finding your center.</p>
+<div class="sb-sound-card__tags">
+<span>zen</span><span>healing</span><span>meditation</span>
 </div>
 <audio controls preload="metadata">
 <source src="/zen-oasis.wav" type="audio/wav">
 Your browser doesn't support audio playback.
 </audio>
 </div>
+</article>
 
-<div class="audio-track">
-<div class="track-title">✨ Ancient Wisdom Meets Modern Magic</div>
-<div class="track-tags">
-<span class="tag">wisdom</span>
-<span class="tag">mystical</span>
-<span class="tag">meditation</span>
-<span class="tag">transformation</span>
+<article class="sb-sound-card sb-sound-card--accent">
+<div class="sb-sound-card__icon sb-sound-card__icon--accent" aria-hidden="true">
+<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18V6l12-2v14"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
 </div>
-<div class="track-description">
-A realm where ancient wisdom meets modern magic - ethereal soundscape for deep meditation and spiritual transformation. Bridge the worlds of past and future in this healing journey.
+<div class="sb-sound-card__body">
+<span class="sb-sound-card__label">Mystical · Transformation</span>
+<h2>Ancient Wisdom Meets Modern Magic</h2>
+<p>Ethereal soundscape for deep meditation and spiritual transformation — bridge past and future in one listening session.</p>
+<div class="sb-sound-card__tags">
+<span>wisdom</span><span>mystical</span><span>transformation</span>
 </div>
 <audio controls preload="metadata">
 <source src="/A-Realm-Where-Ancient-Wisdom-Meets-Modern-Magic.wav" type="audio/wav">
 Your browser doesn't support audio playback.
 </audio>
 </div>
-
-<div style="text-align: center; margin-top: 3rem; padding: 2rem; background: rgba(75, 46, 131, 0.05); border-radius: 20px;">
-<p style="color: #5a4a75; font-size: 1.1rem;">
-🎧 <strong>Tip:</strong> Use headphones for the best experience. These tracks are designed for deep listening and energetic transformation.
-</p>
-<p style="color: #4b2e83; margin-top: 1rem;">
-✨ Elle Vida | Sparklebox
-</p>
-</div>
+</article>
 
 </div>
 
+<footer class="sb-soundbox__tip">
+<p><strong>Tip:</strong> Use headphones for the best experience. These tracks are designed for deep listening and energetic recalibration.</p>
+<p class="sb-soundbox__credit">Elle Vida · Sparklebox</p>
+</footer>
+</section>

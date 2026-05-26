@@ -19,7 +19,9 @@ keywords:
   - "protein"
   - "bars"
   - "make"
----Are you tired of searching for healthy snacks that fit your busy lifestyle? 
+robotsNoIndex: true
+---
+Are you tired of searching for healthy snacks that fit your busy lifestyle? 
 
 Look no further! These 10 easy DIY protein bars are not only quick to make, but they also pack a powerful protein punch to fuel your day. 
 

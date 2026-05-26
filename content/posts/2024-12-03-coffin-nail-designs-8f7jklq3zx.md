@@ -19,7 +19,9 @@ keywords:
   - "nail"
   - "designs"
   - "perfect"
----Winter is the season of cozy vibes, festive cheer, and stunning nail designs that can elevate your style. 
+robotsNoIndex: true
+---
+Winter is the season of cozy vibes, festive cheer, and stunning nail designs that can elevate your style. 
 
 Coffin nails, known for their elegant shape and versatile designs, are the perfect canvas to showcase your creativity during this magical time of year. 
 

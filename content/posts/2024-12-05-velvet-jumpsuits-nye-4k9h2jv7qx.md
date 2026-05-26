@@ -19,7 +19,9 @@ keywords:
   - "jumpsuits"
   - "nye"
   - "make"
----As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
+robotsNoIndex: true
+---
+As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
 
 These luxurious pieces not only exude elegance but also provide comfort, allowing you to dance the night away. 
 

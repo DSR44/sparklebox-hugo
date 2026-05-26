@@ -19,7 +19,9 @@ keywords:
   - "destinations"
   - "miss"
   - "wanderlust"
----Are you ready to embark on an unforgettable journey? 
+robotsNoIndex: true
+---
+Are you ready to embark on an unforgettable journey? 
 
 This guide presents ten breathtaking bucket list destinations that cater to your adventurous spirit and wanderlust goals. 
 

@@ -19,7 +19,9 @@ keywords:
   - "face"
   - "masks"
   - "glowing"
----Pamper yourself with these delightful DIY face masks designed to give you that radiant glow.
+robotsNoIndex: true
+---
+Pamper yourself with these delightful DIY face masks designed to give you that radiant glow.
 
 Whether you’re preparing for a big event or just need a moment of relaxation, these masks are quick to whip up using ingredients you probably already have at home.
 

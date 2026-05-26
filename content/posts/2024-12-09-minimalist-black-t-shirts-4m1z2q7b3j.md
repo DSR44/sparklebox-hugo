@@ -19,7 +19,9 @@ keywords:
   - "shirts"
   - "trendy"
   - "prints"
----In the world of fashion, less is often more, and minimalist black t-shirts with trendy prints embody this philosophy perfectly. 
+robotsNoIndex: true
+---
+In the world of fashion, less is often more, and minimalist black t-shirts with trendy prints embody this philosophy perfectly. 
 
 These versatile pieces can effortlessly elevate your wardrobe, making them essential for anyone aiming for a sleek, modern aesthetic. 
 

@@ -19,7 +19,9 @@ keywords:
   - "ignite"
   - "passion"
   - "change"
----In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
+robotsNoIndex: true
+---
+In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
 
 Motivational quotes have the power to uplift, encourage, and remind us of our potential. 
 

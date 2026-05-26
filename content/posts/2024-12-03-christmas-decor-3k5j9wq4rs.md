@@ -19,7 +19,9 @@ keywords:
   - "decor"
   - "ideas"
   - "make"
----Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home into a winter wonderland? 
+robotsNoIndex: true
+---
+Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home into a winter wonderland? 
 
 From twinkling lights to festive garlands, every corner can radiate cheer, inviting friends and family to bask in the glow of the season. 
 

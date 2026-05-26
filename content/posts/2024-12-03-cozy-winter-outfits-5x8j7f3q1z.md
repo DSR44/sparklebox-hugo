@@ -19,7 +19,9 @@ keywords:
   - "outfits"
   - "keep"
   - "warm"
----As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish. 
+robotsNoIndex: true
+---
+As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish. 
 
 From fluffy sweaters to layered looks, winter fashion allows us to express our personal style while keeping the chill at bay. 
 

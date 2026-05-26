@@ -19,7 +19,9 @@ keywords:
   - "japandi"
   - "fusion"
   - "living"
----Welcome to the world of Japandi fusion, where the serene simplicity of Japanese zen meets the cozy allure of Scandinavian comfort.
+robotsNoIndex: true
+---
+Welcome to the world of Japandi fusion, where the serene simplicity of Japanese zen meets the cozy allure of Scandinavian comfort.
 
 This design trend is not just about aesthetics; it's a lifestyle choice that promotes tranquility and functionality within your living space. 
 

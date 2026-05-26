@@ -19,7 +19,9 @@ keywords:
   - "aesthetic"
   - "ideas"
   - "make"
----Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop. 
+robotsNoIndex: true
+---
+Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop. 
 
 With cozy nooks, soft lighting, and the aroma of freshly brewed coffee wafting through the air, each idea in this list will inspire you to create your own little cafe haven at home. 
 

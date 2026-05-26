@@ -1,48 +1,42 @@
 /*
- * Sparklebox Custom CSS - COHESIVE MYSTICAL DESIGN
- * Purple-Pink Gradient Theme with Elegant Consistency
+ * Sparklebox Custom CSS — legacy layer (v2 palette: cyan + indigo)
+ * sparklebox-ui.css loads after this and is the primary design system.
  */
 
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;700;800&display=swap');
 
-/* CHROMATIC IRIDESCENT Color Scheme - Metallic Pink & Purple */
+/* Core palette — cyan / indigo (pink deprecated) */
 :root {
-    /* Chromatic metallic colors */
-    --chrome-purple: #8b5cf6;         /* Vibrant chrome purple */
-    --chrome-pink: #ec4899;           /* Hot metallic pink */
-    --chrome-fuchsia: #d946ef;        /* Bright fuchsia */
-    --chrome-violet: #a855f7;         /* Deep violet */
-    --chrome-rose: #f472b6;           /* Rose pink */
-    
-    /* Iridescent gradients */
-    --gradient-main: linear-gradient(135deg, #8b5cf6 0%, #ec4899 25%, #d946ef 50%, #a855f7 75%, #ec4899 100%);
-    --gradient-header: linear-gradient(135deg, #1a0b2e 0%, #2d1b4e 50%, #1a0b2e 100%);
-    --gradient-card: linear-gradient(145deg, rgba(139, 92, 246, 0.1), rgba(236, 72, 153, 0.1));
-    
-    /* Text colors */
-    --heading-color: #ffffff;         /* White headings */
-    --text-color: #e2e8f0;           /* Light gray text */
-    --text-light: #ffffff;            /* White text */
-    --text-muted: #cbd5e1;           /* Muted gray */
-    
-    /* Background colors */
-    --bg-dark: #0f172a;               /* Very dark blue-gray */
-    --bg-card: rgba(26, 11, 46, 0.85); /* Deep purple matching body background */
-    --bg-light: #2d1b4e;               /* Lighter purple shade */
-    
-    /* Border and shadow with iridescent glow */
+    --chrome-purple: #6366f1;
+    --chrome-pink: #22d3ee;           /* remapped to neon cyan */
+    --chrome-fuchsia: #818cf8;
+    --chrome-violet: #8b5cf6;
+    --chrome-rose: #67e8f9;
+
+    --gradient-main: linear-gradient(135deg, #6366f1 0%, #22d3ee 50%, #818cf8 100%);
+    --gradient-header: linear-gradient(135deg, #070b14 0%, #0f172a 50%, #070b14 100%);
+    --gradient-card: linear-gradient(145deg, rgba(99, 102, 241, 0.1), rgba(34, 211, 238, 0.08));
+
+    --heading-color: #ffffff;
+    --text-color: #e2e8f0;
+    --text-light: #ffffff;
+    --text-muted: #94a3b8;
+
+    --bg-dark: #070b14;
+    --bg-card: rgba(10, 18, 32, 0.88);
+    --bg-light: #0f172a;
+
     --border-chrome: 2px solid transparent;
-    --border-gradient: linear-gradient(135deg, #8b5cf6, #ec4899, #d946ef);
-    --shadow-chrome: 0 8px 32px rgba(139, 92, 246, 0.3), 0 4px 16px rgba(236, 72, 153, 0.2);
-    --glow-chrome: 0 0 30px rgba(217, 70, 239, 0.6), 0 0 60px rgba(168, 85, 247, 0.3);
-    
-    /* PaperMod overrides */
+    --border-gradient: linear-gradient(135deg, #6366f1, #22d3ee, #818cf8);
+    --shadow-chrome: 0 8px 32px rgba(99, 102, 241, 0.25), 0 4px 16px rgba(34, 211, 238, 0.12);
+    --glow-chrome: 0 0 30px rgba(34, 211, 238, 0.35), 0 0 60px rgba(99, 102, 241, 0.2);
+
     --theme: var(--chrome-purple);
     --entry: var(--bg-card);
     --secondary: var(--heading-color);
     --code-bg: #1e293b;
-    --border: rgba(139, 92, 246, 0.2);
+    --border: rgba(99, 102, 241, 0.22);
 }
 
 /* === Typography === */
@@ -967,12 +961,10 @@ header::after {
     font-family: 'Cinzel Decorative', serif !important;
     font-size: clamp(1.1rem, 2.5vw, 1.5rem) !important;
     font-weight: 700 !important;
-    background: linear-gradient(135deg, #c084fc 0%, #ec4899 40%, #f9a8d4 60%, #a855f7 100%) !important;
-    -webkit-background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
-    background-clip: text !important;
-    background-size: 200% auto !important;
-    animation: chromatic-shine 4s linear infinite !important;
+    color: #ffffff !important;
+    -webkit-text-fill-color: #ffffff !important;
+    background: none !important;
+    animation: none !important;
     letter-spacing: 0.12em !important;
     padding: 0 !important;
     margin: 0 !important;
@@ -1013,10 +1005,9 @@ header::after {
     font-weight: 300 !important;
     font-size: 0.65rem !important;
     letter-spacing: 0.2em !important;
-    background: linear-gradient(135deg, #f9a8d4, #c084fc) !important;
-    -webkit-background-clip: text !important;
-    -webkit-text-fill-color: transparent !important;
-    background-clip: text !important;
+    color: #64748b !important;
+    -webkit-text-fill-color: #64748b !important;
+    background: none !important;
     animation: none !important;
     opacity: 0.9 !important;
     margin-top: 2px !important;
@@ -1057,11 +1048,8 @@ nav a,
     color: rgba(255, 255, 255, 0.92) !important;
     padding: 0.25rem 0.65rem !important;
     border-radius: 20px !important;
-    background: linear-gradient(135deg,
-        rgba(236, 72, 153, 0.18) 0%,
-        rgba(192, 132, 252, 0.12) 50%,
-        rgba(236, 72, 153, 0.18) 100%) !important;
-    border: 1px solid rgba(236, 72, 153, 0.38) !important;
+    background: rgba(10, 18, 32, 0.65) !important;
+    border: 1px solid rgba(99, 102, 241, 0.28) !important;
     transition: all 0.22s ease !important;
     white-space: nowrap !important;
     display: inline-flex !important;
@@ -1083,13 +1071,10 @@ nav a:hover,
 .menu a:hover,
 #menu a:hover,
 #menu li a:hover {
-    background: linear-gradient(135deg,
-        rgba(236, 72, 153, 0.35) 0%,
-        rgba(192, 132, 252, 0.25) 50%,
-        rgba(236, 72, 153, 0.35) 100%) !important;
-    border-color: rgba(236, 72, 153, 0.7) !important;
+    background: rgba(34, 211, 238, 0.1) !important;
+    border-color: rgba(34, 211, 238, 0.4) !important;
     color: #ffffff !important;
-    box-shadow: 0 0 10px rgba(236, 72, 153, 0.35) !important;
+    box-shadow: 0 0 12px rgba(34, 211, 238, 0.15) !important;
     transform: translateY(-1px) !important;
 }
 
@@ -1399,7 +1384,7 @@ button,
 .button,
 .wp-element-button,
 .portal-btn {
-    background: linear-gradient(135deg, var(--chrome-purple), var(--chrome-pink)) !important;
+    background: linear-gradient(135deg, rgba(34, 211, 238, 0.22), rgba(99, 102, 241, 0.35)) !important;
     color: var(--text-light) !important;
     font-family: 'DM Sans', sans-serif !important;
     font-size: 0.9rem !important;
@@ -1421,10 +1406,10 @@ button,
 button:hover,
 .button:hover,
 .portal-btn:hover {
-    background: linear-gradient(135deg, var(--chrome-fuchsia), var(--chrome-rose)) !important;
-    box-shadow: var(--glow-chrome) !important;
-    transform: translateY(-2px) scale(1.05) !important;
-    border-color: rgba(236, 72, 153, 0.6) !important;
+    background: linear-gradient(135deg, rgba(34, 211, 238, 0.32), rgba(99, 102, 241, 0.45)) !important;
+    box-shadow: 0 0 20px rgba(34, 211, 238, 0.2) !important;
+    transform: translateY(-2px) scale(1.02) !important;
+    border-color: rgba(34, 211, 238, 0.45) !important;
 }
 
 /* === Content Boxes - Chromatic Style === */

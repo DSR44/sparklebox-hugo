@@ -19,7 +19,9 @@ keywords:
   - "french"
   - "nail"
   - "ideas"
----Are you ready to elevate your manicure game? Geometric French nails are the perfect fusion of classic elegance and modern flair, making them a must-try for anyone looking to express their unique style. From bold shapes to subtle hints of color, these chic designs will have you turning heads and embracing your creativity.
+robotsNoIndex: true
+---
+Are you ready to elevate your manicure game? Geometric French nails are the perfect fusion of classic elegance and modern flair, making them a must-try for anyone looking to express their unique style. From bold shapes to subtle hints of color, these chic designs will have you turning heads and embracing your creativity.
 
 In this listicle, we've curated 13 stunning geometric French nail ideas that break the mold of traditional nail art. Whether you're preparing for a special occasion or simply want to treat yourself, these designs will inspire you to experiment and step out of your comfort zone.
 

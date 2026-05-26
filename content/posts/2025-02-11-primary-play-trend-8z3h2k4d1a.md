@@ -9,8 +9,11 @@ description: "Step into a world where vibrant hues reign supreme! \"Primary Play
 draft: false
 aliases:
   - "/primary-play-trend-8z3h2k4d1a/"
----
-In recent years, home design has taken a vibrant turn with the rise of bold colors, creating living spaces that are as expressive as they are inviting.
+cover:
+  image: "/generic-post-images/leonardo-9.jpg"
+  alt: "Primary Play: The Bold Color Trend Transforming Home Interiors"
+  caption: "Elle Vida | Sparklebox"
+---In recent years, home design has taken a vibrant turn with the rise of bold colors, creating living spaces that are as expressive as they are inviting.
 
 From striking reds to sunny yellows and deep blues, primary colors are making a comeback, infusing energy and personality into every corner of our homes.
 

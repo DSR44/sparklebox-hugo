@@ -37,8 +37,18 @@ tags:
 draft: false
 aliases:
   - "/valentines-day-nail-trends-2025/"
----
-## **Romantic Designs You’ll Love**
+description: "Valentine’s Day is the perfect time to show off stunning nails with romantic designs."
+keywords:
+  - "chrome nails"
+  - "cute nail ideas"
+  - "diy nail art"
+  - "elegant nails"
+  - "fashion nails"
+cover:
+  image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_3_f826d71b_1013.jpg"
+  alt: "Valentine’s Day Nail Trends 2025:"
+  caption: "Elle Vida | Sparklebox"
+---## **Romantic Designs You’ll Love**
 
 ## **Introduction**
 

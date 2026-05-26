@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. I sit in stillness,..."
+description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget."
 cover:
   image: "/generic-post-images/leonardo-24.jpg"
   alt: "The Tao and the art of effortless creation"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. I sit in stillness, surrounded by the gentle shadows of my room, and let the silence whisper its secrets to me. It's in these moments that I'm reminded of the ancient wisdom of the Tao, and the art of effortless creation that it embodies.
 
 As I breathe in the quiet of the night, I feel the world slowing down around me. The rush of thoughts, the chatter of the mind, the constant striving for more – all of it begins to fade away, like the ebbing of the tide. And in the stillness that remains, I find the doorway to the Tao. It's a doorway that's always been here, waiting for me to notice it, to step through it, and to let its wisdom guide me.

@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%a1-the-time-travelers-reality-weaver/"
----
-## 🌌 Introduction
+description: "In the hidden corridors of the mind, there exists a place few ever reach — a dream-library wrapped in the folds of memory and imagination."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the time labyrinth"
+  - "subconscious healing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-30.jpg"
+  alt: "🪡 The Time Traveler’s Reality Weaver"
+  caption: "Elle Vida | Sparklebox"
+---## 🌌 Introduction
 
 In the hidden corridors of the mind, there exists a place few ever reach — a dream-library wrapped in the folds of memory and imagination.
 

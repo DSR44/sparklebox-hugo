@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/%e2%9c%a8-the-golden-unfolding-a-journey-of-letting-go/"
----
-(*Let go. Trust. Transform. A golden path awaits.*)
+description: "The Golden Unfolding: A Journey of Letting Go. (Let go."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "sparkleboxes"
+cover:
+  image: "/generic-post-images/leonardo-16.jpg"
+  alt: "✨ The Golden Unfolding: A Journey of Letting Go"
+  caption: "Elle Vida | Sparklebox"
+---(*Let go. Trust. Transform. A golden path awaits.*)
 
 ### 🔆 Affirmation #1
 

@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "The moment your thinking starts to feel like a tuned instrument, the first response is always: this can't be real. Because we are taught that..."
+description: "The moment your thinking starts to feel like a tuned instrument, the first response is always: this can't be real."
 cover:
   image: "/pinterest-images/8224400879_sacred-geometry-perception-shift.png"
   alt: "When your thinking starts to feel like a tuned instrument — that is not a metaphor and it is not random"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 The moment your thinking starts to feel like a tuned instrument, the first response is always: *this can't be real.* 
 
 Because we are taught that clarity is earned through effort. That focus is a muscle built through discipline. That the mind is a machine to be optimized, not a violin to be listened to.

@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/bucket-list-destinations-5h7k2g9j4b/"
----
-Are you ready to embark on an unforgettable journey? 
+description: "10 Bucket List Destinations You Can't Miss Your Wanderlust Will Thank You. Are you ready to embark on an unforgettable journey?"
+cover:
+  image: "/generic-post-images/moon-spell-2.jpg"
+  alt: "10 Bucket List Destinations You Can't Miss (Your Wanderlust Will Thank You!)"
+  caption: "Elle Vida | Sparklebox"
+---Are you ready to embark on an unforgettable journey? 
 
 This guide presents ten breathtaking bucket list destinations that cater to your adventurous spirit and wanderlust goals. 
 

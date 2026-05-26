@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation/"
----
-Radiant Self: 20 Affirmations | SparkleBox.blog
+description: "Radiant Self: 20 Affirmations | SparkleBox.blog Radiant Self: 20 Affirmations to Illuminate Your Path"
+keywords:
+  - "dream coded affirmations"
+  - "whimsical affirmations"
+cover:
+  image: "/pinterest-images/8224400801_seed-of-life-neural-architecture.png"
+  alt: "🌙✨ A Whimsy of Light: Today’s Sparkle Affirmation"
+  caption: "Elle Vida | Sparklebox"
+---Radiant Self: 20 Affirmations | SparkleBox.blog
 - 
 
 ![Radiant Self Feature Image](/whimsy__box.jpg)

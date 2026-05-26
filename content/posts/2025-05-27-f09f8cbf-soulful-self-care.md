@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%bf-soulful-self-care/"
----
-**🕯️ A Ritual of Radiance | Private Subscriber Edition**
+description: "🕯️ A Ritual of Radiance | Private Subscriber Edition Today, I bring you five sacred affirmations — each a gentle whisper from the universe, calling you…"
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "sparkleboxes"
+  - "subconscious healing"
+cover:
+  image: "/pinterest-images/8224400607_vesica-piscis-neural-architecture.png"
+  alt: "🌿 Soulful Self-Care"
+  caption: "Elle Vida | Sparklebox"
+---**🕯️ A Ritual of Radiance | Private Subscriber Edition**
 
 Dear Dreamers,
 

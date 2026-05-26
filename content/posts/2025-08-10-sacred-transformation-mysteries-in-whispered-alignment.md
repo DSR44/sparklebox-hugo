@@ -13,8 +13,14 @@ description: "In the hush between heartbeats, stardust remembers it is light. Ev
 draft: false
 aliases:
   - "/sacred-transformation-mysteries-in-whispered-alignment/"
----
-background:linear-gradient(135deg,#ffffff, #efe6ff); border:1px solid var(--violet-300); color:#5a3ea2;
+keywords:
+  - "dream coded affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-47.jpg"
+  alt: "Sacred Transformation — Mysteries in Whispered Alignment"
+  caption: "Elle Vida | Sparklebox"
+---background:linear-gradient(135deg,#ffffff, #efe6ff); border:1px solid var(--violet-300); color:#5a3ea2;
 
  tag is ignored -->
 

@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/minimalistic-home-decor-trends-8f3jklm1qz-2/"
----
-Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
+description: "Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold."
+cover:
+  image: "/generic-post-images/alchemy-alchemy_tarot_pfp_1013.png"
+  alt: "25 Minimalistic Home Decor Trends Featuring Beige and Gold You Can’t Ignore (Check Out #12!)"
+  caption: "Elle Vida | Sparklebox"
+---Welcome to a world where minimalism meets elegance in the soothing shades of beige and gold. 
 
 In this article, we’ll explore 25 stunning decor trends that embrace clean lines, simplicity, and a touch of glamour. 
 

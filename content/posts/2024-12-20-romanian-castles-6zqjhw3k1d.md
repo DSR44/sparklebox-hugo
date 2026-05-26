@@ -9,8 +9,11 @@ description: "Step into a world of magic and grandeur with our guide to 15 encha
 draft: false
 aliases:
   - "/romanian-castles-6zqjhw3k1d/"
----
-Romania is a treasure trove of history and architectural wonders, boasting enchanting castles that whisper tales of royalty and intrigue. 
+cover:
+  image: "/generic-post-images/cosmic-1.jpg"
+  alt: "15 Enchanting Romanian Castles That Will Make You Feel Like Royalty (Don't Miss #10!)"
+  caption: "Elle Vida | Sparklebox"
+---Romania is a treasure trove of history and architectural wonders, boasting enchanting castles that whisper tales of royalty and intrigue. 
 
 From the majestic peaks of the Carpathians to the rolling hills of Transylvania, each castle reflects a unique blend of history and stunning architecture. 
 

@@ -16,8 +16,16 @@ tags:
 draft: false
 aliases:
   - "/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/"
----
-## **Step Into the Dream: Crafting a Surreal Atmosphere**
+description: "Imagine walking into a space where the air shimmers with iridescent hues, soft ambient music floats through the room, and every surface feels like a scene…"
+keywords:
+  - "2025 trends"
+  - "dreamlike event planning"
+  - "surreal soirees"
+cover:
+  image: "/generic-post-images/beauty-bathroom-2.jpg"
+  alt: "Crafting Your Surreal Soirée: Transform Spaces with Dreamlike Ambiance"
+  caption: "Elle Vida | Sparklebox"
+---## **Step Into the Dream: Crafting a Surreal Atmosphere**
 
 Imagine walking into a space where the air shimmers with iridescent hues, soft ambient music floats through the room, and every surface feels like a scene from a waking dream. A **surrealist soirée** isn’t just a party—it’s an **immersive experience** where guests feel transported into an elegant, otherworldly realm.
 

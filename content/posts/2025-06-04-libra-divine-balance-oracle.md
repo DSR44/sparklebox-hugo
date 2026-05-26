@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/libra-divine-balance-oracle/"
----
-**Oracle’s Growth | Day 7 of 12**
+description: "Long ago, in a world where chaos spilled like ink across the stars, there emerged a soul born under Libra’s sign — one who walked not to lead or follow…"
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/pinterest-images/8224399855_torus-field-consciousness-map.png"
+  alt: "♎️ Libra – Harmony, Beauty, and Divine Balance"
+  caption: "Elle Vida | Sparklebox"
+---**Oracle’s Growth | Day 7 of 12**
 
 ### 📖 **Tale: The Mirrorbearer of the Sky**
 

@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%9e%e2%9c%a8mirrored-minds-%f0%9f%aa%9e%e2%9c%a8-the-boomerang-wisdom-of-life/"
----
-## The Ripples We Send
+description: "Ancient teachings often hold profound truths, but few are as striking and universal as the concept of the boomerang."
+keywords:
+  - "daily ai affirmations"
+  - "florence scovel shinn"
+  - "mirrored minds"
+  - "self love"
+cover:
+  image: "/generic-post-images/goddess-6.jpg"
+  alt: "🪞✨Mirrored Minds 🪞✨: The Boomerang    Wisdom of Life"
+  caption: "Elle Vida | Sparklebox"
+---## The Ripples We Send
 
 Ancient teachings often hold profound truths, but few are as striking and universal as the concept of the boomerang. Florence Scovel Shinn encapsulated this divine law of reciprocal energy perfectly when she said, *“The game of life is a game of boomerangs. Our thoughts, deeds, and words return to us sooner or later, with astounding accuracy.”* Her words echo a timeless reminder that the ripples we create in the world, through intention and action, always circle back to us.
 

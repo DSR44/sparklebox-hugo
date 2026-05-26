@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99-lunas-starry-night-a-bedtime-journey-through-the-stars/"
----
-*
+description: "This soothing bedtime story is designed to calm and ease the mind, promoting a deeper connection with one’s inner self."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the cartographers wing"
+  - "subconscious healing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-7.jpg"
+  alt: "🌙 Luna's Starry Night | A Bedtime Journey Through the Stars"
+  caption: "Elle Vida | Sparklebox"
+---*
 This soothing bedtime story is designed to calm and ease the mind, promoting a deeper connection with one’s inner self.*
 
 ## 🌌 Purpose:

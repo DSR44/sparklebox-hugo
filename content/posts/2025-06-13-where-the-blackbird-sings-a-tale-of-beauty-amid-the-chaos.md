@@ -10,8 +10,12 @@ tags:
 draft: false
 aliases:
   - "/where-the-blackbird-sings-a-tale-of-beauty-amid-the-chaos/"
----
-#### The Blackbird on the Beam. **A true story from Elle Vida’s terrace**
+description: "It began, as most sacred things do, without announcement."
+cover:
+  image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"
+  alt: "Where the Blackbird Sings: A Tale of Beauty Amid the Chaos"
+  caption: "Elle Vida | Sparklebox"
+---#### The Blackbird on the Beam. **A true story from Elle Vida’s terrace**
 
 It began, as most sacred things do, without announcement.
 

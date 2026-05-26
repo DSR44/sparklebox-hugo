@@ -10,8 +10,11 @@ description: "Get ready to glow this summer! Discover the must-have beauty trend
 draft: false
 aliases:
   - "/summer-beauty-guide-5g7tq3j9kl/"
----
-Summer 2025 is just around the corner, and with it comes an exciting wave of beauty trends that are sure to inspire. 
+cover:
+  image: "/generic-post-images/leonardo-39.jpg"
+  alt: "Unlock the Ultimate Summer Beauty Guide for 2025: 15 Trends You Can't Miss!"
+  caption: "Elle Vida | Sparklebox"
+---Summer 2025 is just around the corner, and with it comes an exciting wave of beauty trends that are sure to inspire. 
 
 From bold makeup statements to innovative skincare solutions, this guide will help you stay ahead of the curve. 
 

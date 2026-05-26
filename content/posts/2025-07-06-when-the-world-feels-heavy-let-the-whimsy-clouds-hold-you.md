@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/when-the-world-feels-heavy-let-the-whimsy-clouds-hold-you/"
----
-**Whimsy Clouds Affirmations** are gentle whispers you can return to anytime you feel heavy. Let these soft clouds hold you, guiding you back to your breath, your dreams, and your gentle becoming.
+description: "Whimsy Clouds Affirmations are gentle whispers you can return to anytime you feel heavy."
+keywords:
+  - "dream coded affirmations"
+  - "dreamcore wellness"
+  - "subconscious healing"
+  - "whimsical affirmations"
+cover:
+  image: "/generic-post-images/leonardo-4.jpg"
+  alt: "When the World Feels Heavy, Let the Whimsy Clouds Hold You"
+  caption: "Elle Vida | Sparklebox"
+---**Whimsy Clouds Affirmations** are gentle whispers you can return to anytime you feel heavy. Let these soft clouds hold you, guiding you back to your breath, your dreams, and your gentle becoming.
 
 ### ☁️ Whimsy Cloud 1
 

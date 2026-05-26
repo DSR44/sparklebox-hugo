@@ -9,8 +9,11 @@ description: "Craving a culinary adventure? Discover 20 protein-packed internati
 draft: false
 aliases:
   - "/protein-packed-international-dishes-5k2j8h9z1w/"
----
-Travel the world through your taste buds with these 20 protein-rich meals that bring global flavors straight to your kitchen. 
+cover:
+  image: "/generic-post-images/leonardo-50.jpg"
+  alt: "20 Protein-Packed International Dishes You Need to Try Right Now!"
+  caption: "Elle Vida | Sparklebox"
+---Travel the world through your taste buds with these 20 protein-rich meals that bring global flavors straight to your kitchen. 
 
 From the vibrant spices of Indian cuisine to the hearty comfort of Mediterranean dishes, each recipe is a delicious way to boost your protein intake while exploring new tastes. 
 

@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/dreamscape-daily-affirmations/"
----
-Step into Luminaria with Lyra for Day 5 of Becoming. Discover the art of grounding, the dance of transformation, and the soft strength within, as we continue this magical unfolding.
+description: "Dreamscape Daily Affirmations. Step into Luminaria with Lyra for Day 5 of Becoming."
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamweaver"
+  - "dreamweaver tales"
+  - "luminaria"
+cover:
+  image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_0_255f6b1d_1013.jpg"
+  alt: "🌊✨ Dreamscape Daily Affirmations"
+  caption: "Elle Vida | Sparklebox"
+---Step into Luminaria with Lyra for Day 5 of Becoming. Discover the art of grounding, the dance of transformation, and the soft strength within, as we continue this magical unfolding.
 
 *By Sparkle Box*
 

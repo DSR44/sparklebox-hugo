@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The soft glow of..."
+description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget."
 cover:
   image: "/generic-post-images/cosmic-1.jpg"
   alt: "Your imagination is God: Neville's core teaching"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The soft glow of the night sky reminds me of the gentle whisper of Neville Goddard's teachings, which have been a guiding light on my own journey of self-discovery. Tonight, I want to share with you the core of his philosophy, the idea that has revolutionized my understanding of the world and my place in it: your imagination is God.
 
 As I sit here, surrounded by the quiet of the night, I am reminded of the first time I encountered Neville's teachings. It was as if I had stumbled upon a hidden doorway, a secret passage that led me to a new dimension of understanding. The idea that my imagination was not just a tool for creative expression, but a powerful force that could shape my reality, was both exhilarating and terrifying. It was like being given the keys to a kingdom, with the freedom to create and manifest my deepest desires.

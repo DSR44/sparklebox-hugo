@@ -28,8 +28,18 @@ tags:
 draft: false
 aliases:
   - "/5-diy-lip-tints-with-natural-ingredients-for-a-glossy-glow/"
----
-# 5 DIY Lip Tints Using Natural Ingredients (Perfect for a Glossy, Healthy Look!)
+description: "There’s something magical about finding the perfect lip tint—the subtle touch of color, the way it enhances your natural beauty, and that healthy, glossy…"
+keywords:
+  - "beauty diy ideas"
+  - "clean beauty"
+  - "diy beauty"
+  - "diy lip tint"
+  - "diy projects"
+cover:
+  image: "/generic-post-images/leonardo-17.jpg"
+  alt: "5 DIY Lip Tints With Natural Ingredients"
+  caption: "Elle Vida | Sparklebox"
+---# 5 DIY Lip Tints Using Natural Ingredients (Perfect for a Glossy, Healthy Look!)
 
 There’s something magical about finding the perfect lip tint—the subtle touch of color, the way it enhances your natural beauty, and that healthy, glossy glow. But what if you could create customized lip tints using natural ingredients, right at home? Not only is it a creative and satisfying process, but it’s also a wonderful way to avoid harsh chemicals, save money, and reduce your environmental footprint.
 

@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/the-whispering-woods-a-tale-of-ancient-prophecies-and-timeless-wisdom/"
----
-In the mystical realm of Elderwald, where the ancient Whispering Woods hold
+description: "In the mystical realm of Elderwald, where the ancient Whispering Woods hold"
+keywords:
+  - "daily ai affirmations"
+  - "dreamscape"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/leonardo-6.jpg"
+  alt: "The Whispering Woods: A Tale of Ancient Prophecies and Timeless Wisdom"
+  caption: "Elle Vida | Sparklebox"
+---In the mystical realm of Elderwald, where the ancient Whispering Woods hold
 dominion over all that lives beneath their towering boughs, a humble traveler named Eolith
 wandered off his path. The trees of this enchanted forest possessed the power to speak,
 imparting wisdom and secrets as old as time itself. But only to those worthy enough to

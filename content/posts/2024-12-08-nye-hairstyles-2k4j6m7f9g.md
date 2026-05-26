@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/nye-hairstyles-2k4j6m7f9g/"
----
-As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
+description: "As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle."
+cover:
+  image: "/generic-post-images/floating-castle-4.jpg"
+  alt: "13 Dramatic NYE Hairstyles That Will Leave Everyone Speechless (You’ll Be Obsessed with #6!)"
+  caption: "Elle Vida | Sparklebox"
+---As the clock ticks down to midnight, all eyes will be on you and your stunning New Year's Eve hairstyle. 
 
 From elegant updos to edgy braids, this year’s trends are all about making a statement. 
 

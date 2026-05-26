@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/diy-protein-bars-8f3jklqz2n/"
----
-Are you tired of searching for healthy snacks that fit your busy lifestyle? 
+description: "Are you tired of searching for healthy snacks that fit your busy lifestyle?"
+cover:
+  image: "/generic-post-images/alchemy-alchemy_mediation_soundbath_1013.jpg"
+  alt: "10 Easy DIY Protein Bars You Can Make in Under 10 Minutes (Snack Smarter Now!)"
+  caption: "Elle Vida | Sparklebox"
+---Are you tired of searching for healthy snacks that fit your busy lifestyle? 
 
 Look no further! These 10 easy DIY protein bars are not only quick to make, but they also pack a powerful protein punch to fuel your day. 
 

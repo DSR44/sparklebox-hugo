@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/winter-table-setup-8jzqk2l3fg/"
----
-As the winter chill sets in, there's nothing quite like gathering your friends and family around a beautifully set table that exudes warmth and comfort.
+description: "As the winter chill sets in, there's nothing quite like gathering your friends and family around a beautifully set table that exudes warmth and comfort."
+cover:
+  image: "/pinterest-images/8224693822_perception-creates-reality-mindset.png"
+  alt: "10 Cozy Winter Table Setup Ideas That'll Make Your Guests Feel Right at Home!"
+  caption: "Elle Vida | Sparklebox"
+---As the winter chill sets in, there's nothing quite like gathering your friends and family around a beautifully set table that exudes warmth and comfort.
 
 From rustic charm to elegant touches, these cozy winter table setup ideas will inspire you to create a festive atmosphere that welcomes every guest with open arms. Whether you're hosting a holiday dinner or a casual brunch, these setups are designed to make your gatherings memorable and inviting.
 

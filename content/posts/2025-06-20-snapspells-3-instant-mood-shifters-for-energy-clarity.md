@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/snapspells-3-instant-mood-shifters-for-energy-clarity/"
----
-**SnapSpells** are quick, magical shifts you can activate anytime. Each one begins with a visualization — not just a thought, but a felt scene you step into.
+description: "SnapSpells are quick, magical shifts you can activate anytime."
+keywords:
+  - "snapspells"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/goddess-5.jpg"
+  alt: "SnapSpells: 3 Instant Mood Shifters for Energy & Clarity"
+  caption: "Elle Vida | Sparklebox"
+---**SnapSpells** are quick, magical shifts you can activate anytime. Each one begins with a visualization — not just a thought, but a felt scene you step into.
 
 Like Neville’s ladder technique, the secret is to **see yourself doing it**. Not imagining as a third person — but living it with your senses. That’s when the shift begins.
 

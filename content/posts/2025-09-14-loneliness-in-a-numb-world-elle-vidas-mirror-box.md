@@ -12,8 +12,14 @@ description: "Loneliness is no longer rare — it is the quiet hum beneath our m
 draft: false
 aliases:
   - "/loneliness-in-a-numb-world-elle-vidas-mirror-box/"
----
-## 🪞 Elvida’s Mirror Box
+keywords:
+  - "elle vida"
+  - "loneliness in modern life"
+cover:
+  image: "/generic-post-images/mystical-2.jpg"
+  alt: "Loneliness in a Numb World | Elle Vida’s Mirror Box"
+  caption: "Elle Vida | Sparklebox"
+---## 🪞 Elvida’s Mirror Box
 
 ### On Loneliness in a Numb World
 

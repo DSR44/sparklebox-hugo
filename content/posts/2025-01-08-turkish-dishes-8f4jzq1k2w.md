@@ -9,8 +9,11 @@ description: "Unleash the flavors of Turkey in your own kitchen! From fragrant k
 draft: false
 aliases:
   - "/turkish-dishes-8f4jzq1k2w/"
----
-Turkish cuisine is a delightful tapestry of flavors, colors, and aromas that can transform your kitchen into a Mediterranean haven. 
+cover:
+  image: "/generic-post-images/leonardo-6.jpg"
+  alt: "15 Irresistible Turkish Dishes You Can Whip Up in Your Kitchen Today!"
+  caption: "Elle Vida | Sparklebox"
+---Turkish cuisine is a delightful tapestry of flavors, colors, and aromas that can transform your kitchen into a Mediterranean haven. 
 
 From the bustling bazaars of Istanbul to the tranquil shores of the Aegean, each dish tells a story of rich heritage and culinary tradition. 
 

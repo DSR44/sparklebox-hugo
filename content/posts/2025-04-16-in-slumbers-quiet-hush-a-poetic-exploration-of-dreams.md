@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/in-slumbers-quiet-hush-a-poetic-exploration-of-dreams/"
----
-In slumber's quiet hush, beneath night's mantle deep,
+description: "In slumber's quiet hush, beneath night's mantle deep, A whispered secret, a tale that softly seeps,"
+keywords:
+  - "dreamcore wellness"
+  - "dreamscape"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-3.jpg"
+  alt: "In Slumber's Quiet Hush: A Poetic Exploration of Dreams"
+  caption: "Elle Vida | Sparklebox"
+---In slumber's quiet hush, beneath night's mantle deep,
 A whispered secret, a tale that softly seeps,
 Through veils of sleep, in whispers we perceive,
 The language of dreams, where the mind does conceive.

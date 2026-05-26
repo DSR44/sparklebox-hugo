@@ -11,14 +11,19 @@ tags:
   - "sacred-feminine"
   - "inner-work"
   - "mysticism"
-description: "The 7 Sacred Feminine Archetypes: A Portal to Remembering Your Sovereignty"
+description: "There's a version of you that already knows the depth of your own power."
 cover:
   image: "/generic-post-images/leonardo-24.jpg"
   alt: "The 7 Sacred Feminine Archetypes: A Portal to Remembering Your Sovereignty"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "feminine-archetypes"
+  - "goddesses"
+  - "sacred-feminine"
+  - "inner-work"
+  - "mysticism"
 ---
-
 There's a version of you that already knows the depth of your own power. You've felt her stir, a whisper in the darkness, a spark in the silence. What if this whisper is not just a call to awaken, but a reminder of the archetypes that have always resided within you, waiting to be embodied?
 
 ## The Hidden Mechanism

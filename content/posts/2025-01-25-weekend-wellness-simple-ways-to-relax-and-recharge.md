@@ -18,8 +18,18 @@ tags:
 draft: false
 aliases:
   - "/weekend-wellness-simple-ways-to-relax-and-recharge/"
----
-Weekends are a perfect time to recharge and prioritize well-being. Engaging in mindful activities can help reduce stress and enhance overall health. Here are some wellness practices to incorporate into your weekend routine.
+description: "Weekends are a perfect time to recharge and prioritize well-being."
+keywords:
+  - "detox"
+  - "health"
+  - "journaling"
+  - "mental health"
+  - "mindfulness"
+cover:
+  image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013_02.jpg"
+  alt: "Weekend Wellness: Simple Ways to Relax and Recharge"
+  caption: "Elle Vida | Sparklebox"
+---Weekends are a perfect time to recharge and prioritize well-being. Engaging in mindful activities can help reduce stress and enhance overall health. Here are some wellness practices to incorporate into your weekend routine.
 
 ### **1. Morning Nature Walks**
 

@@ -15,8 +15,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8e%a8-the-painter-of-possible-worlds/"
----
-There once was a woman named **Elandra**, who lived in a house filled with blank canvases.
+description: "There once was a woman named Elandra, who lived in a house filled with blank canvases."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/floating-castle-2.jpg"
+  alt: "🎨 The Painter of Possible Worlds"
+  caption: "Elle Vida | Sparklebox"
+---There once was a woman named **Elandra**, who lived in a house filled with blank canvases.
 
 From the outside, it seemed as though she had everything — quiet afternoons, a roof that didn’t leak, and sunlight that filtered just right through the curtains. But inside, she carried a weight. Not a loud one — a silent one. The kind that presses against the ribs when you’re alone. The kind that sighs through mirrors.
 

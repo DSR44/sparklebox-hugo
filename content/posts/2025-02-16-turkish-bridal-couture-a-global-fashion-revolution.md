@@ -15,8 +15,18 @@ tags:
 draft: false
 aliases:
   - "/turkish-bridal-couture-a-global-fashion-revolution/"
----
-# Turkish Bridal Couture Takes Over
+description: "Turkish Bridal Couture: A Global Fashion Revolution. Turkish bridal fashion is having a moment."
+keywords:
+  - "turkey designer"
+  - "turkey trends"
+  - "wedding"
+  - "wedding dress"
+  - "wedding fashion"
+cover:
+  image: "/generic-post-images/moon-spell-2.jpg"
+  alt: "Turkish Bridal Couture: A Global Fashion Revolution"
+  caption: "Elle Vida | Sparklebox"
+---# Turkish Bridal Couture Takes Over
 
 ## From Bosporus to New York: How Turkish Designers Are Revolutionizing Weddings
 

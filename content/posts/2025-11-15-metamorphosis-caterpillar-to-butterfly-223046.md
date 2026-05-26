@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "In the whispered secrets of the universe, there lies a tale of transformation so profound, it has captivated the hearts of mystics and dreamers for..."
+description: "In the whispered secrets of the universe, there lies a tale of transformation so profound, it has captivated the hearts of mystics and dreamers for…"
 cover:
   image: "/generic-post-images/goddess-6.jpg"
   alt: "Metamorphosis: caterpillar to butterfly"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-In the whispered secrets of the universe, there lies a tale of transformation so profound, it has captivated the hearts of mystics and dreamers for centuries. It is the story of the caterpillar's metamorphosis into the butterfly - a journey of surrender, rebirth, and radiant transformation. As I sit in stillness, surrounded by the soft glow of candlelight 🕯️, I am reminded of the ancient wisdom that whispers: transformation is not something we do, but something we allow.
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---In the whispered secrets of the universe, there lies a tale of transformation so profound, it has captivated the hearts of mystics and dreamers for centuries. It is the story of the caterpillar's metamorphosis into the butterfly - a journey of surrender, rebirth, and radiant transformation. As I sit in stillness, surrounded by the soft glow of candlelight 🕯️, I am reminded of the ancient wisdom that whispers: transformation is not something we do, but something we allow.
 
 It's not about forcing change, it's about embracing the unfolding. Like the tender petals of a flower 🌸, we must be willing to unfurl, to release the tight grip of our conditioning, and to surrender to the mystery. In this sacred space, we discover that metamorphosis is not just a physical process, but a spiritual one - a transmutation of the very essence of our being. As the great Sufi poet Rumi so eloquently wrote, "The wound is the place where the light enters you."
 

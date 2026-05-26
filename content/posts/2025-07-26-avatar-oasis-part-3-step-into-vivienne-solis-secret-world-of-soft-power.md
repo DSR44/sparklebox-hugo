@@ -15,8 +15,16 @@ description: "Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Con
 draft: false
 aliases:
   - "/avatar-oasis-part-3-step-into-vivienne-solis-secret-world-of-soft-power/"
----
-Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Control | Avatar: The Poised Woman Everyone Remembers
+keywords:
+  - "avatar oasis"
+  - "identity work"
+  - "self concept"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-36.jpg"
+  alt: "Avatar Oasis — Part 3: Step Into Vivienne Solis’ Secret World of Soft Power"
+  caption: "Elle Vida | Sparklebox"
+---Type: Feminine Mystery Power | Mood: Intimate Elegance & Quiet Control | Avatar: The Poised Woman Everyone Remembers
 
 ### ✨ AVATAR OASIS — PART 3
 

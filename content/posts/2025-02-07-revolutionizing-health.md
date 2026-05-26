@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/revolutionizing-health/"
----
-# How AI Is Making Personalized Care Accessible to All
+description: "What if your daily health habits and long-term wellness goals could be supported by a revolutionary, personalized health plan designed just for…"
+keywords:
+  - "ai"
+  - "health"
+  - "health trends"
+  - "wellness"
+cover:
+  image: "/generic-post-images/leonardo-34.jpg"
+  alt: "Revolutionizing Health:"
+  caption: "Elle Vida | Sparklebox"
+---# How AI Is Making Personalized Care Accessible to All
 
 ## Introduction
 

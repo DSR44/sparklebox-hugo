@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%b3-the-tree-of-memories-a-tale-of-forgiveness/"
----
-In a quiet village nestled between two great mountains, there lived a girl named **Akira**, known for her kind heart and gentle spirit. She lived a simple life, gathering herbs for healing, and tending to her garden. Yet within her, there were small echoes — quiet aches of guilt, shame, and regret she could never fully explain.
+description: "In a quiet village nestled between two great mountains, there lived a girl named Akira, known for her kind heart and gentle spirit."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the oracles grove"
+  - "subconscious healing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-32.jpg"
+  alt: "🌳 The Tree of Memories: A Tale of Forgiveness"
+  caption: "Elle Vida | Sparklebox"
+---In a quiet village nestled between two great mountains, there lived a girl named **Akira**, known for her kind heart and gentle spirit. She lived a simple life, gathering herbs for healing, and tending to her garden. Yet within her, there were small echoes — quiet aches of guilt, shame, and regret she could never fully explain.
 
 One morning, while foraging deeper into the forest than usual, Akira stumbled upon a hidden clearing. At its center stood an enormous tree — ancient, twisted, and shimmering in a way no tree should shimmer. Its bark was dark and knotted, but its branches held **small, glowing stones**, each one pulsing faintly with light.
 

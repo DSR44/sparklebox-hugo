@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/the-secret-garden-of-memories/"
----
-She awoke with a peculiar sensation, as though something deep within her was calling to be found. Anna tightened her cardigan against the crisp morning air and sipped her tea, gazing out the window. Yet the stirring inside wasn’t something the world outside could satisfy; this yearning pointed inward, urging her toward a part of herself she’d long forgotten.
+description: "She awoke with a peculiar sensation, as though something deep within her was calling to be found."
+keywords:
+  - "dreamcore wellness"
+  - "dreamscape"
+  - "dreamweaver tales"
+  - "subconscious wellness"
+  - "the library of dreams"
+cover:
+  image: "/pinterest-images/8224401471_theta-state-frequency-design.png"
+  alt: "The Secret Garden of Memories"
+  caption: "Elle Vida | Sparklebox"
+---She awoke with a peculiar sensation, as though something deep within her was calling to be found. Anna tightened her cardigan against the crisp morning air and sipped her tea, gazing out the window. Yet the stirring inside wasn’t something the world outside could satisfy; this yearning pointed inward, urging her toward a part of herself she’d long forgotten.
 
 That night, after slipping into bed and letting sleep take her, she dreamt of a place she couldn’t remember but felt she had always known. It was a garden, wild yet strangely inviting. Light danced upon dew-kissed petals, and the air hummed with a melody that whispered of secrets and stories untold.
 

@@ -16,8 +16,11 @@ description: "Neville Goddard's feeling is the secret meets Sparklebox alchemy �
 keywords: ["feeling is the secret", "Neville Goddard", "mental alchemy", "inner reality", "Sparklebox"]
 aliases:
   - "/feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida/"
----
-✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance | Elle Vida – Sparklebox
+cover:
+  image: "/generic-post-images/leonardo-51.jpg"
+  alt: "Feeling Is the Secret — The Alchemy of Inner Reality · Sparklebox Realm by Elle Vida"
+  caption: "Elle Vida | Sparklebox"
+---✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance | Elle Vida – Sparklebox
 
 # ✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance
 

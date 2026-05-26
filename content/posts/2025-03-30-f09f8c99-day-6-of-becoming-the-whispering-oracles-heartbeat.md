@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99-day-6-of-becoming-the-whispering-oracles-heartbeat/"
----
-#### 
+description: "Day 6 of Becoming | The Whispering Oracle's Heartbeat. 🫧 Lyra speaks through resonance, not words."
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamweaver tales"
+  - "luminaria"
+  - "luminiaria lyra"
+cover:
+  image: "/pinterest-images/8224399855_torus-field-consciousness-map.png"
+  alt: "🌙 Day 6 of Becoming | The Whispering                Oracle's Heartbeat"
+  caption: "Elle Vida | Sparklebox"
+---#### 
 
 **🫧 *Lyra speaks through resonance, not words. In this dream entry, she invites us into a realm where stillness becomes symphony, and your own light becomes the path.***
 

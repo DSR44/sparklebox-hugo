@@ -18,8 +18,13 @@ cover:
   alt: "The Rose Petal Ritual: A Guide to Self-Love and Self-Care"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "self-love"
+  - "ritual"
+  - "rose-magic"
+  - "heart-chakra"
 ---
-
 As I sit amidst the soft glow of candlelight, surrounded by the gentle whispers of rose petals, I am reminded of the ancient wisdom that has long revered this mystical flower. The rose, a symbol of love, compassion, and divine feminine energy, has been a cherished companion on my own journey of self-discovery and spiritual growth. In the stillness of this moment, I invite you to join me on a path of exploration, as we delve into the history, mythology, and spiritual significance of the rose, and uncover the secrets of the Rose Petal Ritual. 
 
 In the realm of Greek mythology, the rose was born from the blood of Adonis, a young god beloved by Aphrodite, the goddess of love. This mythological tale whispers to us of the rose's association with the heart, passion, and the cycles of life and death. As we wander through the gardens of Persian poetry, we find the rose blossoming as a symbol of spiritual growth, love, and the pursuit of wisdom. The rose's presence in Christian mysticism, often representing the Virgin Mary, further weaves a tapestry of reverence and admiration for this majestic flower. 

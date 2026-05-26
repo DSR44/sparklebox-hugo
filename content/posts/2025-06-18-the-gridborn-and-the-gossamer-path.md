@@ -14,8 +14,16 @@ tags:
 draft: false
 aliases:
   - "/the-gridborn-and-the-gossamer-path/"
----
-*Prologue by Elle Vida*
+description: "In the hollow hush between two dying stars, a whisper traveled through the folds of space."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_01.jpg"
+  alt: "The Gridborn and the Gossamer Path"
+  caption: "Elle Vida | Sparklebox"
+---*Prologue by Elle Vida*
 
 In the hollow hush between two dying stars, a whisper traveled through the folds of space. Not a sound, but a knowing. Not a scream, but a sigh. It passed through galaxies where time coiled like ribbons and touched a world veiled in synthetic stillness. This was Evolara — a planet of shimmering skies and silenced minds, where dreams lay dormant beneath polished steel and velvet circuitry.
 

@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The mirror never questions your worth. It simply reflects whatever you place before it, including those words you're supposed to say with conviction. ..."
+description: "The Mirror's Secret: Why Your Affirmations Keep Hitting the Same Wall. The mirror never questions your worth."
 cover:
   image: "/pinterest-images/8224887671_feminine-power-lifestyle.png"
   alt: "The Mirror's Secret: Why Your Affirmations Keep Hitting the Same Wall"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 The mirror never questions your worth. It simply reflects whatever you place before it, including those words you're supposed to say with conviction. But here's what nobody mentions about morning affirmations: they work best when nobody's watching, which should tell us everything about what's actually broken.
 

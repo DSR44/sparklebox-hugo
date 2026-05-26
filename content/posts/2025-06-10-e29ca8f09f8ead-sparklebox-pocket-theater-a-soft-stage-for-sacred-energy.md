@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-a-soft-stage-for-sacred-energy/"
----
-#### *Act V — “Fuel the Flame”*
+description: "Sparklebox Pocket Theater: A Soft Stage for Sacred Energy. The stage is soft with morning light."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "pocket theater"
+  - "subconscious healing"
+cover:
+  image: "/generic-post-images/foggy-forest-4.jpg"
+  alt: "✨🎭 Sparklebox Pocket Theater: A Soft Stage for Sacred Energy"
+  caption: "Elle Vida | Sparklebox"
+---#### *Act V — “Fuel the Flame”*
 
 *Lo-Fi Affirmations for June 10*
 

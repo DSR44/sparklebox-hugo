@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%9emirrored-minds-the-dance-of-detachment-a-path-to-inner-success/"
----
-In the heart of a blooming garden, a delicate, silver-throned flower stands tall, its petals shimmering with the promise of success. It is not the flower's beauty that defines its success, but the unwavering faith in its own worth, free from the need for external validation. This is the dance of detachment, where we learn to celebrate our achievements without clinging to them, allowing the magic of inner success to bloom within.
+description: "In the heart of a blooming garden, a delicate, silver-throned flower stands tall, its petals shimmering with the promise of success."
+keywords:
+  - "daily affirmations"
+  - "dreamweaver tales"
+  - "florence scovel shinn"
+  - "mirrored minds"
+  - "wellness"
+cover:
+  image: "/generic-post-images/cosmic-cosmic_fusion_1013.jpg"
+  alt: "🪞Mirrored Minds The Dance of Detachment: A Path to Inner Success"
+  caption: "Elle Vida | Sparklebox"
+---In the heart of a blooming garden, a delicate, silver-throned flower stands tall, its petals shimmering with the promise of success. It is not the flower's beauty that defines its success, but the unwavering faith in its own worth, free from the need for external validation. This is the dance of detachment, where we learn to celebrate our achievements without clinging to them, allowing the magic of inner success to bloom within.
 
 ## **Section 1: The Illusion of Success**
 

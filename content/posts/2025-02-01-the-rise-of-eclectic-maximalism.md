@@ -35,8 +35,18 @@ tags:
 draft: false
 aliases:
   - "/the-rise-of-eclectic-maximalism/"
----
-![](/Primary-Play-The-Bold-Color-Trend-Transforming-Home-Interiors-2.-Statement-Furniture-Bold-Pieces-that-Pop.webp)
+description: "Minimalism has dominated interior design for years, but in 2025, maximalism is taking over—and it’s louder, bolder, and more expressive than ever."
+keywords:
+  - "aesthetic room ideas"
+  - "bold color palettes"
+  - "bold interiors"
+  - "colorful home decor"
+  - "curated chaos"
+cover:
+  image: "/generic-post-images/leonardo-28.jpg"
+  alt: "The Rise of Eclectic Maximalism:"
+  caption: "Elle Vida | Sparklebox"
+---![](/Primary-Play-The-Bold-Color-Trend-Transforming-Home-Interiors-2.-Statement-Furniture-Bold-Pieces-that-Pop.webp)
 
 ### **How to Embrace Bold, Vibrant Interiors in 2025**
 

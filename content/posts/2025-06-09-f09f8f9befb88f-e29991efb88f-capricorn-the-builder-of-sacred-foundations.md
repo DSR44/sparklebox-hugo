@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8f%9b%ef%b8%8f-%e2%99%91%ef%b8%8f-capricorn-the-builder-of-sacred-foundations/"
----
-#### **Capricorn Oracle Tale – The Keeper of Purpose and Legacy**
+description: "Capricorn soul legacy is forged in silence, shaped by perseverance, and crowned with meaning."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/pinterest-images/8224400607_vesica-piscis-neural-architecture.png"
+  alt: "🏛️ ♑️ Capricorn – The Builder of Sacred Foundations"
+  caption: "Elle Vida | Sparklebox"
+---#### **Capricorn Oracle Tale – The Keeper of Purpose and Legacy**
 
 ## 🌄 Introduction:
 

@@ -16,8 +16,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%9emirrored-minds-%f0%9f%93%9c-a-reflection-of-reality-%f0%9f%8c%8a/"
----
-As we gaze into the mirrored halls of our minds, we discover that the only reflection we truly see is the one we've created ourselves. Florence's wise words echo through the chambers of our consciousness, reminding us that **"Man can only receive what he sees himself receiving."** It's a powerful truth that whispers to us of the transformative power of visualization.
+description: "As we gaze into the mirrored halls of our minds, we discover that the only reflection we truly see is the one we've created ourselves."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "florence scovel shinn"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/foggy-forest-1.jpg"
+  alt: "🪞Mirrored Minds 📜 A Reflection of Reality 🌊"
+  caption: "Elle Vida | Sparklebox"
+---As we gaze into the mirrored halls of our minds, we discover that the only reflection we truly see is the one we've created ourselves. Florence's wise words echo through the chambers of our consciousness, reminding us that **"Man can only receive what he sees himself receiving."** It's a powerful truth that whispers to us of the transformative power of visualization.
 
 ### **Weaving Reality with Mental Imagery 🎨**
 

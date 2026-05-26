@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/%e2%99%89%ef%b8%8f-taurus-grounding-the-anchor-in-chaos/"
----
-🌍 *Oracle Growth Series | Dreamweaver Tales – Day 2*
+description: "🌍 Oracle Growth Series | Dreamweaver Tales – Day 2 When the stars fractured and the winds turned wild, it was not the swift who endured, but the still."
+keywords:
+  - "oraclesgrowth"
+  - "the oracles grove"
+cover:
+  image: "/pinterest-images/8224399855_torus-field-consciousness-map.png"
+  alt: "♉️ Taurus — Grounding: The Anchor in Chaos | day 2 oracle growth series"
+  caption: "Elle Vida | Sparklebox"
+---🌍 *Oracle Growth Series | Dreamweaver Tales – Day 2*
 
 ### 🪨 **Tale: The Keeper of the Grounded Flame**
 

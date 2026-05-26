@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/before-the-words-why-feeling-comes-first/"
----
-Emotional Self-Talk, Pattern Awareness & the Sparklebox Philosophy
+description: "Emotional Self-Talk, Pattern Awareness & the Sparklebox Philosophy In a world where affirmations flood our feeds and mantras echo across social timelines…"
+keywords:
+  - "florence scovel shinn"
+  - "mirrored minds"
+  - "the mirror hall collection"
+cover:
+  image: "/pinterest-images/8224399717_frequency-shift-brain-upgrade.png"
+  alt: "Before the Words: Why Feeling Comes First"
+  caption: "Elle Vida | Sparklebox"
+---Emotional Self-Talk, Pattern Awareness & the Sparklebox Philosophy
 
 In a world where affirmations flood our feeds and mantras echo across social timelines, there's a quiet truth most miss:
 

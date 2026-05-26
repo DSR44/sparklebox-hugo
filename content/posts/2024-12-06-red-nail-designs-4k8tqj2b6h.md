@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/red-nail-designs-4k8tqj2b6h/"
----
-Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents. 
+description: "Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents."
+cover:
+  image: "/generic-post-images/leonardo-6.jpg"
+  alt: "15 Stunning Red Nail Designs That Shine with Gold Accents (You Won't Believe #8!)"
+  caption: "Elle Vida | Sparklebox"
+---Get ready to elevate your nail game with our curated collection of stunning red nail designs adorned with luxurious gold accents. 
 
 Whether you prefer bold and striking or subtle and classy, there's a perfect design waiting for you. 
 

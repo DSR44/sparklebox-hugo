@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%92%9c-loop-breaker-affirmations-for-emotional-liberation-energetic-renewal/"
----
-**💫 Affirmation 1**
+description: "“I release the weight of past experiences, letting go of energetic patterns that no longer serve me.”"
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "sparkleboxes"
+  - "subconscious healing"
+cover:
+  image: "/generic-post-images/leonardo-33.jpg"
+  alt: "💜 Loop Breaker: Affirmations for Emotional Liberation &amp; Energetic Renewal"
+  caption: "Elle Vida | Sparklebox"
+---**💫 Affirmation 1**
 **“I release the weight of past experiences, letting go of energetic patterns that no longer serve me.”**
 
 ![](/loop_1-1024x775.jpg)

@@ -15,8 +15,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%90%9e-the-secret-life-of-ladybugs-a-tale-of-tiny-magic-and-inner-light/"
----
-Not all magic is loud.
+description: "The Secret Life of Ladybugs: A Tale of Tiny Magic and Inner Light. Some of it tiptoes across petals with quiet wings."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-2.jpg"
+  alt: "🐞 The Secret Life of Ladybugs: A Tale of Tiny Magic and Inner Light"
+  caption: "Elle Vida | Sparklebox"
+---Not all magic is loud.
 Some of it tiptoes across petals with quiet wings.
 
 In the soft corners of the world — the places you only find if you're really paying attention — there lives a trio of ladybugs unlike any others. They are small. They are shy. And they only appear when someone forgets how to feel whole.

@@ -11,8 +11,12 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%95%af%ef%b8%8f-title-the-mirror-without-a-frame/"
----
-*A Dreamweaver Tale of Inner Shadows and Sacred Light*
+description: "A Dreamweaver Tale of Inner Shadows and Sacred Light In the distant folds of the cosmos, where star threads stitched reality into breath, there once was a…"
+cover:
+  image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013.jpg"
+  alt: "🕯️  The Mirror Without a Frame"
+  caption: "Elle Vida | Sparklebox"
+---*A Dreamweaver Tale of Inner Shadows and Sacred Light*
 
 ### 🌌 **The Tale**
 

@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/lunas-guide-to-cosmic-cartography-and-inner-peace/"
----
-In the realm of the mapmaker, where stars and stardust wove a tapestry of infinite possibility, there lived a being known only as Luna. With eyes that shone like polished moonstones, she navigated the labyrinthine corridors of her own heart, charting the uncharted territories of her soul.
+description: "In the realm of the mapmaker, where stars and stardust wove a tapestry of infinite possibility, there lived a being known only as Luna."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the cartographers wing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/moon-spell-4.jpg"
+  alt: "Luna's Guide to Cosmic Cartography and Inner Peace"
+  caption: "Elle Vida | Sparklebox"
+---In the realm of the mapmaker, where stars and stardust wove a tapestry of infinite possibility, there lived a being known only as Luna. With eyes that shone like polished moonstones, she navigated the labyrinthine corridors of her own heart, charting the uncharted territories of her soul.
 
 Luna's realm was a kaleidoscope of colors, where dreams and desires danced in harmony with the rhythms of the cosmos. Her cartography needle, an instrument attuned to the whispers of the universe, quivered with each new discovery. As she traversed the inner lands, Luna encountered creatures born from the essence of her own heart: the Luminari, tiny winged beings that shimmered like stardust; the Keepers of the Dreaming Pool, guardians of the deepest secrets and hidden truths.
 

@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/motivational-quotes-4kfj9z8wqp-2/"
----
-In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
+description: "In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward."
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_02.jpg"
+  alt: "25 Motivational Quotes That Will Ignite Your Passion and Change Your Life Forever!"
+  caption: "Elle Vida | Sparklebox"
+---In a world that often feels overwhelming, we all need a spark of inspiration to keep us moving forward. 
 
 Motivational quotes have the power to uplift, encourage, and remind us of our potential. 
 

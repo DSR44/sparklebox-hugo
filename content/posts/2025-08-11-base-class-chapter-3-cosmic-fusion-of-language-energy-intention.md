@@ -13,8 +13,14 @@ description: "Language is more than a tool for communication — it is the archi
 draft: false
 aliases:
   - "/base-class-chapter-3-cosmic-fusion-of-language-energy-intention/"
----
-.sb-card 
+keywords:
+  - "sparklebox base class"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/goddess-2.jpg"
+  alt: "Base Class Chapter 3 — Cosmic Fusion of Language, Energy & Intention"
+  caption: "Elle Vida | Sparklebox"
+---.sb-card 
 .sb-card a
 
 .sb-cta 

@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%94%ae-%e2%99%90%ef%b8%8f-sagittarius-the-cosmic-archers-flame/"
----
-## 🌠 Introduction:
+description: "Sagittarius cosmic fire burns like a comet across the skies — untamed, wild, and ever-seeking."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/mystical-mystical_velvety_black_chamber_where_th_0_92392523_1013.jpg"
+  alt: "🔮 ♐️ Sagittarius – The Cosmic Archer’s Flame"
+  caption: "Elle Vida | Sparklebox"
+---## 🌠 Introduction:
 
 **Sagittarius cosmic fire** burns like a comet across the skies — untamed, wild, and ever-seeking.
 This is the dreamer of distant worlds. The archer whose arrow pierces illusion.

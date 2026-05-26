@@ -10,8 +10,12 @@ tags:
 draft: false
 aliases:
   - "/%e2%9c%a8-elvidas-mirror-box-the-mirror-did-not-break-i-did/"
----
-#### *And then I put myself back together like a cosmic jewel.*
+description: "For years, I stood before reflections shaped by others."
+cover:
+  image: "/generic-post-images/leonardo-35.jpg"
+  alt: "✨ Elvida’s Mirror Box “The Mirror Did Not Break — I Did.”"
+  caption: "Elle Vida | Sparklebox"
+---#### *And then I put myself back together like a cosmic jewel.*
 
 ### 🌑 *Opening:*
 

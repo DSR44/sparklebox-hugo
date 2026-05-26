@@ -16,8 +16,16 @@ description: "Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: T
 draft: false
 aliases:
   - "/avatar-oasis-part-1-step-into-celestes-dream-life/"
----
-Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: The Loved, Effortless Wife
+keywords:
+  - "avatar oasis"
+  - "identity work"
+  - "self concept"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_02.jpg"
+  alt: "Avatar Oasis – Part 1: Step Into Celeste’s Dream Life"
+  caption: "Elle Vida | Sparklebox"
+---Type: Feminine Soft Power | Mood: Quiet Luxury Morning | Avatar: The Loved, Effortless Wife
 
 ### ✨ AVATAR OASIS — PART 1
 

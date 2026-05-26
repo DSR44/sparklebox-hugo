@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/dark-cherry-red-makeup-4g8kqj9b2z/"
----
-Dark cherry red is the ultimate color for those who want to make a statement with their makeup. 
+description: "Dark cherry red is the ultimate color for those who want to make a statement with their makeup."
+cover:
+  image: "/generic-post-images/cosmic-sparklebox_cosmic_cosmic2_1013.png"
+  alt: "10 Dark Cherry Red Makeup Looks That Will Make You the Star of Every Party!"
+  caption: "Elle Vida | Sparklebox"
+---Dark cherry red is the ultimate color for those who want to make a statement with their makeup. 
 
 This luscious hue exudes confidence and sophistication, making it perfect for any party or special occasion. 
 

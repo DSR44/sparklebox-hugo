@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8e%a0-20-whimsical-affirmations-to-enchant-your-inner-world/"
----
-#### **🎩 From the Hat of Hidden Wonders – A Journey Through Magic, Healing, and Joy**
+description: "A 20-step journey into healing, joy, and soulful expansion — whispered from the realm beneath the magician’s hat."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "whimsical affirmations"
+cover:
+  image: "/generic-post-images/foggy-forest-1.jpg"
+  alt: "🎠 20 Whimsical Affirmations to Enchant Your Inner World"
+  caption: "Elle Vida | Sparklebox"
+---#### **🎩 From the Hat of Hidden Wonders – A Journey Through Magic, Healing, and Joy**
 
 *A 20-step journey into healing, joy, and soulful expansion — whispered from the realm beneath the magician’s hat.*
 

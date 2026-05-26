@@ -15,8 +15,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%95%b0%ef%b8%8f-the-clockmaker-of-vespara-a-tale-of-quiet-gratitude/"
----
-In a city where time curved like spiral staircases and lanterns flickered with memory-light, there lived an old man named **Aurelian** — the Clockmaker of Vespara.
+description: "In a city where time curved like spiral staircases and lanterns flickered with memory-light, there lived an old man named Aurelian — the Clockmaker of…"
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the library of dreams"
+cover:
+  image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
+  alt: "🕰️ The Clockmaker of Vespara: A Tale of Quiet Gratitude"
+  caption: "Elle Vida | Sparklebox"
+---In a city where time curved like spiral staircases and lanterns flickered with memory-light, there lived an old man named **Aurelian** — the Clockmaker of Vespara.
 
 His workshop sat atop a weathered stone tower overlooking the glowing rooftops. It was filled with the soft ticking of countless clocks, each one handcrafted from polished wood, antique gears, and a little stardust. The people of Vespara whispered that Aurelian could hear the soul of a person in the rhythm of their timepiece.
 

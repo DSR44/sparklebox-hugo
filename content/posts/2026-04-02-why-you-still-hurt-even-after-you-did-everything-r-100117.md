@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "They say time heals, but time doesn't touch the wound. It just teaches the pain to speak more quietly. The ache is still there, murmuring..."
+description: "Why You Still Hurt Even After You Did Everything Right. They say time heals, but time doesn't touch the wound."
 cover:
   image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"
   alt: "Why You Still Hurt Even After You Did Everything Right"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 They say time heals, but time doesn't touch the wound. It just teaches the pain to speak more quietly.
 

@@ -9,8 +9,11 @@ description: "Unlock the secret power of baking soda! From tackling stubborn sta
 draft: false
 aliases:
   - "/baking-soda-hacks-5gkzqjv8wr/"
----
-Baking soda is not just for baking; it's a versatile powerhouse that can transform your cleaning routine! 
+cover:
+  image: "/generic-post-images/leonardo-21.jpg"
+  alt: "15 Incredible Baking Soda Hacks That Will Change Your Cleaning Game Forever!"
+  caption: "Elle Vida | Sparklebox"
+---Baking soda is not just for baking; it's a versatile powerhouse that can transform your cleaning routine! 
 
 With its natural deodorizing properties and gentle abrasive quality, it stands out as a go-to solution for a myriad of household issues. 
 

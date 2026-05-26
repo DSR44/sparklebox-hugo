@@ -15,8 +15,16 @@ description: "Within you lies a treasure trove of possibilities, waiting to be u
 draft: false
 aliases:
   - "/%f0%9f%8c%88-from-lead-to-gold-the-art-of-inner-transformation/"
----
-✨ 5 Spiritual Alchemy Affirmations for Transformation ✨ | Elle Vida – Sparklebox
+keywords:
+  - "dream coded affirmations"
+  - "linguistic rewiring"
+  - "personal growth practices"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/beauty-2.jpg"
+  alt: "🌈 From Lead to Gold: The Art of Inner Transformation"
+  caption: "Elle Vida | Sparklebox"
+---✨ 5 Spiritual Alchemy Affirmations for Transformation ✨ | Elle Vida – Sparklebox
 
 # ✨ 5 Spiritual Alchemy Affirmations for Transformation ✨
 

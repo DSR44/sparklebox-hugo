@@ -18,8 +18,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99-lupita-and-the-mirror-of-becoming/"
----
-**This first chapter of Lupita’s story marks the beginning of “7 Days of Becoming.”**
+description: "This first chapter of Lupita’s story marks the beginning of “7 Days of Becoming.”"
+keywords:
+  - "7 days of becoming"
+  - "dreamscape"
+  - "lupita"
+  - "self love"
+  - "series"
+cover:
+  image: "/generic-post-images/goddess-7.jpg"
+  alt: "🌙 Lupita and the Mirror of Becoming"
+  caption: "Elle Vida | Sparklebox"
+---**This first chapter of Lupita’s story marks the beginning of “7 Days of Becoming.”**
 
 🌌 Category
 

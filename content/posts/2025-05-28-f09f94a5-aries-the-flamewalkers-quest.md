@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%94%a5-aries-the-flamewalkers-quest/"
----
-### ✨ **A Note from the Oracle**
+description: "that soft, cosmic calling that began here, when the stars stirred and the veil thinned."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013.jpg"
+  alt: "🔥 Aries: The Flamewalker’s Quest"
+  caption: "Elle Vida | Sparklebox"
+---### ✨ **A Note from the Oracle**
 
 Before we step into Aries…
 

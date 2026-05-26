@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/the-time-looping-scientist/"
----
-Once upon a time in the not-too-distant future, there lived a brilliant scientist named
+description: "Once upon a time in the not-too-distant future, there lived a brilliant scientist named"
+keywords:
+  - "dreamweaver"
+  - "dreamweaver tales"
+  - "the time labyrinth"
+  - "journaling"
+cover:
+  image: "/pinterest-images/8224402060_geometric-consciousness-sacred-pattern.png"
+  alt: "The Time-Looping Scientist"
+  caption: "Elle Vida | Sparklebox"
+---Once upon a time in the not-too-distant future, there lived a brilliant scientist named
 Dr. Amelia Harper. She was renowned for her work on time travel, having created
 countless paradigm-shifting innovations that left the scientific community in awe.
 However, it was her latest experiment that would change everything—an accidental time

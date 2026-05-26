@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99-day-3-within-yourself/"
----
-# A Dreamweaver Reflection on Self-Love & Radiance
+description: "On this third day of Becoming, we turn inward — not to critique, but to witness."
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamweaver tales"
+  - "radiant energy"
+  - "willow"
+cover:
+  image: "/generic-post-images/cosmic-sparklebox_cosmic_cosmic2_1013.png"
+  alt: "🌙 Day 3 — Within Yourself"
+  caption: "Elle Vida | Sparklebox"
+---# A Dreamweaver Reflection on Self-Love & Radiance
 
 ### 🧚‍♀️ Intro:
 

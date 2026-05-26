@@ -9,8 +9,11 @@ description: "Step into a world of enchantment with our 22 Castlecore decor idea
 draft: false
 aliases:
   - "/castlecore-decor-4f8gtr2bqw-2/"
----
-Step into a realm of enchantment with these captivating castlecore decor ideas that will turn your home into a magnificent fairytale castle. 
+cover:
+  image: "/generic-post-images/foggy-forest-4.jpg"
+  alt: "22 Castlecore Decor Ideas That'll Transform Your Home into a Fairytale Castle!"
+  caption: "Elle Vida | Sparklebox"
+---Step into a realm of enchantment with these captivating castlecore decor ideas that will turn your home into a magnificent fairytale castle. 
 
 Inspired by medieval aesthetics, these trends embrace the charm of ancient castles and regal elegance, inviting you to weave a tapestry of fantasy within your living space. 
 

@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in..."
+description: "The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in three days."
 cover:
   image: "/pinterest-images/8224693822_perception-creates-reality-mindset.png"
   alt: "The Quiet Bankruptcy of Saying 'I Am Rich' While Checking Your Overdraft"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 The woman next to me on the subway keeps whispering “money flows easily to me” while her thumb refreshes a balance that hasn’t changed in three days. She doesn’t notice I can see her screen. I wonder if she’s praying or lying.
 

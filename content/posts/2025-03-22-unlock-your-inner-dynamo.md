@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/unlock-your-inner-dynamo/"
----
-Within each of us exists a boundless source of energy, resilience, and untapped potential. It’s the core of who you are, a powerful force that keeps evolving and thriving. Today’s affirmation calls you to awaken this inner dynamo, connecting with the strength that propels you forward. Center yourself, trust your power, and ignite your unstoppable momentum.
+description: "Within each of us exists a boundless source of energy, resilience, and untapped potential."
+keywords:
+  - "daily affirmations"
+  - "daily ai affirmations"
+  - "mindfulness"
+  - "wellness"
+cover:
+  image: "/pinterest-images/8224401250_vesica-piscis-cognitive-clarity.png"
+  alt: "Unlock Your Inner Dynamo"
+  caption: "Elle Vida | Sparklebox"
+---Within each of us exists a boundless source of energy, resilience, and untapped potential. It’s the core of who you are, a powerful force that keeps evolving and thriving. Today’s affirmation calls you to awaken this inner dynamo, connecting with the strength that propels you forward. Center yourself, trust your power, and ignite your unstoppable momentum.
 
 #### Today’s Affirmation:
 

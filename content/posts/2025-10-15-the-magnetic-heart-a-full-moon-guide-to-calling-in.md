@@ -9,15 +9,18 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "The Magnetic Heart: A Full Moon Guide to Calling in Your Soulmate"
+description: "There's a part of you that already knows the sensation of being fully seen and loved, a resonance that echoes through your entire being like a haunting…"
 cover:
   image: "/generic-post-images/beauty-1.jpg"
   alt: "The Magnetic Heart: A Full Moon Guide to Calling in Your Soulmate"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-There's a part of you that already knows the sensation of being fully seen and loved, a resonance that echoes through your entire being like a haunting melody. You've felt it in fleeting moments, perhaps in the warmth of a summer breeze, the taste of a home-cooked meal, or the sound of a loved one's laughter, and it's this memory that your heart is trying to reclaim.
+keywords:
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+  - "spiritual technology"
+---There's a part of you that already knows the sensation of being fully seen and loved, a resonance that echoes through your entire being like a haunting melody. You've felt it in fleeting moments, perhaps in the warmth of a summer breeze, the taste of a home-cooked meal, or the sound of a loved one's laughter, and it's this memory that your heart is trying to reclaim.
 
 ## The Hidden Mechanism
 

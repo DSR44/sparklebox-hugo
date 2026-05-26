@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/cafecore-aesthetic-3f8jklqzvd/"
----
-Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop. 
+description: "Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop."
+cover:
+  image: "/pinterest-images/8224694061_light-within-mindset.png"
+  alt: "10 Cozy Cafecore Aesthetic Ideas That'll Make You Want to Curl Up with a Cup!"
+  caption: "Elle Vida | Sparklebox"
+---Cafecore is more than just a style; it's a warm, inviting atmosphere reminiscent of your favorite neighborhood coffee shop. 
 
 With cozy nooks, soft lighting, and the aroma of freshly brewed coffee wafting through the air, each idea in this list will inspire you to create your own little cafe haven at home. 
 

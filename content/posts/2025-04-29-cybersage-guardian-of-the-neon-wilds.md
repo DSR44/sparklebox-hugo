@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/cybersage-guardian-of-the-neon-wilds/"
----
-####  A Cyberpunk Folk Tale of Technology, Nature, and Self-Discovery
+description: "Cybersage: Guardian of the Neon Wilds. In the year 2157, the world had become a neon utopia."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the time labyrinth"
+  - "the library of dreams"
+cover:
+  image: "/pinterest-images/8224400879_sacred-geometry-perception-shift.png"
+  alt: "Cybersage: Guardian of the Neon Wilds"
+  caption: "Elle Vida | Sparklebox"
+---####  A Cyberpunk Folk Tale of Technology, Nature, and Self-Discovery
 
 In the year 2157, the world had become a neon utopia. Technology had advanced beyond imagination, blurring the lines between reality and cyberreality. It was said that nature had all but disappeared from the face of the earth, replaced by towering skyscrapers and glittering screens.
 

@@ -18,8 +18,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%99-day-2-7-days-of-becoming/"
----
-### ✨ *Whispers from the Luminous Realm*
+description: "Some parts of us don’t speak with words — they hum, echo, and resonate."
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamweaver"
+  - "dreamweaver tales"
+  - "energy healing"
+cover:
+  image: "/generic-post-images/leonardo-42.jpg"
+  alt: "🌙 Day 2: 7 Days of Becoming"
+  caption: "Elle Vida | Sparklebox"
+---### ✨ *Whispers from the Luminous Realm*
 
 > Some parts of us don’t speak with words — they hum, echo, and resonate.
 On Day 2 of Becoming, we follow the story of **Lyra**, a soul who remembers herself through vibration. This is a tale for those who’ve ever felt muted, for those whose truth arrives not in speech… but in sound, motion, and emotion.

@@ -9,8 +9,11 @@ description: "Did you know that your morning coffee might do more than just wake
 draft: false
 aliases:
   - "/surprising-facts-about-coffee-3kjt9bq7fx/"
----
-Coffee is more than just a morning ritual; it's a fascinating drink with a rich history and numerous health benefits. 
+cover:
+  image: "/generic-post-images/leonardo-5.jpg"
+  alt: "8 Surprising Facts About Coffee That Will Perk You Up Instantly!"
+  caption: "Elle Vida | Sparklebox"
+---Coffee is more than just a morning ritual; it's a fascinating drink with a rich history and numerous health benefits. 
 
 From its origins in Ethiopia to its role in modern-day culture, coffee has a story that deserves to be told. 
 

@@ -10,8 +10,11 @@ description: "Are you searching for clarity in your life’s direction? Dive int
 draft: false
 aliases:
   - "/books-life-purpose-7dbqqwjah9/"
----
-Are you feeling lost and yearning for direction in your life?
+cover:
+  image: "/generic-post-images/beauty-ritual-2.jpg"
+  alt: "7 Books That Will Help You Find Your Life Purpose (Your Journey Starts Here!)"
+  caption: "Elle Vida | Sparklebox"
+---Are you feeling lost and yearning for direction in your life?
 
 Finding your purpose can feel like an overwhelming task, but the right books can illuminate your path and inspire you to take action.
 

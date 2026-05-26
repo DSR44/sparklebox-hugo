@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/experiences-over-things-why-living-for-moments-is-the-future/"
----
-# Beyond Consumption: Why the Future is About Experiences, Not Things
+description: "There’s a seismic shift happening in how we value what we own versus what we experience."
+keywords:
+  - "mindfulness"
+  - "slow living"
+  - "trend"
+  - "wellness"
+cover:
+  image: "/generic-post-images/foggy-forest-2.jpg"
+  alt: "Experiences Over Things | Why Living for Moments Is the Future"
+  caption: "Elle Vida | Sparklebox"
+---# Beyond Consumption: Why the Future is About Experiences, Not Things
 
 ## Introduction
 

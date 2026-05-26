@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/dreamscape-daily-affirmations-day-4-of-becoming/"
----
-## Luminous Threads: Jellyfish Whispers and Becoming
+description: "Step through the veil of the Dreamscape and into Luminaria, a realm of endless wonder where jellyfish carry memory like silk across water, forgotten magic…"
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamscape"
+  - "dreamweaver tales"
+  - "luminaria"
+cover:
+  image: "/generic-post-images/leonardo-15.jpg"
+  alt: "🌊✨ Dreamscape Daily Affirmations | Day 4 of Becoming ✨🌊"
+  caption: "Elle Vida | Sparklebox"
+---## Luminous Threads: Jellyfish Whispers and Becoming
 
 ### 🔊 Listen to the Audio Version
 

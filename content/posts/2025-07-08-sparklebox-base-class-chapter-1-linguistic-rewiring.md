@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/sparklebox-base-class-chapter-1-linguistic-rewiring/"
----
-# ✨ Sparklebox Base Class: Chapter 1 ✨
+description: "Rewiring Subconscious Linguistics Through Affirmations “In a world of noise, language is your blueprint for becoming.” – Elle Vida"
+keywords:
+  - "linguistic rewiring"
+  - "sparklebox base class"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/alchemy-1.jpg"
+  alt: "Sparklebox Base Class, Chapter 1: Linguistic Rewiring"
+  caption: "Elle Vida | Sparklebox"
+---# ✨ Sparklebox Base Class: Chapter 1 ✨
 
         Rewiring Subconscious Linguistics Through Affirmations
 

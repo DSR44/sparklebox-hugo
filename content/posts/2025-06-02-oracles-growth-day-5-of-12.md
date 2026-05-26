@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/oracles-growth-day-5-of-12/"
----
-## ♌️ Leo — The Radiance Uncaged
+description: "🌞 Oracle Growth Series | Dreamweaver Tales – Day 5 In the center of a thousand golden mirrors, there stood a being known as The Radiant One."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/leonardo-17.jpg"
+  alt: "Oracle’s Growth | Day 5 of 12"
+  caption: "Elle Vida | Sparklebox"
+---## ♌️ Leo — The Radiance Uncaged
 
 🌞 *Oracle Growth Series | Dreamweaver Tales – Day 5*
 

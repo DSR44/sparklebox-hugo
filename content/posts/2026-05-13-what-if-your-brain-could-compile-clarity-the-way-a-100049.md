@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "What if your brain isn't broken at clarity—it's just running the wrong operating system? Not wrong like malfunctioning. Wrong like trying to run iOS o..."
+description: "What if your brain isn't broken at clarity—it's just running the wrong operating system?"
 cover:
   image: "/pinterest-images/8224401322_fractal-mind-neural-architecture.png"
   alt: "What if your brain could compile clarity the way a program compiles code"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 What if your brain isn't broken at clarity—it's just running the wrong operating system?
 
 Not wrong like malfunctioning.  

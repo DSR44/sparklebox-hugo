@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/embracing-universal-abundance-unlocking-the-power-of-unwavering-trust/"
----
-Life takes us through cycles of highs and lows, moments of clarity and times of uncertainty. Amid those ebbs and flows, we often lose sight of an essential truth – the connection we hold to the infinite abundance of the universe. When fear or doubt sneaks in, how do we remind ourselves to lean into trust? Can we truly find solace in the belief that everything we need is already on its way? 🌱
+description: "Life takes us through cycles of highs and lows, moments of clarity and times of uncertainty."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "florence scovel shinn"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/leonardo-18.jpg"
+  alt: "🪞✨Mirrored Minds 🪞✨: Embracing Universal Abundance: Unlocking the Power of Unwavering Trust"
+  caption: "Elle Vida | Sparklebox"
+---Life takes us through cycles of highs and lows, moments of clarity and times of uncertainty. Amid those ebbs and flows, we often lose sight of an essential truth – the connection we hold to the infinite abundance of the universe. When fear or doubt sneaks in, how do we remind ourselves to lean into trust? Can we truly find solace in the belief that everything we need is already on its way? 🌱
 
 Florence Scovel Shinn, a visionary of timeless wisdom, encapsulates this idea beautifully in her words, “Faith knows it has already received and acts accordingly.” Today, we’ll explore how unwavering faith shifts our mindset and shows us the boundless potential waiting to flow into our lives.
 

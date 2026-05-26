@@ -10,8 +10,12 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%97%9d%ef%b8%8f-unlocking-your-inner-sparklebox/"
----
-A Dream Toolkit for Self-Concept and Identity Transformation
+description: "A Dream Toolkit for Self-Concept and Identity Transformation This is not self-help."
+cover:
+  image: "/pinterest-images/8224399919_merkaba-frequency-design.png"
+  alt: "🗝️ Unlocking Your Inner Sparklebox"
+  caption: "Elle Vida | Sparklebox"
+---A Dream Toolkit for Self-Concept and Identity Transformation
 
 *This is not self-help. This is self-awakening. One spell at a time.*
 

@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit in stillness, surrounded by the whispers of the universe, I am reminded of the hidden realities that lie beyond the veil of..."
+description: "As I sit in stillness, surrounded by the whispers of the universe, I am reminded of the hidden realities that lie beyond the veil of our everyday…"
 cover:
   image: "/generic-post-images/leonardo-30.jpg"
   alt: "The implicate order: Bohm's hidden reality"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-As I sit in stillness, surrounded by the whispers of the universe, I am reminded of the hidden realities that lie beyond the veil of our everyday perception. It's not the physical world that holds the secrets, but the subtle, implicate order that underlies all of existence. This is the realm where the threads of consciousness, space, and time are intricately woven, waiting to be unraveled by the curious and the brave.
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---As I sit in stillness, surrounded by the whispers of the universe, I am reminded of the hidden realities that lie beyond the veil of our everyday perception. It's not the physical world that holds the secrets, but the subtle, implicate order that underlies all of existence. This is the realm where the threads of consciousness, space, and time are intricately woven, waiting to be unraveled by the curious and the brave.
 
 In the words of David Bohm, the renowned physicist, "The implicate order is a holistic, undivided, and unbroken totality, where everything is enfolded into everything else." This concept has been a guiding force in my own journey, as I've delved into the mysteries of the universe and the human experience. It's not just a theoretical framework, but a living, breathing reality that pulsates with an otherworldly energy. As I've come to understand the implicate order, I've begun to see the world with new eyes, where every moment, every thought, and every emotion is an opportunity to tap into this hidden realm.
 

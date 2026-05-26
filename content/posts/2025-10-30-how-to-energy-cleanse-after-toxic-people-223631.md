@@ -10,15 +10,18 @@ tags:
   - "mysticism"
   - "consciousness"
   - "inner work"
-description: "How to Energy-Cleanse After Toxic People"
+description: "You know that feeling when you've been around someone who's totally drained your energy, and you can't shake off the sensation that you're still carrying…"
 cover:
   image: "/generic-post-images/mystical-mystical_velvety_black_chamber_where_th_0_92392523_1013.jpg"
   alt: "How to Energy-Cleanse After Toxic People"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-You know that feeling when you've been around someone who's totally drained your energy, and you can't shake off the sensation that you're still carrying their negativity around with you? Like, I was at a family gathering last weekend, and my aunt was being her usual critical self. By the end of the night, I felt like I was walking around with a thick, grey fog stuck to my skin. It was suffocating.
+keywords:
+  - "mystical-wisdom-series"
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+---You know that feeling when you've been around someone who's totally drained your energy, and you can't shake off the sensation that you're still carrying their negativity around with you? Like, I was at a family gathering last weekend, and my aunt was being her usual critical self. By the end of the night, I felt like I was walking around with a thick, grey fog stuck to my skin. It was suffocating.
 
 Ever notice how some people can make you feel like you're the problem, even when you know you're not? It's like they have this weird power to make you doubt yourself, to make you wonder if maybe you are the one who's crazy. And then, when you finally get away from them, you're left feeling like you need to scrub yourself clean, to get rid of the toxic energy they've left behind.
 

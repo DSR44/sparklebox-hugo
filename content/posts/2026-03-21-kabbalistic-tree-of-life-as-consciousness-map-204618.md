@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The moonlight casts its silvery glow upon my face as I sit in stillness, surrounded by the whispers of the night. It is in these..."
+description: "The moonlight casts its silvery glow upon my face as I sit in stillness, surrounded by the whispers of the night."
 cover:
   image: "/generic-post-images/mystical-mystical_velvety_black_chamber_where_th_0_92392523_1013.jpg"
   alt: "Kabbalistic tree of life as consciousness map"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The moonlight casts its silvery glow upon my face as I sit in stillness, surrounded by the whispers of the night. It is in these moments that I am reminded of the ancient wisdom that lies within the Kabbalistic tree of life – a map of consciousness that has guided seekers for centuries. As I breathe in the scent of blooming flowers, I am drawn into the mystical realm of the tree, where the secrets of the universe await.
 
 The Kabbalistic tree of life is more than a symbolic representation of the divine; it is a doorway to the inner workings of our own consciousness. It is a reminder that our perception of reality is not fixed, but rather a dynamic interplay of energies and vibrations that shape our experience of the world. As I delve into the mysteries of the tree, I am struck by the realization that our lives are not shaped by external events, but by the internal landscape of our own minds.

@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/christmas-wallpaper-9f7gk8qj4d-2/"
----
-As the holiday season approaches, the warmth of nostalgia fills the air. 
+description: "As the holiday season approaches, the warmth of nostalgia fills the air."
+cover:
+  image: "/generic-post-images/foggy-forest-3.jpg"
+  alt: "16 Nostalgic Christmas Wallpaper Styles That Will Take You Back in Time!"
+  caption: "Elle Vida | Sparklebox"
+---As the holiday season approaches, the warmth of nostalgia fills the air. 
 
 This year, why not transform your space with vintage-inspired Christmas wallpapers that evoke cherished memories? 
 

@@ -9,8 +9,11 @@ description: "Dive into a colorful culinary adventure with our 25 vibrant health
 draft: false
 aliases:
   - "/healthy-recipes-8kqj6tpqzr/"
----
-Welcome to a culinary adventure where health meets aesthetics! 
+cover:
+  image: "/generic-post-images/aphrodite.png"
+  alt: "25 Vibrant Healthy Recipes That Are Almost Too Pretty to Eat (You Won't Believe #10!)"
+  caption: "Elle Vida | Sparklebox"
+---Welcome to a culinary adventure where health meets aesthetics! 
 
 In this article, we celebrate 25 vibrant healthy recipes that are not only good for you but also a feast for the eyes. 
 

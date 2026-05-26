@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%92%8c-sparklebox-soul-affirmations-may-26/"
----
-### 🌟 *The Radiance Within*
+description: "A poetic offering of celestial self-connection, inner light, and divine remembrance."
+keywords:
+  - "daily affirmations"
+  - "dreamscape"
+  - "sparkleboxes"
+cover:
+  image: "/generic-post-images/alchemy-3.jpg"
+  alt: "💌 Sparklebox Soul Affirmations – May 26"
+  caption: "Elle Vida | Sparklebox"
+---### 🌟 *The Radiance Within*
 
 ***A poetic offering of celestial self-connection, inner light, and divine remembranc*e.**
 

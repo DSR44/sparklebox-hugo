@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/effortless-dinner-party-tips-for-a-memorable-evening-hosting-guide/"
----
-# Dining in Style: How to Effortlessly Impress at Your Next Dinner Party
+description: "Hosting a memorable dinner party doesn’t have to be stressful."
+keywords:
+  - "dinner party"
+  - "elegance"
+  - "table setting"
+cover:
+  image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
+  alt: "Effortless Dinner Party Tips for Stylish Hosting"
+  caption: "Elle Vida | Sparklebox"
+---# Dining in Style: How to Effortlessly Impress at Your Next Dinner Party
 
 ## Setting the Stage for Effortless Elegance
 

@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%9emirrored-minds-exploring-the-cosmos-within/"
----
-## **Day 1: Unlocking the Wisdom of Florence Scovel Shinn**
+description: "Welcome, dear seeker of truth and wisdom, to 'Mirrored Minds: Exploring the Cosmos Within.' You have found your way here for a reason, and we're honored…"
+keywords:
+  - "daily affirmations"
+  - "dreamweaver tales"
+  - "florence scovel shinn"
+  - "mirrored minds"
+cover:
+  image: "/generic-post-images/celestial-1.jpg"
+  alt: "🪞Mirrored Minds: Exploring the Cosmos Within"
+  caption: "Elle Vida | Sparklebox"
+---## **Day 1: Unlocking the Wisdom of Florence Scovel Shinn**
 
 Welcome, dear seeker of truth and wisdom, to "Mirrored Minds: Exploring the Cosmos Within." You have found your way here for a reason, and we're honored to be a part of your journey. This series is dedicated to exploring the infinite possibilities that lie within us all, and the cosmic forces that shape our lives.
 

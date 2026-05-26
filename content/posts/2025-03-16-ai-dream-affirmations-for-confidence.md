@@ -15,8 +15,18 @@ tags:
 draft: false
 aliases:
   - "/ai-dream-affirmations-for-confidence/"
----
-# Step Into Your Radiance: 
+description: "A Surreal Journey to Unshakable Confidence Confidence isn’t just a feeling; it’s a glow, a state of being that radiates from within."
+keywords:
+  - "confidence affirmations"
+  - "dreamcore wellness"
+  - "immersive self-care"
+  - "meta quest visualization"
+  - "mixed reality meditation"
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013.jpg"
+  alt: "AI Dream Affirmations for Confidence"
+  caption: "Elle Vida | Sparklebox"
+---# Step Into Your Radiance: 
 
 A Surreal Journey to Unshakable Confidence
 

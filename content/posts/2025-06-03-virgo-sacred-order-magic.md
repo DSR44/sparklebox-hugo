@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/virgo-sacred-order-magic/"
----
-#### Virgo Oracle – Magic in the Details
+description: "In a quiet glade, under moonlight laced with silver filigree, lived one who saw what others overlooked."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_01.jpg"
+  alt: "♍️ Virgo – Sacred Order and Detail-Born Magic"
+  caption: "Elle Vida | Sparklebox"
+---#### Virgo Oracle – Magic in the Details
 
 **Oracle’s Growth | Day 6 of 12**
 

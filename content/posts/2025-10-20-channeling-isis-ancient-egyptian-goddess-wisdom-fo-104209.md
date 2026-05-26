@@ -9,15 +9,18 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "Channeling Isis: Ancient Egyptian Goddess Wisdom for Modern Women"
+description: "As I sit in stillness, surrounded by the whispers of the past, I am reminded of the profound wisdom that lies within the stories of our ancestors —…"
 cover:
   image: "/generic-post-images/leonardo-9.jpg"
   alt: "Channeling Isis: Ancient Egyptian Goddess Wisdom for Modern Women"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-As I sit in stillness, surrounded by the whispers of the past, I am reminded of the profound wisdom that lies within the stories of our ancestors — particularly the goddesses who have guided us through the ages. One such goddess, Isis, has long been a source of fascination and inspiration for me. Her story, woven from the threads of ancient Egyptian mythology, holds secrets and teachings that can help modern women navigate the complexities of our contemporary world.
+keywords:
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+  - "spiritual technology"
+---As I sit in stillness, surrounded by the whispers of the past, I am reminded of the profound wisdom that lies within the stories of our ancestors — particularly the goddesses who have guided us through the ages. One such goddess, Isis, has long been a source of fascination and inspiration for me. Her story, woven from the threads of ancient Egyptian mythology, holds secrets and teachings that can help modern women navigate the complexities of our contemporary world.
 
 — In the mythology of ancient Egypt, Isis is often depicted as a powerful symbol of femininity, magic, and transformation. Her story is one of love, loss, and rebirth, as she gathers the pieces of her beloved Osiris and brings him back to life. This mythological narrative is more than just a tale of old; it holds within it the essence of feminine power and the cycles of life that we, as women, embody.
 

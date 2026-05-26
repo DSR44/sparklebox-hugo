@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception There's a particular kind of anxiety that feels like being trapped in a never-endi..."
+description: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception There's a particular kind of anxiety that feels like being trapped in a never-ending…"
 cover:
   image: "/generic-post-images/leonardo-43.jpg"
   alt: "The Anxiety Loop: How to Reclaim Authority Over Your Own Perception"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-The Anxiety Loop: How to Reclaim Authority Over Your Own Perception
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---The Anxiety Loop: How to Reclaim Authority Over Your Own Perception
 
 There's a particular kind of anxiety that feels like being trapped in a never-ending maze. Every door you open leads to another door, and another, and another, with no exit in sight. It's the kind of anxiety that makes you question your own sanity, your own worth, and your own ability to navigate the world. I know this anxiety intimately. I've lived with it, wrestled with it, and slowly, painstakingly, learned to reclaim my authority over it.
 

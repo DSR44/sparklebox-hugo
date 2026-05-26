@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/fusion-tacos-d4e5g7h8j9/"
----
-Taco night just got a revolutionary makeover! 
+description: "15 Fusion Tacos That Will Make You Rethink Taco Night Forever. Taco night just got a revolutionary makeover!"
+cover:
+  image: "/generic-post-images/leonardo-14.jpg"
+  alt: "15 Fusion Tacos That Will Make You Rethink Taco Night Forever!"
+  caption: "Elle Vida | Sparklebox"
+---Taco night just got a revolutionary makeover! 
 
 Imagine the delightful crunch of a taco shell filled with ingredients that dance between cultures, bringing together the best of Mexican and Asian cuisine. 
 

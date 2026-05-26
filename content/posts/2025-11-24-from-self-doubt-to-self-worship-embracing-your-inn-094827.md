@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit in stillness, surrounded by the whispers of ancient trees, I am reminded of the journey that has brought me to this moment...."
+description: "As I sit in stillness, surrounded by the whispers of ancient trees, I am reminded of the journey that has brought me to this moment."
 cover:
   image: "/generic-post-images/cosmic-cosmic_fusion_1013.jpg"
   alt: "From Self-Doubt to Self-Worship: Embracing Your Inner Goddess and Unleashing Your Power"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 As I sit in stillness, surrounded by the whispers of ancient trees, I am reminded of the journey that has brought me to this moment. A journey from the depths of self-doubt to the heights of self-worship. It's a path that winds and turns, filled with hidden chambers and secret gardens, each one revealing a piece of the puzzle that is our inner goddess. 
 
 In the beginning, I thought that self-love was a destination, a place I would arrive at once I had perfected myself. But the truth is, it's a journey, a unfolding of the petals of our soul. It's not about becoming someone else, it's about embracing the beauty that already resides within us. As the great Sufi poet Rumi once said, "The wound is the place where the light enters you." 

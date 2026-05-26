@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-presents/"
----
-### **“The Love I Sought Was Always Mine”**
+description: "Act VII – A Monologue of Longing and Return The stage is dim."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "pocket theater"
+  - "subconscious healing"
+cover:
+  image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_3_f826d71b_1013.jpg"
+  alt: "✨🎭 Sparklebox Pocket Theater Presents:"
+  caption: "Elle Vida | Sparklebox"
+---### **“The Love I Sought Was Always Mine”**
 
 *Act VII – A Monologue of Longing and Return*
 

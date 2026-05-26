@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/unlock-your-potential-5-sparklebox-secrets-to-boost-confidence-and-productivity/"
----
-🌟 Base Class 6 — Unlock Your Potential: 5 Secrets to Boost Confidence and Productivity | Elle Vida – Sparklebox
+description: "🌟 Base Class 6 — Unlock Your Potential: 5 Secrets to Boost Confidence and Productivity | Elle Vida – Sparklebox"
+keywords:
+  - "sparklebox base class"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-45.jpg"
+  alt: "Unlock Your Potential: 5 Sparklebox Secrets to Boost Confidence and Productivity"
+  caption: "Elle Vida | Sparklebox"
+---🌟 Base Class 6 — Unlock Your Potential: 5 Secrets to Boost Confidence and Productivity | Elle Vida – Sparklebox
 
 # 🌟 Base Class 6 — Unlock Your Potential: 5 Secrets to Boost Confidence and Productivity
 

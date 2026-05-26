@@ -9,15 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Remember when you were a kid and you could stare at a puddle for twenty minutes, completely absorbed by the way light fractured into colors..."
+description: "Remember when you were a kid and you could stare at a puddle for twenty minutes, completely absorbed by the way light fractured into colors across the…"
 cover:
   image: "/pinterest-images/8224401602_flower-of-life-consciousness-map.png"
   alt: "The equation nobody in wellness talks about: where deterministic math meets consciousness"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-Remember when you were a kid and you could stare at a puddle for twenty minutes, completely absorbed by the way light fractured into colors across the surface? No one told you to do this. No app tracked your attention span. You just... were there. Watching something happen that you couldn't explain but somehow understood.
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
+---Remember when you were a kid and you could stare at a puddle for twenty minutes, completely absorbed by the way light fractured into colors across the surface? No one told you to do this. No app tracked your attention span. You just... were there. Watching something happen that you couldn't explain but somehow understood.
 
 That state — the one where time folded in on itself — wasn't mindfulness. It was a different frequency. One we've forgotten how to access.
 

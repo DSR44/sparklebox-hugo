@@ -10,15 +10,18 @@ tags:
   - "mysticism"
   - "consciousness"
   - "inner work"
-description: "Mystical Wisdom for Your Journey - Vol. 4"
+description: "— In the whispering hours of dawn, when the world is still wrapped in the softness of night, I often find myself wandering through the labyrinthine…"
 cover:
   image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013_01.jpg"
   alt: "Mystical Wisdom for Your Journey - Vol. 4"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-— In the whispering hours of dawn, when the world is still wrapped in the softness of night, I often find myself wandering through the labyrinthine corridors of ancient wisdom. The Egyptians, with their intricate hieroglyphs and mystical cosmology, have always fascinated me — their understanding of beauty, in particular, is a **mirror** that reflects the depths of our own forgotten knowledge.
+keywords:
+  - "mystical-wisdom-series"
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+---— In the whispering hours of dawn, when the world is still wrapped in the softness of night, I often find myself wandering through the labyrinthine corridors of ancient wisdom. The Egyptians, with their intricate hieroglyphs and mystical cosmology, have always fascinated me — their understanding of beauty, in particular, is a **mirror** that reflects the depths of our own forgotten knowledge.
 
 As I delve into the heart of their teachings, I'm reminded of the goddess Hathor, patron deity of beauty, music, and dance. Her essence is a potent blend of the feminine and the divine, a reminder that beauty is not just a physical quality, but a *transmute* of the soul. In Egyptian mythology, Hathor's beauty is said to have the power to heal and transform — a notion that resonates deeply with my own experiences of the *feeling* body.
 

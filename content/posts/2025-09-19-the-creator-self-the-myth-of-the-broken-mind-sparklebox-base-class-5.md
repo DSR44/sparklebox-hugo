@@ -14,8 +14,15 @@ description: "“What if you were never broken to begin with?” This chapter ex
 draft: false
 aliases:
   - "/the-creator-self-the-myth-of-the-broken-mind-sparklebox-base-class-5/"
----
-#  ✨ Sparklebox Base Class
+keywords:
+  - "identity work"
+  - "self concept"
+  - "sparklebox base class"
+cover:
+  image: "/generic-post-images/mystical-5.jpg"
+  alt: "The Creator Self & The Myth of the Broken Mind | Sparklebox Base Class 5"
+  caption: "Elle Vida | Sparklebox"
+---#  ✨ Sparklebox Base Class
 
 ## Chapter V: The Creator Self & The Myth of the Broken Mind
 

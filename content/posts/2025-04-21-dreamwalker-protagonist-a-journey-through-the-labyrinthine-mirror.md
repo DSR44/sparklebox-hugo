@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/dreamwalker-protagonist-a-journey-through-the-labyrinthine-mirror/"
----
-In twilight slumber, she treads the liminal land,
+description: "In twilight slumber, she treads the liminal land, Where dreams are woven from the threads of time."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the library of dreams"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/crystal-sparklebox_crystal_a_colossal_crystalline_chamber__1013_01.jpg"
+  alt: "Dreamwalker Protagonist: A Journey Through the Labyrinthine Mirror"
+  caption: "Elle Vida | Sparklebox"
+---In twilight slumber, she treads the liminal land,
 Where dreams are woven from the threads of time.
 Her silken thoughts shape valleys and caverns grand,
 Yet shadows flicker 'neath her ever-searching eyes.

@@ -15,8 +15,15 @@ description: "These are not affirmations—they are synaptic fire. Each phrase r
 draft: false
 aliases:
   - "/bioluminescent-dreamcodes-crystalline-affirmations-for-quantum-consciousness/"
----
-## ✨ Bioluminescent Dreams: Navigating the Liminal Realm ✨
+keywords:
+  - "dream coded affirmations"
+  - "liminal affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-13.jpg"
+  alt: "Bioluminescent Dreamcodes: Crystalline Affirmations for Quantum Consciousness"
+  caption: "Elle Vida | Sparklebox"
+---## ✨ Bioluminescent Dreams: Navigating the Liminal Realm ✨
 
 *A Sparklebox Liminal Affirmation Drop*
 

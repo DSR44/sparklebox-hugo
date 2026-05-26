@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/vintage-christmas-decorations-5h8j2k3lmn-2/"
----
-Step into a world filled with nostalgia this holiday season as we revisit the charm of vintage Christmas decorations.
+description: "Step into a world filled with nostalgia this holiday season as we revisit the charm of vintage Christmas decorations."
+cover:
+  image: "/generic-post-images/leonardo-24.jpg"
+  alt: "19 Vintage Christmas Decorations That Will Take You Back in Time (You Won't Believe #7!)"
+  caption: "Elle Vida | Sparklebox"
+---Step into a world filled with nostalgia this holiday season as we revisit the charm of vintage Christmas decorations.
 
 From retro ornaments to classic holiday lights, these decorations evoke memories of simpler times, bringing warmth and joy to your festive decor. Get ready to be inspired by 19 timeless treasures that will transform your home into a winter wonderland straight out of yesteryear.
 

@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Remember when you could feel the difference between thinking and scrolling? That thin edge where your mind went from humming to clattering—like a radi..."
+description: "Remember when you could feel the difference between thinking and scrolling?"
 cover:
   image: "/pinterest-images/8224401250_vesica-piscis-cognitive-clarity.png"
   alt: "How to tell which cognitive frequency you are operating at right now — without any technology"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 Remember when you could feel the difference between thinking and scrolling?  
 That thin edge where your mind went from humming to clattering—like a radio dial slipping off station.  
 You noticed it once, then forgot to notice again.

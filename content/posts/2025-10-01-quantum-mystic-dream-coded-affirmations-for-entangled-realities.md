@@ -14,8 +14,15 @@ description: "Step into the quantum dreamscape with these five dream-coded affir
 draft: false
 aliases:
   - "/quantum-mystic-dream-coded-affirmations-for-entangled-realities/"
----
-Quantum Mystic: Navigating Entangled Realities
+keywords:
+  - "dream coded affirmations"
+  - "liminal affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/goddess-2.jpg"
+  alt: "Quantum Mystic: Dream-Coded Affirmations for Entangled Realities"
+  caption: "Elle Vida | Sparklebox"
+---Quantum Mystic: Navigating Entangled Realities
 
   font-weight: 700;
   letter-spacing: 0.2px;

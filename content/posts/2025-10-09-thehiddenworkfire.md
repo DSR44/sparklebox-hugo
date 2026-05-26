@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/thehiddenworkfire/"
----
-# 🔥 Chapter 1 — Calcination: The Fire of Release
+description: "The Hidden Work | Element I · Fire — Transformation · Rebirth · Will Every alchemical journey begins in the flames."
+keywords:
+  - "calcination"
+  - "the hidden work"
+  - "the sparklebox method"
+cover:
+  image: "/generic-post-images/indigo-stars-1.jpg"
+  alt: "Calcination — The Fire of Release | The Hidden Work · Inner Laboratory by Elle Vida"
+  caption: "Elle Vida | Sparklebox"
+---# 🔥 Chapter 1 — Calcination: The Fire of Release
 
 *The Hidden Work | Element I · Fire — Transformation · Rebirth · Will
 By Elle Vida*

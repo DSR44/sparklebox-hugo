@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/how-to-create-a-serene-home/"
----
-### **Sanctuary with Sage & Blue Tones**
+description: "In today's fast-paced world, having a peaceful space at home is essential for relaxation and mental well-being."
+keywords:
+  - "blue"
+  - "home decor"
+  - "interior design"
+  - "living space"
+  - "peaceful ambiente"
+cover:
+  image: "/generic-post-images/crystal-crystal_garden_1013.png"
+  alt: "How to Create a Serene Home"
+  caption: "Elle Vida | Sparklebox"
+---### **Sanctuary with Sage & Blue Tones**
 
 In today's fast-paced world, having a peaceful space at home is essential for relaxation and mental well-being. One of the easiest ways to transform your living space into a **serene escape** is through color psychology. **Sage green and soft blue** have been trending in interior design as the perfect hues to create a tranquil atmosphere. In this guide, we’ll explore how to use these colors to design a calming home sanctuary.
 

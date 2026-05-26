@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "✨ The Dark Feminine: A Journey of Reclamation I still remember the day I learned to silence my rage. To hide my true feelings behind..."
+description: "The Dark Feminine: Reclaiming Your Power Through Shadow Rage and Sacred Rebellion. I still remember the day I learned to silence my rage."
 cover:
   image: "/generic-post-images/goddess-4.jpg"
   alt: "The Dark Feminine: Reclaiming Your Power Through Shadow, Rage, and Sacred Rebellion"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 ## ✨ The Dark Feminine: A Journey of Reclamation
 I still remember the day I learned to silence my rage. To hide my true feelings behind a mask of politeness and submission. It was a lesson taught to me by society, by family, by friends - a lesson that would take years to unlearn. But the memory of that day still lingers, a reminder of the power that lies within me, waiting to be unleashed. The power of the dark feminine.
 

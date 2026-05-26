@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%ab%ef%b8%8f-the-enigma-within-a-dreamscape-journey-through-identity-and-illusion/"
----
-## I. The Mirror Wasn't Hers
+description: "As she stared into the mirror, a stranger’s eyes met hers."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/leonardo-2.jpg"
+  alt: "🌫️ The Enigma Within: A Dreamscape Journey Through Identity and Illusion"
+  caption: "Elle Vida | Sparklebox"
+---## I. The Mirror Wasn't Hers
 
 As she stared into the mirror, a stranger’s eyes met hers.
 

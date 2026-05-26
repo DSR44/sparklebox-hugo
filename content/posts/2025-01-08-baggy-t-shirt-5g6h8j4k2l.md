@@ -9,8 +9,11 @@ description: "Unleash your inner fashionista with these 10 effortlessly chic bag
 draft: false
 aliases:
   - "/baggy-t-shirt-5g6h8j4k2l/"
----
-Street style is all about expressing your individuality while remaining effortlessly chic. 
+cover:
+  image: "/generic-post-images/leonardo-31.jpg"
+  alt: "10 Effortlessly Chic Baggy T-Shirt Looks That’ll Elevate Your Street Style Game!"
+  caption: "Elle Vida | Sparklebox"
+---Street style is all about expressing your individuality while remaining effortlessly chic. 
 
 In this article, we’ll explore ten stunning baggy t-shirt looks that transform this simple wardrobe staple into a fashion statement. 
 

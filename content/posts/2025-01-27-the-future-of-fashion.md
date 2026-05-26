@@ -19,8 +19,18 @@ tags:
 draft: false
 aliases:
   - "/the-future-of-fashion/"
----
-### **How AI is Revolutionizing Style**
+description: "AI-powered design tools are helping brands and designers create unique outfits faster than ever."
+keywords:
+  - "ai clothing design"
+  - "ai fashion"
+  - "ai outfit ideas"
+  - "ai trend prediction"
+  - "ai-powered shopping"
+cover:
+  image: "/generic-post-images/aphrodite_beauty.png"
+  alt: "The Future of Fashion:"
+  caption: "Elle Vida | Sparklebox"
+---### **How AI is Revolutionizing Style**
 
 ### *Discover how artificial intelligence is transforming fashion design, trend prediction, and personal styling.*
 

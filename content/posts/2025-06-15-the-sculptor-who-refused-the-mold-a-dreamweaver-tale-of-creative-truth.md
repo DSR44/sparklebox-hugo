@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/the-sculptor-who-refused-the-mold-a-dreamweaver-tale-of-creative-truth/"
----
-There was once a sculptor who could hear stone whisper.
+description: "There was once a sculptor who could hear stone whisper."
+keywords:
+  - "dreamweaver tales"
+  - "the library of dreams"
+cover:
+  image: "/pinterest-images/8224400879_sacred-geometry-perception-shift.png"
+  alt: "The Sculptor Who Refused the Mold: A Dreamweaver Tale of Creative Truth"
+  caption: "Elle Vida | Sparklebox"
+---There was once a sculptor who could hear stone whisper.
 
 Not in language, exactly —
 but in silence.

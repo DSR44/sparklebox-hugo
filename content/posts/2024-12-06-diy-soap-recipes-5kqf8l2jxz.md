@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/diy-soap-recipes-5kqf8l2jxz/"
----
-If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes. 
+description: "If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes."
+cover:
+  image: "/generic-post-images/leonardo-3.jpg"
+  alt: "21 Simple DIY Soap Recipes You Can’t Resist (You Won't Believe #9’s Unique Ingredients!)"
+  caption: "Elle Vida | Sparklebox"
+---If you've ever dreamed of crafting your own luxurious soaps, now's the time to turn that dream into reality with these 21 irresistible DIY soap recipes. 
 
 From vibrant colors to enchanting scents, each recipe offers a unique twist, making your soap-making journey both artistic and enjoyable. 
 

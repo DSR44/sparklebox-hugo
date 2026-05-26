@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "Something strange happens when you check your bank balance at 2 AM. The numbers don't change, but the story you're telling about them does. And..."
+description: "Something strange happens when you check your bank balance at 2 AM."
 cover:
   image: "/pinterest-images/8224960020_perception-creates-reality-daily-practice.png"
   alt: "The Money You're Already Magneticizing (But Pretending Not to Notice)"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 Something strange happens when you check your bank balance at 2 AM. The numbers don't change, but the story you're telling about them does. And here's the part nobody mentions: you're the author of that story, the narrator, and the only reader who matters. The rest is just static.
 

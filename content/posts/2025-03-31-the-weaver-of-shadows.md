@@ -14,8 +14,17 @@ tags:
 draft: false
 aliases:
   - "/the-weaver-of-shadows/"
----
-## Weaver of Shadows – A Poetic Tale of Becoming | day 7
+description: "In the hush of twilight, she works—silent, unseen, ancient."
+keywords:
+  - "7 days of becoming"
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-37.jpg"
+  alt: "The Weaver of Shadows"
+  caption: "Elle Vida | Sparklebox"
+---## Weaver of Shadows – A Poetic Tale of Becoming | day 7
 
 In the hush of twilight, she works—silent, unseen, ancient. The **Weaver of Shadows**, a mystical figure who transforms sorrow into silver thread, weaving the soft fabric of our inner landscapes. Today’s entry in the *“7 Days of Becoming”* series invites you into her quiet, poetic realm, where healing takes shape through memory, emotion, and light.
 

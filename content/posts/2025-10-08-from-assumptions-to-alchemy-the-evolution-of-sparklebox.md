@@ -13,8 +13,11 @@ keywords: ["Sparklebox Method", "mental alchemy", "perception", "Elle Vida", "co
 draft: false
 aliases:
   - "/from-assumptions-to-alchemy-the-evolution-of-sparklebox/"
----
-✨ The Evolution of Sparklebox: From Assumptions to Alchemy | Elle Vida – Sparklebox
+cover:
+  image: "/pinterest-images/8224401602_flower-of-life-consciousness-map.png"
+  alt: "From Assumptions to Alchemy: The Evolution of Sparklebox"
+  caption: "Elle Vida | Sparklebox"
+---✨ The Evolution of Sparklebox: From Assumptions to Alchemy | Elle Vida – Sparklebox
 
 Your browser does not support the audio element.
 

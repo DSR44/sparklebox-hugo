@@ -37,8 +37,18 @@ tags:
 draft: false
 aliases:
   - "/quick-and-easy-recipes-for-busy-days/"
----
-Introduction
+description: "Life gets busy, but that doesn’t mean you have to sacrifice delicious and healthy meals!"
+keywords:
+  - "breakfast ideas"
+  - "cooking tips"
+  - "delicious food"
+  - "dinner ideas"
+  - "easy lunch"
+cover:
+  image: "/generic-post-images/leonardo-11.jpg"
+  alt: "Quick and Easy Recipes for Busy Days"
+  caption: "Elle Vida | Sparklebox"
+---Introduction
 
 Life gets busy, but that doesn’t mean you have to sacrifice delicious and healthy meals! You might be juggling work or family. Or you're just looking for quick kitchen hacks. These fast and flavorful recipes will save you time without compromising taste. From one-pan wonders to no-cook meals, get ready to whip up something amazing in just minutes!
 

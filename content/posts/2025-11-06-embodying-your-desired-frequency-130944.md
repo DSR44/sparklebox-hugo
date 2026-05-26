@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit in stillness, I'm reminded of the profound wisdom of the ancient mystics: that our reality is not just a reflection of our..."
+description: "As I sit in stillness, I'm reminded of the profound wisdom of the ancient mystics: that our reality is not just a reflection of our thoughts, but a…"
 cover:
   image: "/generic-post-images/alchemy-alchemy_mediation_soundbath_1013.jpg"
   alt: "Embodying your desired frequency"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-As I sit in stillness, I'm reminded of the profound wisdom of the ancient mystics: that our reality is not just a reflection of our thoughts, but a resonance of our being. The vibrational frequency we embody is the harmonic that attracts similar energies into our lives. It's not just about thinking positive thoughts, my friend; it's about becoming the embodiment of the frequency we desire to experience. 
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---As I sit in stillness, I'm reminded of the profound wisdom of the ancient mystics: that our reality is not just a reflection of our thoughts, but a resonance of our being. The vibrational frequency we embody is the harmonic that attracts similar energies into our lives. It's not just about thinking positive thoughts, my friend; it's about becoming the embodiment of the frequency we desire to experience. 
 
 In the mystical traditions of old, this concept was often referred to as "assuming the feeling of the wish fulfilled." It's a notion that speaks to the heart of manifestation: that we must become the vibrational equivalent of what we wish to create. Neville Goddard, a modern mystic, taught that feeling is the secret to manifestation. It's not just about visualizing a desired outcome, but about embodying the emotional frequency of that reality. 
 

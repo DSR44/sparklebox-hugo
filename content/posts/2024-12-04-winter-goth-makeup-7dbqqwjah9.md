@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/winter-goth-makeup-7dbqqwjah9/"
----
-As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup. 
+description: "As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup."
+cover:
+  image: "/generic-post-images/leonardo-24.jpg"
+  alt: "15 Winter Goth Makeup Ideas That'll Make You the Envy of Every Dark Aesthetic Lover!"
+  caption: "Elle Vida | Sparklebox"
+---As the winter chill settles in, it's the perfect time to embrace the beauty of winter goth makeup. 
 
 This collection showcases 15 stunning looks that blend dark elegance with seasonal charm, ensuring you'll make an unforgettable statement wherever you go. 
 

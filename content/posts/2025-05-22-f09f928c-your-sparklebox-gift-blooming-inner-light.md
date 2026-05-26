@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light/"
----
-***An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power.***
+description: "An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power."
+cover:
+  image: "/generic-post-images/leonardo-23.jpg"
+  alt: "💌 Your Sparklebox Gift: Blooming Inner Light"
+  caption: "Elle Vida | Sparklebox"
+---***An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power.***
 
 ### 🌱 *Affirmation 1*
 

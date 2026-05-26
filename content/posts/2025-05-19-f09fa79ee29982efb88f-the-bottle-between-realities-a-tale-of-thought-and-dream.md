@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%a7%9e%e2%99%82%ef%b8%8f-the-bottle-between-realities-a-tale-of-thought-and-dream/"
----
-In a land beyond time, nestled between the stars,
+description: "In a land beyond time, nestled between the stars, There rests a bottle that hums with silent knowing."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the oracles grove"
+  - "subconscious healing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/goddess-3.jpg"
+  alt: "🧞‍♂️ The Bottle Between Realities: A Tale of Thought and Dream"
+  caption: "Elle Vida | Sparklebox"
+---In a land beyond time, nestled between the stars,
 There rests a bottle that hums with silent knowing.
 Not quite glass, not quite light —
 It shimmers like a whisper caught in motion.

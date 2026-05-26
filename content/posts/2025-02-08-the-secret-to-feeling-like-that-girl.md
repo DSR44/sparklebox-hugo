@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/the-secret-to-feeling-like-that-girl/"
----
-# The Secret to Feeling Like "That Girl" (Even if You're a Hot Mess)
+description: "We’ve all caught ourselves doom-scrolling on Instagram, staring at perfect, sunlit breakfasts and plant-filled interiors, wondering one simple thing: how…"
+keywords:
+  - "confidence"
+  - "femininity"
+  - "health"
+  - "journaling"
+  - "mental health"
+cover:
+  image: "/generic-post-images/leonardo-6.jpg"
+  alt: "The Secret to Feeling Like \'That Girl\'"
+  caption: "Elle Vida | Sparklebox"
+---# The Secret to Feeling Like "That Girl" (Even if You're a Hot Mess)
 
 We’ve all caught ourselves doom-scrolling on Instagram, staring at perfect, sunlit breakfasts and plant-filled interiors, wondering one simple thing: ***how on earth does she have her life together?***
 

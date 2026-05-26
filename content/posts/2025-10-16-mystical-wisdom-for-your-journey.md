@@ -17,8 +17,13 @@ cover:
   alt: "Mystical Wisdom for Your Journey"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "mystical-wisdom-series"
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+  - "spiritual technology"
 ---
-
 **The Weight of Forgetting: How Your Body Holds the Memories You've Tried to Bury**
 
 Do you ever feel like you're carrying a weight that isn't yours to bear? A heaviness that settles in your chest, a fatigue that clings to your bones, a sense of disconnection from the world around you? It's as if your body is holding onto memories that your mind has tried to forget. And it's not just the big traumas, the ones that leave visible scars. It's the small, everyday betrayals, the whispered lies, the subtle erosions of your sense of self. Your body remembers what your mind has forgotten, and it's time to listen to its whispers.

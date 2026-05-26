@@ -10,8 +10,11 @@ description: "Ready to turn your dreams into reality? Discover 15 inspiring visi
 draft: false
 aliases:
   - "/vision-board-ideas-8fj2kq4wz1/"
----
-As we step into 2025, there's no better time to harness the power of visualization to manifest your dreams. 
+cover:
+  image: "/generic-post-images/beauty-ritual-1.jpg"
+  alt: "15 Inspiring Vision Board Ideas for 2025 to Achieve Your Wildest Goals!"
+  caption: "Elle Vida | Sparklebox"
+---As we step into 2025, there's no better time to harness the power of visualization to manifest your dreams. 
 
 Vision boards are a transformative tool that allows you to visualize your goals, dreams, and aspirations in a creative, tangible way. 
 

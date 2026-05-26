@@ -10,8 +10,11 @@ description: "Step into the dazzling world of Beyoncé's 2025 Grammys fashion wi
 draft: false
 aliases:
   - "/unlock-beyonce-cowboy-carter-fashion-secrets-8gfrqkzjwd/"
----
-Welcome to the dazzling world of Beyoncé’s ‘Cowboy Carter’ fashion, showcased in her unforgettable appearance at the 2025 Grammys. 
+cover:
+  image: "/generic-post-images/cosmic-sparklebox_cosmic_cosmic_1013.png"
+  alt: "Unlock Beyoncé's ‘Cowboy Carter’ Fashion Secrets from the 2025 Grammys – You Won't Believe #5!"
+  caption: "Elle Vida | Sparklebox"
+---Welcome to the dazzling world of Beyoncé’s ‘Cowboy Carter’ fashion, showcased in her unforgettable appearance at the 2025 Grammys. 
 
 With a stunning blend of Western charm and glamorous flair, she has set the stage for a new era in fashion that is both bold and beautiful. 
 

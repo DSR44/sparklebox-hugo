@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/%e2%99%8b%ef%b8%8f-cancer-the-healing-waters-of-emotional-truth-oracle-growth-series-day-3/"
----
-🌊 *Oracle Growth Series | Dreamweaver Tales – Day 4*
+description: "🌊 Oracle Growth Series | Dreamweaver Tales – Day 4 She did not arrive in fire or wind — she rose from the tide."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/leonardo-22.jpg"
+  alt: "♋️ Cancer – The Healing Waters of Emotional Truth | Oracle Growth Series Day 4"
+  caption: "Elle Vida | Sparklebox"
+---🌊 *Oracle Growth Series | Dreamweaver Tales – Day 4*
 
 ### 🌊 **Tale: The Vessel Beneath the Moon**
 

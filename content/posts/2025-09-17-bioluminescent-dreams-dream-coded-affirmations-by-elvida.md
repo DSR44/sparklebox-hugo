@@ -14,8 +14,15 @@ description: "Step into bioluminescent dreams — a meditative journey through l
 draft: false
 aliases:
   - "/bioluminescent-dreams-dream-coded-affirmations-by-elvida/"
----
-## Bioluminescent Dreams
+keywords:
+  - "dream coded affirmations"
+  - "liminal affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/foggy-forest-2.jpg"
+  alt: "Bioluminescent Dreams | Dream-Coded Affirmations by Elvida"
+  caption: "Elle Vida | Sparklebox"
+---## Bioluminescent Dreams
 
 Beneath the surface of ordinary thought lies a hidden glow. Just as the deep ocean holds bioluminescent creatures that light their own way through darkness, so too do we carry inner radiance waiting to be awakened.
 

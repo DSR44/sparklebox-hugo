@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "In the stillness of the night, when the world outside is hushed and the stars twinkle like diamonds in the sky, I often find myself..."
+description: "In the stillness of the night, when the world outside is hushed and the stars twinkle like diamonds in the sky, I often find myself pondering the…"
 cover:
   image: "/generic-post-images/leonardo-52.jpg"
   alt: "Dark night of the soul navigation"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-In the stillness of the night, when the world outside is hushed and the stars twinkle like diamonds in the sky, I often find myself pondering the mysteries of the human experience. The darkness, with its whispered secrets and unseen terrors, can be a daunting realm to navigate. And yet, it is in these moments of profound uncertainty that we are invited to confront the depths of our own souls. 
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---In the stillness of the night, when the world outside is hushed and the stars twinkle like diamonds in the sky, I often find myself pondering the mysteries of the human experience. The darkness, with its whispered secrets and unseen terrors, can be a daunting realm to navigate. And yet, it is in these moments of profound uncertainty that we are invited to confront the depths of our own souls. 
 
 It's not the darkness that we fear, but the unknown that it represents. The unseen forces that shape our lives, the uncharted territories of our own hearts. But what if I told you, my friend, that this darkness is not something to be feared, but rather something to be befriended? What if the dark night of the soul is not a punishment, but a portal to a deeper understanding of ourselves and the world around us?
 

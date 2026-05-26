@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/cozy-winter-outfits-5x8j7f3q1z/"
----
-As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish. 
+description: "As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish."
+cover:
+  image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_2_04cc1f02_1013.jpg"
+  alt: "20 Cozy Winter Outfits That’ll Keep You Warm and Stylish (You’ll Love #10!)"
+  caption: "Elle Vida | Sparklebox"
+---As the cold winds blow and snowflakes begin to fall, it’s time to embrace the warmth of cozy winter outfits that make you feel both snug and stylish. 
 
 From fluffy sweaters to layered looks, winter fashion allows us to express our personal style while keeping the chill at bay. 
 

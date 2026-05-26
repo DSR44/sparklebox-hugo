@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/the-glass-slipper-and-the-whispered-promise-of-hope/"
----
-The whispers of twilight gardens still linger within me,
+description: "The whispers of twilight gardens still linger within me, a reminder of forgotten paths and secrets hidden in plain sight."
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "poems"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/leonardo-35.jpg"
+  alt: "The Glass Slipper and the Whispered Promise of Hope"
+  caption: "Elle Vida | Sparklebox"
+---The whispers of twilight gardens still linger within me,
 a reminder of forgotten paths and secrets hidden in plain sight.
 
 As I step into the realm where hope is a fleeting sunbeam,

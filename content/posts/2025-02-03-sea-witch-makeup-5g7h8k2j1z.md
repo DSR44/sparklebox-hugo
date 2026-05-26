@@ -9,8 +9,11 @@ description: "Dive into the enchanting world of sea witch makeup! From shimmerin
 draft: false
 aliases:
   - "/sea-witch-makeup-5g7h8k2j1z/"
----
-Welcome to the enchanting world of sea witch makeup, where sultry meets ethereal in a mesmerizing blend of beauty and mystique. 
+cover:
+  image: "/generic-post-images/leonardo-22.jpg"
+  alt: "10 Sultry Sea Witch Makeup Looks That'll Make You Feel Like a Siren!"
+  caption: "Elle Vida | Sparklebox"
+---Welcome to the enchanting world of sea witch makeup, where sultry meets ethereal in a mesmerizing blend of beauty and mystique. 
 
 This edgy beauty trend embraces the moody vibes of the ocean, with wet wavy hair, shimmering scales, and deep, captivating colors that evoke the allure of the sea. 
 

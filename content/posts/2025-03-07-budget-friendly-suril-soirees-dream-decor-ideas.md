@@ -17,8 +17,17 @@ tags:
 draft: false
 aliases:
   - "/budget-friendly-suril-soirees-dream-decor-ideas/"
----
-## **Suril Soirées for Every Budget: How to Create a Dreamscape Without Breaking the Bank**
+description: "(Luxury meets creativity—here’s how to bring Suril magic into your space for less!)"
+keywords:
+  - "diy"
+  - "home decor"
+  - "surreal soirees"
+  - "trend"
+cover:
+  image: "/generic-post-images/leonardo-35.jpg"
+  alt: "Budget-Friendly Suril Soirées: Dream Decor Ideas"
+  caption: "Elle Vida | Sparklebox"
+---## **Suril Soirées for Every Budget: How to Create a Dreamscape Without Breaking the Bank**
 
 *(Luxury meets creativity—here’s how to bring Suril magic into your space for less!)*
 

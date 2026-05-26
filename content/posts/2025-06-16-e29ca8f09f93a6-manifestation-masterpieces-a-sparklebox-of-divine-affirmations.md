@@ -10,8 +10,12 @@ tags:
 draft: false
 aliases:
   - "/%e2%9c%a8%f0%9f%93%a6-manifestation-masterpieces-a-sparklebox-of-divine-affirmations/"
----
-*🕊️ Where your desires become brushstrokes on the canvas of destiny.
+description: "🕊️ Where your desires become brushstrokes on the canvas of destiny."
+cover:
+  image: "/generic-post-images/aphrodite_beauty.png"
+  alt: "✨📦 Manifestation Masterpieces: A Sparklebox of Divine Affirmations"
+  caption: "Elle Vida | Sparklebox"
+---*🕊️ Where your desires become brushstrokes on the canvas of destiny.
 🌐 by **El***le Vida
 
 ### 🌈 **Affirmation 1: Breath of Abundance**

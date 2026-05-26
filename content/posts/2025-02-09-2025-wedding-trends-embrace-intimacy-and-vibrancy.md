@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/2025-wedding-trends-embrace-intimacy-and-vibrancy/"
----
-# Unveiling 2025's Hottest Wedding Trends: Get Inspired for Your Perfect Day
+description: "2025 Wedding Trends: Embrace Intimacy and Vibrancy. Are you planning to tie the knot in 2025?"
+keywords:
+  - "bride"
+  - "bride hairdo"
+  - "bride looks"
+  - "wedding"
+  - "wedding day"
+cover:
+  image: "/generic-post-images/goddess-3.jpg"
+  alt: "2025 Wedding Trends: Embrace Intimacy and Vibrancy"
+  caption: "Elle Vida | Sparklebox"
+---# Unveiling 2025's Hottest Wedding Trends: Get Inspired for Your Perfect Day
 
 Are you planning to tie the knot in 2025? Let's explore the trends that are setting Pinterest and wedding boards abuzz with excitement! Whether you're envisioning an intimate celebration or a bold and vibrant bash, 2025 is all about crafting a wedding that’s distinctively yours.
 

@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%8c-cosmic-whispers-the-celestial-calling/"
----
-**✨ The Zodiac Gates — A Dreamwalker’s Journey Through the Constellations**
+description: "✨ The Zodiac Gates — A Dreamwalker’s Journey Through the Constellations"
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the cartographers wing"
+  - "subconscious wellness"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-15.jpg"
+  alt: "🌌 Cosmic Whispers: The Celestial Calling"
+  caption: "Elle Vida | Sparklebox"
+---**✨ The Zodiac Gates — A Dreamwalker’s Journey Through the Constellations**
 
 ## I. Introduction
 

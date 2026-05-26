@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The difference between fear..."
+description: "The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget."
 cover:
   image: "/generic-post-images/goddess-5.jpg"
   alt: "The difference between fear and intuition: how to tell them apart"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The moonlight finds me again tonight, as it always does when I'm ready to remember something I've been trying to forget. The difference between fear and intuition is one of those subtle distinctions that can change the course of our lives. It's a whispered truth that only reveals itself when we're willing to listen to the quietest layers of our being. As I sit here, surrounded by the gentle silence of the night, I'm reminded of the countless times I've mistaken fear for intuition, and the liberation that comes from learning to tell them apart.
 
 Fear and intuition are two messengers that often speak in hushed tones, making it challenging to discern which one is whispering in our ear. Fear whispers warnings of potential dangers, while intuition whispers guidance towards our deepest desires. But how do we know which voice to trust? The answer lies not in the voices themselves, but in the way they make us feel. Fear often feels like a contraction, a tightening of the chest, a quickening of the breath. It's the body's way of preparing for fight or flight, a response that's hardwired into our nervous system. Intuition, on the other hand, feels like an expansion, a softening of the heart, a deepening of the breath. It's the body's way of guiding us towards what feels right, even if it doesn't make logical sense.

@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "I used to think my mind was a race car — the faster it spun, the sharper I felt. I wore mental stimulation like a..."
+description: "You’ve been taught that mental sharpness comes from grinding — more podcasts, more optimization, more cold-plunge-no-sugar-一生中文字符串."
 cover:
   image: "/pinterest-images/8224400017_cognitive-upgrade-frequency-design.png"
   alt: "The difference between a stimulated mind and an elevated one is not effort — it is frequency"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 Stimulation feels like chasing.  
 Elevation feels like arriving.
 

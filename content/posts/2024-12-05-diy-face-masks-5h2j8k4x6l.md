@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/diy-face-masks-5h2j8k4x6l/"
----
-Pamper yourself with these delightful DIY face masks designed to give you that radiant glow.
+description: "Pamper yourself with these delightful DIY face masks designed to give you that radiant glow."
+cover:
+  image: "/generic-post-images/leonardo-37.jpg"
+  alt: "10 Easy DIY Face Masks for Glowing Skin That You Can Make in Minutes!"
+  caption: "Elle Vida | Sparklebox"
+---Pamper yourself with these delightful DIY face masks designed to give you that radiant glow.
 
 Whether you’re preparing for a big event or just need a moment of relaxation, these masks are quick to whip up using ingredients you probably already have at home.
 

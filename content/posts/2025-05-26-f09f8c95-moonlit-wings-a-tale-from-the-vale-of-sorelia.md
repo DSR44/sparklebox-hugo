@@ -15,8 +15,16 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%95-moonlit-wings-a-tale-from-the-vale-of-sorelia/"
----
-### 🕯️ *Whispers from the Vale...*
+description: "“There are places that awaken your soul not with noise, but with remembering.”"
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/mystical-5.jpg"
+  alt: "🌕 Moonlit Wings: A Tale from the Vale of Sorelia"
+  caption: "Elle Vida | Sparklebox"
+---### 🕯️ *Whispers from the Vale...*
 
 > *“There are places that awaken your soul not with noise, but with remembering.”*
 

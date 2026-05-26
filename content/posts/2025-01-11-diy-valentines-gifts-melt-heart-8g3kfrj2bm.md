@@ -9,8 +9,11 @@ description: "Surprise her this Valentine’s Day with heartfelt DIY gifts that 
 draft: false
 aliases:
   - "/diy-valentines-gifts-melt-heart-8g3kfrj2bm/"
----
-Valentine's Day is the perfect occasion to express your love and appreciation in a special way. 
+cover:
+  image: "/generic-post-images/leonardo-23.jpg"
+  alt: "10 Adorable DIY Valentines Gifts for Her That Will Melt Her Heart!"
+  caption: "Elle Vida | Sparklebox"
+---Valentine's Day is the perfect occasion to express your love and appreciation in a special way. 
 
 Handmade gifts carry a personal touch that can’t be matched by store-bought items. 
 

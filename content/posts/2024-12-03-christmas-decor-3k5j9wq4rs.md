@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/christmas-decor-3k5j9wq4rs/"
----
-Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home into a winter wonderland? 
+description: "Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home…"
+cover:
+  image: "/pinterest-images/8224163181_higher-self-affirmations.png"
+  alt: "25 Stunning Christmas Decor Ideas That'll Make Your Home Shine Brighter Than Rudolph's Nose!"
+  caption: "Elle Vida | Sparklebox"
+---Christmas is the season of joy, warmth, and magic, and what better way to embody the holiday spirit than with stunning decor that transforms your home into a winter wonderland? 
 
 From twinkling lights to festive garlands, every corner can radiate cheer, inviting friends and family to bask in the glow of the season. 
 

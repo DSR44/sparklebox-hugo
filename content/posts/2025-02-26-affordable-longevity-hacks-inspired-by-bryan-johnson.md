@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/affordable-longevity-hacks-inspired-by-bryan-johnson/"
----
-# Bryan Johnson’s Blueprint Alternatives: Longevity on Any Budget
+description: "When it comes to rewriting the rules of aging, Bryan Johnson has become a household name in the realm of biohacking and longevity."
+keywords:
+  - "biohacking"
+  - "health"
+  - "longevity"
+  - "wellness"
+cover:
+  image: "/generic-post-images/leonardo-4.jpg"
+  alt: "Affordable Longevity Hacks Inspired by Bryan Johnson"
+  caption: "Elle Vida | Sparklebox"
+---# Bryan Johnson’s Blueprint Alternatives: Longevity on Any Budget
 
 When it comes to rewriting the rules of aging, Bryan Johnson has become a household name in the realm of biohacking and longevity. Known as "the most measured man in human history," Johnson spends over $2 million each year on his health through his Blueprint program, a rigorous regimen of data-driven diet, exercise, and supplementation. While inspiring, replicating Johnson’s efforts isn't a viable option for most people.
 

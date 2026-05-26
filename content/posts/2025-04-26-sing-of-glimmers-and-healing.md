@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/sing-of-glimmers-and-healing/"
----
-*(A poetic tale of transformation and hope)*
+description: "(A poetic tale of transformation and hope) Beneath the velvet canopy of a moonlit forest, where stars fell like scattered jewels through the swaying…"
+keywords:
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "subconscious healing"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/goddess-2.jpg"
+  alt: "Sing of Glimmers and Healing"
+  caption: "Elle Vida | Sparklebox"
+---*(A poetic tale of transformation and hope)*
 
 Beneath the velvet canopy of a moonlit forest, where stars fell like scattered jewels through the swaying silhouettes of ancient oaks, there lay a weathered stone bench, cradled by time itself. The air quivered, alive with a quiet magic, as if the forest held its breath, awaiting its nightly symphony to begin.
 

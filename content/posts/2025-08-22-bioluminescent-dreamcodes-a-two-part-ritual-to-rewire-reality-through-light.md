@@ -14,8 +14,15 @@ description: "Step into a luminous realm of quantum affirmations and liminal lan
 draft: false
 aliases:
   - "/bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light/"
----
-Bioluminescent Dream Affirmations
+keywords:
+  - "dream coded affirmations"
+  - "liminal affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-7.jpg"
+  alt: "Bioluminescent Dreamcodes: A Two-Part Ritual to Rewire Reality Through Light"
+  caption: "Elle Vida | Sparklebox"
+---Bioluminescent Dream Affirmations
 
 # Bioluminescent Dream Affirmations
 

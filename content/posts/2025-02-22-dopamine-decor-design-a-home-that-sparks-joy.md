@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/dopamine-decor-design-a-home-that-sparks-joy/"
----
-# Dopamine Decor: How to Design a Home That Sparks Joy
+description: "Home is more than just a place; it’s where you recharge, dream, and create."
+keywords:
+  - "diy"
+  - "home decor"
+  - "home decor trends 2025"
+  - "trends"
+cover:
+  image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
+  alt: "Dopamine Decor: Design a Home That Sparks Joy"
+  caption: "Elle Vida | Sparklebox"
+---# Dopamine Decor: How to Design a Home That Sparks Joy
 
 Home is more than just a place; it’s where you recharge, dream, and create. But did you know your living space can directly impact your emotional well-being? Enter **Dopamine Decor**, a vibrant home design trend taking the interior world by storm. It’s about creating spaces that infuse happiness, energy, and creativity into your everyday life.
 

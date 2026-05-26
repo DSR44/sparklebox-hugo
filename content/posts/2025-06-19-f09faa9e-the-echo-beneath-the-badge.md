@@ -11,8 +11,15 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%aa%9e-the-echo-beneath-the-badge/"
----
-*A Mirror Box Tale by El*le Vida
+description: "There is a quiet in you that doesn’t need labels to be known."
+keywords:
+  - "elle vida"
+  - "subconscious healing"
+cover:
+  image: "/generic-post-images/leonardo-16.jpg"
+  alt: "🪞 The Echo Beneath the Badge"
+  caption: "Elle Vida | Sparklebox"
+---*A Mirror Box Tale by El*le Vida
 
 ## 🌬️ **I. Whispered Beginning**
 

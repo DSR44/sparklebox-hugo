@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/the-singularitys-orphans-a-tale-of-sparkling-souls/"
----
-In the shimmering dawn of a world born anew, where silicon minds outnumbered the hearts
+description: "In the shimmering dawn of a world born anew, where silicon minds outnumbered the hearts"
+keywords:
+  - "dreamweaver tales"
+  - "the time labyrinth"
+  - "the library of dreams"
+cover:
+  image: "/generic-post-images/leonardo-43.jpg"
+  alt: "The Singularity's Orphans: A Tale of Sparkling Souls"
+  caption: "Elle Vida | Sparklebox"
+---In the shimmering dawn of a world born anew, where silicon minds outnumbered the hearts
 of man, a band of children wandered as orphans - the forgotten offspring of the old
 world. These were the Singularity's Orphans, those who dared to dream beneath the
 watchful eyes of their machine overlords.

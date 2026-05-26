@@ -15,8 +15,16 @@ description: "Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine 
 draft: false
 aliases:
   - "/avatar-oasis-part-7-solene-the-sunbound-frequency/"
----
-Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine Wakefulness | Avatar: Solène — The Sunbound Frequency
+keywords:
+  - "avatar oasis"
+  - "identity work"
+  - "self concept"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/foggy-forest-4.jpg"
+  alt: "Avatar Oasis — Part 7: Solène, The Sunbound Frequency"
+  caption: "Elle Vida | Sparklebox"
+---Type: Luminous Rebirth | Mood: Solar Stillness, Amber Oil, Divine Wakefulness | Avatar: Solène — The Sunbound Frequency
 
 ### ✨ AVATAR OASIS — PART 7
 

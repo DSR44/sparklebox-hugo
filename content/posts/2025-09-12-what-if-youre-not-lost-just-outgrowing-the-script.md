@@ -12,8 +12,14 @@ description: "I spent years traveling the world searching for something — a fe
 draft: false
 aliases:
   - "/what-if-youre-not-lost-just-outgrowing-the-script/"
----
-## 
+keywords:
+  - "elle vida"
+  - "spiritual wellness"
+cover:
+  image: "/generic-post-images/alchemy-2.jpg"
+  alt: "What If You’re Not Lost — Just Outgrowing the Script"
+  caption: "Elle Vida | Sparklebox"
+---## 
 ✨ Elle Vida’s Mirror Box
 
 ### 

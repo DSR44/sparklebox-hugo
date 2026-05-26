@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The fact that you're not falling apart means you're probably already broken in exactly the right way. You're answering emails at midnight, making brea..."
+description: "The fact that you're not falling apart means you're probably already broken in exactly the right way."
 cover:
   image: "/pinterest-images/8224694061_light-within-mindset.png"
   alt: "The Quiet Fracture: Why Your Resilience Might Be Your Final Warning"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 The fact that you're not falling apart means you're probably already broken in exactly the right way.
 

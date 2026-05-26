@@ -9,15 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "There will come a moment—maybe while you're rinsing the same coffee mug for the hundredth time, or folding laundry that still smells like yesterday's ..."
+description: "There will come a moment—maybe while you're rinsing the same coffee mug for the hundredth time, or folding laundry that still smells like yesterday's…"
 cover:
   image: "/pinterest-images/8224402060_geometric-consciousness-sacred-pattern.png"
   alt: "You will know the upgrade happened when these five things quietly change"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-There will come a moment—maybe while you're rinsing the same coffee mug for the hundredth time, or folding laundry that still smells like yesterday's worry—when you'll pause mid-motion and realize something fundamental has shifted. Not the dramatic kind of shift they make movies about. The quiet kind. The kind that happens between heartbeats.
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
+---There will come a moment—maybe while you're rinsing the same coffee mug for the hundredth time, or folding laundry that still smells like yesterday's worry—when you'll pause mid-motion and realize something fundamental has shifted. Not the dramatic kind of shift they make movies about. The quiet kind. The kind that happens between heartbeats.
 
 You'll notice it first in how your hands move through the world.
 

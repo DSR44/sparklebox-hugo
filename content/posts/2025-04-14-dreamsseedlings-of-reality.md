@@ -15,8 +15,17 @@ tags:
 draft: false
 aliases:
   - "/dreamsseedlings-of-reality/"
----
-#  
+description: "'Dreams are the seedlings of reality.' - Florence Scovel Shinn In the realm of metaphysics, dreams are not merely fleeting visions of the night but are…"
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "florence scovel shinn"
+cover:
+  image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_1_4b5868cc_1013.jpg"
+  alt: "Dreams:Seedlings of Reality"
+  caption: "Elle Vida | Sparklebox"
+---#  
 
 ![Sparklebox visual](/wptest.jpg)
 

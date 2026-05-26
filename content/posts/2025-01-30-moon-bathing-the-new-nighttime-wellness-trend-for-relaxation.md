@@ -30,8 +30,18 @@ tags:
 draft: false
 aliases:
   - "/moon-bathing-the-new-nighttime-wellness-trend-for-relaxation/"
----
-Forget sunrise yoga—moonlight is the new self-care spotlight. As people seek calm and restoration, moon bathing is emerging as a powerful nighttime wellness practice. Inspired by ancient[ ](https://www.yogajournal.cllness/the-ancient-practice-of-moon-bathing/)traditions and modern mindfulness, this ritual invites you to connect with the serenity of the night sky and soak in the moon’s mystical energy.
+description: "Forget sunrise yoga—moonlight is the new self-care spotlight."
+keywords:
+  - "alternative wellness"
+  - "astrology trends"
+  - "celestial self-care"
+  - "cosmic healing"
+  - "energy healing"
+cover:
+  image: "/generic-post-images/leonardo-10.jpg"
+  alt: "Moon Bathing: The New Nighttime Wellness Trend for Relaxation"
+  caption: "Elle Vida | Sparklebox"
+---Forget sunrise yoga—moonlight is the new self-care spotlight. As people seek calm and restoration, moon bathing is emerging as a powerful nighttime wellness practice. Inspired by ancient[ ](https://www.yogajournal.cllness/the-ancient-practice-of-moon-bathing/)traditions and modern mindfulness, this ritual invites you to connect with the serenity of the night sky and soak in the moon’s mystical energy.
 
 What is Moon Bathing?
 

@@ -7,14 +7,17 @@ tags:
   - "spirituality"
   - "alchemy"
   - "transformation"
-description: "Your Skincare Routine is Self-Love Witchcraft ✨"
+description: "As we embark on our daily skincare routines, we often overlook the profound impact it can have on our overall well-being."
 cover:
   image: "/generic-post-images/alchemy-3.jpg"
   alt: "Your Skincare Routine is Self-Love Witchcraft ✨"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "transformation"
 ---
-
 # Your Skincare Routine is Self-Love Witchcraft ✨
 As we embark on our daily skincare routines, we often overlook the profound impact it can have on our overall well-being. But what if I told you that your skincare routine is not just about physical beauty, but also about spiritual growth and self-love? In this blog post, we'll delve into the mystical world of transmutational alchemy and explore how our daily habits can be transformed into acts of self-love witchcraft.
 

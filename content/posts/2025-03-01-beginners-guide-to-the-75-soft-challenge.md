@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/beginners-guide-to-the-75-soft-challenge/"
----
-### **Navigating the 75 Soft Challenge: A Beginner’s Guide to a Balanced Wellness Journey**
+description: "You’ve probably scrolled past it on TikTok—the hashtag 75SoftChallenge, reeling in millions of views and skyrocketing in popularity."
+keywords:
+  - "health"
+  - "soft challenge"
+  - "trends"
+  - "wellness"
+cover:
+  image: "/generic-post-images/leonardo-10.jpg"
+  alt: "Beginner’s Guide to the 75 Soft Challenge"
+  caption: "Elle Vida | Sparklebox"
+---### **Navigating the 75 Soft Challenge: A Beginner’s Guide to a Balanced Wellness Journey**
 
 Finding Success in Simplicity
 You’ve probably scrolled past it on TikTok—the hashtag #75SoftChallenge, reeling in millions of views and skyrocketing in popularity. Unlike its tough-love sibling, the [75 Hard Challenge](https://andyfrisella.com/pages/75hard-info), this gentler alternative has captured the hearts of wellness seekers who believe a more achievable and balanced approach is the key to building sustainable habits.

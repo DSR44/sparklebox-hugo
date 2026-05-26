@@ -14,8 +14,11 @@ cover:
   alt: "Cosmic energy flowing through the universe"
   caption: "Tap into the cosmic flow"
 draft: false
+keywords:
+  - "cosmic energy"
+  - "transformation"
+  - "daily practice"
 ---
-
 # Harnessing Cosmic Energy for Daily Transformation
 
 Welcome, cosmic traveler! ✨ Today I want to share with you the ancient art of tapping into universal energy.

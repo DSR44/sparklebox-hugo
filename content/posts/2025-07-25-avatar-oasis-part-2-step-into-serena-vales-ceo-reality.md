@@ -15,8 +15,16 @@ description: "Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avata
 draft: false
 aliases:
   - "/avatar-oasis-part-2-step-into-serena-vales-ceo-reality/"
----
-Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow
+keywords:
+  - "avatar oasis"
+  - "identity work"
+  - "self concept"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-12.jpg"
+  alt: "Avatar Oasis – Part 2: Step Into Serena Vale’s CEO Reality"
+  caption: "Elle Vida | Sparklebox"
+---Type: Assertive Feminine Power | Mood: Clean Wealth Energy | Avatar: The Magnetic CEO in Flow
 
 ### ✨ AVATAR OASIS — PART 2
 

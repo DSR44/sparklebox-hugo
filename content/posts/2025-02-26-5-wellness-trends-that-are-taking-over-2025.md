@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/5-wellness-trends-that-are-taking-over-2025/"
----
-# 5 Wellness Trends Taking Over 2025 You Need to Know About
+description: "Are you ready to rejuvenate your body and mind with the latest wellness trends?"
+keywords:
+  - "health"
+  - "mental health"
+  - "trends"
+  - "wellness"
+cover:
+  image: "/generic-post-images/beauty-bathroom-2.jpg"
+  alt: "5 Wellness Trends That Are Taking Over 2025"
+  caption: "Elle Vida | Sparklebox"
+---# 5 Wellness Trends Taking Over 2025 You Need to Know About
 
 Are you ready to rejuvenate your body and mind with the latest wellness trends? From icy cold plunges to biohacking your daily routine, 2025 is shaping up to be a game-changing year for health and self-care enthusiasts. Wellness practices are no longer just about eating greens or exercising – they’re about optimizing every aspect of your physical, mental, and emotional well-being.
 

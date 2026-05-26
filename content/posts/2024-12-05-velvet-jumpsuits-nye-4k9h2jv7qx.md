@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/velvet-jumpsuits-nye-4k9h2jv7qx/"
----
-As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
+description: "As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit."
+cover:
+  image: "/generic-post-images/floating-castle-3.jpg"
+  alt: "10 Stunning Velvet Jumpsuits for NYE That'll Make You Look Like a Goddess!"
+  caption: "Elle Vida | Sparklebox"
+---As the clock ticks towards midnight, it's time to elevate your New Year's Eve look with the ultimate showstopper: the velvet jumpsuit. 
 
 These luxurious pieces not only exude elegance but also provide comfort, allowing you to dance the night away. 
 

@@ -13,8 +13,14 @@ description: "💫 Snap into your power. This set of 3 visual rituals—Toss, Gr
 draft: false
 aliases:
   - "/snap-spells-toss-grip-applause-micro-rituals-to-trigger-the-frequency-of-success/"
----
-## 💫 Snap Spells: Visual Training for Success Frequencies
+keywords:
+  - "snapspells"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-35.jpg"
+  alt: "Snap Spells: Toss, Grip, Applause – Micro-Rituals to Trigger the Frequency of Success"
+  caption: "Elle Vida | Sparklebox"
+---## 💫 Snap Spells: Visual Training for Success Frequencies
 
   Snap Spells are not just visualization tools — they are frequency trainers. Each spell helps you tune into the energetic signature of success, not for a fleeting moment, but to recognize and embody the *state in which creation becomes natural*.
 

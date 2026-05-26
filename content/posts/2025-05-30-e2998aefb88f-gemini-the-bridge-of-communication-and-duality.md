@@ -11,8 +11,15 @@ tags:
 draft: false
 aliases:
   - "/%e2%99%8a%ef%b8%8f-gemini-the-bridge-of-communication-and-duality/"
----
-🪞 *Oracle Growth Series | Dreamweaver Tales – Day 3*
+description: "🪞 Oracle Growth Series | Dreamweaver Tales – Day 3 They were born in twilight — not one, but two."
+keywords:
+  - "oraclesgrowth"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/beauty-4.jpg"
+  alt: "♊️ Gemini — The Bridge of Communication and Duality | Oracle growth series day 3"
+  caption: "Elle Vida | Sparklebox"
+---🪞 *Oracle Growth Series | Dreamweaver Tales – Day 3*
 
 ### 🪞 **Tale: The Mirror in the Wind**
 

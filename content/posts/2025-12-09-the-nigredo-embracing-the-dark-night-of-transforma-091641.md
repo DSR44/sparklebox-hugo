@@ -8,14 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The darkness descends, like a velvet cloak, softly enveloping me in its mysterious folds. It's a sensation I've grown to recognize, a signal that tran..."
+description: "The darkness descends, like a velvet cloak, softly enveloping me in its mysterious folds."
 cover:
   image: "/generic-post-images/aphrodite_beauty.png"
   alt: "The nigredo: embracing the dark night of transformation"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The darkness descends, like a velvet cloak, softly enveloping me in its mysterious folds. It's a sensation I've grown to recognize, a signal that transformation is stirring, like a whispered promise in the night. The nigredo, a term borrowed from the ancient alchemists, speaks to this very moment – the dark night of the soul, where the old dissolves, and the new begins to take shape.
 
 As I sit in stillness, surrounded by the shadows, I'm reminded of the countless times I've tried to outrun this darkness, to flee from the uncertainty that accompanies it. But like a loyal companion, it always finds me, patiently waiting for me to surrender, to let go of the need to control, to understand. The nigredo is not a place for the faint of heart; it's a realm where the bravest of souls venture, willing to confront the depths of their own unknown.

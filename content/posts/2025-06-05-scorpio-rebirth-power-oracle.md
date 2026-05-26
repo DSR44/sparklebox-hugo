@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/scorpio-rebirth-power-oracle/"
----
-**Oracle’s Growth | Day 8 of 12**
+description: "There once lived a figure known only by the smoke she left behind."
+keywords:
+  - "oraclesgrowth"
+  - "dreamweaver tales"
+  - "the oracles grove"
+cover:
+  image: "/generic-post-images/beauty-4.jpg"
+  alt: "♏️ Scorpio – Death, Rebirth, and Power Reclaimed"
+  caption: "Elle Vida | Sparklebox"
+---**Oracle’s Growth | Day 8 of 12**
 
 ### 📖 **Tale: The Phoenix Cloaked in Shadow**
 

@@ -9,14 +9,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "The thing about abundance is that most people never notice when they’re actually living inside it. They’re looking for a feeling—expansive, weightless..."
+description: "The thing about abundance is that most people never notice when they’re actually living inside it."
 cover:
   image: "/generic-post-images/leonardo-37.jpg"
   alt: "Abundance is not a mindset — it is a mechanism"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
 ---
-
 The thing about abundance is that most people never notice when they’re actually living inside it.
 
 They’re looking for a feeling—expansive, weightless, generous. They scroll past it because the body doesn’t register it as “abundance.” It registers it as Tuesday. The fridge is humming, the cat is asleep on the windowsill, and the rent went through automatically. That quiet sufficiency is abundance in its native tongue, but we’ve been trained to misread the signal. We call it ordinary. We call it not enough. We keep looking for the rush that says “something big is coming,” and miss the mechanism that’s already humming beneath our ribs.

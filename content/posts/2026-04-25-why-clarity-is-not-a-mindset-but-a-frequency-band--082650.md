@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Ninety-three percent of people report feeling mentally foggy at least once a week. And yet we keep selling clarity as a mindset—as if the brain..."
+description: "Ninety-three percent of people report feeling mentally foggy at least once a week."
 cover:
   image: "/pinterest-images/8224400607_vesica-piscis-neural-architecture.png"
   alt: "Why clarity is not a mindset but a frequency band — and why most people are tuned to the wrong one"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 Ninety-three percent of people report feeling mentally foggy at least once a week.  
 And yet we keep selling clarity as a mindset—as if the brain were a stubborn toddler refusing to sit in the “right” chair.  
 Mindset is a story you tell yourself.  

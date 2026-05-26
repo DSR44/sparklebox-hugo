@@ -12,8 +12,15 @@ tags:
 draft: false
 aliases:
   - "/base-class-4-break-the-echo-loop/"
----
-# 
+description: "The Echo Loop: How We Secretly Script Our Own Downfall (And How to Stop It)"
+keywords:
+  - "sparklebox base class"
+  - "thedreamtoolkit"
+cover:
+  image: "/pinterest-images/8224694061_light-within-mindset.png"
+  alt: "Base Class 4: Break the Self-Sabotage Loop"
+  caption: "Elle Vida | Sparklebox"
+---# 
 ✨ BASE CLASS — CHAPTER FOUR
 
 ## 

@@ -13,8 +13,16 @@ tags:
 draft: false
 aliases:
   - "/mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox/"
----
-🌟 Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox
+description: "🌟 Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox"
+keywords:
+  - "elvidas mirror box the alchemical descent"
+  - "elle vida"
+  - "the descent alchemy of the tribes"
+cover:
+  image: "/generic-post-images/leonardo-37.jpg"
+  alt: "Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox"
+  caption: "Elle Vida | Sparklebox"
+---🌟 Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox
 
 # 🌟 Mystical Alchemy Teachings from Ancient Tribes 🌟
 

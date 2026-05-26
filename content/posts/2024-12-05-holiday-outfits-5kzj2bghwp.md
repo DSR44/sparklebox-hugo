@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/holiday-outfits-5kzj2bghwp/"
----
-As the festive season approaches, the quest for the perfect holiday outfit begins. 
+description: "As the festive season approaches, the quest for the perfect holiday outfit begins."
+cover:
+  image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013.jpg"
+  alt: "11 Elegant Holiday Outfits That'll Have Everyone Asking 'Where Did You Get That?'"
+  caption: "Elle Vida | Sparklebox"
+---As the festive season approaches, the quest for the perfect holiday outfit begins. 
 
 Whether you're attending a lavish Christmas dinner or a cozy family gathering, dressing elegantly can elevate your presence and make you the center of attention. 
 

@@ -14,8 +14,15 @@ description: "Confidence is not a performance — it is a quiet knowing. These D
 draft: false
 aliases:
   - "/dream-coded-affirmations-for-boosting-confidence-and-achieving-success/"
----
-Dream Coded Affirmations for Boosting Confidence and Achieving Success
+keywords:
+  - "boosting confidence"
+  - "dream coded affirmations"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/leonardo-30.jpg"
+  alt: "Dream Coded Affirmations for Boosting Confidence and Achieving Success"
+  caption: "Elle Vida | Sparklebox"
+---Dream Coded Affirmations for Boosting Confidence and Achieving Success
 
 ## 
 Unlock the Power of Your Mind: Dream Coded Affirmations for Unshakable Confidence

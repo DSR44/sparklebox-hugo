@@ -16,8 +16,18 @@ tags:
 draft: false
 aliases:
   - "/mirrored-minds-attracting-abundance-through-divine-alignment/"
----
-Welcome back, dear dreamer, to the sacred space of *Mirrored Minds*. Today, we draw inspiration from a powerful affirmation shared by Florence Scovel Shinn, a guiding light in the study of trust, faith, and abundance:
+description: "Welcome back, dear dreamer, to the sacred space of Mirrored Minds."
+keywords:
+  - "daily affirmations"
+  - "dreamcore wellness"
+  - "dreamweaver tales"
+  - "florence scovel shinn"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/moon-sparklebox_moon_caelith_the_keeper_of_the_open_sky_1013_01.jpg"
+  alt: "🪞Mirrored Minds ✨ Attracting Abundance Through Divine Alignment"
+  caption: "Elle Vida | Sparklebox"
+---Welcome back, dear dreamer, to the sacred space of *Mirrored Minds*. Today, we draw inspiration from a powerful affirmation shared by Florence Scovel Shinn, a guiding light in the study of trust, faith, and abundance:
 
 *"Infinite Spirit open the way for great abundance for me. I am an irresistible magnet for all that belongs to me by divine right."*
 

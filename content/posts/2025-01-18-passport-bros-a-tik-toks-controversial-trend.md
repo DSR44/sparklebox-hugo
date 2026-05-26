@@ -14,8 +14,18 @@ tags:
 draft: false
 aliases:
   - "/passport-bros-a-tik-toks-controversial-trend/"
----
-If you’ve been on TikTok lately, you’ve probably come across the infamous **Passport Bros**—a trend where men proudly proclaim they’re “escaping” Western dating culture to find love (or something else 👀) abroad. Depending on who you ask, **Passport Bros are either hopeless romantics or delusional tourists with Wi-Fi**. Either way, this trend has become a **goldmine for memes, debates, and pure comedic gold**. Let’s dive into the **good, the bad, and the straight-up ridiculous** side of Passport Bros on TikTok.
+description: "If you’ve been on TikTok lately, you’ve probably come across the infamous Passport Bros—a trend where men proudly proclaim they’re “escaping” Western…"
+keywords:
+  - "dating trends 2024"
+  - "funny tiktok trends"
+  - "passport bros tiktok"
+  - "viral tiktok topics"
+  - "western dating culture"
+cover:
+  image: "/generic-post-images/leonardo-31.jpg"
+  alt: "Passport Bros: a tik tok's controversial trend"
+  caption: "Elle Vida | Sparklebox"
+---If you’ve been on TikTok lately, you’ve probably come across the infamous **Passport Bros**—a trend where men proudly proclaim they’re “escaping” Western dating culture to find love (or something else 👀) abroad. Depending on who you ask, **Passport Bros are either hopeless romantics or delusional tourists with Wi-Fi**. Either way, this trend has become a **goldmine for memes, debates, and pure comedic gold**. Let’s dive into the **good, the bad, and the straight-up ridiculous** side of Passport Bros on TikTok.
 
 ## **What (or Who) Are Passport Bros?** ✈️🌍
 

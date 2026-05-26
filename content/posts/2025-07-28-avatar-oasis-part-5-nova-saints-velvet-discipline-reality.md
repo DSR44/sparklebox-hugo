@@ -15,8 +15,16 @@ description: "Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova 
 draft: false
 aliases:
   - "/avatar-oasis-part-5-nova-saints-velvet-discipline-reality/"
----
-Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme
+keywords:
+  - "avatar oasis"
+  - "identity work"
+  - "self concept"
+  - "thedreamtoolkit"
+cover:
+  image: "/generic-post-images/beauty-ritual-1.jpg"
+  alt: "Avatar Oasis – Part 5: Nova Saint’s Velvet Discipline Reality"
+  caption: "Elle Vida | Sparklebox"
+---Type: Feminine Command | Mood: Dark Luxe Stillness | Avatar: Nova Saint — The Soft Domme
 
 ### ✨ AVATAR OASIS — PART 5
 

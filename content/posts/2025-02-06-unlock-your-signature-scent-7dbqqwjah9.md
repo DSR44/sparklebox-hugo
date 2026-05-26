@@ -10,8 +10,11 @@ description: "Imagine a fragrance tailored just for you, capturing your essence 
 draft: false
 aliases:
   - "/unlock-your-signature-scent-7dbqqwjah9/"
----
-Imagine walking into a world where your fragrance is as unique as your fingerprint. 
+cover:
+  image: "/generic-post-images/leonardo-6.jpg"
+  alt: "Unlock Your Signature Scent: How AI is Personalizing Fragrances Like Never Before!"
+  caption: "Elle Vida | Sparklebox"
+---Imagine walking into a world where your fragrance is as unique as your fingerprint. 
 
 With advancements in artificial intelligence, personalized fragrances are no longer a distant dream but a vibrant reality. 
 

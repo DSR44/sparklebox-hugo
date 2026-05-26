@@ -12,8 +12,14 @@ description: "We’ve been taught that struggle proves worth — but real power 
 draft: false
 aliases:
   - "/how-to-make-ease-your-superpower-elle-vidas-mirror-box-sparklebox/"
----
-How to Make Ease Your Superpower | Elle Vida's Mirror Box – Sparklebox
+keywords:
+  - "elle vida"
+  - "self reflection"
+cover:
+  image: "/generic-post-images/leonardo-24.jpg"
+  alt: "How to Make Ease Your Superpower | Elle Vida’s Mirror Box – Sparklebox"
+  caption: "Elle Vida | Sparklebox"
+---How to Make Ease Your Superpower | Elle Vida's Mirror Box – Sparklebox
 
 # ✨ How to Make Ease Your Superpower
 

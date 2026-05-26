@@ -8,8 +8,12 @@ categories:
 draft: false
 aliases:
   - "/sustainable-knits-h3jf7kqz59/"
----
-Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
+description: "Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits."
+cover:
+  image: "/generic-post-images/leonardo-47.jpg"
+  alt: "18 Sustainable Knits That Will Make You Look Good and Feel Even Better!"
+  caption: "Elle Vida | Sparklebox"
+---Step into the world of cozy, eco-friendly style with our carefully curated collection of sustainable knits. 
 
 These beautiful jumpers and suits not only elevate your wardrobe but also support ethical fashion and conscious living. 
 

@@ -9,15 +9,18 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "Sacred Geometry: The Hidden Code of the Universe"
+description: "You know that feeling when you're walking through a forest and suddenly, the trees seem to align in a way that feels..."
 cover:
   image: "/generic-post-images/mystical-3.jpg"
   alt: "Sacred Geometry: The Hidden Code of the Universe"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-You know that feeling when you're walking through a forest and suddenly, the trees seem to align in a way that feels... intentional? Like, the branches are weaving together to form a pattern that's both intricate and elegant. That's basically what sacred geometry is – the idea that the universe is made up of underlying patterns and codes that govern everything from the shape of a snowflake to the structure of a galaxy.
+keywords:
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+  - "spiritual technology"
+---You know that feeling when you're walking through a forest and suddenly, the trees seem to align in a way that feels... intentional? Like, the branches are weaving together to form a pattern that's both intricate and elegant. That's basically what sacred geometry is – the idea that the universe is made up of underlying patterns and codes that govern everything from the shape of a snowflake to the structure of a galaxy.
 
 I was at a workshop on sacred geometry last weekend, and the presenter showed us this video of a nautilus shell. You know, those spiral shells that look like they were designed by some alien mathematician? The presenter pointed out that the spiral on the shell follows a specific mathematical pattern – the golden ratio – which is also found in the shape of galaxies, sunflowers, and even the human body. It was one of those moments where you feel like you're glimpsing a deeper truth, you know?
 

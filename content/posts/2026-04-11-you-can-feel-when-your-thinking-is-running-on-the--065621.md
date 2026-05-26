@@ -9,14 +9,19 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "Nobody tells you that the mind has background music. Not the song stuck in your head—the subtler score that plays beneath your thoughts like a..."
+description: "You can feel when your thinking is running on the wrong channel — you just never had the word for it. I used to think the problem was my thoughts."
 cover:
   image: "/pinterest-images/8224399717_frequency-shift-brain-upgrade.png"
   alt: "You can feel when your thinking is running on the wrong channel — you just never had the word for it"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "frequency"
+  - "consciousness"
+  - "perception"
+  - "cognitive upgrade"
+  - "theta state"
 ---
-
 I used to think the problem was my thoughts. That if I could just swap out the negative ones for positive ones, everything would finally click. I spent years treating my mind like a bad radio station — scanning for a clearer signal, frustrated when the static kept creeping back in.
 
 But the static wasn't the problem. The static was the symptom. And the radio wasn't broken — it was tuned to a frequency that wasn't mine.

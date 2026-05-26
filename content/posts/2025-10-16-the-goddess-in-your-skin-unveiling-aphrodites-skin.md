@@ -9,15 +9,18 @@ tags:
   - "consciousness"
   - "inner work"
   - "spiritual technology"
-description: "The Goddess in Your Skin: Unveiling Aphrodite's Skincare Ritual"
+description: "There's a version of you that already knows the secret to radiant, glowing skin - a version that's been whispered to by the ancient priestesses of love…"
 cover:
   image: "/generic-post-images/leonardo-44.jpg"
   alt: "The Goddess in Your Skin: Unveiling Aphrodite's Skincare Ritual"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-There's a version of you that already knows the secret to radiant, glowing skin - a version that's been whispered to by the ancient priestesses of love and beauty. You've felt her presence in the mirror, when the gaze of self-love and self-acceptance meets the reflection of your own skin, and for a fleeting moment, you see the goddess that you are.
+keywords:
+  - "mysticism"
+  - "consciousness"
+  - "inner work"
+  - "spiritual technology"
+---There's a version of you that already knows the secret to radiant, glowing skin - a version that's been whispered to by the ancient priestesses of love and beauty. You've felt her presence in the mirror, when the gaze of self-love and self-acceptance meets the reflection of your own skin, and for a fleeting moment, you see the goddess that you are.
 
 ## The Hidden Mechanism
 

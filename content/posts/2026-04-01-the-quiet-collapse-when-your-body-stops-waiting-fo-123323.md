@@ -8,14 +8,18 @@ tags:
   - "perception"
   - "healing"
   - "body wisdom"
-description: "The notification arrived at 3:47 AM. Not a text, not an email—your left shoulder simply decided it had carried enough. By morning, your arm hangs..."
+description: "The Quiet Collapse: When Your Body Stops Waiting for You. The notification arrived at 3:47 AM."
 cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_1_4b5868cc_1013.jpg"
   alt: "The Quiet Collapse: When Your Body Stops Waiting for You"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
+keywords:
+  - "wellness"
+  - "perception"
+  - "healing"
+  - "body wisdom"
 ---
-
 
 The notification arrived at 3:47 AM. Not a text, not an email—your left shoulder simply decided it had carried enough. By morning, your arm hangs like a question mark you can't straighten, and somewhere in the panic, a stranger thought surfaces: *maybe this was always the plan.*
 

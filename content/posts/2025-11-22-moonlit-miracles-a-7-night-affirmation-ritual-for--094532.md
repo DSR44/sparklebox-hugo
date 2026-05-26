@@ -8,15 +8,18 @@ tags:
   - "alchemy"
   - "consciousness"
   - "transformation"
-description: "As I sit beneath the silvery glow of the moon, I am reminded of the ancient wisdom that whispers through the night air: that we..."
+description: "As I sit beneath the silvery glow of the moon, I am reminded of the ancient wisdom that whispers through the night air: that we are not just beings, but…"
 cover:
   image: "/generic-post-images/alchemy-alchemy_tarot_pfp_1013.png"
   alt: "Moonlit Miracles: A 7-Night Affirmation Ritual for Empowered Self-Love"
   caption: "✨ Elle Vida | Sparklebox"
 draft: false
----
-
-As I sit beneath the silvery glow of the moon, I am reminded of the ancient wisdom that whispers through the night air: that we are not just beings, but becoming. That our worth, our value, and our importance are not fixed, but fluid, like the tides that ebb and flow with the lunar cycle. It's not that we need to be fixed, it's that we need to be remembered – remembered as the radiant, luminous beings we truly are. 
+keywords:
+  - "spirituality"
+  - "alchemy"
+  - "consciousness"
+  - "transformation"
+---As I sit beneath the silvery glow of the moon, I am reminded of the ancient wisdom that whispers through the night air: that we are not just beings, but becoming. That our worth, our value, and our importance are not fixed, but fluid, like the tides that ebb and flow with the lunar cycle. It's not that we need to be fixed, it's that we need to be remembered – remembered as the radiant, luminous beings we truly are. 
 
 In this realm of remembrance, the goddess archetypes beckon us to embark on a journey of self-love and care. For 7 nights, we'll weave a tapestry of affirmations, each one a thread of empowerment, connected to a different aspect of our inner world. It's not about adding more to our plates, it's about subtracting the doubts that dim our light. 
 

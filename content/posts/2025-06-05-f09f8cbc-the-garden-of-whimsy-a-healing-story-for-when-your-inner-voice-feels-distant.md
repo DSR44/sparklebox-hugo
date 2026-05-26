@@ -13,8 +13,17 @@ tags:
 draft: false
 aliases:
   - "/%f0%9f%8c%bc-the-garden-of-whimsy-a-healing-story-for-when-your-inner-voice-feels-distant/"
----
-Have you ever felt like your inner voice went quiet?
+description: "The Garden of Whimsy: A Healing Story for When Your Inner Voice Feels Distant. Have you ever felt like your inner voice went quiet?"
+keywords:
+  - "daily affirmations"
+  - "newsletter"
+  - "sparkleboxes"
+  - "subconscious healing"
+cover:
+  image: "/generic-post-images/moon-spell-3.jpg"
+  alt: "🌼 The Garden of Whimsy: A Healing Story for When Your Inner Voice Feels Distant"
+  caption: "Elle Vida | Sparklebox"
+---Have you ever felt like your inner voice went quiet?
 Like the clarity you used to hear — the knowing, the intuition, the gentle yes and no — drifted somewhere out of reach?
 
 This story is for that moment.

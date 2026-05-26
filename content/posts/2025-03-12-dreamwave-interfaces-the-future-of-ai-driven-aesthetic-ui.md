@@ -17,8 +17,18 @@ tags:
 draft: false
 aliases:
   - "/dreamwave-interfaces-the-future-of-ai-driven-aesthetic-ui/"
----
-# **Dreamwave Interfaces: How AI is Designing the Next Generation of Aesthetic User Experiences**
+description: "Imagine navigating a website where the interface isn’t just functional—it’s an immersive, dreamlike experience."
+keywords:
+  - "ai aesthetics"
+  - "digital surrealism"
+  - "dreamlike interfaces"
+  - "futuristic ui"
+  - "immersive design"
+cover:
+  image: "/generic-post-images/leonardo-3.jpg"
+  alt: "Dreamwave Interfaces: The Future of AI-Driven Aesthetic UI"
+  caption: "Elle Vida | Sparklebox"
+---# **Dreamwave Interfaces: How AI is Designing the Next Generation of Aesthetic User Experiences**
 
 ## **Introduction: A Future Where UI Feels Like a Dream**
 

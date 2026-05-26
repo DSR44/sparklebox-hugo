@@ -10,8 +10,12 @@ tags:
 draft: false
 aliases:
   - "/40-small-diy-projects-to-refresh-your-home/"
----
-# Easy DIY Home Refresh Guide: 40 Small Projects to Transform Your Space
+description: "Looking to give your home a fresh, new vibe without breaking the bank or requiring major renovations?"
+cover:
+  image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013_01.jpg"
+  alt: "40 Small DIY Projects to Refresh Your Home"
+  caption: "Elle Vida | Sparklebox"
+---# Easy DIY Home Refresh Guide: 40 Small Projects to Transform Your Space
 
 Looking to give your home a fresh, new vibe without breaking the bank or requiring major renovations? DIY home decor projects are the perfect solution! They’re affordable, creative, and offer a personal touch that store-bought items just can’t match.
 

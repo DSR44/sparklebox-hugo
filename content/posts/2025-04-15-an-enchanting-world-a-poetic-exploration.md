@@ -12,8 +12,16 @@ tags:
 draft: false
 aliases:
   - "/an-enchanting-world-a-poetic-exploration/"
----
-### From the Mirror Hall collection inside **the Library of Dreams.**
+description: "Delicate, glowing clouds drift lazily above, carrying the whispers of ancient wisdom on their gentle breeze."
+keywords:
+  - "library of dreams"
+  - "self reflection"
+  - "the mirror hall collection"
+cover:
+  image: "/generic-post-images/aphrodite.png"
+  alt: "An Enchanting World: A Poetic Exploration"
+  caption: "Elle Vida | Sparklebox"
+---### From the Mirror Hall collection inside **the Library of Dreams.**
 
 ### 🌹In this quiet tale of inner healing, you're invited to sit with your past self, speak gently, and discover what still blooms beneath the surface.
 

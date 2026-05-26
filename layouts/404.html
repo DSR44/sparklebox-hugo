@@ -1,111 +1,41 @@
 {{- define "main" }}
-<style>
-.error-404 {
-    max-width: 800px;
-    margin: 4rem auto;
-    text-align: center;
-    padding: 2rem;
-}
+<section class="sb-error">
+  <div class="sb-error__neon-bar" aria-hidden="true"></div>
+  <h1>Lost in the Portal?</h1>
+  <p class="sb-error__lead">The page you're looking for has transformed or moved to a new realm.</p>
+  <p class="sb-error__sub">All the magic is still here — pick a path:</p>
 
-.error-404 h1 {
-    font-family: 'Cormorant', serif;
-    font-size: 3rem;
-    color: #3f2469;
-    margin-bottom: 1rem;
-}
-
-.error-portal-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
-    margin: 3rem auto;
-}
-
-.error-portal-card {
-    background: linear-gradient(145deg, rgba(250, 253, 255, 0.9), rgba(238, 244, 247, 0.7));
-    border: 2px solid rgba(75, 46, 131, 0.2);
-    border-radius: 15px;
-    padding: 1.5rem;
-    transition: all 0.3s ease;
-}
-
-.error-portal-card:hover {
-    transform: translateY(-5px);
-    border-color: rgba(75, 46, 131, 0.4);
-    box-shadow: 0 10px 30px rgba(75, 46, 131, 0.2);
-}
-
-.error-portal-card a {
-    color: #4b2e83;
-    text-decoration: none;
-    font-weight: 700;
-}
-
-.search-box {
-    margin: 2rem auto;
-    max-width: 500px;
-}
-
-.search-box input {
-    width: 100%;
-    padding: 15px 20px;
-    border: 2px solid rgba(75, 46, 131, 0.3);
-    border-radius: 12px;
-    font-size: 1rem;
-    font-family: 'Playfair Display', serif;
-}
-</style>
-
-<div class="error-404">
-  <h1>🌀 Lost in the Portal?</h1>
-  
-  <p style="font-size: 1.2rem; color: #5a4a75; margin: 2rem 0;">
-    The page you're looking for has transformed or moved to a new realm.
-  </p>
-  
-  <p style="color: #4b2e83; margin-bottom: 2rem;">
-    Don't worry — all the magic is still here! Try these paths:
-  </p>
-
-  <div class="error-portal-grid">
-    <div class="error-portal-card">
-      <a href="/the-dreamtoolkit/">🌌 Dream Portals</a>
-      <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.5rem;">8 interactive realms</p>
-    </div>
-
-    <div class="error-portal-card">
-      <a href="/musebox-dreams/">🎨 Musebox</a>
-      <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.5rem;">Visual prompts</p>
-    </div>
-
-    <div class="error-portal-card">
-      <a href="/soundbox/">🎵 Soundbox</a>
-      <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.5rem;">Ambient music</p>
-    </div>
-
-    <div class="error-portal-card">
-      <a href="https://sparklebox-tarot.streamlit.app/">🔮 Tarot</a>
-      <p style="font-size: 0.85rem; color: #5a4a75; margin-top: 0.5rem;">Card readings</p>
-    </div>
+  <div class="sb-play-grid sb-play-grid--compact sb-error__grid">
+    <a class="sb-play-card" href="/the-dreamtoolkit/">
+      <div class="sb-play-card__icon sb-play-card__icon--portals" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg></div>
+      <div class="sb-play-card__body"><span class="sb-play-card__label">Portals</span><h3>Dream Toolkit</h3><p>8 interactive realms.</p></div>
+      <span class="sb-play-card__chev">›</span>
+    </a>
+    <a class="sb-play-card" href="/musebox-dreams/">
+      <div class="sb-play-card__icon sb-play-card__icon--muse" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7L12 16.8 5.7 21l2.3-7-6-4.6h7.6z"/></svg></div>
+      <div class="sb-play-card__body"><span class="sb-play-card__label">AI</span><h3>Musebox</h3><p>Daily visual muse.</p></div>
+      <span class="sb-play-card__chev">›</span>
+    </a>
+    <a class="sb-play-card" href="/soundbox/">
+      <div class="sb-play-card__icon sb-play-card__icon--sound" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18V6l12-2v14"/><circle cx="6" cy="18" r="3"/></svg></div>
+      <div class="sb-play-card__body"><span class="sb-play-card__label">Audio</span><h3>Soundbox</h3><p>Curated soundscapes.</p></div>
+      <span class="sb-play-card__chev">›</span>
+    </a>
+    <a class="sb-play-card" href="/frequency-upgrade/">
+      <div class="sb-play-card__icon sb-play-card__icon--freq" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 14v-4M8 16V8M12 18V6M16 14V10M20 12V12"/></svg></div>
+      <div class="sb-play-card__body"><span class="sb-play-card__label">Series</span><h3>Frequency Upgrade</h3><p>Cognitive recalibration.</p></div>
+      <span class="sb-play-card__chev">›</span>
+    </a>
   </div>
 
-  <div class="search-box">
-    <p style="margin-bottom: 1rem; color: #4b2e83; font-weight: 600;">Or search for what you're looking for:</p>
+  <div class="sb-error__search">
+    <p>Or search Sparklebox:</p>
     <form action="/search/" method="get">
-      <input type="text" name="q" placeholder="Search Sparklebox..." autofocus>
+      <input type="text" name="q" class="sb-subscribe__input" placeholder="Search..." autofocus>
     </form>
   </div>
 
-  <p style="margin-top: 3rem;">
-    <a href="/" style="color: #4b2e83; font-weight: 700; text-decoration: none; border-bottom: 2px solid #4b2e83;">
-      ← Return to Homepage
-    </a>
-  </p>
-
-  <p style="font-size: 0.9rem; color: #999; margin-top: 2rem; font-style: italic;">
-    Note: We recently moved from WordPress to a faster platform. Some old links may have changed. Use search to find what you're looking for! ✨
-  </p>
-</div>
-
+  <p class="sb-error__home"><a href="/">← Return to Homepage</a></p>
+  <p class="sb-error__note">Some legacy WordPress links may have changed — search to find what you need.</p>
+</section>
 {{- end }}
-

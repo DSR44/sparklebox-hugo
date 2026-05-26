@@ -1,86 +1,15 @@
 {{- if not (.Param "hideFooter") }}
-<footer class="footer">
-    <span style="font-size: 0.8rem; color: rgba(249, 168, 212, 0.5); letter-spacing: 0.1em;">&copy; {{ now.Year }}</span>
-    <a href="{{ "" | absLangURL }}" style="
-        font-family: 'Cinzel Decorative', serif;
-        font-size: 0.95rem;
-        font-weight: 700;
-        letter-spacing: 0.12em;
-        text-decoration: none;
-        background: linear-gradient(135deg, #c084fc 0%, #ec4899 40%, #f9a8d4 60%, #a855f7 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        margin: 0 0.5rem;
-    ">Sp<span style="
-        background: linear-gradient(160deg, #fce7f3 0%, #f9a8d4 50%, #e879f9 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-    ">△</span>rklebox</a>
-    <span style="
-        font-family: 'Cormorant Garamond', serif;
-        font-style: italic;
-        font-weight: 300;
-        font-size: 0.8rem;
-        letter-spacing: 0.18em;
-        background: linear-gradient(135deg, #f9a8d4, #c084fc);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        opacity: 0.85;
-    ">· Perception is Creation · Elle Vida</span>
+<footer class="footer sb-footer">
+  <span class="sb-footer__copy">&copy; {{ now.Year }}</span>
+  <a href="{{ "" | absLangURL }}" class="sb-footer__brand">Sp<span class="logo-pyramid">△</span>rklebox</a>
+  <span class="sb-footer__tagline">Perception is Creation · Elle Vida</span>
 </footer>
 
-<!-- Constellation Compiler — floating hint banner -->
-<a href="https://constellationcompiler.art/" target="_blank" rel="noopener" id="constellation-banner" style="
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.6rem;
-    padding: 0.6rem 1.2rem;
-    background: linear-gradient(135deg, rgba(10,1,24,0.95) 0%, rgba(26,11,46,0.95) 50%, rgba(15,5,30,0.95) 100%);
-    border-top: 1px solid rgba(192,132,252,0.2);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    text-decoration: none;
-    cursor: pointer;
-    transition: all 0.4s ease;
-    animation: constellation-pulse 6s ease-in-out infinite;
-" onmouseover="this.style.borderTopColor='rgba(192,132,252,0.5)'; this.style.boxShadow='0 -4px 20px rgba(139,92,246,0.15)';" onmouseout="this.style.borderTopColor='rgba(192,132,252,0.2)'; this.style.boxShadow='none';">
-    <span style="font-size:0.85rem; opacity:0.7; animation: star-drift 3s ease-in-out infinite alternate;">∞</span>
-    <span style="
-        font-family: 'Cormorant Garamond', serif;
-        font-style: italic;
-        font-size: 0.8rem;
-        letter-spacing: 0.12em;
-        color: rgba(196,181,253,0.6);
-    ">What if language could never repeat?</span>
-    <span style="
-        font-family: 'Cinzel', serif;
-        font-size: 0.65rem;
-        letter-spacing: 0.15em;
-        background: linear-gradient(135deg, #c084fc, #ec4899);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-    ">ENTER THE INFINITY →</span>
+<a href="https://constellationcompiler.art/" target="_blank" rel="noopener" id="constellation-banner" class="sb-constellation-banner">
+  <span class="sb-constellation-banner__icon" aria-hidden="true">∞</span>
+  <span class="sb-constellation-banner__text">What if language could never repeat?</span>
+  <span class="sb-constellation-banner__cta">Enter the Infinity →</span>
 </a>
-<style>
-@keyframes constellation-pulse {
-    0%, 100% { border-top-color: rgba(192,132,252,0.15); }
-    50% { border-top-color: rgba(236,72,153,0.25); }
-}
-@keyframes star-drift {
-    0% { transform: rotate(0deg) scale(1); opacity: 0.5; }
-    100% { transform: rotate(180deg) scale(1.1); opacity: 0.8; }
-}
-</style>
 {{- end }}
 
 {{- if not (.Param "hideFooter") }}

@@ -6,145 +6,51 @@ draft: false
 description: "About Elle Vida and Sparklebox — perception architecture, mental alchemy, the Frequency Upgrade, and tools for conscious reality-building."
 ---
 
-<style>
-.about-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 2rem;
-}
+<section class="sb-page-panel">
+<div class="sb-page-panel__neon-bar" aria-hidden="true"></div>
+<header class="sb-page-panel__header">
+<span class="sb-page-panel__eyebrow">Elle Vida · Sparklebox</span>
+<h1>About Sparklebox</h1>
+<p class="sb-page-panel__lead">Ancient wisdom through a futuristic lens — perception architecture, AI muse, and the Frequency Upgrade.</p>
+</header>
 
-.about-intro {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 2rem;
-    background: linear-gradient(145deg, rgba(75, 46, 131, 0.08), rgba(63, 36, 105, 0.05));
-    border-radius: 20px;
-}
+<div class="sb-prose">
 
-.about-intro h1 {
-    font-family: 'Cormorant', serif;
-    color: #3f2469;
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-}
+## What is Sparklebox?
 
-.about-section {
-    margin: 2rem 0;
-    line-height: 1.8;
-    color: #4b2e83;
-}
+Sparklebox is a digital sanctuary where mystical wisdom meets automated, exclusive tools — not cute affirmations, but **perception architecture** for people who think in frequencies.
 
-.about-section h2 {
-    font-family: 'Cormorant', serif;
-    color: #3f2469;
-    font-size: 1.8rem;
-    margin-top: 2rem;
-}
-</style>
+Founded by **Elle Vida**, Sparklebox offers:
 
-<div class="about-container">
+- **Daily Musebox** — AI visual prompts & mantras
+- **8 Dream Portals** — interactive elemental realms
+- **The Frequency Upgrade** — cognitive frequency path + workbook
+- **Soundbox** — soundscapes for drift and focus
+- **Tarot & The Drift** — live AI oracle experiences
 
-<div class="about-intro">
-<h1>𖤐 About Sparklebox 𖤐</h1>
-<p style="font-size: 1.2rem; color: #5a4a75; font-style: italic;">Where Ancient Wisdom Meets Modern Consciousness</p>
-</div>
+## The Philosophy
 
-<div class="about-section">
+**Perception is Creation.** The way you see shapes what you experience. Sparklebox teaches perceptive authorship — not control-based manifestation, but reorganising reality from the inside out.
 
-## 🌟 What is Sparklebox?
+We blend neuroscience, sacred geometry, anticipation theory, and AI automation into tools that feel mystical and work like systems.
 
-Sparklebox is your sanctuary of self-remembrance — a digital portal where mystical wisdom, transformational alchemy, and ancient goddess teachings converge with modern spiritual technology.
+## About Elle Vida
 
-Founded by **Elle Vida**, Sparklebox is more than a blog — it's a **metaverse of transformation**, offering:
+Elle Vida is a writer, perception architect, and creator of Sparklebox — building the bridge between ancient inner work and futuristic automation.
 
-- **Daily mystical affirmations** through the Musebox
-- **8 interactive Dream Portals** for elemental transformation
-- **Transmutational alchemy teachings** from ancient civilizations
-- **Goddess wisdom** and divine feminine practices
-- **AI-powered spiritual guidance** through Tarot
-- **Healing sound baths** for meditation and energy work
+**Mission:** Help seekers shift cognitive frequency and reclaim authorship over perception.
+
+**Voice:** Precise, mystical, exclusive — never generic wellness.
+
+## Explore
+
+- [Enter Dream Portals](/the-dreamtoolkit/)
+- [Frequency Upgrade](/frequency-upgrade/)
+- [Musebox AI](/musebox-dreams/)
+- [Start Here](/start-here/)
+- [Contact](/contact/)
+
+<blockquote class="sb-quote">In the space between thought and reality lies the power of transmutation.<br><cite>— Elle Vida</cite></blockquote>
 
 </div>
-
-<div class="about-section">
-
-## 💜 The Philosophy
-
-At Sparklebox, we believe that **transformation begins within**. 
-
-Every thought is alchemy. Every word is a spell. Every intention shapes reality.
-
-We blend:
-- Ancient mystical traditions (Egyptian, Tibetan, Sufi, Hermetic)
-- Modern consciousness practices
-- Goddess archetypes and divine feminine energy
-- Sacred geometry and quantum mysticism
-- AI and spiritual technology
-
-**The result?** Practical magic for everyday life. ✨
-
-</div>
-
-<div class="about-section">
-
-## 🌙 About Elle Vida
-
-Elle Vida is a mystical writer, digital alchemist, and creator of the Sparklebox metaverse.
-
-**Her mission:** To help spiritual seekers transform their inner lead into gold through ancient wisdom, practical practices, and modern mystical technology.
-
-**Her approach:** Accessible mysticism that honors tradition while embracing innovation.
-
-**Her voice:** Empowering, wise, and deeply connected to the cosmic flow.
-
-</div>
-
-<div class="about-section">
-
-## ✨ What You'll Find Here
-
-**Daily Content:**
-- Mystical affirmations and cosmic wisdom
-- Transmutational alchemy teachings
-- Goddess archetypes and divine feminine practices
-- Moon magic and lunar rituals
-- Crystal healing and energy work
-- Sacred practices for modern life
-
-**Interactive Experiences:**
-- 8 Dream Toolkit Portals (Fire, Water, Earth, Air & beyond)
-- AI-powered Tarot readings
-- Sound bath healing frequencies
-- Daily Musebox visual prompts
-
-**Community:**
-- Join "The Mystical Hour" newsletter
-- Connect through our contact form
-- Explore the cosmic journey together
-
-</div>
-
-<div class="about-section">
-
-## 💌 Join the Journey
-
-**Ready to transform?**
-
-- 📧 [Subscribe to The Mystical Hour Newsletter](/)
-- 🌌 [Explore the Dream Portals](/the-dreamtoolkit/)
-- 🎨 [Visit the Musebox](/musebox-dreams/)
-- 📧 [Contact Elle Vida](/contact/)
-
-</div>
-
-<div style="text-align: center; margin: 3rem 0; padding: 2rem; background: rgba(75, 46, 131, 0.05); border-radius: 15px;">
-<p style="font-family: 'Cormorant', serif; font-size: 1.3rem; color: #3f2469; font-style: italic;">
-"In the space between thought and reality lies the power of transmutation."
-</p>
-<p style="color: #5a4a75; margin-top: 1rem;">
-— Elle Vida
-</p>
-</div>
-
-</div>
-
+</section>

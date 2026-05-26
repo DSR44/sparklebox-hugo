@@ -12,8 +12,6 @@ tags:
 draft: false
 description: "Feeling Is the Secret — The Alchemy of Inner Reality · Sparklebox Realm by Elle Vida. Perception is Creation — Elle Vida on perceptive authorship, not…"
 keywords: ["feeling is the secret", "Neville Goddard", "mental alchemy", "inner reality", "Sparklebox"]
-aliases:
-  - "/feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida/"
 cover:
   image: "/generic-post-images/leonardo-51.jpg"
   alt: "Feeling Is the Secret — The Alchemy of Inner Reality · Sparklebox Realm by Elle Vida"

@@ -11,8 +11,6 @@ tags:
 description: "From Assumptions to Alchemy: The Evolution of Sparklebox — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords: ["Sparklebox Method", "mental alchemy", "perception", "Elle Vida", "consciousness"]
 draft: false
-aliases:
-  - "/from-assumptions-to-alchemy-the-evolution-of-sparklebox/"
 cover:
   image: "/pinterest-images/8224401602_flower-of-life-consciousness-map.png"
   alt: "From Assumptions to Alchemy: The Evolution of Sparklebox"

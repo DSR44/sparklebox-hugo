@@ -1,0 +1,60 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{- $pillarCategories := slice
+      "the-sparklebox-method"
+      "the-frequency-upgrade"
+      "sparklebox-realm"
+      "mystical-wisdom-series"
+      "dream-and-muse-tools"
+  }}
+  {{- $allowedPageSlugs := slice
+      "about"
+      "start-here"
+      "faq"
+      "contact"
+      "privacy-policy"
+      "frequency-upgrade"
+      "musebox-dreams"
+      "the-dreamtoolkit"
+      "the-sparkle-bazaar"
+      "soundbox"
+      "donations"
+      "the-hidden-work-a-modern-initiation-into-mental-alchemy"
+  }}
+  {{- range site.AllPages }}
+    {{- if .Params.robotsNoIndex }}{{- continue }}{{- end }}
+    {{- if .Params.sitemap.disable }}{{- continue }}{{- end }}
+    {{- if gt (len .RelPermalink) 0 }}
+      {{- if strings.Contains .RelPermalink "/page/" }}{{- continue }}{{- end }}
+    {{- end }}
+    {{- if eq .Kind "term" }}
+      {{- if eq .Section "categories" }}
+        {{- $termSlug := .Data.Term | urlize }}
+        {{- if not (in $pillarCategories $termSlug) }}{{- continue }}{{- end }}
+      {{- else }}{{- continue }}{{- end }}
+    {{- end }}
+    {{- if eq .Kind "taxonomy" }}{{- continue }}{{- end }}
+    {{- if and (eq .Kind "page") (eq .Type "pages") }}
+      {{- $slug := .Params.slug | default .File.ContentBaseName }}
+      {{- if not (in $allowedPageSlugs $slug) }}
+        {{- if not (hasPrefix $slug "frequency-upgrade/spiral-") }}{{- continue }}{{- end }}
+      {{- end }}
+    {{- end }}
+    {{- if and (eq .Kind "section") (eq .Section "tags") }}{{- continue }}{{- end }}
+    {{- if and (eq .Kind "section") (eq .Section "pages") }}{{- continue }}{{- end }}
+    {{- if and (eq .Kind "section") (eq .Section "categories") (strings.Contains .RelPermalink "/page/") }}{{- continue }}{{- end }}
+    {{- if eq .RelPermalink "/search/" }}{{- continue }}{{- end }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</lastmod>
+    {{- end }}
+    <changefreq>{{ .Params.sitemap.changefreq | default "weekly" }}</changefreq>
+    {{- $priority := "0.5" }}
+    {{- if .IsHome }}{{- $priority = "1.0" }}{{- end }}
+    {{- if eq .Section "posts" }}{{- $priority = "0.8" }}{{- end }}
+    {{- if eq .RelPermalink "/frequency-upgrade/" }}{{- $priority = "0.9" }}{{- end }}
+    <priority>{{ .Params.sitemap.priority | default $priority }}</priority>
+  </url>
+  {{- end }}
+</urlset>

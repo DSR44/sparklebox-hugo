@@ -11,8 +11,6 @@ tags:
   - "mindfulness"
   - "wellness"
 draft: false
-aliases:
-  - "/unlock-your-inner-dynamo/"
 description: "Within each of us exists a boundless source of energy, resilience, and untapped potential."
 keywords:
   - "daily affirmations"

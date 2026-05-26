@@ -12,8 +12,6 @@ tags:
   - "TheDreamToolkit"
 description: "Avatar Oasis — Part 7: Solène, The Sunbound Frequency. Part of The Frequency Upgrade — Elle Vida on cognitive frequency bands and the $19 Frequency Field…"
 draft: false
-aliases:
-  - "/avatar-oasis-part-7-solene-the-sunbound-frequency/"
 keywords:
   - "avatar oasis"
   - "identity work"

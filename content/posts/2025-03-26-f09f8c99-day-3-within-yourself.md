@@ -12,8 +12,6 @@ tags:
   - "radiant energy"
   - "Willow"
 draft: false
-aliases:
-  - "/%f0%9f%8c%99-day-3-within-yourself/"
 description: "On this third day of Becoming, we turn inward — not to critique, but to witness."
 keywords:
   - "7 days of becoming"

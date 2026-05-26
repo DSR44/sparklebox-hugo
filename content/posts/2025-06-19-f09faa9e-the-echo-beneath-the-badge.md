@@ -9,8 +9,6 @@ tags:
   - "Elle Vida's Mirror Box 📦"
   - "Subconscious Healing"
 draft: false
-aliases:
-  - "/%f0%9f%aa%9e-the-echo-beneath-the-badge/"
 description: "There is a quiet in you that doesn’t need labels to be known."
 keywords:
   - "elle vida"

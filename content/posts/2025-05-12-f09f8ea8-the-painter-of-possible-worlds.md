@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/%f0%9f%8e%a8-the-painter-of-possible-worlds/"
 description: "There once was a woman named Elandra, who lived in a house filled with blank canvases."
 keywords:
   - "dreamcore wellness"

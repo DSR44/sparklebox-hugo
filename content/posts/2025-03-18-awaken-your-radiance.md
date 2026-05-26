@@ -12,8 +12,6 @@ tags:
   - "uplifting routines"
   - "wellness"
 draft: false
-aliases:
-  - "/awaken-your-radiance/"
 description: "Confidence isn’t a stationary force; it is a glowing ember, ready to be stoked into a brilliant flame."
 keywords:
   - "confidence affirmations"

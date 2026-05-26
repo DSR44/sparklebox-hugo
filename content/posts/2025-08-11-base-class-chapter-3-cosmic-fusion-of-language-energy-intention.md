@@ -10,8 +10,6 @@ tags:
   - "TheDreamToolkit"
 description: "Base Class Chapter 3 — Cosmic Fusion of Language, Energy & Intention. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
-aliases:
-  - "/base-class-chapter-3-cosmic-fusion-of-language-energy-intention/"
 keywords:
   - "sparklebox base class"
   - "thedreamtoolkit"

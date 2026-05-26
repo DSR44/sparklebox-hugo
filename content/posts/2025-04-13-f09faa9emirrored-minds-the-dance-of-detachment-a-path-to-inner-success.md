@@ -12,8 +12,6 @@ tags:
   - "mirrored minds"
   - "wellness"
 draft: false
-aliases:
-  - "/%f0%9f%aa%9emirrored-minds-the-dance-of-detachment-a-path-to-inner-success/"
 description: "In the heart of a blooming garden, a delicate, silver-throned flower stands tall, its petals shimmering with the promise of success."
 keywords:
   - "daily affirmations"

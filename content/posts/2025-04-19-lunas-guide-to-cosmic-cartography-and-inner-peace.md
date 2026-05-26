@@ -11,8 +11,6 @@ tags:
   - "🗺️ The Cartographer’s Wing"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/lunas-guide-to-cosmic-cartography-and-inner-peace/"
 description: "In the realm of the mapmaker, where stars and stardust wove a tapestry of infinite possibility, there lived a being known only as Luna."
 keywords:
   - "dreamcore wellness"

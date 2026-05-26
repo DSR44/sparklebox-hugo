@@ -11,8 +11,6 @@ tags:
   - "TheDreamToolkit"
 description: "Quantum Mystic: Dream-Coded Affirmations for Entangled Realities — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/quantum-mystic-dream-coded-affirmations-for-entangled-realities/"
 keywords:
   - "dream coded affirmations"
   - "liminal affirmations"

@@ -11,8 +11,6 @@ tags:
   - "mindset"
   - "success"
 draft: false
-aliases:
-  - "/18-powerful-mindset-shifts-you-need-to-embrace-for-ultimate-success/"
 description: "Success is not just about talent or luck; it’s about cultivating the right mindset."
 keywords:
   - "healthy living"

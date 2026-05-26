@@ -7,19 +7,24 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
 [pagination]
   pagerSize = 10
 
-# Enable JSON feed only (RSS disabled)
+# Enable JSON feed + clean sitemap
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "Sitemap"]
+  section = ["HTML", "Sitemap"]
+  page = ["HTML", "Sitemap"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
 
 # Permalinks
 [permalinks]
   posts = "/posts/:year/:month/:slug/"
   pages = "/:slug/"
 
-# Taxonomies
+# Taxonomies — categories only (tags removed to eliminate 400+ tag archive pages)
 [taxonomies]
   category = "categories"
-  tag = "tags"
 
 # Menu — Main bar (1–5) + dropdown (6+)
 [menu]

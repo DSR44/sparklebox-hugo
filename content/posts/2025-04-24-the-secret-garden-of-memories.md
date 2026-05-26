@@ -13,8 +13,6 @@ tags:
   - "The Library of Dreams"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/the-secret-garden-of-memories/"
 description: "She awoke with a peculiar sensation, as though something deep within her was calling to be found."
 keywords:
   - "dreamcore wellness"

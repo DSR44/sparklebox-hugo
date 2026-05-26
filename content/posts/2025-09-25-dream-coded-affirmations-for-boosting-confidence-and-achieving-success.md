@@ -11,8 +11,6 @@ tags:
   - "TheDreamToolkit"
 description: "Dream Coded Affirmations for Boosting Confidence and Achieving Success. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
-aliases:
-  - "/dream-coded-affirmations-for-boosting-confidence-and-achieving-success/"
 keywords:
   - "boosting confidence"
   - "dream coded affirmations"

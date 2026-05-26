@@ -11,8 +11,6 @@ tags:
   - "dreamweaver tales"
   - "Florence Scovel Shinn"
 draft: false
-aliases:
-  - "/dreamsseedlings-of-reality/"
 description: "'Dreams are the seedlings of reality.' - Florence Scovel Shinn In the realm of metaphysics, dreams are not merely fleeting visions of the night but are…"
 keywords:
   - "daily affirmations"

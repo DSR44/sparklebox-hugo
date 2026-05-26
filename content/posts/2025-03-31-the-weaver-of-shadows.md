@@ -11,8 +11,6 @@ tags:
   - "Dreamcore Wellness"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/the-weaver-of-shadows/"
 description: "In the hush of twilight, she works—silent, unseen, ancient."
 keywords:
   - "7 days of becoming"

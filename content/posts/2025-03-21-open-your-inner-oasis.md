@@ -11,8 +11,6 @@ tags:
   - "selflove"
   - "wellness"
 draft: false
-aliases:
-  - "/open-your-inner-oasis/"
 description: "Within each of us lies a tranquil sanctuary, untouched by the chaos of the outside world."
 keywords:
   - "daily affirmations"

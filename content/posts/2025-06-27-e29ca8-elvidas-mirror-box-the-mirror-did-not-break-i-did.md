@@ -8,8 +8,6 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false
-aliases:
-  - "/%e2%9c%a8-elvidas-mirror-box-the-mirror-did-not-break-i-did/"
 description: "For years, I stood before reflections shaped by others."
 cover:
   image: "/generic-post-images/leonardo-35.jpg"

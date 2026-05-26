@@ -8,8 +8,6 @@ categories:
 tags:
   - "Elle Vida's Mirror Box 📦"
 draft: false
-aliases:
-  - "/where-the-blackbird-sings-a-tale-of-beauty-amid-the-chaos/"
 description: "It began, as most sacred things do, without announcement."
 cover:
   image: "/pinterest-images/8224960133_consciousness-expansion-inspiration.png"

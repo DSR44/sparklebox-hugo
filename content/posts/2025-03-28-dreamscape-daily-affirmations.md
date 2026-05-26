@@ -13,8 +13,6 @@ tags:
   - "Luminaria"
   - "Luminaria Lyra"
 draft: false
-aliases:
-  - "/dreamscape-daily-affirmations/"
 description: "Dreamscape Daily Affirmations. Step into Luminaria with Lyra for Day 5 of Becoming."
 keywords:
   - "7 days of becoming"

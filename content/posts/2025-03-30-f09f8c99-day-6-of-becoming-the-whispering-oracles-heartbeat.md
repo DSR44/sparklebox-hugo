@@ -12,8 +12,6 @@ tags:
   - "Luminaria"
   - "Luminiaria Lyra"
 draft: false
-aliases:
-  - "/%f0%9f%8c%99-day-6-of-becoming-the-whispering-oracles-heartbeat/"
 description: "Day 6 of Becoming | The Whispering Oracle's Heartbeat. 🫧 Lyra speaks through resonance, not words."
 keywords:
   - "7 days of becoming"

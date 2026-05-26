@@ -12,8 +12,6 @@ tags:
   - "Personal Growth Practices"
   - "Self-Belief Tools"
 draft: false
-aliases:
-  - "/step-into-your-brilliance/"
 description: "Confidence isn’t just something you hold; it’s a force, a wave, an energy that carries you forward."
 keywords:
   - "affirmations for confidence"

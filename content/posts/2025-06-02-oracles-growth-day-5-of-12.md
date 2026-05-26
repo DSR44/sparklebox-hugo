@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/oracles-growth-day-5-of-12/"
 description: "🌞 Oracle Growth Series | Dreamweaver Tales – Day 5 In the center of a thousand golden mirrors, there stood a being known as The Radiant One."
 keywords:
   - "oraclesgrowth"

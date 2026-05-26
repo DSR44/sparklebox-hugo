@@ -14,8 +14,6 @@ tags:
   - "mindfulness"
   - "wellness"
 draft: false
-aliases:
-  - "/%f0%9f%8c%99-day-2-7-days-of-becoming/"
 description: "Some parts of us don’t speak with words — they hum, echo, and resonate."
 keywords:
   - "7 days of becoming"

@@ -11,8 +11,6 @@ tags:
   - "Florence Scovel Shinn"
   - "mirrored minds"
 draft: false
-aliases:
-  - "/%f0%9f%aa%9emirrored-minds-exploring-the-cosmos-within/"
 description: "Welcome, dear seeker of truth and wisdom, to 'Mirrored Minds: Exploring the Cosmos Within.' You have found your way here for a reason, and we're honored…"
 keywords:
   - "daily affirmations"

@@ -12,8 +12,6 @@ tags:
   - "Florence Scovel Shinn"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/embracing-universal-abundance-unlocking-the-power-of-unwavering-trust/"
 description: "Life takes us through cycles of highs and lows, moments of clarity and times of uncertainty."
 keywords:
   - "daily affirmations"

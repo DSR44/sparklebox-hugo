@@ -16,7 +16,7 @@ description: "Ancient wisdom, sacred geometry, goddess archetypes, and alchemy â
 ## Explore
 
 - [Mystical Alchemy teachings](/posts/2025/10/mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox/)
-- [Categories hub](/categories/) Â· [Ancient Wisdom tag](/tags/ancient-wisdom/)
+- [Categories hub](/categories/)
 
 ---
 

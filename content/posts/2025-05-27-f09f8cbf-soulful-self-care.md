@@ -11,8 +11,6 @@ tags:
   - "Sparkleboxes"
   - "Subconscious Healing"
 draft: false
-aliases:
-  - "/%f0%9f%8c%bf-soulful-self-care/"
 description: "🕯️ A Ritual of Radiance | Private Subscriber Edition Today, I bring you five sacred affirmations — each a gentle whisper from the universe, calling you…"
 keywords:
   - "daily affirmations"

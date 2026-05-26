@@ -11,8 +11,6 @@ tags:
   - "Sparklebox Base Class"
 description: "The Creator Self & The Myth of the Broken Mind | Sparklebox Base Class 5. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
-aliases:
-  - "/the-creator-self-the-myth-of-the-broken-mind-sparklebox-base-class-5/"
 keywords:
   - "identity work"
   - "self concept"

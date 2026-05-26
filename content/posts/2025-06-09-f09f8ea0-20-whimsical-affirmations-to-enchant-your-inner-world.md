@@ -11,8 +11,6 @@ tags:
   - "dreamweaver tales"
   - "whimsical affirmations"
 draft: false
-aliases:
-  - "/%f0%9f%8e%a0-20-whimsical-affirmations-to-enchant-your-inner-world/"
 description: "A 20-step journey into healing, joy, and soulful expansion — whispered from the realm beneath the magician’s hat."
 keywords:
   - "daily affirmations"

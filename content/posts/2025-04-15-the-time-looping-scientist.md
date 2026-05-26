@@ -11,8 +11,6 @@ tags:
   - "🌀 The Time Labyrinth"
   - "journaling"
 draft: false
-aliases:
-  - "/the-time-looping-scientist/"
 description: "Once upon a time in the not-too-distant future, there lived a brilliant scientist named"
 keywords:
   - "dreamweaver"

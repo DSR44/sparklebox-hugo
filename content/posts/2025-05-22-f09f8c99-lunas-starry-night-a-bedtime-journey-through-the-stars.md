@@ -12,8 +12,6 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%8c%99-lunas-starry-night-a-bedtime-journey-through-the-stars/"
 description: "This soothing bedtime story is designed to calm and ease the mind, promoting a deeper connection with one’s inner self."
 keywords:
   - "dreamcore wellness"

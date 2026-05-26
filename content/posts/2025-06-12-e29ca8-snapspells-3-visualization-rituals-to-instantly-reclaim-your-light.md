@@ -8,8 +8,6 @@ categories:
 tags:
   - "SnapSpells"
 draft: false
-aliases:
-  - "/%e2%9c%a8-snapspells-3-visualization-rituals-to-instantly-reclaim-your-light/"
 description: "A Sparklebox Shift Series by Elle Vida There are moments when your light feels distant."
 cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013.jpg"

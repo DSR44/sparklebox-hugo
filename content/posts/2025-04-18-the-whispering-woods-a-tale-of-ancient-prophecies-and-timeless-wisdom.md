@@ -11,8 +11,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/the-whispering-woods-a-tale-of-ancient-prophecies-and-timeless-wisdom/"
 description: "In the mystical realm of Elderwald, where the ancient Whispering Woods hold"
 keywords:
   - "daily ai affirmations"

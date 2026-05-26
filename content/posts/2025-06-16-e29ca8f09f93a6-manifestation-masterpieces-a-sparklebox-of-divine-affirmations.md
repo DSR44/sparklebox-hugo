@@ -8,8 +8,6 @@ categories:
 tags:
   - "Sparkleboxes"
 draft: false
-aliases:
-  - "/%e2%9c%a8%f0%9f%93%a6-manifestation-masterpieces-a-sparklebox-of-divine-affirmations/"
 description: "🕊️ Where your desires become brushstrokes on the canvas of destiny."
 cover:
   image: "/generic-post-images/aphrodite_beauty.png"

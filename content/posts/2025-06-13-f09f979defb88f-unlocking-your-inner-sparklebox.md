@@ -8,8 +8,6 @@ categories:
 tags:
   - "TheDreamToolkit"
 draft: false
-aliases:
-  - "/%f0%9f%97%9d%ef%b8%8f-unlocking-your-inner-sparklebox/"
 description: "🗝️ Unlocking Your Inner Sparklebox. Perception is Creation — Elle Vida on perceptive authorship, not manifestation. Sparklebox philosophy essay."
 cover:
   image: "/pinterest-images/8224399919_merkaba-frequency-design.png"

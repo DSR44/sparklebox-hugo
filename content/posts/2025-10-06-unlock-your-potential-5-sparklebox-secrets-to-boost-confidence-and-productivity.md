@@ -9,8 +9,6 @@ tags:
   - "Sparklebox Base Class"
   - "TheDreamToolkit"
 draft: false
-aliases:
-  - "/unlock-your-potential-5-sparklebox-secrets-to-boost-confidence-and-productivity/"
 description: "Unlock Your Potential: 5 Sparklebox Secrets to Boost Confidence and Productivity. Perception is Creation — Elle Vida on perceptive authorship, not…"
 keywords:
   - "sparklebox base class"

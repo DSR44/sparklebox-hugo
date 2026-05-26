@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/%f0%9f%8c%ab%ef%b8%8f-the-enigma-within-a-dreamscape-journey-through-identity-and-illusion/"
 description: "As she stared into the mirror, a stranger’s eyes met hers."
 keywords:
   - "dreamcore wellness"

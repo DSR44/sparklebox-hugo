@@ -11,8 +11,6 @@ tags:
   - "mirrored minds"
   - "self love"
 draft: false
-aliases:
-  - "/%f0%9f%aa%9e%e2%9c%a8mirrored-minds-%f0%9f%aa%9e%e2%9c%a8-the-boomerang-wisdom-of-life/"
 description: "Ancient teachings often hold profound truths, but few are as striking and universal as the concept of the boomerang."
 keywords:
   - "daily ai affirmations"

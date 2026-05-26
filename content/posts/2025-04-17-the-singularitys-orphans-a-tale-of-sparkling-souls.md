@@ -10,8 +10,6 @@ tags:
   - "🌀 The Time Labyrinth"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/the-singularitys-orphans-a-tale-of-sparkling-souls/"
 description: "In the shimmering dawn of a world born anew, where silicon minds outnumbered the hearts"
 keywords:
   - "dreamweaver tales"

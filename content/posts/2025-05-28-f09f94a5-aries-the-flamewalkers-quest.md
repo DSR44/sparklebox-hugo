@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/%f0%9f%94%a5-aries-the-flamewalkers-quest/"
 description: "that soft, cosmic calling that began here, when the stars stirred and the veil thinned."
 keywords:
   - "oraclesgrowth"

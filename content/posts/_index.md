@@ -21,7 +21,7 @@ If you're exploring how **perception shapes reality**, you're in the right place
 - **[Start Here](/start-here/)** — guided reading order for new readers
 - **[FAQ](/faq/)** — quick answers on perception, frequency, and affirmations
 - **[Frequency Upgrade](/frequency-upgrade/)** — the flagship campaign hub
-- **[Categories](/categories/)** · **[Tags](/tags/)** — browse by topic
+- **[Categories](/categories/)** — browse by pillar topic
 
 ## Featured series (five pillars)
 

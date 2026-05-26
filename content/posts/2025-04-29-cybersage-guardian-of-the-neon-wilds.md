@@ -11,8 +11,6 @@ tags:
   - "🌀 The Time Labyrinth"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/cybersage-guardian-of-the-neon-wilds/"
 description: "Cybersage: Guardian of the Neon Wilds. In the year 2157, the world had become a neon utopia."
 keywords:
   - "dreamcore wellness"

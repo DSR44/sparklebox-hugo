@@ -10,8 +10,6 @@ tags:
   - "The Hidden Work"
   - "The Sparklebox Method™"
 draft: false
-aliases:
-  - "/thehiddenworkfire/"
 description: "Calcination — The Fire of Release | The Hidden Work · Inner Laboratory by Elle Vida. Perception is Creation — Elle Vida on perceptive authorship, not…"
 keywords:
   - "calcination"

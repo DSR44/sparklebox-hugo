@@ -12,8 +12,6 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%aa%a1-the-time-travelers-reality-weaver/"
 description: "In the hidden corridors of the mind, there exists a place few ever reach — a dream-library wrapped in the folds of memory and imagination."
 keywords:
   - "dreamcore wellness"

@@ -12,8 +12,6 @@ tags:
   - "TheDreamToolkit"
 description: "Avatar Oasis — Part 3: Step Into Vivienne Solis’ Secret World of Soft Power. Perception is Creation — Elle Vida on perceptive authorship, not…"
 draft: false
-aliases:
-  - "/avatar-oasis-part-3-step-into-vivienne-solis-secret-world-of-soft-power/"
 keywords:
   - "avatar oasis"
   - "identity work"

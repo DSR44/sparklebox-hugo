@@ -9,8 +9,6 @@ tags:
   - "#OraclesGrowth"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/%e2%99%8a%ef%b8%8f-gemini-the-bridge-of-communication-and-duality/"
 description: "🪞 Oracle Growth Series | Dreamweaver Tales – Day 3 They were born in twilight — not one, but two."
 keywords:
   - "oraclesgrowth"

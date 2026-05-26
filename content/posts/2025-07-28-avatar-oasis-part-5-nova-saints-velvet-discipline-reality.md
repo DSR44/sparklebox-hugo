@@ -12,8 +12,6 @@ tags:
   - "TheDreamToolkit"
 description: "Avatar Oasis – Part 5: Nova Saint’s Velvet Discipline Reality — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/avatar-oasis-part-5-nova-saints-velvet-discipline-reality/"
 keywords:
   - "avatar oasis"
   - "identity work"

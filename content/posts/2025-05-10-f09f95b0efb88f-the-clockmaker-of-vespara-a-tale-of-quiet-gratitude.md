@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%95%b0%ef%b8%8f-the-clockmaker-of-vespara-a-tale-of-quiet-gratitude/"
 description: "In a city where time curved like spiral staircases and lanterns flickered with memory-light, there lived an old man named Aurelian — the Clockmaker of…"
 keywords:
   - "dreamcore wellness"

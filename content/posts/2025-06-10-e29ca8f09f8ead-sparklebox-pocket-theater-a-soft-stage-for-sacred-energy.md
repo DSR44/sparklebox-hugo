@@ -11,8 +11,6 @@ tags:
   - "Pocket Theater"
   - "Subconscious Healing"
 draft: false
-aliases:
-  - "/%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-a-soft-stage-for-sacred-energy/"
 description: "Sparklebox Pocket Theater: A Soft Stage for Sacred Energy. The stage is soft with morning light."
 keywords:
   - "daily affirmations"

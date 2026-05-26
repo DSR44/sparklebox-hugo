@@ -12,8 +12,6 @@ tags:
   - "Meta Quest Visualization"
   - "Mixed Reality Meditation"
 draft: false
-aliases:
-  - "/ai-dream-affirmations-for-confidence/"
 description: "A Surreal Journey to Unshakable Confidence Confidence isn’t just a feeling; it’s a glow, a state of being that radiates from within."
 keywords:
   - "confidence affirmations"

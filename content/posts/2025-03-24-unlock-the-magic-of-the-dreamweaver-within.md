@@ -11,8 +11,6 @@ tags:
   - "Dreamcore Wellness"
   - "dreamweaver"
 draft: false
-aliases:
-  - "/unlock-the-magic-of-the-dreamweaver-within/"
 description: "🔊 Listen to the Dreamweaver Audio Edition Within each of us lies a boundless realm of creativity, serenity, and infinite possibility."
 keywords:
   - "daily affirmations"

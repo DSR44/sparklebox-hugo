@@ -12,8 +12,6 @@ tags:
   - "Subconscious Wellness"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%8c%8c-cosmic-whispers-the-celestial-calling/"
 description: "✨ The Zodiac Gates — A Dreamwalker’s Journey Through the Constellations"
 keywords:
   - "dreamcore wellness"

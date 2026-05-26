@@ -35,7 +35,7 @@ Each essay builds on the last. No jargon required — only willingness to questi
 | **Base Class series** | [Linguistic Rewiring](/posts/2025/07/sparklebox-base-class-chapter-1-linguistic-rewiring/) |
 | **Dream & Musebox** | [Musebox Dreams](/musebox-dreams/) |
 
-Browse all categories: [Categories](/categories/) · [Tags](/tags/)
+Browse all categories: [Categories](/categories/) · [Start Here](/start-here/)
 
 ---
 

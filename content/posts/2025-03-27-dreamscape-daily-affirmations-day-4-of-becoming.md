@@ -13,8 +13,6 @@ tags:
   - "Luminaria"
   - "Luminaria Lyra"
 draft: false
-aliases:
-  - "/dreamscape-daily-affirmations-day-4-of-becoming/"
 description: "Step through the veil of the Dreamscape and into Luminaria, a realm of endless wonder where jellyfish carry memory like silk across water, forgotten magic…"
 keywords:
   - "7 days of becoming"

@@ -10,8 +10,6 @@ tags:
   - "self reflection"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/an-enchanting-world-a-poetic-exploration/"
 description: "Delicate, glowing clouds drift lazily above, carrying the whispers of ancient wisdom on their gentle breeze."
 keywords:
   - "library of dreams"

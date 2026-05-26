@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%8c%95-moonlit-wings-a-tale-from-the-vale-of-sorelia/"
 description: "“There are places that awaken your soul not with noise, but with remembering.”"
 keywords:
   - "dreamcore wellness"

@@ -12,8 +12,6 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%8c%b3-the-tree-of-memories-a-tale-of-forgiveness/"
 description: "In a quiet village nestled between two great mountains, there lived a girl named Akira, known for her kind heart and gentle spirit."
 keywords:
   - "dreamcore wellness"

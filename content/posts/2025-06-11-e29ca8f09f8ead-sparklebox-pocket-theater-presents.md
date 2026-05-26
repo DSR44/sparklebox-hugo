@@ -11,8 +11,6 @@ tags:
   - "Pocket Theater"
   - "Subconscious Healing"
 draft: false
-aliases:
-  - "/%e2%9c%a8%f0%9f%8e%ad-sparklebox-pocket-theater-presents/"
 description: "Act VII – A Monologue of Longing and Return The stage is dim."
 keywords:
   - "daily affirmations"

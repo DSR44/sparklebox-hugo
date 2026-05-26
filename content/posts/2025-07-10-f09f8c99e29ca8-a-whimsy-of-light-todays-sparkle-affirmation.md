@@ -9,8 +9,6 @@ tags:
   - "Dream Coded Affirmations"
   - "whimsical affirmations"
 draft: false
-aliases:
-  - "/%f0%9f%8c%99%e2%9c%a8-a-whimsy-of-light-todays-sparkle-affirmation/"
 description: "🌙✨ A Whimsy of Light: Today’s Sparkle Affirmation — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "dream coded affirmations"

@@ -11,8 +11,6 @@ tags:
   - "TheDreamToolkit"
 description: "Bioluminescent Dreamcodes: A Two-Part Ritual to Rewire Reality Through Light. Perception is Creation — Elle Vida on perceptive authorship, not…"
 draft: false
-aliases:
-  - "/bioluminescent-dreamcodes-a-two-part-ritual-to-rewire-reality-through-light/"
 keywords:
   - "dream coded affirmations"
   - "liminal affirmations"

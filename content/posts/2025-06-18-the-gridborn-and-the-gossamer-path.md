@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/the-gridborn-and-the-gossamer-path/"
 description: "In the hollow hush between two dying stars, a whisper traveled through the folds of space."
 keywords:
   - "dreamcore wellness"

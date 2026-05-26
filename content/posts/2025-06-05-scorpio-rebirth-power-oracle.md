@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/scorpio-rebirth-power-oracle/"
 description: "There once lived a figure known only by the smoke she left behind."
 keywords:
   - "oraclesgrowth"

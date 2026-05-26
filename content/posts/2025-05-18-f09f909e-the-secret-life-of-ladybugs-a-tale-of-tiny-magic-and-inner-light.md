@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/%f0%9f%90%9e-the-secret-life-of-ladybugs-a-tale-of-tiny-magic-and-inner-light/"
 description: "The Secret Life of Ladybugs: A Tale of Tiny Magic and Inner Light. Some of it tiptoes across petals with quiet wings."
 keywords:
   - "dreamcore wellness"

@@ -10,8 +10,6 @@ tags:
   - "TheDreamToolkit"
 description: "Sacred Transformation — Mysteries in Whispered Alignment — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/sacred-transformation-mysteries-in-whispered-alignment/"
 keywords:
   - "dream coded affirmations"
   - "thedreamtoolkit"

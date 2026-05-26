@@ -12,8 +12,6 @@ tags:
   - "TheDreamToolkit"
 description: "🌈 From Lead to Gold: The Art of Inner Transformation — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/%f0%9f%8c%88-from-lead-to-gold-the-art-of-inner-transformation/"
 keywords:
   - "dream coded affirmations"
   - "linguistic rewiring"

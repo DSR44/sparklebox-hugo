@@ -11,8 +11,6 @@ tags:
   - "self concept"
   - "TheDreamToolkit"
 draft: false
-aliases:
-  - "/avatar-oasis-part-4-lucien-virells-solitary-rhythm/"
 description: "AVATAR OASIS — PART 4: Lucien Virell’s Solitary Rhythm — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 keywords:
   - "avatar oasis"

@@ -10,8 +10,6 @@ tags:
   - "mirrored minds"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/before-the-words-why-feeling-comes-first/"
 description: "Emotional Self-Talk, Pattern Awareness & the Sparklebox Philosophy In a world where affirmations flood our feeds and mantras echo across social timelines…"
 keywords:
   - "florence scovel shinn"

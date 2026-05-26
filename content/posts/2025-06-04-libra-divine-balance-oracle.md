@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/libra-divine-balance-oracle/"
 description: "Long ago, in a world where chaos spilled like ink across the stars, there emerged a soul born under Libra’s sign — one who walked not to lead or follow…"
 keywords:
   - "oraclesgrowth"

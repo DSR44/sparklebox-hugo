@@ -11,8 +11,6 @@ tags:
   - "TheDreamToolkit"
 description: "Bioluminescent Dreamcodes: Crystalline Affirmations for Quantum Consciousness. Perception is Creation — Elle Vida on perceptive authorship, not…"
 draft: false
-aliases:
-  - "/bioluminescent-dreamcodes-crystalline-affirmations-for-quantum-consciousness/"
 keywords:
   - "dream coded affirmations"
   - "liminal affirmations"

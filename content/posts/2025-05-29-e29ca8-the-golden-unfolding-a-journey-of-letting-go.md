@@ -10,8 +10,6 @@ tags:
   - "Dreamcore Wellness"
   - "Sparkleboxes"
 draft: false
-aliases:
-  - "/%e2%9c%a8-the-golden-unfolding-a-journey-of-letting-go/"
 description: "The Golden Unfolding: A Journey of Letting Go. (Let go."
 keywords:
   - "daily affirmations"

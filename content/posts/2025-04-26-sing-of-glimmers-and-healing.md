@@ -11,8 +11,6 @@ tags:
   - "Subconscious Healing"
   - "The Library of Dreams"
 draft: false
-aliases:
-  - "/sing-of-glimmers-and-healing/"
 description: "(A poetic tale of transformation and hope) Beneath the velvet canopy of a moonlit forest, where stars fell like scattered jewels through the swaying…"
 keywords:
   - "dreamcore wellness"

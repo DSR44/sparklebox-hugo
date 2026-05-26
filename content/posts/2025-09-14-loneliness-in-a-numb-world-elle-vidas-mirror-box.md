@@ -10,8 +10,6 @@ tags:
   - "Loneliness in Modern Life"
 description: "Loneliness in a Numb World | Elle Vida’s Mirror Box — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/loneliness-in-a-numb-world-elle-vidas-mirror-box/"
 keywords:
   - "elle vida"
   - "loneliness in modern life"

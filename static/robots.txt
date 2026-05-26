@@ -3,6 +3,6 @@ Allow: /
 Disallow: /admin/
 Disallow: /*.json$
 Disallow: /search/
+Disallow: /tags/
 
-Sitemap: https://sparklebox.blog/sitemap.xml
-
+Sitemap: https://www.sparklebox.blog/sitemap.xml

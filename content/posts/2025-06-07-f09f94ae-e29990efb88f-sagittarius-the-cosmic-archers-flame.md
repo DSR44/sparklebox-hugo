@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/%f0%9f%94%ae-%e2%99%90%ef%b8%8f-sagittarius-the-cosmic-archers-flame/"
 description: "Sagittarius cosmic fire burns like a comet across the skies — untamed, wild, and ever-seeking."
 keywords:
   - "oraclesgrowth"

@@ -6,8 +6,6 @@ slug: "%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light"
 categories:
   - "Dream and Muse Tools"
 draft: false
-aliases:
-  - "/%f0%9f%92%8c-your-sparklebox-gift-blooming-inner-light/"
 description: "An exclusive set of poetic affirmations to nourish your soul and start your week in soft, luminous power."
 cover:
   image: "/generic-post-images/leonardo-23.jpg"

@@ -12,8 +12,6 @@ tags:
   - "Florence Scovel Shinn"
   - "The Mirror Hall Collection 🌹"
 draft: false
-aliases:
-  - "/mirrored-minds-attracting-abundance-through-divine-alignment/"
 description: "Welcome back, dear dreamer, to the sacred space of Mirrored Minds."
 keywords:
   - "daily affirmations"

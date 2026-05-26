@@ -10,8 +10,6 @@ tags:
   - "dreamweaver tales"
   - "🔮 The Oracle’s Grove"
 draft: false
-aliases:
-  - "/virgo-sacred-order-magic/"
 description: "In a quiet glade, under moonlight laced with silver filigree, lived one who saw what others overlooked."
 keywords:
   - "oraclesgrowth"

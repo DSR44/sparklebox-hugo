@@ -10,8 +10,6 @@ tags:
   - "self reflection"
 description: "How to Make Ease Your Superpower | Elle Vida’s Mirror Box – Sparklebox. Perception is Creation — Elle Vida on perceptive authorship, not manifestation…"
 draft: false
-aliases:
-  - "/how-to-make-ease-your-superpower-elle-vidas-mirror-box-sparklebox/"
 keywords:
   - "elle vida"
   - "self reflection"

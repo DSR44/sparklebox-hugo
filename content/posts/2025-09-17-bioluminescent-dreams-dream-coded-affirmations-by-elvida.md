@@ -11,8 +11,6 @@ tags:
   - "TheDreamToolkit"
 description: "Bioluminescent Dreams | Dream-Coded Affirmations by Elvida — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/bioluminescent-dreams-dream-coded-affirmations-by-elvida/"
 keywords:
   - "dream coded affirmations"
   - "liminal affirmations"

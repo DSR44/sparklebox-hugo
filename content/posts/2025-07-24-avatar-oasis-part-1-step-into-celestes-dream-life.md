@@ -12,8 +12,6 @@ tags:
   - "TheDreamToolkit"
 description: "Avatar Oasis – Part 1: Step Into Celeste’s Dream Life — mental alchemy and perception architecture by Elle Vida. Perception precedes reality."
 draft: false
-aliases:
-  - "/avatar-oasis-part-1-step-into-celestes-dream-life/"
 keywords:
   - "avatar oasis"
   - "identity work"

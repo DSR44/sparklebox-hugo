@@ -10,8 +10,6 @@ tags:
   - "Dreamscape"
   - "Sparkleboxes"
 draft: false
-aliases:
-  - "/%f0%9f%92%8c-sparklebox-soul-affirmations-may-26/"
 description: "A poetic offering of celestial self-connection, inner light, and divine remembrance."
 keywords:
   - "daily affirmations"

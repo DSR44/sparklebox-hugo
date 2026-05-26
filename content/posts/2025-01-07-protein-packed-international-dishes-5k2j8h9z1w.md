@@ -19,6 +19,7 @@ keywords:
   - "international"
   - "dishes"
   - "try"
+robotsNoIndex: true
 ---Travel the world through your taste buds with these 20 protein-rich meals that bring global flavors straight to your kitchen. 
 
 From the vibrant spices of Indian cuisine to the hearty comfort of Mediterranean dishes, each recipe is a delicious way to boost your protein intake while exploring new tastes. 

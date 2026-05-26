@@ -18,7 +18,7 @@ description: "About Elle Vida and Sparklebox — perception architecture, mental
 
 ## What is Sparklebox?
 
-Sparklebox is a digital sanctuary where mystical wisdom meets automated, exclusive tools — not cute affirmations, but **perception architecture** for people who think in frequencies.
+Sparklebox is a **consciousness & perception architecture** blog and tool ecosystem — not a generic wellness or lifestyle site. We publish depth on how perception reorganises experience: frequency states, mental alchemy, anticipation theory, and mystical tools that work like systems.
 
 Founded by **Elle Vida**, Sparklebox offers:
 

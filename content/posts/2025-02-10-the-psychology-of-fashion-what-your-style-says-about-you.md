@@ -25,6 +25,7 @@ cover:
   image: "/generic-post-images/leonardo-8.jpg"
   alt: "The Psychology of Fashion: What Your Style Says About You"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# The Psychology of Fashion: How Your Style Reflects Your Personality & Mood
 
 Ever wondered what your wardrobe says about you? From the bold prints of a statement outfit to the soothing shades of your loungewear, every piece of clothing you pick reflects a part of who you are. Welcome to the fascinating world of fashion psychology—where what you wear goes beyond trends and aesthetics, revealing deeper connections to your personality and mood.

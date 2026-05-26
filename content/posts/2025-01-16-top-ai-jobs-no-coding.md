@@ -19,6 +19,7 @@ keywords:
   - "paying"
   - "jobs"
   - "coding"
+robotsNoIndex: true
 ---The rise of artificial intelligence (AI) has created many job opportunities that don’t need technical skill or coding skills. All you need is an internet connection, basic computer knowledge, and a willingness to learn. These roles often involve tasks that help improve AI systems. They also help keep these systems. This makes them ideal for anyone looking to work remotely without diving into complex programming.
 
 **Here’s a look at accessible AI-related jobs you can do from home**:

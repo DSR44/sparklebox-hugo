@@ -22,6 +22,7 @@ cover:
   image: "/generic-post-images/leonardo-3.jpg"
   alt: "Surreal soirées are 2025’s trendiest events"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Surreal Soirées: The Whimsical Event Trend Taking 2025 by Storm
 
 Boundaries are blurring, reality is bending, and the events industry is entering an era of pure imagination. Surreal soirées are taking 2025 by storm, and event planners, trendsetters, and creative professionals are leaning into this out-of-this-world trend.

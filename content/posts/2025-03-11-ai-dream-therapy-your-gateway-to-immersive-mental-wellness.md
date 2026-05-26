@@ -26,6 +26,7 @@ cover:
   image: "/pinterest-images/8224401322_fractal-mind-neural-architecture.png"
   alt: "AI Dream Therapy: Your Gateway to Immersive Mental Wellness"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **AI-Powered Dream Therapy: Immersive Healing Experiences**
 
 ## **Introduction**

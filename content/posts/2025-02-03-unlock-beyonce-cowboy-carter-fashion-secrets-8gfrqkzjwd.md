@@ -20,6 +20,7 @@ keywords:
   - "cowboy"
   - "carter"
   - "fashion"
+robotsNoIndex: true
 ---Welcome to the dazzling world of Beyoncé’s ‘Cowboy Carter’ fashion, showcased in her unforgettable appearance at the 2025 Grammys. 
 
 With a stunning blend of Western charm and glamorous flair, she has set the stage for a new era in fashion that is both bold and beautiful. 

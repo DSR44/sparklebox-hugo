@@ -23,6 +23,7 @@ cover:
   image: "/generic-post-images/moon-moon_cresendt_1013.png"
   alt: "10 Weird &amp; Funny Tik Tok Trends You Need To See"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---TikTok has a way of turning the most random things into full-blown viral sensations. Bizarre beauty hacks and oddly satisfying trends emerge constantly. There's always something new and slightly ridiculous popping up on For You pages. If you want a mix of TikTok trends, they are funny, weird, and oddly entertaining. Here are 10 of the most talked-about trends in 2024. The list includes the infamous **“bed rotting” trend** that has everyone questioning their life choices.
 
 ## **1. Bed Rotting 🛏️💤**

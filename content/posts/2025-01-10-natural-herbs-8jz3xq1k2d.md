@@ -19,6 +19,7 @@ keywords:
   - "herbs"
   - "transform"
   - "health"
+robotsNoIndex: true
 ---In a world where health trends come and go, natural herbs stand the test of time, offering countless benefits for our bodies and minds.
 
 From boosting immunity to enhancing mental clarity, these powerhouses of nature are a staple for anyone seeking holistic health solutions. 

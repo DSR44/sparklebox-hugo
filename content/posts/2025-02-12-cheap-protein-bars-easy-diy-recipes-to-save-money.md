@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/leonardo-4.jpg"
   alt: "Cheap Protein Bars – Easy DIY Recipes to Save Money"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Cheap & Easy Protein Bars – Save Money and Stay Fit
 
 Store-bought protein bars might be convenient, but they’re often packed with unnecessary sugars and come with a hefty price tag. The solution? Making your own protein bars at home! Not only is it cheaper, but it also gives you full control over the ingredients without compromising on taste or nutrition.

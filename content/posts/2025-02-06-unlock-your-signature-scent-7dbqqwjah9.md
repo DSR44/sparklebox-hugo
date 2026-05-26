@@ -20,6 +20,7 @@ keywords:
   - "scent"
   - "personalizing"
   - "fragrances"
+robotsNoIndex: true
 ---Imagine walking into a world where your fragrance is as unique as your fingerprint. 
 
 With advancements in artificial intelligence, personalized fragrances are no longer a distant dream but a vibrant reality. 

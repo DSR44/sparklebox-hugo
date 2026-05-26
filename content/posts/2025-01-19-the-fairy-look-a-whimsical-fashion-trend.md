@@ -27,6 +27,7 @@ cover:
   image: "/generic-post-images/beauty-3.jpg"
   alt: "The Fairy Look: A Whimsical Fashion Trend"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---## **Introduction**
 
 The **Fairy Look** is a captivating fashion trend that draws inspiration from nature, fantasy, and ethereal beauty. Characterized by flowing fabrics, delicate details, and soft color palettes, this style allows individuals to express their inner enchantment through clothing and makeup.

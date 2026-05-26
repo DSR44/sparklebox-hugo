@@ -29,6 +29,7 @@ cover:
   image: "/generic-post-images/leonardo-16.jpg"
   alt: "AI-Driven Fairytales and Folklore Fashion - The Future of Enchanting Style"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **Whimsically Woven: Fascinating Fashion Inspired by Fairytales and Folklore, Powered by AI**
 
 ## **Introduction**

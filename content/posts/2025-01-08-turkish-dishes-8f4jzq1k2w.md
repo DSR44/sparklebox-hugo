@@ -19,6 +19,7 @@ keywords:
   - "dishes"
   - "whip"
   - "kitchen"
+robotsNoIndex: true
 ---Turkish cuisine is a delightful tapestry of flavors, colors, and aromas that can transform your kitchen into a Mediterranean haven. 
 
 From the bustling bazaars of Istanbul to the tranquil shores of the Aegean, each dish tells a story of rich heritage and culinary tradition. 

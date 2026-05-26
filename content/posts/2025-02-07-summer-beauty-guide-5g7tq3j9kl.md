@@ -20,6 +20,7 @@ keywords:
   - "summer"
   - "beauty"
   - "guide"
+robotsNoIndex: true
 ---Summer 2025 is just around the corner, and with it comes an exciting wave of beauty trends that are sure to inspire. 
 
 From bold makeup statements to innovative skincare solutions, this guide will help you stay ahead of the curve. 

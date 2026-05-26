@@ -29,6 +29,7 @@ cover:
   image: "/generic-post-images/alchemy-sparklebox_alchemy_a_surreal_digital_alchemy_chamb_1013_01.jpg"
   alt: "The Rise of AI as Online Influencer"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---In recent years, artificial intelligence has been quietly reshaping the landscape of social media, online content creation, and digital relationships. Once confined to the realms of data analytics and automated customer service, AI is now evolving into something more personable, more relatable—a digital personality capable of captivating human audiences. As we explore the current state of AI’s involvement in platforms like social media, subscription-based services, and even virtual dating, we begin to uncover a complex interplay of technology, culture, and commerce.
 
 **AI’s Growing Presence in Social Media and Beyond**

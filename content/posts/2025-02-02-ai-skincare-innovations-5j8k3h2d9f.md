@@ -20,6 +20,7 @@ keywords:
   - "skincare"
   - "innovations"
   - "change"
+robotsNoIndex: true
 ---In the ever-evolving world of skincare, AI innovations are transforming our beauty routines in ways we never imagined.
 
 From personalized formulations to smart beauty devices, technology is leading the charge in self-care. 

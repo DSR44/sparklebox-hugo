@@ -27,6 +27,7 @@ cover:
   image: "/pinterest-images/8224399855_torus-field-consciousness-map.png"
   alt: "Whimsical Fashion Trends 2025"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **Embracing Whimsy: A Journey Through Whimsical Fashion**
 
 **Once Upon a Wardrobe**

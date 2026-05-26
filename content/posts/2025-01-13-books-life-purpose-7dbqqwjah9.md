@@ -20,6 +20,7 @@ keywords:
   - "find"
   - "life"
   - "purpose"
+robotsNoIndex: true
 ---Are you feeling lost and yearning for direction in your life?
 
 Finding your purpose can feel like an overwhelming task, but the right books can illuminate your path and inspire you to take action.

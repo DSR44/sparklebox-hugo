@@ -19,6 +19,7 @@ keywords:
   - "valentines"
   - "gifts"
   - "her"
+robotsNoIndex: true
 ---Valentine's Day is the perfect occasion to express your love and appreciation in a special way. 
 
 Handmade gifts carry a personal touch that can’t be matched by store-bought items. 

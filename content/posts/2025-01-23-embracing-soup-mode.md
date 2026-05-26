@@ -27,6 +27,7 @@ cover:
   image: "/generic-post-images/leonardo-27.jpg"
   alt: "Embracing 'Soup Mode':"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### **The Cozy Fashion Trend Taking Over Winter 2025**
 
 When the temperatures drop, nothing feels better than wrapping yourself in **warm, stylish layers**. This year, the fashion world is embracing **'Soup Mode'**, a trend that blends **comfort and coziness** with effortless style. Think **sweatpant jeans, platform Uggs, oversized '90s sweaters, and scrunched socks**—a wardrobe that feels like a warm hug on a cold day.

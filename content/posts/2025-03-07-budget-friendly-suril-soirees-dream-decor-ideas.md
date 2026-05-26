@@ -27,6 +27,7 @@ cover:
   image: "/generic-post-images/leonardo-35.jpg"
   alt: "Budget-Friendly Suril Soirées: Dream Decor Ideas"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---## **Suril Soirées for Every Budget: How to Create a Dreamscape Without Breaking the Bank**
 
 *(Luxury meets creativity—here’s how to bring Suril magic into your space for less!)*

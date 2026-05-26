@@ -19,6 +19,7 @@ keywords:
   - "organization"
   - "ideas"
   - "make"
+robotsNoIndex: true
 ---Transforming your child's room into an organized haven can turn clean-up time into a fun adventure.
 
 These 21 innovative kids room organization ideas will not only declutter the space but also encourage your little ones to participate in keeping their room tidy. 

@@ -20,6 +20,7 @@ keywords:
   - "future"
   - "therapy"
   - "discover"
+robotsNoIndex: true
 ---In a world where mental health is gaining the attention it deserves, Chat GPT therapy emerges as a revolutionary force.
 
 Imagine having an empathetic companion available 24/7, ready to listen and provide support. This article will explore how AI is transforming the landscape of mental health, making therapy more accessible and personalized than ever before.

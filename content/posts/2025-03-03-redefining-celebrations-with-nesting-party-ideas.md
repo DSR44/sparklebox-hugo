@@ -27,6 +27,7 @@ cover:
   image: "/generic-post-images/foggy-forest-1.jpg"
   alt: "Redefining Celebrations With Nesting Party Ideas"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Redefining Celebrations: The Rise of Nesting Parties
 
 Move over traditional baby showers; there's a bold new trend capturing the hearts and feeds of Gen Z and young parents everywhere—**nesting parties**. Dubbed the next big thing in celebrations, nesting parties are all about creativity, personality, and going beyond the pastel balloons and predictable games.

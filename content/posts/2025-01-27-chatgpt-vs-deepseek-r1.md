@@ -30,6 +30,7 @@ cover:
   image: "/generic-post-images/alchemy-1.jpg"
   alt: "ChatGPT vs. DeepSeek R1:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---## **ChatGPT vs. DeepSeek R1: How Do These AI Chatbots Compare?**
 
 💡 *A neutral comparison of OpenAI’s ChatGPT and China’s DeepSeek R1, analyzing their capabilities, technology, and impact.*

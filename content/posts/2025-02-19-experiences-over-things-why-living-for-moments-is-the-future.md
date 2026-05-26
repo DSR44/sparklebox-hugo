@@ -23,6 +23,7 @@ cover:
   image: "/generic-post-images/foggy-forest-2.jpg"
   alt: "Experiences Over Things | Why Living for Moments Is the Future"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Beyond Consumption: Why the Future is About Experiences, Not Things
 
 ## Introduction

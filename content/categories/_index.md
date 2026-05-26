@@ -1,39 +1,30 @@
 ---
 title: "Blog Categories"
-description: "Browse Sparklebox by topic — perception, frequency upgrade, mental alchemy, ancient wisdom, and consciousness architecture by Elle Vida."
+description: "Sparklebox categories — consciousness, perception architecture, frequency upgrade, mental alchemy, and mystical wisdom by Elle Vida. Not a generic wellness blog."
 ---
 
-Every essay on Sparklebox maps to interconnected themes — because perception, frequency, language, and the body are not separate problems. They're different expressions of the same architecture.
+Sparklebox is a **consciousness & perception architecture** blog — not a lifestyle, fashion, or generic wellness site. Wellness may be an *outcome* of the work, but the subject is **how you perceive, and how perception reorganises reality**.
 
-## The Sparklebox Method
+## The five pillars
 
-The foundational philosophy: perception precedes reality, and perceptive authorship reorganises experience from the inside out.
+| Pillar | What it is | Start here |
+|--------|------------|------------|
+| **The Sparklebox Method** | Perceptive authorship, mental alchemy, assumption work | [Browse →](/categories/the-sparklebox-method/) |
+| **The Frequency Upgrade** | Cognitive frequency bands (Beta → Alpha Prime) | [Browse →](/categories/the-frequency-upgrade/) · [Hub](/frequency-upgrade/) |
+| **Sparklebox Realm** | Core philosophy essays — perception, anticipation, body | [Browse →](/categories/sparklebox-realm/) |
+| **Mystical Wisdom** | Ancient teachings through a futuristic lens | [Browse →](/categories/mystical-wisdom-series/) |
+| **Dream & Muse Tools** | Musebox, Dream Toolkit, visual frequency language | [Musebox](/musebox-dreams/) · [Dream Portals](/the-dreamtoolkit/) |
 
-[Browse The Sparklebox Method →](/categories/the-sparklebox-method/)
+## Supporting series
 
-## Frequency Upgrade
+- [Daily Affirmations](/categories/daily-affirmations/) — homepage transmissions (body-first language)
+- [Dreamweaver's Tales](/categories/dreamweavers-tales/) — narrative dream essays
+- [Ancient Wisdom](/categories/ancient-wisdom/) — cross-cultural inner maps
+- [Transmutational Alchemy](/categories/transmutational-alchemy/) — shadow and initiation work
 
-Beta, alpha, theta, Alpha Prime — the cognitive frequency hierarchy and the campaign that maps your nervous system as an instrument.
+## What Sparklebox is *not*
 
-[Browse Frequency Upgrade posts →](/frequency-upgrade/)
-
-## Mystical Wisdom
-
-Ancient teachings, goddess archetypes, sacred geometry, and alchemy — grounded in Elle Vida's perception framework.
-
-[Browse Mystical Wisdom →](/categories/mystical-wisdom-series/)
-
-## The Hidden Work
-
-Mental alchemy, shadow work, and the deeper initiations behind surface-level self-help.
-
-[Browse The Hidden Work →](/tags/the-hidden-work/)
-
-## Perception Engine
-
-Essays on how the way you see shapes what you experience — the signature philosophical series.
-
-[Browse perception & consciousness tags →](/tags/spirituality/)
+We do not publish generic listicles, fashion trends, recipe roundups, or Pinterest-style lifestyle content. Legacy posts in those categories are **removed from search** so Google sees a clear editorial line.
 
 ---
 

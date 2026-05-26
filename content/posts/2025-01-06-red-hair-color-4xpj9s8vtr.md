@@ -19,6 +19,7 @@ keywords:
   - "red"
   - "hair"
   - "color"
+robotsNoIndex: true
 ---Red hair has long been associated with passion, vibrancy, and fierce individuality. 
 
 In this listicle, we delve into the most stunning shades of red hair color that will not only elevate your look but also turn heads wherever you go. 

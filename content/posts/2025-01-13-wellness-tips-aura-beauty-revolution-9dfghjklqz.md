@@ -20,6 +20,7 @@ keywords:
   - "aura"
   - "beauty"
   - "revolution"
+robotsNoIndex: true
 ---In today's fast-paced world, achieving balance can feel like a daunting task. The Aura Beauty Revolution embraces a holistic approach to wellness, focusing on nurturing both the mind and body.
 
 This article presents 11 transformative wellness tips that will not only enhance your outer beauty but also promote inner peace and harmony. Ready to embark on your wellness journey? Let’s discover how you can integrate these essential tips into your life for a radiant glow from the inside out.

@@ -25,6 +25,7 @@ cover:
   image: "/pinterest-images/8224707070_cosmic-energy-meditation.png"
   alt: "The Dreamweaver's Journey: Unraveling the Mysteries of Immersive AI Wellness"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---Once upon a time, in a world that shimmered between the realms of reality and dreams, a young traveler named Luna stood on the cusp of a great adventure. She was no ordinary wanderer, but a dreamer with a heart full of wonder and a mind teeming with curiosity. Guided by the whispers of the wind and the pull of her own imagination, Luna set out to uncover a newfound magic weaving through the fabric of modern life. This magic, she would soon learn, was the delicate art of immersive AI wellness therapies.
 
 ## Luna's Quest

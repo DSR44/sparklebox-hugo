@@ -24,6 +24,7 @@ cover:
   image: "/generic-post-images/leonardo-34.jpg"
   alt: "Revolutionizing Health:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# How AI Is Making Personalized Care Accessible to All
 
 ## Introduction

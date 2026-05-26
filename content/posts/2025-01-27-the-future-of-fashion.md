@@ -30,6 +30,7 @@ cover:
   image: "/generic-post-images/aphrodite_beauty.png"
   alt: "The Future of Fashion:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### **How AI is Revolutionizing Style**
 
 ### *Discover how artificial intelligence is transforming fashion design, trend prediction, and personal styling.*

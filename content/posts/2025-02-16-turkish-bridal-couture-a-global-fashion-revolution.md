@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/moon-spell-2.jpg"
   alt: "Turkish Bridal Couture: A Global Fashion Revolution"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Turkish Bridal Couture Takes Over
 
 ## From Bosporus to New York: How Turkish Designers Are Revolutionizing Weddings

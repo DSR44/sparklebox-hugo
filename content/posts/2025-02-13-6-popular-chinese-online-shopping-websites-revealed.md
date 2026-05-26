@@ -25,6 +25,7 @@ cover:
   image: "/generic-post-images/floating-castle-4.jpg"
   alt: "6 Popular Chinese Online Shopping Websites Revealed"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Guide to China's Online Marketplaces
 
 Online shopping has become an integral part of daily life in China, with a dynamic ecosystem of platforms offering everything from luxury brands to budget-friendly bargains. Whether you're a seasoned online shopper or just starting out, navigating China's e-commerce landscape can be overwhelming. That’s why we’ve created this guide to introduce you to the six most popular Chinese online shopping websites and highlight what makes each of them special.

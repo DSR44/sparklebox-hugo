@@ -21,6 +21,7 @@ keywords:
   - "projects"
   - "refresh"
   - "home"
+robotsNoIndex: true
 ---# Easy DIY Home Refresh Guide: 40 Small Projects to Transform Your Space
 
 Looking to give your home a fresh, new vibe without breaking the bank or requiring major renovations? DIY home decor projects are the perfect solution! They’re affordable, creative, and offer a personal touch that store-bought items just can’t match.

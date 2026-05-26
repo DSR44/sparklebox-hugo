@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013_01.jpg"
   alt: "Dune-Inspired Fashion:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### How the sci-fi epic is shaping style trends
 
 The world of **fashion and film** often collide, and few movies have made as dramatic an impact as **Dune**. With its sweeping desert landscapes, futuristic themes, and intricate costumes, **Dune has inspired a new wave of fashion trends** that are both bold and ethereal.

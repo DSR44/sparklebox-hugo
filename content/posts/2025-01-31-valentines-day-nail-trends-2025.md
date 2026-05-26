@@ -48,6 +48,7 @@ cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_3_f826d71b_1013.jpg"
   alt: "Valentine’s Day Nail Trends 2025:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---## **Romantic Designs You’ll Love**
 
 ## **Introduction**

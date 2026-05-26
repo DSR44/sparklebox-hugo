@@ -2,6 +2,7 @@ baseURL = "https://www.sparklebox.blog/"
 languageCode = "en-us"
 title = "Sparklebox"
 theme = "PaperMod"
+copyright = "© Elle Vida · Sparklebox — Perception is Creation"
 
 [pagination]
   pagerSize = 10
@@ -95,12 +96,12 @@ theme = "PaperMod"
 
 # PaperMod Theme Settings
 [params]
-  homeTitle = "Sparklebox | Perception is Creation — Consciousness & Frequency"
-  description = "Sparklebox by Elle Vida: perception architecture, frequency upgrade, and consciousness tools. Where perception becomes creation."
+  homeTitle = "Sparklebox | Consciousness & Perception Architecture — Elle Vida"
+  description = "Sparklebox by Elle Vida: consciousness, perception architecture, and the Frequency Upgrade. Mental alchemy and mystical tools — not generic wellness."
   author = "Elle Vida"
   env = "production"
   hreflang = "en"
-  keywords = ["perception", "consciousness", "frequency upgrade", "mental alchemy", "Elle Vida", "Sparklebox"]
+  keywords = ["perception architecture", "consciousness", "frequency upgrade", "mental alchemy", "perceptive creation", "Elle Vida", "Sparklebox", "cognitive frequency"]
   disableThemeToggle = true
 
   [params.schema]
@@ -139,8 +140,8 @@ theme = "PaperMod"
   # Profile Mode for Homepage
   [params.profileMode]
     enabled = false
-    title = "Sparklebox ✨"
-    subtitle = "Your portal to daily soft power, inner healing, and cosmic becoming."
+    title = "Sparklebox"
+    subtitle = "Consciousness & perception architecture — where perception becomes creation."
     imageUrl = ""
     imageWidth = 120
     imageHeight = 120

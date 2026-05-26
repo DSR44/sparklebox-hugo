@@ -19,6 +19,7 @@ keywords:
   - "recipes"
   - "almost"
   - "pretty"
+robotsNoIndex: true
 ---Welcome to a culinary adventure where health meets aesthetics! 
 
 In this article, we celebrate 25 vibrant healthy recipes that are not only good for you but also a feast for the eyes. 

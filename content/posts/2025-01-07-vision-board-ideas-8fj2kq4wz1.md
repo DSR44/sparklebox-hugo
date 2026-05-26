@@ -20,6 +20,7 @@ keywords:
   - "board"
   - "ideas"
   - "2025"
+robotsNoIndex: true
 ---As we step into 2025, there's no better time to harness the power of visualization to manifest your dreams. 
 
 Vision boards are a transformative tool that allows you to visualize your goals, dreams, and aspirations in a creative, tangible way. 

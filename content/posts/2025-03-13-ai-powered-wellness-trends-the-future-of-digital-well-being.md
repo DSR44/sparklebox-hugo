@@ -30,6 +30,7 @@ cover:
   image: "/generic-post-images/leonardo-43.jpg"
   alt: "AI-Powered Wellness Trends: The Future of Digital Well-being"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **The Unfolding Revolution: How AI Powers Wellness Trends**
 
 ## **Introduction**

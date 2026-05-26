@@ -25,6 +25,7 @@ cover:
   image: "/generic-post-images/cosmic-sparklebox_cosmic_a_cosmic_alchemical_temple_float_1013_01.jpg"
   alt: "10 Effective Detox Methods to Beat Brain Fog"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Clear Your Mind: 10 Effective Detox Methods to Beat Brain Fog & Boost Productivity
 
 Does your mind feel foggy, like you're wading through clouds every time you try to focus? Brain fog is more than just forgetfulness—it’s that feeling of mental fatigue, confusion, and lack of clarity that can make even the simplest tasks feel overwhelming. It’s something many professionals and health-conscious individuals experience, and left unchecked, it can wreak havoc on your productivity.

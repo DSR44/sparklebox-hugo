@@ -19,6 +19,7 @@ keywords:
   - "friendly"
   - "protein"
   - "smoothies"
+robotsNoIndex: true
 ---In a world where time is of the essence, maintaining a healthy diet can feel like a daunting task. 
 
 But what if we told you that you could whip up delicious, protein-packed smoothies in just five minutes? 

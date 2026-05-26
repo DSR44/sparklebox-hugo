@@ -20,6 +20,7 @@ keywords:
   - "metabolism"
   - "diet"
   - "works"
+robotsNoIndex: true
 ---Are you ready to boost your metabolism and achieve your fat loss goals in 2025? 
 
 The fast metabolism diet is your ticket to revitalizing your body and enhancing your energy levels while enjoying delicious meals. 

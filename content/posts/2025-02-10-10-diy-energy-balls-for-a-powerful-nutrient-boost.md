@@ -23,6 +23,7 @@ cover:
   image: "/generic-post-images/mystical-mystical_alchemist_standing_in_a_warm_g_0_255f6b1d_1013.jpg"
   alt: "10 DIY Energy Balls for a Powerful Nutrient Boost"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# 10 Homemade Energy Balls for a Quick Nutrient Boost
 
 Whether you’re trying to fuel a busy day, recover after a workout, or simply satisfy a craving in a healthier way, energy balls are the MVP of snacks. These little bites of joy have risen to fame for their ability to blend convenience, nutrition, and delicious flavor into one portable treat.

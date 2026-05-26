@@ -19,6 +19,7 @@ keywords:
   - "gadgets"
   - "haven"
   - "heard"
+robotsNoIndex: true
 ---The world of technology is constantly evolving, bringing us innovative gadgets that make our lives easier, more fun, and often more stylish. 
 
 In this article, we’ll showcase ten cutting-edge tech gadgets that you may not have heard of, but trust us—you’ll want them all in your life. 

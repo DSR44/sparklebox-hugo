@@ -19,6 +19,7 @@ keywords:
   - "coffee"
   - "perk"
   - "instantly"
+robotsNoIndex: true
 ---Coffee is more than just a morning ritual; it's a fascinating drink with a rich history and numerous health benefits. 
 
 From its origins in Ethiopia to its role in modern-day culture, coffee has a story that deserves to be told. 

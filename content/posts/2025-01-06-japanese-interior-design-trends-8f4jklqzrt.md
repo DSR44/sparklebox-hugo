@@ -19,6 +19,7 @@ keywords:
   - "design"
   - "trends"
   - "transform"
+robotsNoIndex: true
 ---Japanese interior design is an artful blend of minimalism and nature, creating serene spaces that promote tranquility. 
 
 In this listicle, we explore 15 captivating trends that will help you transform your home into a peaceful oasis, where simplicity meets elegance. 

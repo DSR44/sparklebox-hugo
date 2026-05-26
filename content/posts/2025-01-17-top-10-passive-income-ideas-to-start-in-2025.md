@@ -27,6 +27,7 @@ cover:
   image: "/generic-post-images/leonardo-23.jpg"
   alt: "Top 10 Passive Income Ideas to Start in 2025"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---Creating passive income streams is one of the best ways to secure financial freedom and generate wealth over time. Here are ten promising ideas for building sustainable passive income in 2025:
 
 ### 1. **Dividend Investing**

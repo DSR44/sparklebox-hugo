@@ -21,6 +21,7 @@ cover:
   image: "/pinterest-images/8224424196_vesica-piscis-geometric-blueprint.png"
   alt: "Effortless Dinner Party Tips for Stylish Hosting"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# Dining in Style: How to Effortlessly Impress at Your Next Dinner Party
 
 ## Setting the Stage for Effortless Elegance

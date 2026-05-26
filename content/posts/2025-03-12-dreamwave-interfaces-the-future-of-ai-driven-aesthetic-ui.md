@@ -28,6 +28,7 @@ cover:
   image: "/generic-post-images/leonardo-3.jpg"
   alt: "Dreamwave Interfaces: The Future of AI-Driven Aesthetic UI"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---# **Dreamwave Interfaces: How AI is Designing the Next Generation of Aesthetic User Experiences**
 
 ## **Introduction: A Future Where UI Feels Like a Dream**

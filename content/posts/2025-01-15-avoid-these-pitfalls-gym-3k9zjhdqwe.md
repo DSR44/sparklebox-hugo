@@ -19,6 +19,7 @@ keywords:
   - "starting"
   - "gym"
   - "journey"
+robotsNoIndex: true
 ---Embarking on a gym journey can be both exhilarating and overwhelming. 
 
 Many beginners face common pitfalls that can derail their fitness goals and lead to frustration. 

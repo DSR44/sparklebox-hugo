@@ -26,6 +26,7 @@ cover:
   image: "/generic-post-images/alchemy-alchemy_mediation_soundbath_1013.jpg"
   alt: "Sculptural Metal Accessories:"
   caption: "Elle Vida | Sparklebox"
+robotsNoIndex: true
 ---### **Sculptural Metal Accessories: The Bold Statement Pieces of 2025**
 
 Accessories can transform an outfit, and in 2025, **sculptural metal accessories** are taking center stage. These bold pieces add an edgy, modern twist to any look. Whether it’s **abstract rings, structured handbags, or futuristic earrings**, metallic accessories are the must-have trend this year.

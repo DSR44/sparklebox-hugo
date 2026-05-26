@@ -19,6 +19,7 @@ keywords:
   - "witch"
   - "makeup"
   - "looks"
+robotsNoIndex: true
 ---Welcome to the enchanting world of sea witch makeup, where sultry meets ethereal in a mesmerizing blend of beauty and mystique. 
 
 This edgy beauty trend embraces the moody vibes of the ocean, with wet wavy hair, shimmering scales, and deep, captivating colors that evoke the allure of the sea. 

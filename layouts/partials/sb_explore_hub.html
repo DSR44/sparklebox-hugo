@@ -1,40 +1,83 @@
-{{/* Explore hub — bottom of posts + optional pages */}}
-<section class="sb-explore-hub" aria-label="Explore Sparklebox">
-  <div class="sb-explore-hub__header">
-    <span class="sb-explore-hub__eyebrow">The Playground</span>
+{{/* Cyber playground — floating neon cards, Apple-style tiles */}}
+<section class="sb-playground" aria-label="Explore Sparklebox">
+  <div class="sb-playground__neon-bar" aria-hidden="true"></div>
+  <div class="sb-playground__header">
+    <span class="sb-playground__eyebrow">The Playground</span>
     <h2>Stay. Explore. Go deeper.</h2>
-    <p>Dream portals, AI muse, soundscapes, and the Frequency Upgrade — built to keep you curious.</p>
+    <p>Dream portals, AI muse, soundscapes, and the Frequency Upgrade — tap in.</p>
   </div>
-  <div class="sb-explore-grid">
-    <a class="sb-explore-card sb-explore-card--featured" href="/the-dreamtoolkit/">
-      <span class="sb-explore-card__label">8 Portals</span>
-      <h3>Dream Toolkit</h3>
-      <p>Fire, Water, Earth, Air & beyond — interactive transformation realms.</p>
+
+  <div class="sb-play-grid">
+    <a class="sb-play-card sb-play-card--wide" href="/the-dreamtoolkit/">
+      <div class="sb-play-card__icon sb-play-card__icon--portals" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18M6.3 6.3l11.4 11.4M17.7 6.3L6.3 17.7"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">8 interactive portals</span>
+        <h3>Dream Toolkit</h3>
+        <p>Fire, Water, Earth, Air & beyond — your transformation playground.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
-    <a class="sb-explore-card" href="/musebox-dreams/">
-      <span class="sb-explore-card__label">AI · Daily</span>
-      <h3>Musebox</h3>
-      <p>Visual prompts and mystical mantras from your poetic muse.</p>
+
+    <a class="sb-play-card" href="/musebox-dreams/">
+      <div class="sb-play-card__icon sb-play-card__icon--muse" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7L12 16.8 5.7 21l2.3-7-6-4.6h7.6z"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">AI · Daily</span>
+        <h3>Musebox</h3>
+        <p>Visual prompts & mantras from your poetic muse.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
-    <a class="sb-explore-card" href="/soundbox/">
-      <span class="sb-explore-card__label">Audio</span>
-      <h3>Soundbox</h3>
-      <p>Curated soundscapes for focus, meditation, and cosmic drift.</p>
+
+    <a class="sb-play-card" href="/soundbox/">
+      <div class="sb-play-card__icon sb-play-card__icon--sound" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18V6l12-2v14"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">Audio</span>
+        <h3>Soundbox</h3>
+        <p>Soundscapes for focus, drift, and cosmic calm.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
-    <a class="sb-explore-card" href="/frequency-upgrade/">
-      <span class="sb-explore-card__label">Series · $19 workbook</span>
-      <h3>Frequency Upgrade</h3>
-      <p>β → α → θ → α′ Prime. The cognitive frequency path.</p>
+
+    <a class="sb-play-card sb-play-card--accent" href="/frequency-upgrade/">
+      <div class="sb-play-card__icon sb-play-card__icon--freq" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 14v-4M8 16V8M12 18V6M16 14V10M20 12V12"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">Series · $19 workbook</span>
+        <h3>Frequency Upgrade</h3>
+        <p>β → α → θ → α′ Prime. Cognitive frequency path.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
-    <a class="sb-explore-card" href="https://sparklebox-tarot.streamlit.app/" target="_blank" rel="noopener">
-      <span class="sb-explore-card__label">Oracle</span>
-      <h3>Tarot</h3>
-      <p>AI-guided draws for mystical reflection.</p>
+
+    <a class="sb-play-card" href="https://sparklebox-tarot.streamlit.app/" target="_blank" rel="noopener">
+      <div class="sb-play-card__icon sb-play-card__icon--tarot" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M8 6h8M8 10h8M8 14h5"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">Oracle</span>
+        <h3>Tarot</h3>
+        <p>AI-guided draws for reflection.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
-    <a class="sb-explore-card" href="https://huggingface.co/spaces/FutureHAi/thedrift" target="_blank" rel="noopener">
-      <span class="sb-explore-card__label">Live AI</span>
-      <h3>The Drift</h3>
-      <p>Generative possibility engine — always running.</p>
+
+    <a class="sb-play-card" href="https://huggingface.co/spaces/FutureHAi/thedrift" target="_blank" rel="noopener">
+      <div class="sb-play-card__icon sb-play-card__icon--drift" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2a10 10 0 1 0 10 10"/><path d="M12 6v6l4 2M22 2l-3 3M22 2v5"/></svg>
+      </div>
+      <div class="sb-play-card__body">
+        <span class="sb-play-card__label">Live AI</span>
+        <h3>The Drift</h3>
+        <p>Generative engine — always running.</p>
+      </div>
+      <span class="sb-play-card__chev" aria-hidden="true">›</span>
     </a>
   </div>
 </section>

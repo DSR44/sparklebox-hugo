@@ -3,8 +3,12 @@ title: "Welcome to the Sparklebox Sanctuary"
 ---
 
 <section class="sb-brand-hero">
+<div class="sb-brand-hero__scanlines" aria-hidden="true"></div>
+<div class="sb-brand-hero__neon-top" aria-hidden="true"></div>
 <div class="sb-brand-hero__glow" aria-hidden="true"></div>
-<img class="sb-brand-hero__visual" src="/images/sparklebox-og.png" alt="Sparklebox — Perception is Creation" width="1200" height="630" loading="eager">
+<div class="sb-brand-hero__frame">
+<img class="sb-brand-hero__visual" src="/images/sparklebox-og.png" alt="Sparklebox — Perception is Creation" width="1536" height="1024" loading="eager">
+</div>
 <div class="sb-brand-hero__copy">
 <p class="sb-brand-hero__eyebrow">Elle Vida · Sparklebox</p>
 <h1 class="sb-brand-hero__title">Perception is Creation</h1>
@@ -109,29 +113,30 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
-<div class="portal-section">
+<div class="portal-section sb-playground sb-playground--inline">
+<div class="sb-playground__neon-bar" aria-hidden="true"></div>
 <h2 class="portal-section-title">Enter the Realms</h2>
-<div class="portal-grid">
-<div class="portal-card">
-<h3>🌌 Dream Toolkit</h3>
-<p>8 interactive portals of transformation — Fire, Water, Earth, Air & beyond.</p>
-<a href="/the-dreamtoolkit/" class="portal-btn">Enter</a>
-</div>
-<div class="portal-card">
-<h3>🎨 Musebox</h3>
-<p>Daily visual prompts and mystical mantras from Zephyr, your poetic muse.</p>
-<a href="/musebox-dreams/" class="portal-btn">Open</a>
-</div>
-<div class="portal-card">
-<h3>🎵 Soundbox</h3>
-<p>Curated soundscapes for meditation, focus, and cosmic journeys.</p>
-<a href="/soundbox/" class="portal-btn">Listen</a>
-</div>
-<div class="portal-card">
-<h3>🔮 Tarot</h3>
-<p>AI-powered tarot for mystical guidance and cosmic wisdom.</p>
-<a href="https://sparklebox-tarot.streamlit.app/" class="portal-btn">Draw Cards</a>
-</div>
+<div class="sb-play-grid sb-play-grid--compact">
+<a class="sb-play-card" href="/the-dreamtoolkit/">
+<div class="sb-play-card__icon sb-play-card__icon--portals" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Portals</span><h3>Dream Toolkit</h3><p>8 interactive realms.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
+<a class="sb-play-card" href="/musebox-dreams/">
+<div class="sb-play-card__icon sb-play-card__icon--muse" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l2.4 7.4H22l-6 4.6 2.3 7L12 16.8 5.7 21l2.3-7-6-4.6h7.6z"/></svg></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">AI</span><h3>Musebox</h3><p>Daily visual muse.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
+<a class="sb-play-card" href="/soundbox/">
+<div class="sb-play-card__icon sb-play-card__icon--sound" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 18V6l12-2v14"/><circle cx="6" cy="18" r="3"/></svg></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Audio</span><h3>Soundbox</h3><p>Curated soundscapes.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
+<a class="sb-play-card" href="https://sparklebox-tarot.streamlit.app/" target="_blank" rel="noopener">
+<div class="sb-play-card__icon sb-play-card__icon--tarot" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="2" width="16" height="20" rx="2"/></svg></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Oracle</span><h3>Tarot</h3><p>AI card draws.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
 </div>
 </div>
 

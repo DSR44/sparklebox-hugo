@@ -31,14 +31,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/05/the-world-reorganises-itself-when-you-operate-at-alpha-prime-and-once-you-see-it-you-cannot-unsee-it/" class="freq-post-card">
 <span class="freq-post-number">17</span>
 <div class="freq-post-info">
 <h3>The World Reorganises Itself When You Operate at Alpha Prime</h3>
 <p>And once you see it you cannot unsee it.</p>
 </div>
-<span class="freq-post-tag">Calibrating</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">18</span>

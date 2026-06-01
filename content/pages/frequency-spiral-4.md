@@ -49,14 +49,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/most-people-will-stay-at-baseline-beta-not-because-they-cannot-shift-but-because-they-never-discover-there-is-somewhere-to-shift-to/" class="freq-post-card">
 <span class="freq-post-number">19</span>
 <div class="freq-post-info">
 <h3>Most People Will Stay at Baseline Beta</h3>
 <p>Not because they cannot shift. Because they never discover there is somewhere to shift to.</p>
 </div>
-<span class="freq-post-tag">Calibrating</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">20</span>

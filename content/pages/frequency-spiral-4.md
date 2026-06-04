@@ -58,14 +58,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/after-the-frequency-upgrade-what-reality-looks-like-when-your-perception-has-been-mathematically-recalibrated/" class="freq-post-card">
 <span class="freq-post-number">20</span>
 <div class="freq-post-info">
 <h3>After the Frequency Upgrade</h3>
 <p>What reality looks like when your perception has been mathematically recalibrated.</p>
 </div>
-<span class="freq-post-tag">Calibrating</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 </div>
 

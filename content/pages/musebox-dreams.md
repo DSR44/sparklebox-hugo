@@ -1,6 +1,6 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
-date: 2026-06-05T06:00:00+0000
+date: 2026-06-06T06:00:00+0000
 author: "manoulasfit"
 slug: "musebox-dreams"
 draft: false
@@ -15,7 +15,7 @@ aliases:
 ---
 
 ## Today's MuseBox Drop
-**June 05, 2026**
+**June 06, 2026**
 
 ### Stellaluna's Dreamcatcher Sanctum
 #### 🌙 Mantra

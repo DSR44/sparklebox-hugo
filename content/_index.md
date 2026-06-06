@@ -39,7 +39,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily transmission</span>
 <h2>Today's Awakening</h2>
-<span class="date">June 05, 2026</span>
+<span class="date">June 06, 2026</span>
 </div>
 <div class="affirmation-theme">
 <h3>Illuminating the Inner Sanctum: A Journey of Spiritual Awakening</h3>

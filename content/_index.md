@@ -39,32 +39,32 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily transmission</span>
 <h2>Today's Awakening</h2>
-<span class="date">June 07, 2026</span>
+<span class="date">June 08, 2026</span>
 </div>
 <div class="affirmation-theme">
-<h3>Moonlit Whispers: Illuminating the Depths of My Soul</h3>
-<p>As the moon casts its silvery glow upon my path, I am reminded of the magic that lies within the darkness, waiting to be unearthed. The moonlit night whispers secrets of the universe, guiding me towar...</p>
+<h3>Embracing Mindful Serenity: A Journey of Inner Peace</h3>
+<p>As we embark on this transformative journey, may the gentle whispers of our heart guide us toward the sanctuary of inner peace. May our minds be serene, our spirits be lifted, and our souls be nourish...</p>
 </div>
 <div class="affirmation-list">
 <div class="affirmation-item">
 <div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I inhabit the realms of my imagination, where the moonbeams weave a tapestry of wonder and awe"</div></div>
+<div><div class="affirmation-text">"I illuminate my path with the light of self-awareness, navigating life's complexities with clarity and purpose"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My heart is a vessel for the lunar tides, ebbing and flowing with the cycles of life"</div></div>
+<div><div class="affirmation-text">"My heart beats in harmony with the rhythm of the universe, synchronizing my energy with the natural world"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I trust in the guidance of my intuition, which shines like a beacon in the moonlit night"</div></div>
+<div><div class="affirmation-text">"I weave a tapestry of compassion, wrapping myself and others in the warmth of kindness and understanding"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"My soul is a reflection of the moon's gentle light, shining brightly in the darkness"</div></div>
+<div><div class="affirmation-text">"I trust the wisdom of my intuition, listening to the gentle whispers of my soul"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"I am a guardian of my own inner world, protecting the sacred spaces where my dreams and desires reside"</div></div>
+<div><div class="affirmation-text">"My spirit soars on the wings of freedom, unencumbered by the weights of doubt and limitation"</div></div>
 </div>
 </div>
 <details style="padding: 0 2rem 2rem;">
@@ -72,43 +72,43 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-list" style="padding-top: 1rem;">
 <div class="affirmation-item">
 <div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"My creativity is a moonlit garden, where ideas and inspiration bloom under the gentle light of the night"</div></div>
+<div><div class="affirmation-text">"I embody the stillness of the present moment, a calm and peaceful refuge from life's turbulence"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"I honor the mystery of the moon, embracing the unknown and the unseen forces that shape my life"</div></div>
+<div><div class="affirmation-text">"My life is a canvas of vibrant colors, painted with the bold brushstrokes of creativity and imagination"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"My heart is a lunar crucible, where my deepest fears and desires are transformed and transmuted"</div></div>
+<div><div class="affirmation-text">"I navigate the ebbs and flows of life with the agility of a river, flowing effortlessly around obstacles and challenges"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"I am a traveler in the lunar realms, navigating the dreamscapes and symbolic landscapes of my own psyche"</div></div>
+<div><div class="affirmation-text">"My inner world is a sanctuary of peace, a haven of tranquility that nourishes my body, mind, and spirit"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"My spirit is a moonlit flame, burning brightly in the darkness and illuminating the path ahead"</div></div>
+<div><div class="affirmation-text">"I am a guardian of my own energy, mindful of the thoughts and emotions that shape my reality"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"I am a weaver of my own destiny, threading the lunar cycles and the rhythms of my own heart"</div></div>
+<div><div class="affirmation-text">"My words are infused with the power of intention, speaking truth and kindness into the world"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"My inner wisdom is a moonlit mirror, reflecting the depths of my own soul and revealing the secrets of my heart"</div></div>
+<div><div class="affirmation-text">"I embody the courage of my convictions, standing firmly in the truth of my own inner wisdom"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"I trust in the lunar rhythms that govern my life, knowing that each phase brings its own unique gifts and challenges"</div></div>
+<div><div class="affirmation-text">"My heart is a vessel of love, overflowing with generosity and warmth toward myself and others"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"My life is a moonlit tapestry, woven from the threads of my experiences, my relationships, and my deepest longings"</div></div>
+<div><div class="affirmation-text">"I dance with the mystery of life, embracing the unknown with curiosity and wonder"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"I am a lunar alchemist, transforming the base metals of my own fears and doubts into the gold of wisdom and self-awareness"</div></div>
+<div><div class="affirmation-text">"My soul is a flame of pure potential, burning brightly with the fire of my deepest passions and desires"</div></div>
 </div>
 </div>
 </details>

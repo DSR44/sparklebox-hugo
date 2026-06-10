@@ -22,14 +22,14 @@ layout: landing
 
 <div class="freq-post-list">
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/what-happens-when-you-stop-consuming-clarity-and-start-compiling-it/" class="freq-post-card">
 <span class="freq-post-number">21</span>
 <div class="freq-post-info">
 <h3>What Happens When You Stop Consuming Clarity and Start Compiling It</h3>
 <p>The shift from consumer to compiler.</p>
 </div>
-<span class="freq-post-tag">∞</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">22</span>

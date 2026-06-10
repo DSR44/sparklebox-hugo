@@ -39,32 +39,32 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily transmission</span>
 <h2>Today's Awakening</h2>
-<span class="date">June 08, 2026</span>
+<span class="date">June 10, 2026</span>
 </div>
 <div class="affirmation-theme">
-<h3>Embracing Mindful Serenity: A Journey of Inner Peace</h3>
-<p>As we embark on this transformative journey, may the gentle whispers of our heart guide us toward the sanctuary of inner peace. May our minds be serene, our spirits be lifted, and our souls be nourish...</p>
+<h3>Embracing the Depths of Mindfulness</h3>
+<p>As we embark on a journey of self-discovery, the gentle whispers of our soul guide us toward the profound wisdom that lies within. In the stillness of the present moment, we uncover the hidden treasur...</p>
 </div>
 <div class="affirmation-list">
 <div class="affirmation-item">
 <div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I illuminate my path with the light of self-awareness, navigating life's complexities with clarity and purpose"</div></div>
+<div><div class="affirmation-text">"I inhabit my body with kindness and compassion, nurturing the sacred temple that houses my spirit"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My heart beats in harmony with the rhythm of the universe, synchronizing my energy with the natural world"</div></div>
+<div><div class="affirmation-text">"My heart beats in harmony with the rhythm of the universe, synchronizing my soul with the celestial music of existence"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I weave a tapestry of compassion, wrapping myself and others in the warmth of kindness and understanding"</div></div>
+<div><div class="affirmation-text">"I trust the wisdom of my intuition, allowing its gentle nudges to guide me through life's uncertain landscapes"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"I trust the wisdom of my intuition, listening to the gentle whispers of my soul"</div></div>
+<div><div class="affirmation-text">"My mind is a canvas of creativity, where the brushstrokes of imagination paint vibrant masterpieces of innovation and progress"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"My spirit soars on the wings of freedom, unencumbered by the weights of doubt and limitation"</div></div>
+<div><div class="affirmation-text">"I embody the courage to confront my shadows, embracing the darkness as a catalyst for growth and transformation"</div></div>
 </div>
 </div>
 <details style="padding: 0 2rem 2rem;">
@@ -72,43 +72,43 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-list" style="padding-top: 1rem;">
 <div class="affirmation-item">
 <div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"I embody the stillness of the present moment, a calm and peaceful refuge from life's turbulence"</div></div>
+<div><div class="affirmation-text">"My spirit is a flame that burns brightly, illuminating the path ahead and guiding me through life's most challenging terrain"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"My life is a canvas of vibrant colors, painted with the bold brushstrokes of creativity and imagination"</div></div>
+<div><div class="affirmation-text">"I am a guardian of the earth, honoring the sacred bond between humanity and the natural world"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"I navigate the ebbs and flows of life with the agility of a river, flowing effortlessly around obstacles and challenges"</div></div>
+<div><div class="affirmation-text">"My voice is a powerful instrument, speaking truth to power and advocating for justice and compassion in all that I do"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"My inner world is a sanctuary of peace, a haven of tranquility that nourishes my body, mind, and spirit"</div></div>
+<div><div class="affirmation-text">"I navigate the ebbs and flows of life with flexibility and adaptability, surrendering to the ever-changing tides of existence"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"I am a guardian of my own energy, mindful of the thoughts and emotions that shape my reality"</div></div>
+<div><div class="affirmation-text">"My soul is a river of wisdom, flowing with the cumulative knowledge and experience of countless lifetimes"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"My words are infused with the power of intention, speaking truth and kindness into the world"</div></div>
+<div><div class="affirmation-text">"I weave a tapestry of meaningful relationships, nurturing connections that uplift and inspire me to grow"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"I embody the courage of my convictions, standing firmly in the truth of my own inner wisdom"</div></div>
+<div><div class="affirmation-text">"My presence is a gift to the world, offering a unique blend of talents, skills, and perspectives that enrich the human experience"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"My heart is a vessel of love, overflowing with generosity and warmth toward myself and others"</div></div>
+<div><div class="affirmation-text">"I trust the unfolding of my journey, surrendering to the mystery and magic that awaits me around every corner"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"I dance with the mystery of life, embracing the unknown with curiosity and wonder"</div></div>
+<div><div class="affirmation-text">"My life is a masterpiece of imperfection, embracing the beauty and uniqueness that arises from my mistakes and failures"</div></div>
 </div>
 <div class="affirmation-item">
 <div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"My soul is a flame of pure potential, burning brightly with the fire of my deepest passions and desires"</div></div>
+<div><div class="affirmation-text">"I inhabit the present moment with awareness and curiosity, savoring the beauty and wonder that surrounds me"</div></div>
 </div>
 </div>
 </details>

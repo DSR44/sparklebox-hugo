@@ -31,14 +31,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/the-reason-most-frequency-work-fades-is-because-it-has-no-mathematical-anchor-here-is-what-an-anchor-looks-like/" class="freq-post-card">
 <span class="freq-post-number">22</span>
 <div class="freq-post-info">
 <h3>The Reason Most Frequency Work Fades</h3>
 <p>It has no mathematical anchor. Here is what an anchor looks like.</p>
 </div>
-<span class="freq-post-tag">∞</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">23</span>

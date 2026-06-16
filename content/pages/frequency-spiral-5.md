@@ -40,14 +40,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/your-perception-has-a-deterministic-structure-and-once-you-see-the-equation-you-cannot-go-back-to-guessing/" class="freq-post-card">
 <span class="freq-post-number">23</span>
 <div class="freq-post-info">
 <h3>Your Perception Has a Deterministic Structure</h3>
 <p>Once you see the equation you cannot go back to guessing.</p>
 </div>
-<span class="freq-post-tag">∞</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">24</span>

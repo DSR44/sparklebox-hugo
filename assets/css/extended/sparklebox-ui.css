@@ -1,10 +1,8 @@
 /*
- * Sparklebox UI v2 — Clean futuristic brand layer
- * Matches sparklebox-og.png: dark navy, indigo glow, premium minimal
- * Loads AFTER custom.css — overrides template noise & cheap animations
+ * Sparklebox UI v2 — Sanctuary Authority typography
+ * Cormorant (body) · Cinzel (headings) · DM Sans (UI) · Cinzel Decorative (logo)
+ * Loads AFTER custom.css
  */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root {
   --sb-bg: #070b14;
@@ -21,9 +19,12 @@
   --sb-neon-ring: 0 0 0 1px rgba(34, 211, 238, 0.25), 0 0 20px rgba(34, 211, 238, 0.12);
   --sb-radius: 16px;
   --sb-radius-sm: 10px;
-  --sb-font-display: 'Space Grotesk', 'DM Sans', system-ui, sans-serif;
-  --sb-font-body: 'Inter', 'DM Sans', system-ui, sans-serif;
-  --sb-font-serif: 'Cinzel', Georgia, serif;
+  /* Sanctuary Authority stack */
+  --sb-font-brand: 'Cinzel Decorative', 'Cinzel', Georgia, serif;
+  --sb-font-display: 'Cinzel', Georgia, serif;
+  --sb-font-body: 'Cormorant Garamond', Georgia, serif;
+  --sb-font-ui: 'DM Sans', system-ui, sans-serif;
+  --sb-font-serif: var(--sb-font-display);
 
   /* PaperMod tokens — lock dark premium */
   --theme: var(--sb-bg) !important;
@@ -38,6 +39,7 @@
 /* === Calm background — no shifting gradient === */
 body {
   font-family: var(--sb-font-body) !important;
+  font-size: 1.125rem;
   background:
     radial-gradient(ellipse 100% 80% at 50% -30%, rgba(34, 211, 238, 0.14), transparent 50%),
     radial-gradient(ellipse 60% 50% at 80% 10%, rgba(99, 102, 241, 0.1), transparent 45%),
@@ -62,22 +64,58 @@ h1, h2, h3, h4, h5, h6,
   -webkit-text-fill-color: #f8fafc !important;
   color: #f8fafc !important;
   text-shadow: none !important;
-  letter-spacing: 0.02em !important;
+  letter-spacing: 0.04em !important;
   text-transform: none !important;
   font-family: var(--sb-font-display) !important;
   font-weight: 600 !important;
 }
 
-h1, .post-title { font-size: clamp(1.75rem, 4vw, 2.5rem) !important; }
-h2 { font-size: clamp(1.35rem, 3vw, 1.85rem) !important; }
-h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent-soft) !important; -webkit-text-fill-color: var(--sb-accent-soft) !important; }
+h1, .post-title { font-size: clamp(1.85rem, 4vw, 2.35rem) !important; }
+h2 { font-size: clamp(1.4rem, 3vw, 1.75rem) !important; }
+h3 {
+  font-size: clamp(1.15rem, 2.5vw, 1.35rem) !important;
+  color: #e2e8f0 !important;
+  -webkit-text-fill-color: #e2e8f0 !important;
+}
 
 .post-content p,
 .entry-content p,
-.main p {
+.main p,
+.post-content li,
+.entry-content li,
+.post-content blockquote,
+.entry-content blockquote {
   font-family: var(--sb-font-body) !important;
-  line-height: 1.75 !important;
+  font-size: 1.125rem !important;
+  line-height: 1.78 !important;
   color: var(--sb-text) !important;
+}
+
+/* UI layer — sans only for chrome, not reading */
+nav a,
+.menu a,
+#menu a,
+#menu li a,
+.menu-more-btn,
+button,
+input,
+textarea,
+select,
+.sb-btn,
+.sb-path-btn,
+.sb-path-link,
+.sb-path-tools a,
+.sb-play-card__label,
+.sb-subscribe__input,
+.sb-subscribe__btn,
+.freq-product-btn,
+.freq-hero-btn,
+.freq-cta-btn,
+.freq-product-eyebrow,
+.post-meta,
+.footer,
+.pagination a {
+  font-family: var(--sb-font-ui) !important;
 }
 
 /* No glow pulse on hover */
@@ -102,9 +140,9 @@ h3 { font-size: clamp(1.1rem, 2.5vw, 1.35rem) !important; color: var(--sb-accent
 }
 
 .logo a {
-  font-family: var(--sb-font-serif) !important;
+  font-family: var(--sb-font-brand) !important;
   font-size: 1.15rem !important;
-  letter-spacing: 0.06em !important;
+  letter-spacing: 0.12em !important;
   color: #fff !important;
   -webkit-text-fill-color: #fff !important;
   background: none !important;
@@ -136,7 +174,7 @@ nav a,
 .menu a,
 #menu a,
 #menu li a {
-  font-family: var(--sb-font-body) !important;
+  font-family: var(--sb-font-ui) !important;
   font-size: 0.8rem !important;
   font-weight: 500 !important;
   padding: 0.45rem 0.65rem !important;
@@ -183,7 +221,7 @@ nav a:hover,
 
 .menu-more-btn {
   border-radius: var(--sb-radius-sm) !important;
-  font-family: var(--sb-font-body) !important;
+  font-family: var(--sb-font-ui) !important;
   font-size: 0.75rem !important;
   font-weight: 600 !important;
   letter-spacing: 0.04em !important;
@@ -673,15 +711,17 @@ body.list main {
 }
 
 .post-description {
-  font-size: 1.05rem;
+  font-family: var(--sb-font-body);
+  font-size: 1.15rem;
   color: var(--sb-text-muted);
-  line-height: 1.6;
+  line-height: 1.65;
   margin-top: 0.75rem;
 }
 
 .post-meta {
-  font-family: var(--sb-font-body) !important;
-  font-size: 0.8rem !important;
+  font-family: var(--sb-font-ui) !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.04em !important;
   color: var(--sb-text-muted) !important;
 }
 
@@ -710,7 +750,7 @@ body.list main {
 .post-tags a {
   display: inline-block !important;
   padding: 0.3rem 0.65rem !important;
-  font-family: var(--sb-font-body) !important;
+  font-family: var(--sb-font-ui) !important;
   font-size: 0.72rem !important;
   font-weight: 500 !important;
   border-radius: var(--sb-radius-sm) !important;

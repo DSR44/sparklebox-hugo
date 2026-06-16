@@ -4,7 +4,7 @@
  */
 
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;700;800&display=swap');
 
 /* Core palette — cyan / indigo (pink deprecated) */
 :root {
@@ -42,7 +42,7 @@
 /* === Typography === */
 
 body {
-    font-family: 'Cinzel', serif;
+    font-family: 'Cormorant Garamond', Georgia, serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 1.7;
@@ -908,15 +908,18 @@ body.list .post-entry .entry-title {
 body.list .post-entry p,
 body.list .post-entry .entry-summary {
     color: var(--text-muted);
-    font-size: 0.9rem;
-    line-height: 1.6;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.05rem;
+    line-height: 1.65;
     margin-bottom: 0.5rem;
 }
 
 body.list .post-entry time,
 body.list .post-entry .post-meta {
     color: #64748b;
-    font-size: 0.85rem;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
 }
 
 /* === Clean Modern Header - No Boxes === */
@@ -3601,7 +3604,7 @@ a.freq-post-card:hover .freq-post-arrow {
 }
 
 .sb-path-meta {
-    font-family: 'Space Grotesk', sans-serif !important;
+    font-family: 'DM Sans', sans-serif !important;
     font-size: var(--path-meta) !important;
     font-weight: 500 !important;
     letter-spacing: 0.18em !important;
@@ -3767,7 +3770,7 @@ a.freq-post-card:hover .freq-post-arrow {
 }
 
 .sb-path-link {
-    font-family: 'Space Grotesk', sans-serif !important;
+    font-family: 'DM Sans', sans-serif !important;
     font-size: var(--path-meta) !important;
     font-weight: 600 !important;
     letter-spacing: 0.12em !important;
@@ -3800,7 +3803,7 @@ a.freq-post-card:hover .freq-post-arrow {
 }
 
 .sb-path-step span {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     font-size: var(--path-meta);
     letter-spacing: 0.1em;
     color: rgba(34, 211, 238, 0.75);
@@ -3825,7 +3828,7 @@ a.freq-post-card:hover .freq-post-arrow {
 }
 
 .sb-path-tools a {
-    font-family: 'Space Grotesk', sans-serif !important;
+    font-family: 'DM Sans', sans-serif !important;
     font-size: var(--path-meta) !important;
     letter-spacing: 0.08em;
     padding: 0.45rem 0.9rem;
@@ -3861,7 +3864,7 @@ a.freq-post-card:hover .freq-post-arrow {
     margin: 0.25rem 0.35rem;
     padding: 0.75rem 1.35rem;
     border-radius: 8px;
-    font-family: 'Space Grotesk', sans-serif !important;
+    font-family: 'DM Sans', sans-serif !important;
     font-size: var(--path-meta) !important;
     font-weight: 600 !important;
     letter-spacing: 0.06em;
@@ -3929,7 +3932,7 @@ a.freq-post-card:hover .freq-post-arrow {
 }
 
 .sb-adapt-status {
-    font-family: 'Space Grotesk', sans-serif !important;
+    font-family: 'DM Sans', sans-serif !important;
     font-size: var(--path-meta) !important;
     letter-spacing: 0.14em;
     text-transform: uppercase;

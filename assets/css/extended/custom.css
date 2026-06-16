@@ -3658,13 +3658,22 @@ a.freq-post-card:hover .freq-post-arrow {
 
 .sb-path-hero .sb-path-prose {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sb-path-hero .sb-path-prose p {
-    text-align: left;
-    display: inline-block;
-    width: 100%;
+    text-align: center;
     max-width: var(--path-measure);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sb-path-hero .sb-path-emphasis {
+    padding-left: 0;
+    border-left: none;
+    font-style: italic;
+    color: rgba(196, 181, 253, 0.98) !important;
 }
 
 /* —— Map + Reset cards —— */

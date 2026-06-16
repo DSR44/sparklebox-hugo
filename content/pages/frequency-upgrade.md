@@ -12,8 +12,9 @@ layout: landing
 <div class="freq-signal freq-signal-2"></div>
 <div class="freq-signal freq-signal-3"></div>
 <h1 class="freq-title">The Frequency Upgrade</h1>
-<p class="freq-tagline">Most people operate at a default cognitive frequency they never chose.</p>
+<p class="freq-tagline">The Map · Where your brain operates — and where it can go.</p>
 <p class="freq-tagline-sub">This is where that changes.</p>
+<p class="freq-map-link"><a href="/the-path/">← The Path</a> · Part of Sparklebox · <a href="/adaptation-protocol/">The Reset follows →</a></p>
 </div>
 
 <div class="freq-intro freq-intro-clean">

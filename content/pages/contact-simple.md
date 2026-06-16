@@ -42,7 +42,9 @@ description: "Contact Elle Vida and Sparklebox — questions, collaborations, an
 <li><a href="/the-dreamtoolkit/">Dream Toolkit Portals</a></li>
 <li><a href="/musebox-dreams/">Musebox</a></li>
 <li><a href="/soundbox/">Soundbox</a></li>
-<li><a href="/frequency-upgrade/">Frequency Upgrade</a></li>
+<li><a href="/the-path/">The Path</a></li>
+<li><a href="/frequency-upgrade/">The Map — Frequency Upgrade</a></li>
+<li><a href="/adaptation-protocol/">The Reset — Adaptation Protocol</a></li>
 </ul>
 <p><a href="/">← Back to Home</a></p>
 </div>

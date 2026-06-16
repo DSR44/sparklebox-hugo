@@ -1,9 +1,11 @@
 ---
 title: "The Frequency Upgrade"
-description: "Essays on cognitive frequency bands — Baseline Beta, Alpha, Theta, and Alpha Prime. Elle Vida's flagship perception architecture series on Sparklebox."
+description: "The Map — cognitive frequency bands from Baseline Beta to Alpha Prime. Elle Vida's flagship perception architecture series on Sparklebox."
 ---
 
-**The Frequency Upgrade** is Sparklebox's signature series — not generic wellness advice, but a structured map of how your nervous system processes reality at different frequency bands.
+**The Frequency Upgrade** is **The Map** on [The Path](/the-path/) — not generic wellness advice, but a structured map of how your nervous system processes reality at different frequency bands.
+
+**The Reset** ([Adaptation Protocol](/adaptation-protocol/)) follows when this spiral completes.
 
 ## What this series covers
 
@@ -15,9 +17,10 @@ description: "Essays on cognitive frequency bands — Baseline Beta, Alpha, Thet
 
 ## Start here
 
-1. [The Frequency Upgrade hub](/frequency-upgrade/) — campaign overview + workbook
-2. [Your brain is operating at Baseline Beta](/posts/2026/04/your-brain-is-operating-at-baseline-beta-frequency-and-you-probably-never-chose-the-upgrade/)
-3. [Start Here](/start-here/) — full reading path
+1. [The Path](/the-path/) — Map + Reset overview
+2. [The Frequency Upgrade hub](/frequency-upgrade/) — campaign + workbook
+3. [Your brain is operating at Baseline Beta](/posts/2026/04/your-brain-is-operating-at-baseline-beta-frequency-and-you-probably-never-chose-the-upgrade/)
+4. [Start Here](/start-here/) — full reading path
 
 ---
 

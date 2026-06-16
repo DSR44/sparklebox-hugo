@@ -5,12 +5,21 @@ description: "Sparklebox categories — consciousness, perception architecture, 
 
 Sparklebox is a **consciousness & perception architecture** blog — not a lifestyle, fashion, or generic wellness site. Wellness may be an *outcome* of the work, but the subject is **how you perceive, and how perception reorganises reality**.
 
+## The core work
+
+**[The Path](/the-path/)** — two campaigns, one framework:
+
+| | Campaign | What it is |
+|---|----------|------------|
+| **The Map** | [The Frequency Upgrade](/frequency-upgrade/) | Where your brain operates — Beta → Alpha Prime |
+| **The Reset** | [The Adaptation Protocol](/adaptation-protocol/) | Why you got stuck — neurological recalibration |
+
 ## The five pillars
 
 | Pillar | What it is | Start here |
 |--------|------------|------------|
 | **The Sparklebox Method** | Perceptive authorship, mental alchemy, assumption work | [Browse →](/categories/the-sparklebox-method/) |
-| **The Frequency Upgrade** | Cognitive frequency bands (Beta → Alpha Prime) | [Browse →](/categories/the-frequency-upgrade/) · [Hub](/frequency-upgrade/) |
+| **The Frequency Upgrade (The Map)** | Cognitive frequency bands (Beta → Alpha Prime) | [The Path](/the-path/) · [Hub](/frequency-upgrade/) |
 | **Sparklebox Realm** | Core philosophy essays — perception, anticipation, body | [Browse →](/categories/sparklebox-realm/) |
 | **Mystical Wisdom** | Ancient teachings through a futuristic lens | [Browse →](/categories/mystical-wisdom-series/) |
 | **Dream and Muse Tools** | Musebox, Dream Toolkit, visual frequency language | [Browse →](/categories/dream-and-muse-tools/) · [Musebox](/musebox-dreams/) |
@@ -28,4 +37,4 @@ We do not publish generic listicles, fashion trends, recipe roundups, or Pintere
 
 ---
 
-**New here?** [Start Here](/start-here/) · [FAQ](/faq/) · [All posts](/posts/) · [About](/about/)
+**New here?** [The Path](/the-path/) · [Start Here](/start-here/) · [FAQ](/faq/) · [All posts](/posts/) · [About](/about/)

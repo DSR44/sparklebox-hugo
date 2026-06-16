@@ -73,7 +73,8 @@ layout: landing
 
 <div class="freq-spiral-nav">
 <a href="/frequency-upgrade/spiral-4/" class="freq-nav-link">← Spiral IV — The Identity</a>
-<a href="/frequency-upgrade/" class="freq-nav-link">Back to The Frequency Upgrade →</a>
+<a href="/the-path/" class="freq-nav-link">← The Path</a>
+<a href="/frequency-upgrade/" class="freq-nav-link">The Map hub →</a>
 </div>
 
 </div>

@@ -73,7 +73,8 @@ layout: landing
 <hr class="freq-divider">
 
 <div class="freq-spiral-nav">
-<a href="/frequency-upgrade/" class="freq-nav-link">← Back to The Frequency Upgrade</a>
+<a href="/the-path/" class="freq-nav-link">← The Path</a>
+<a href="/frequency-upgrade/" class="freq-nav-link">The Map hub →</a>
 <a href="/frequency-upgrade/spiral-2/" class="freq-nav-link">Spiral II — The Mechanism →</a>
 </div>
 

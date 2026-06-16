@@ -12,11 +12,11 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-brand-hero__copy">
 <p class="sb-brand-hero__eyebrow">Elle Vida · Sparklebox</p>
 <h1 class="sb-brand-hero__title">Perception is Creation</h1>
-<p class="sb-brand-hero__tagline">How you see shapes what you live. A digital sanctuary for dream portals, daily muse transmissions, and the Frequency Upgrade.</p>
+<p class="sb-brand-hero__tagline">How you see shapes what you live. The Map shows where your brain operates. The Reset shows why you got stuck. Perception is Creation.</p>
 <div class="sb-brand-hero__actions">
-<a class="sb-btn sb-btn--primary" href="/the-dreamtoolkit/">Enter Dream Portals</a>
-<a class="sb-btn" href="/frequency-upgrade/">Frequency Upgrade</a>
-<a class="sb-btn" href="/musebox-dreams/">Musebox AI</a>
+<a class="sb-btn sb-btn--primary" href="/the-path/">The Path — Map & Reset</a>
+<a class="sb-btn" href="/frequency-upgrade/">The Map</a>
+<a class="sb-btn" href="/musebox-dreams/">Musebox</a>
 </div>
 </div>
 </section>
@@ -149,18 +149,14 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-freq-teaser__neon-bar" aria-hidden="true"></div>
 <div class="freq-hero-signal"></div>
 <div class="freq-hero-signal freq-hero-signal-2"></div>
-<span class="freq-hero-badge">⚡ Featured Series</span>
-<h2 class="freq-hero-title">The Frequency Upgrade</h2>
-<p class="freq-hero-subtitle">Your brain has a default cognitive frequency. You never chose it. There is a structure behind every shift — and it is not what the wellness industry teaches.</p>
+<span class="freq-hero-badge">⚡ The Core Work</span>
+<h2 class="freq-hero-title">The Path</h2>
+<p class="freq-hero-subtitle"><strong>The Map</strong> shows where your brain operates. <strong>The Reset</strong> shows why you got stuck. Two campaigns. One framework. Perception is Creation.</p>
 <div class="freq-hero-levels">
-<span class="freq-hero-level">β Baseline</span>
-<span class="freq-hero-arrow">→</span>
-<span class="freq-hero-level">α Alpha</span>
-<span class="freq-hero-arrow">→</span>
-<span class="freq-hero-level">θ Theta</span>
-<span class="freq-hero-arrow">→</span>
-<span class="freq-hero-level freq-hero-level-prime">α' Prime</span>
+<span class="freq-hero-level">The Map</span>
+<span class="freq-hero-arrow">+</span>
+<span class="freq-hero-level freq-hero-level-prime">The Reset</span>
 </div>
-<p class="freq-hero-hint">5 spirals. 25 transmissions. One permanent recalibration.</p>
-<a href="/frequency-upgrade/" class="freq-hero-btn">Begin the Upgrade →</a>
+<p class="freq-hero-hint">Frequency Upgrade live now · Adaptation Protocol follows the spiral</p>
+<a href="/the-path/" class="freq-hero-btn">Enter The Path →</a>
 </div>

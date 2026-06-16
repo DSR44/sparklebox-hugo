@@ -13,13 +13,13 @@ description: "Musebox daily prompts, Dream Toolkit portals, and homepage affirma
 | [**The Dream Toolkit**](/the-dreamtoolkit/) | Eight elemental portals (Fire, Water, Earth, Air, Shadow, Cosmos…) |
 | [**Homepage affirmations**](/) | Fifteen daily transmissions in the sanctuary hero |
 
-These three are the current Dream & Muse stack. Everything else on Sparklebox flows from **perception architecture** — start with [Start Here](/start-here/) or [The Frequency Upgrade](/frequency-upgrade/) for the essay path.
+These three are the current Dream & Muse stack. The core work is **[The Path](/the-path/)** — **The Map** and **The Reset**. Start there, or read [Start Here](/start-here/) for the full essay path.
 
 ## Essays in this category
 
 Below are selected dream-coded affirmations and creative transmissions that still fit today’s brand. Older experimental series (Dreamweaver Tales, Avatar Oasis, etc.) were **archived** during the 2026 site cleanup — they no longer represent Sparklebox’s direction.
 
-[Start Here](/start-here/) · [All posts](/posts/) · [FAQ](/faq/)
+[The Path](/the-path/) · [Start Here](/start-here/) · [All posts](/posts/) · [FAQ](/faq/)
 
 ---
 

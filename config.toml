@@ -49,16 +49,25 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
     weight = 4
 
   [[menu.main]]
-    name = "Frequency Upgrade"
-    url = "/frequency-upgrade/"
+    name = "The Path"
+    url = "/the-path/"
     weight = 5
+
+  [[menu.main]]
+    name = "The Map"
+    url = "/frequency-upgrade/"
+    weight = 6
 
   [[menu.main]]
     name = "Bazaar"
     url = "/the-sparkle-bazaar/"
-    weight = 6
+    weight = 7
 
   # Tools & more (dropdown)
+  [[menu.main]]
+    name = "The Reset"
+    url = "/adaptation-protocol/"
+    weight = 6
   [[menu.main]]
     name = "The Drift & Oracle"
     url = "https://huggingface.co/spaces/FutureHAi/thedrift"
@@ -102,11 +111,11 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
 # PaperMod Theme Settings
 [params]
   homeTitle = "Sparklebox | Consciousness & Perception Architecture — Elle Vida"
-  description = "Sparklebox by Elle Vida: consciousness, perception architecture, and the Frequency Upgrade. Mental alchemy and mystical tools — not generic wellness."
+  description = "Sparklebox by Elle Vida: The Path — The Map and The Reset. Consciousness architecture, cognitive frequency, perception is creation. Not generic wellness."
   author = "Elle Vida"
   env = "production"
   hreflang = "en"
-  keywords = ["perception architecture", "consciousness", "frequency upgrade", "mental alchemy", "perceptive creation", "Elle Vida", "Sparklebox", "cognitive frequency"]
+  keywords = ["perception architecture", "consciousness", "the path sparklebox", "frequency upgrade", "adaptation protocol", "mental alchemy", "perceptive creation", "Elle Vida", "Sparklebox", "cognitive frequency"]
   disableThemeToggle = true
 
   [params.schema]

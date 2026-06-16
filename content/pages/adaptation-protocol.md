@@ -15,27 +15,30 @@ description: "The Reset — your brain adapted to a frequency that was never you
 <span class="sb-path-constellation-line sb-path-constellation-line--b"></span>
 </div>
 
-<div class="sb-path-hero sb-adapt-hero">
-<p class="sb-path-brand-name">Sp<span class="sb-path-pyramid">△</span>rklebox</p>
-<p class="sb-path-eyebrow">The Reset · a transmission by <strong>Elle Vida</strong></p>
-<h1 class="sb-path-title sb-adapt-title sb-path-neon">The Adaptation Protocol</h1>
-<p class="sb-path-lead">Your nervous system has a tolerance — not to a substance, but to <strong>stimulation itself</strong>. Every scroll, every ping, every low-grade alert recalibrated your baseline. The result is not exhaustion. It is a new operating frequency. One you never chose.</p>
-<p class="sb-path-gain">What you gain: the mechanism behind why silence feels uncomfortable, why clarity visits by accident, and why effort keeps you anchored to the band you are trying to escape.</p>
+<div class="sb-path-hero">
+<p class="sb-path-brand">Sp<span class="sb-path-pyramid">△</span>rklebox</p>
+<p class="sb-path-meta">The Reset · Elle Vida</p>
+<h1 class="sb-path-title">The Adaptation Protocol</h1>
+<div class="sb-path-prose">
+<p>Your nervous system has a tolerance — not to a substance, but to stimulation itself. Every scroll, every ping, every low-grade alert recalibrated your baseline. The result is not exhaustion. It is a new operating frequency. One you never chose.</p>
+</div>
 </div>
 
 <div class="sb-adapt-bridge">
-<p>New here? Start with <a href="/the-path/">The Path</a> · Complete <a href="/frequency-upgrade/">The Map</a> first if you have not read The Frequency Upgrade.</p>
+<p>New here? <a href="/the-path/">The Path</a> · Complete <a href="/frequency-upgrade/">The Map</a> first.</p>
 </div>
 
-<section class="sb-path-mechanism">
-<h2 class="sb-path-section-title">The Map · The Reset</h2>
-<p><strong>The Frequency Upgrade</strong> showed you <em>where</em> your brain operates — Beta, Alpha, Theta, Alpha Prime.</p>
-<p><strong>The Adaptation Protocol</strong> shows you <em>why</em> you got stuck at Baseline Beta — and how neurological adaptation can be reversed.</p>
-<p>This is not meditation. Not mindset work. A measurable shift in how your brain processes and responds to stimuli — grounded in sensory gating, dopamine baseline, and alpha-theta recalibration. Same voice. Same exclusivity. No recycled wellness language.</p>
+<section class="sb-path-block">
+<h2 class="sb-path-heading">The Map · The Reset</h2>
+<div class="sb-path-prose">
+<p><strong>The Frequency Upgrade</strong> showed you where your brain operates — Beta, Alpha, Theta, Alpha Prime.</p>
+<p><strong>The Adaptation Protocol</strong> shows you why you got stuck at Baseline Beta — and how neurological adaptation can be reversed.</p>
+<p>This is not meditation. Not mindset work. A measurable shift in how your brain processes stimuli — grounded in sensory gating, dopamine baseline, and alpha-theta recalibration.</p>
+</div>
 </section>
 
-<section class="sb-adapt-phases">
-<h2 class="sb-path-section-title">The Protocol</h2>
+<section class="sb-path-block">
+<h2 class="sb-path-heading">The Protocol</h2>
 <div class="sb-adapt-phase-grid">
 <div class="sb-adapt-phase">
 <span class="sb-adapt-phase-num">I</span>
@@ -61,18 +64,18 @@ description: "The Reset — your brain adapted to a frequency that was never you
 </section>
 
 <section class="sb-adapt-coming">
-<h2 class="sb-path-section-title">Transmissions</h2>
-<p class="sb-adapt-status">Scheduled to begin after The Frequency Upgrade spiral completes.</p>
+<p class="sb-adapt-status">Transmissions · after the spiral completes</p>
+<div class="sb-path-prose">
 <p>Six transmissions will open each layer of the protocol — neurological adaptation, dopamine desensitisation, alpha-theta crossover, and why repeated stress stops registering in the body.</p>
-<p>Subscribe on the homepage to receive them when they arrive. No noise — only the signal.</p>
+</div>
 <a href="/" class="sb-path-btn sb-path-btn--primary">Join the Sanctuary →</a>
 </section>
 
-<section class="sb-path-tools">
-<h2 class="sb-path-section-title">While You Wait</h2>
-<div class="sb-path-tools-grid">
-<a href="/frequency-upgrade/">The Map — Frequency Upgrade</a>
-<a href="/the-path/">The Path overview</a>
+<section class="sb-path-block sb-path-block--tools">
+<h2 class="sb-path-heading">While You Wait</h2>
+<div class="sb-path-tools">
+<a href="/frequency-upgrade/">The Map</a>
+<a href="/the-path/">The Path</a>
 <a href="/posts/">All transmissions</a>
 </div>
 </section>

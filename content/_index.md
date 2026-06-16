@@ -149,14 +149,14 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-freq-teaser__neon-bar" aria-hidden="true"></div>
 <div class="freq-hero-signal"></div>
 <div class="freq-hero-signal freq-hero-signal-2"></div>
-<span class="freq-hero-badge">⚡ The Core Work</span>
+<span class="freq-hero-badge">⚡ The Core Work · Elle Vida</span>
 <h2 class="freq-hero-title">The Path</h2>
-<p class="freq-hero-subtitle"><strong>The Map</strong> shows where your brain operates. <strong>The Reset</strong> shows why you got stuck. Two campaigns. One framework. Perception is Creation.</p>
+<p class="freq-hero-subtitle"><strong>The Map</strong> — where your brain operates. <strong>The Reset</strong> — why you got stuck. A novel framework for when affirmations fail and clarity never stays.</p>
 <div class="freq-hero-levels">
 <span class="freq-hero-level">The Map</span>
 <span class="freq-hero-arrow">+</span>
 <span class="freq-hero-level freq-hero-level-prime">The Reset</span>
 </div>
-<p class="freq-hero-hint">Frequency Upgrade live now · Adaptation Protocol follows the spiral</p>
+<p class="freq-hero-hint">Perception is Creation · early access transmission</p>
 <a href="/the-path/" class="freq-hero-btn">Enter The Path →</a>
 </div>

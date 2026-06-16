@@ -8,9 +8,17 @@ description: "The Reset — your brain adapted to a frequency that was never you
 
 <div class="sb-path-page sb-adapt-page">
 
+<div class="sb-path-bg" aria-hidden="true">
+<span class="sb-path-star sb-path-star--1"></span>
+<span class="sb-path-star sb-path-star--2"></span>
+<span class="sb-path-star sb-path-star--4"></span>
+<span class="sb-path-constellation-line sb-path-constellation-line--b"></span>
+</div>
+
 <div class="sb-path-hero sb-adapt-hero">
-<p class="sb-path-eyebrow">The Reset · Sparklebox</p>
-<h1 class="sb-path-title sb-adapt-title">The Adaptation Protocol</h1>
+<p class="sb-path-brand-name">Sp<span class="sb-path-pyramid">△</span>rklebox</p>
+<p class="sb-path-eyebrow">The Reset · a transmission by <strong>Elle Vida</strong></p>
+<h1 class="sb-path-title sb-adapt-title sb-path-neon">The Adaptation Protocol</h1>
 <p class="sb-path-lead">Your nervous system has a tolerance — not to a substance, but to <strong>stimulation itself</strong>. Every scroll, every ping, every low-grade alert recalibrated your baseline. The result is not exhaustion. It is a new operating frequency. One you never chose.</p>
 <p class="sb-path-gain">What you gain: the mechanism behind why silence feels uncomfortable, why clarity visits by accident, and why effort keeps you anchored to the band you are trying to escape.</p>
 </div>

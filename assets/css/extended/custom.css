@@ -3945,6 +3945,31 @@ a.freq-post-card:hover .freq-post-arrow {
     line-height: var(--path-line) !important;
 }
 
+.sb-adapt-transmission-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto 1.25rem;
+    max-width: var(--path-measure);
+    text-align: left;
+}
+
+.sb-adapt-transmission-list li {
+    font-family: 'Cormorant Garamond', serif !important;
+    font-size: var(--path-body) !important;
+    line-height: var(--path-line) !important;
+    color: rgba(203, 213, 225, 0.9) !important;
+    padding: 0.35rem 0 0.35rem 1.25rem;
+    position: relative;
+}
+
+.sb-adapt-transmission-list li::before {
+    content: "◈";
+    position: absolute;
+    left: 0;
+    color: rgba(139, 92, 246, 0.7);
+    font-size: 0.75em;
+}
+
 .post-content:has(.sb-path-page) {
     max-width: none !important;
     padding-left: 0 !important;

@@ -64,9 +64,16 @@ description: "The Reset — your brain adapted to a frequency that was never you
 </section>
 
 <section class="sb-adapt-coming">
-<p class="sb-adapt-status">Transmissions · after the spiral completes</p>
+<p class="sb-adapt-status">Six transmissions · weekly after The Map completes</p>
 <div class="sb-path-prose">
-<p>Six transmissions will open each layer of the protocol — neurological adaptation, dopamine desensitisation, alpha-theta crossover, and why repeated stress stops registering in the body.</p>
+<ol class="sb-adapt-transmission-list">
+<li>Your brain has a tolerance to reality — here is what that means</li>
+<li>Why repeated stress stops registering — and what that costs your baseline</li>
+<li>Dopamine desensitisation — the real reason you can't stop scrolling</li>
+<li>Your nervous system is not broken — it's recalibrating</li>
+<li>When adaptation exhausts its inputs — the pattern behind the stuck baseline</li>
+<li>How to recalibrate — starting with yourself</li>
+</ol>
 </div>
 <a href="/" class="sb-path-btn sb-path-btn--primary">Join the Sanctuary →</a>
 </section>

@@ -49,14 +49,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/i-built-a-system-that-turns-the-frequency-upgrade-from-a-feeling-into-a-permanent-recalibration/" class="freq-post-card">
 <span class="freq-post-number">24</span>
 <div class="freq-post-info">
 <h3>I Built a System That Turns the Frequency Upgrade Into Permanent Recalibration</h3>
 <p>This is the system. This is what it does.</p>
 </div>
-<span class="freq-post-tag">∞</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 <div class="freq-post-card freq-post-upcoming">
 <span class="freq-post-number">25</span>

@@ -58,14 +58,14 @@ layout: landing
 <span class="freq-post-arrow">→</span>
 </a>
 
-<div class="freq-post-card freq-post-upcoming">
+<a href="/posts/2026/06/the-constellation-compiler-what-becomes-possible-when-novelty-and-consciousness-meet-deterministic-mathematics/" class="freq-post-card">
 <span class="freq-post-number">25</span>
 <div class="freq-post-info">
 <h3>The Constellation Compiler</h3>
 <p>Where novelty and consciousness meet deterministic mathematics.</p>
 </div>
-<span class="freq-post-tag">∞</span>
-</div>
+<span class="freq-post-arrow">→</span>
+</a>
 
 </div>
 

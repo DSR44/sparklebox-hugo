@@ -33,85 +33,22 @@ title: "Welcome to the Sparklebox Sanctuary"
 
 <hr class="sanctuary-divider">
 
-<div class="affirmation-card sb-affirmation">
+<div class="affirmation-card sb-affirmation sb-checkin">
 <div class="sb-affirmation__neon-bar" aria-hidden="true"></div>
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
-<span class="sb-affirmation__eyebrow">Daily transmission</span>
-<h2>Today's Awakening</h2>
+<span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
+<h2>3:17pm Jaw Drop Reset</h2>
 <span class="date">June 23, 2026</span>
 </div>
-<div class="affirmation-theme">
-<h3>Blossoming in Harmony with Nature's Rhythm</h3>
-<p>As we breathe in the fresh air and bask in the warmth of the sun, we are reminded of the intricate web of life that connects us to the natural world. The pulse of the earth beats in harmony with our o...</p>
+<div class="sb-checkin__body">
+<p class="sb-checkin__hook">Your tongue feels glued to the roof of your mouth like it’s trying to wallpaper the inside of your skull.</p>
+<p class="sb-checkin__label">What your nervous system is doing</p>
+<p class="sb-checkin__science">Mid-afternoon, your vagus nerve starts hoarding tension like a nervous squirrel. A simple jaw release flips the vagal brake back on, dropping cortisol in under a minute—no lavender required.</p>
+<p class="sb-checkin__label">The reset · 60 seconds</p>
+<div class="sb-checkin__reset">Soften your gaze toward the far corner of the room. Part your teeth a finger-width apart, then slide the tip of your tongue down the back of your bottom teeth until it rests on the floor of your mouth. Gently drop your lower jaw—don’t force, just unhinge. Exhale through the open mouth for 4 counts; the inhale will come on its own. Repeat 5 slow cycles.</div>
+<p class="sb-checkin__close">As the jaw loosens, the tiny muscles around the eustachian tubes relax, letting blood pressure creep down like the office thermostat finally kicking in.</p>
 </div>
-<div class="affirmation-list">
-<div class="affirmation-item">
-<div class="affirmation-number">I</div>
-<div><div class="affirmation-text">"I inhabit a body that is a magnificent, thriving ecosystem, teeming with life and vitality."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">II</div>
-<div><div class="affirmation-text">"My spirit is rooted in the earth, drawing strength and resilience from its ancient wisdom."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">III</div>
-<div><div class="affirmation-text">"I trust in the cyclical wisdom of nature, knowing that every ending marks a new beginning."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">IV</div>
-<div><div class="affirmation-text">"I am a guardian of the natural world, entrusted with the responsibility of preserving its beauty and wonder."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">V</div>
-<div><div class="affirmation-text">"My heart beats in synchrony with the pulse of the forest, finding solace in its soothing melodies."</div></div>
-</div>
-</div>
-<details style="padding: 0 2rem 2rem;">
-<summary class="show-more-btn">View All 15 Affirmations</summary>
-<div class="affirmation-list" style="padding-top: 1rem;">
-<div class="affirmation-item">
-<div class="affirmation-number">VI</div>
-<div><div class="affirmation-text">"I embody the adaptive wisdom of the seasons, flexibly navigating life's challenges with grace and resilience."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">VII</div>
-<div><div class="affirmation-text">"My soul is nourished by the vibrant colors and textures of the natural world, feasting on its beauty and diversity."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">VIII</div>
-<div><div class="affirmation-text">"I trust the innate wisdom of my intuition, just as the migrating birds trust the ancient routes etched in their hearts."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">IX</div>
-<div><div class="affirmation-text">"My life is a reflection of the ever-flowing rivers, constantly evolving and shaping the landscape of my soul."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">X</div>
-<div><div class="affirmation-text">"I am a part of the grand tapestry of life, interconnected with every leaf, branch, and creature that inhabits this planet."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XI</div>
-<div><div class="affirmation-text">"My inner world is a mirror of the outer landscape, with its own seasons, rhythms, and cycles waiting to be explored."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XII</div>
-<div><div class="affirmation-text">"I listen to the whispers of the trees, carrying the secrets of the ages on the wind."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XIII</div>
-<div><div class="affirmation-text">"My spirit soars on the wings of the wind, unencumbered by the weights that bind me to the earth."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XIV</div>
-<div><div class="affirmation-text">"I shine with the light of the stars, a spark of celestial wisdom illuminating the path ahead."</div></div>
-</div>
-<div class="affirmation-item">
-<div class="affirmation-number">XV</div>
-<div><div class="affirmation-text">"My heart is a sanctuary of peace, a refuge from the storms that rage across the landscape of my life."</div></div>
-</div>
-</div>
-</details>
 </div>
 
 <hr class="sanctuary-divider">

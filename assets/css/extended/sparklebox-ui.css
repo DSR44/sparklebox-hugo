@@ -1519,6 +1519,63 @@ nav a::after,
   color: #64748b !important;
 }
 
+/* Nervous System Check-In (homepage daily block) */
+.sb-checkin .affirmation-header h2 {
+  font-size: clamp(1.25rem, 3vw, 1.5rem) !important;
+}
+
+.sb-checkin__body {
+  text-align: left;
+  padding: 0 2rem 2rem;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.sb-checkin__hook {
+  font-family: var(--sb-font-body) !important;
+  font-size: 1.2rem !important;
+  line-height: 1.65 !important;
+  color: #e2e8f0 !important;
+  margin: 0 0 1.25rem;
+}
+
+.sb-checkin__label {
+  font-family: var(--sb-font-ui) !important;
+  font-size: 0.7rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(34, 211, 238, 0.75) !important;
+  margin: 0 0 0.5rem;
+}
+
+.sb-checkin__science,
+.sb-checkin__close {
+  font-family: var(--sb-font-body) !important;
+  font-size: 1.05rem !important;
+  line-height: 1.7 !important;
+  color: #cbd5e1 !important;
+  margin: 0 0 1.25rem;
+}
+
+.sb-checkin__reset {
+  font-family: var(--sb-font-body) !important;
+  font-size: 1.05rem !important;
+  line-height: 1.75 !important;
+  color: #e2e8f0 !important;
+  margin: 0 0 1.25rem;
+  padding: 0.85rem 0 0.85rem 1rem;
+  border-left: 2px solid rgba(99, 102, 241, 0.55);
+  background: rgba(99, 102, 241, 0.05);
+  border-radius: 0 8px 8px 0;
+}
+
+.sb-checkin__close {
+  font-style: italic;
+  color: rgba(196, 181, 253, 0.95) !important;
+  margin-bottom: 0;
+}
+
 /* === Frequency Upgrade — landing + homepage teaser === */
 .sb-freq-teaser,
 .freq-homepage-hero {

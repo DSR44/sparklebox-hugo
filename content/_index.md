@@ -38,16 +38,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>3:17pm Jaw Drop Reset</h2>
-<span class="date">June 23, 2026</span>
+<h2>Morning Fog Drip</h2>
+<span class="date">June 24, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue feels glued to the roof of your mouth like it’s trying to wallpaper the inside of your skull.</p>
+<p class="sb-checkin__hook">Your morning breath still tastes like sleep and your ribs haven&#x27;t quite remembered the full route down.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Mid-afternoon, your vagus nerve starts hoarding tension like a nervous squirrel. A simple jaw release flips the vagal brake back on, dropping cortisol in under a minute—no lavender required.</p>
+<p class="sb-checkin__science">While you were dozing, your nervous system stayed on low-grade alert—cortisol levels rise even before your feet hit the floor. That &quot;ugh&quot; feeling isn&#x27;t laziness; it&#x27;s your dorsal vagal pathway stalling the gas pedal between sleep and awake. A sharp sensory reset bumps you into ventral activation faster than any pep talk.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze toward the far corner of the room. Part your teeth a finger-width apart, then slide the tip of your tongue down the back of your bottom teeth until it rests on the floor of your mouth. Gently drop your lower jaw—don’t force, just unhinge. Exhale through the open mouth for 4 counts; the inhale will come on its own. Repeat 5 slow cycles.</div>
-<p class="sb-checkin__close">As the jaw loosens, the tiny muscles around the eustachian tubes relax, letting blood pressure creep down like the office thermostat finally kicking in.</p>
+<div class="sb-checkin__reset">Soft-focus your gaze on whatever&#x27;s straight ahead. One slow inhale through the nose, notice the temperature. Now exhale with a silent &quot;sss.&quot; Repeat this twice more, counting each breath like dropping pebbles in water. Let the third exhale linger until your shoulders slide south on their own. This 60-second nervous system reset moves blood flow from survival circuits to your prefrontal cortex without needing coffee&#x27;s handshake first.</div>
+<p class="sb-checkin__close">Your diaphragm just adjusted the oxygen-to-carbon-dioxide ratio in your blood; that chemistry shift ripples to every organ in under two minutes.</p>
 </div>
 </div>
 

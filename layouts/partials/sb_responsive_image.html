@@ -1,0 +1,34 @@
+{{- $src := .src -}}
+{{- if not $src -}}{{- return -}}{{- end -}}
+{{- if not (hasPrefix $src "/") -}}
+  {{- $src = printf "/%s" $src -}}
+{{- end -}}
+{{- $alt := .alt | default "" | plainify -}}
+{{- $loading := .loading | default "lazy" -}}
+{{- $class := .class | default "" -}}
+{{- $meta := index site.Data.image_manifest $src -}}
+{{- $webp := "" -}}
+{{- with $meta -}}
+  {{- with .webp -}}{{- $webp = . -}}{{- end -}}
+{{- end -}}
+{{- if and (not $webp) (hasSuffix $src ".png") -}}
+  {{- $webp = replace $src ".png" ".webp" -}}
+{{- else if and (not $webp) (hasSuffix $src ".jpg") -}}
+  {{- $webp = replace $src ".jpg" ".webp" -}}
+{{- else if and (not $webp) (hasSuffix $src ".jpeg") -}}
+  {{- $webp = replace $src ".jpeg" ".webp" -}}
+{{- end -}}
+{{- $width := "" -}}
+{{- $height := "" -}}
+{{- with $meta -}}
+  {{- with .width -}}{{- $width = . -}}{{- end -}}
+  {{- with .height -}}{{- $height = . -}}{{- end -}}
+{{- end -}}
+{{- if $webp -}}
+<picture>
+  <source srcset="{{ $webp | absURL }}" type="image/webp">
+  <img src="{{ $src | absURL }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+</picture>
+{{- else -}}
+<img src="{{ $src | absURL }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+{{- end -}}

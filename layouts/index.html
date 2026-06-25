@@ -17,7 +17,7 @@
           <a href="{{ .RelPermalink }}" class="sb-post-card__link">
             {{- if .Params.cover.image }}
             <div class="sb-post-card__media">
-              <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+              {{ partial "sb_responsive_image.html" (dict "src" .Params.cover.image "alt" .Title "loading" "lazy") }}
             </div>
             {{- else }}
             <div class="sb-post-card__media sb-post-card__media--placeholder"></div>

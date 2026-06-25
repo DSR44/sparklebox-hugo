@@ -7,7 +7,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-brand-hero__neon-top" aria-hidden="true"></div>
 <div class="sb-brand-hero__glow" aria-hidden="true"></div>
 <div class="sb-brand-hero__frame">
-<img class="sb-brand-hero__visual" src="/images/sparklebox-og.png" alt="Sparklebox — Perception is Creation" width="1536" height="1024" loading="eager">
+<img class="sb-brand-hero__visual" src="/images/sparklebox-og.webp" alt="Sparklebox — Perception is Creation" width="1536" height="1024" loading="eager">
 </div>
 <div class="sb-brand-hero__copy">
 <p class="sb-brand-hero__eyebrow">Elle Vida · Sparklebox</p>

@@ -1,0 +1,30 @@
+{{- with .cxt }}
+{{- if (and .Params.cover.image (not $.isHidden)) }}
+<figure class="entry-cover">
+    {{- $loading := cond $.IsSingle "eager" "lazy" }}
+    {{- $addLink := (and site.Params.cover.linkFullImages $.IsSingle) }}
+    {{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}
+    {{- $src := .Params.cover.image -}}
+    {{- if not (hasPrefix $src "/") -}}
+      {{- $src = printf "/%s" $src -}}
+    {{- end -}}
+    {{- $imgdl := $src | absURL -}}
+
+    {{- if $addLink }}
+        <a href="{{ $imgdl }}" target="_blank" rel="noopener noreferrer">
+    {{- end }}
+
+    {{ partial "sb_responsive_image.html" (dict "src" $src "alt" $alt "loading" $loading) }}
+
+    {{- if $addLink }}
+        </a>
+    {{- end -}}
+
+    {{- if $.IsSingle }}
+        {{ with .Params.cover.caption -}}
+            <figcaption>{{ . | markdownify }}</figcaption>
+        {{- end }}
+    {{- end }}
+</figure>
+{{- end }}
+{{- end }}

@@ -1,0 +1,11 @@
+{{- $dest := .Destination -}}
+{{- $alt := .Text | plainify -}}
+{{- if strings.HasPrefix $dest "http" -}}
+<img src="{{ $dest | safeURL }}" alt="{{ $alt }}" loading="lazy">
+{{- else -}}
+{{- $src := $dest -}}
+{{- if not (hasPrefix $src "/") -}}
+  {{- $src = printf "/%s" $src -}}
+{{- end -}}
+{{ partial "sb_responsive_image.html" (dict "src" $src "alt" $alt "loading" "lazy") }}
+{{- end -}}

@@ -610,15 +610,30 @@ body.list main {
   background: rgba(139, 92, 246, 0.08);
 }
 
+.sb-post-card__media picture,
 .sb-post-card__media img {
+  display: block;
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.35s ease;
 }
 
-.sb-post-card:hover .sb-post-card__media img {
+.sb-post-card__media picture img {
+  width: 100%;
+  height: 100%;
+}
+
+.sb-post-card:hover .sb-post-card__media img,
+.sb-post-card:hover .sb-post-card__media picture img {
   transform: scale(1.03);
+}
+
+.entry-cover picture,
+.entry-cover picture img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 .sb-post-card__media--placeholder {

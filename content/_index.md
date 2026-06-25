@@ -38,16 +38,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Morning Fog Drip</h2>
-<span class="date">June 24, 2026</span>
+<h2>Thursday Morning Floor Check</h2>
+<span class="date">June 25, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your morning breath still tastes like sleep and your ribs haven&#x27;t quite remembered the full route down.</p>
+<p class="sb-checkin__hook">Your bare feet register the floor like it’s two degrees colder than the rest of you and your heels keep shifting, trying to find a warmer square inch.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">While you were dozing, your nervous system stayed on low-grade alert—cortisol levels rise even before your feet hit the floor. That &quot;ugh&quot; feeling isn&#x27;t laziness; it&#x27;s your dorsal vagal pathway stalling the gas pedal between sleep and awake. A sharp sensory reset bumps you into ventral activation faster than any pep talk.</p>
+<p class="sb-checkin__science">That cold-seeking dance is your interoceptors gossiping with your vagus nerve. When the soles feel something steady, your brain flips the “I’m held” switch and your cortisol drip slows. Grounding isn’t mystical—it’s electrical flow.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft-focus your gaze on whatever&#x27;s straight ahead. One slow inhale through the nose, notice the temperature. Now exhale with a silent &quot;sss.&quot; Repeat this twice more, counting each breath like dropping pebbles in water. Let the third exhale linger until your shoulders slide south on their own. This 60-second nervous system reset moves blood flow from survival circuits to your prefrontal cortex without needing coffee&#x27;s handshake first.</div>
-<p class="sb-checkin__close">Your diaphragm just adjusted the oxygen-to-carbon-dioxide ratio in your blood; that chemistry shift ripples to every organ in under two minutes.</p>
+<div class="sb-checkin__reset">Stand up, soften your gaze to the ground. Inhale normally through the nose, then a quick second sip of air. Slow exhale through pursed lips for six counts. On the next in-breath, press each toe into the floor for four beats; exhale for six while melting your arches. Two rounds, 45 seconds.</div>
+<p class="sb-checkin__close">The collagen in your soles takes four minutes to rebound but keeps sending “all clear” signals long after you stop moving.</p>
 </div>
 </div>
 

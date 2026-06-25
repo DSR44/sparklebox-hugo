@@ -1,19 +1,30 @@
-# Netlify/Vercel Redirects for 404 Fixes
+# Sparklebox SEO redirects — Netlify/Vercel compatible
 
-# Fix typo in URL
 /conf /contact/ 301
 
-# Old WordPress date structure redirects (examples from Google data)
-/2025/02/06/transform-your-life-in-just-15-days/ /posts/2025/02/transform-your-life-in-just-15-days/ 301
-/2025/03/15/ai-driven-fairytales-and-folklore-fashion-the-future-of-enchanting-style/* /posts/2025/03/ai-driven-fairytales-and-folklore-fashion-the-future-of-enchanting-style/ 301
-/2025/03/04/whimsical-fashion-trends-2025/* /posts/2025/03/whimsical-fashion-trends-2025/ 301
-/2025/03/07/budget-friendly-suril-soirees-dream-decor-ideas/* /posts/2025/03/budget-friendly-suril-soirees-dream-decor-ideas/ 301
-/2025/03/09/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/* /posts/2025/03/crafting-your-surreal-soiree-transform-spaces-with-dreamlike-ambiance/ 301
-/2025/03/05/10-wild-beauty-tools-to-elevate-your-self-care-in-2025/* /posts/2025/03/10-wild-beauty-tools-to-elevate-your-self-care-in-2025/ 301
+# Legacy WordPress paths → Hugo
+/dreamtoolkit/ /the-dreamtoolkit/ 301
+/library-of-dreams/ /posts/ 301
+/library-of-dreams /posts/ 301
+/tarot/ https://sparklebox-tarot.streamlit.app/ 301
+/the-hidddenwork/ /the-hidden-work-a-modern-initiation-into-mental-alchemy/ 301
 
-# Redirect old post structure to new structure (catch-all)
+# Old emoji URLs from WordPress
+/%E2%9C%A8-the-dreamtoolkit-%E2%9C%A8/ /the-dreamtoolkit/ 301
+/%E2%9C%A8-the-musebox/ /musebox-dreams/ 301
+/%E2%9C%A8-the-musebox/ /musebox-dreams/ 301
+
+# Removed tag archives → posts index
+/tag/* /posts/ 301
+
+# Old category URLs → posts
+/category/* /posts/ 301
+
+# Missing WordPress images → site OG placeholder
+/*-1024x775.jpg /images/sparklebox-og.png 302
+
+# Old date-based post URLs
 /:year/:month/:day/:slug/* /posts/:year/:month/:slug/ 301
 
-# Jasper image URLs - redirect to parent post (they're looking for images that don't exist)
+# Jasper image URLs
 /*/jasper_*/ /:splat/ 301
-

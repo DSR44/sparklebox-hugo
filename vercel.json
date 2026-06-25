@@ -8,6 +8,21 @@
       "has": [{ "type": "host", "value": "sparklebox.blog" }],
       "destination": "https://www.sparklebox.blog/:path*",
       "permanent": true
+    },
+    { "source": "/dreamtoolkit", "destination": "/the-dreamtoolkit/", "permanent": true },
+    { "source": "/dreamtoolkit/", "destination": "/the-dreamtoolkit/", "permanent": true },
+    { "source": "/library-of-dreams", "destination": "/posts/", "permanent": true },
+    { "source": "/library-of-dreams/", "destination": "/posts/", "permanent": true },
+    { "source": "/tarot", "destination": "https://sparklebox-tarot.streamlit.app/", "permanent": true },
+    { "source": "/tarot/", "destination": "https://sparklebox-tarot.streamlit.app/", "permanent": true },
+    { "source": "/the-hidddenwork", "destination": "/the-hidden-work-a-modern-initiation-into-mental-alchemy/", "permanent": true },
+    { "source": "/the-hidddenwork/", "destination": "/the-hidden-work-a-modern-initiation-into-mental-alchemy/", "permanent": true },
+    { "source": "/tag/:path*", "destination": "/posts/", "permanent": true },
+    { "source": "/category/:path*", "destination": "/posts/", "permanent": true },
+    {
+      "source": "/:file(.*-1024x775\\.jpg)",
+      "destination": "/images/sparklebox-og.png",
+      "permanent": false
     }
   ],
   "github": {
@@ -15,21 +30,24 @@
   },
   "headers": [
     {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=()" }
+      ]
+    },
+    {
       "source": "/musebox-dreams",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
     },
     {
       "source": "/",
       "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
+        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
     }
   ]

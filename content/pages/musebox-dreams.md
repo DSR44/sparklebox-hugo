@@ -42,8 +42,8 @@ An ivory trellis bower suspended between two crescent moons, woven from crystall
 
 ## ✨ Continue Your Journey
 
-- [🌌 Explore DreamToolkit Portals](/dreamtoolkit/)
-- [🔮 Sparklebox Tarot](/tarot/)
-- [🌙 Enter The Hidden Work](/the-hidddenwork/)
+- [🌌 Explore DreamToolkit Portals](/the-dreamtoolkit/)
+- [🔮 Sparklebox Tarot](https://sparklebox-tarot.streamlit.app/)
+- [🌙 Enter The Hidden Work](/the-hidden-work-a-modern-initiation-into-mental-alchemy/)
 
 *Discover transformational portals, mystical tools, and guided practices for your inner alchemy journey.*

@@ -10,8 +10,18 @@
 {{- $seoTitle := site.Title }}
 {{- if .IsHome }}
   {{- $seoTitle = site.Params.homeTitle | default site.Title }}
+{{- else if .IsPage }}
+  {{- $seoTitle = .Title }}
 {{- else if .Title }}
   {{- $seoTitle = printf "%s | %s" .Title site.Title }}
+  {{- if in .RelPermalink "/page/" }}
+    {{- $parts := split (trim .RelPermalink "/") "/" }}
+    {{- range $i, $p := $parts }}
+      {{- if and (eq $p "page") (lt (add $i 1) (len $parts)) }}
+        {{- $seoTitle = printf "%s — Page %s | %s" $.Title (index $parts (add $i 1)) site.Title }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
 {{- end }}
 <title>{{ $seoTitle }}</title>
 
@@ -24,7 +34,13 @@
 {{- end }}
 <meta name="description" content="{{ partial "seo_description.html" . }}">
 <meta name="author" content="{{ (partial "author.html" . ) }}">
-<link rel="canonical" href="{{ if .Params.canonicalURL -}} {{ trim .Params.canonicalURL " " }} {{- else -}} {{ .Permalink }} {{- end }}">
+{{- $canonical := .Permalink | absURL -}}
+{{- if .Params.canonicalURL -}}
+  {{- $canonical = trim .Params.canonicalURL " " -}}
+{{- else if in .RelPermalink "/page/" -}}
+  {{- $canonical = .RelPermalink | absURL -}}
+{{- end -}}
+<link rel="canonical" href="{{ $canonical }}">
 {{- if site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
 {{- end }}

@@ -823,6 +823,7 @@ body.list main {
 }
 
 .sb-playground__header h2,
+.sb-playground__headline,
 .portal-section-title {
   font-family: var(--sb-font-display) !important;
   font-size: 1.45rem !important;

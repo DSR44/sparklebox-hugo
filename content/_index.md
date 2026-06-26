@@ -38,16 +38,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Morning Floor Check</h2>
-<span class="date">June 25, 2026</span>
+<h2>Shakedown Friday</h2>
+<span class="date">June 26, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your bare feet register the floor like it’s two degrees colder than the rest of you and your heels keep shifting, trying to find a warmer square inch.</p>
+<p class="sb-checkin__hook">Your jaw edges forward like a drawer that won&#x27;t close, each pulse behind your cheekbones keeping time with the coffee maker.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">That cold-seeking dance is your interoceptors gossiping with your vagus nerve. When the soles feel something steady, your brain flips the “I’m held” switch and your cortisol drip slows. Grounding isn’t mystical—it’s electrical flow.</p>
+<p class="sb-checkin__science">The vagus nerve exits your skull right behind that tight jaw, carrying 80% of the chill-out signals to your organs. When it&#x27;s pinched by tension, your heart and lungs act like they’re still in Thursday’s meeting.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up, soften your gaze to the ground. Inhale normally through the nose, then a quick second sip of air. Slow exhale through pursed lips for six counts. On the next in-breath, press each toe into the floor for four beats; exhale for six while melting your arches. Two rounds, 45 seconds.</div>
-<p class="sb-checkin__close">The collagen in your soles takes four minutes to rebound but keeps sending “all clear” signals long after you stop moving.</p>
+<div class="sb-checkin__reset">Drop your shoulders heavy. Let your mouth hang open (yes, drool is allowed). Shake your head side-to-side for 30 seconds—small, floppy-dog style. Then let your whole upper body shimmy for 20 seconds—hands included. Finish with one big exhale through loose lips that sounds like a horse sighing. Total time: 50 seconds.</div>
+<p class="sb-checkin__close">That exhale just flooded your spleen with acetylcholine, telling your entire bloodstream the weekend is already here.</p>
 </div>
 </div>
 

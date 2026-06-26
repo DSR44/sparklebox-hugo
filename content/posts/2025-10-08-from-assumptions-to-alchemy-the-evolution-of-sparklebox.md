@@ -107,9 +107,9 @@ You're ready for The Hidden Work — A Modern Initiation into Mental Alchemy.
 
 Learn the art of conscious transmutation — where words, awareness, and energy converge to create your reality.
 
-[🕯️ Enter The Hidden Work](https://sparklebox.blog/the-hidden-work-a-modern-initiation-into-mental-alchemy/)
+[🕯️ Enter The Hidden Work](https://www.sparklebox.blog/the-hidden-work-a-modern-initiation-into-mental-alchemy/)
 
-[🎵 Explore Soundbox](https://sparklebox.blog/soundbox/)
+[🎵 Explore Soundbox](https://www.sparklebox.blog/soundbox/)
 
   Experience more healing soundbaths and frequencies in our Soundbox collection — designed for meditation, focus, and inner transformation.
 

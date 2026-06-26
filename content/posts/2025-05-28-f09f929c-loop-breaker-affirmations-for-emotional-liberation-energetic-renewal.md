@@ -64,4 +64,4 @@ Hold this amethyst palm stone as you recite your Loop Breaker affirmations, lett
 
 💭 This was only the beginning...
 
-Step into the [**MuseBox**](https://sparklebox.blog/tag/musebox) — where your next vision, mantra, or whispering spell is already waiting.
+Step into the [**MuseBox**](https://www.sparklebox.blog/posts/) — where your next vision, mantra, or whispering spell is already waiting.

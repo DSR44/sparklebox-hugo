@@ -65,4 +65,4 @@ As you slip into a state of heightened consciousness, remember that your subcons
 
 💭 This was only the beginning...
 
-Step into the [**MuseBox**](https://sparklebox.blog/%E2%9C%A8-the-musebox/) — where your next vision, mantra, or whispering spell is already waiting.
+Step into the [**MuseBox**](https://www.sparklebox.blog/%E2%9C%A8-the-musebox/) — where your next vision, mantra, or whispering spell is already waiting.

@@ -78,5 +78,5 @@ you remember:
 It is remembered within.*
 
 *Step into the Pocket Theater, where each whisper is a revelation.*
-Discover more stories, daily spells of self-love, and dream-written truths inside the [Library of Dreams](https://sparklebox.blog/library-of-dreams/).
+Discover more stories, daily spells of self-love, and dream-written truths inside the [Library of Dreams](https://www.sparklebox.blog/posts/).
 ✨ *Your light has always belonged to you.*

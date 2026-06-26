@@ -7,16 +7,17 @@
 {{- $loading := .loading | default "lazy" -}}
 {{- $class := .class | default "" -}}
 {{- $meta := index site.Data.image_manifest $src -}}
-{{- $webp := "" -}}
+{{- $display := $src -}}
 {{- with $meta -}}
-  {{- with .webp -}}{{- $webp = . -}}{{- end -}}
-{{- end -}}
-{{- if and (not $webp) (hasSuffix $src ".png") -}}
-  {{- $webp = replace $src ".png" ".webp" -}}
-{{- else if and (not $webp) (hasSuffix $src ".jpg") -}}
-  {{- $webp = replace $src ".jpg" ".webp" -}}
-{{- else if and (not $webp) (hasSuffix $src ".jpeg") -}}
-  {{- $webp = replace $src ".jpeg" ".webp" -}}
+  {{- with .webp -}}{{- $display = . -}}{{- end -}}
+{{- else -}}
+  {{- if hasSuffix $src ".png" -}}
+    {{- $display = replace $src ".png" ".webp" -}}
+  {{- else if hasSuffix $src ".jpg" -}}
+    {{- $display = replace $src ".jpg" ".webp" -}}
+  {{- else if hasSuffix $src ".jpeg" -}}
+    {{- $display = replace $src ".jpeg" ".webp" -}}
+  {{- end -}}
 {{- end -}}
 {{- $width := "" -}}
 {{- $height := "" -}}
@@ -24,11 +25,4 @@
   {{- with .width -}}{{- $width = . -}}{{- end -}}
   {{- with .height -}}{{- $height = . -}}{{- end -}}
 {{- end -}}
-{{- if $webp -}}
-<picture>
-  <source srcset="{{ $webp | absURL }}" type="image/webp">
-  <img src="{{ $src | absURL }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
-</picture>
-{{- else -}}
-<img src="{{ $src | absURL }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
-{{- end -}}
+<img src="{{ $display | absURL }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ with $class }} class="{{ . }}"{{ end }}{{ with $width }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>

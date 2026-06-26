@@ -79,8 +79,8 @@ you are whole, resilient, and radiant.
 
 ✨ Continue your journey...
 
-▫️ Step into the [**Musebox**](https://sparklebox.blog/%E2%9C%A8-the-musebox/) for daily mantras & visions
+▫️ Step into the [**Musebox**](https://www.sparklebox.blog/%E2%9C%A8-the-musebox/) for daily mantras & visions
 
-▫️ Drift into the [**Soundbox**](https://sparklebox.blog/soundbox/) for immersive healing soundscapes
+▫️ Drift into the [**Soundbox**](https://www.sparklebox.blog/soundbox/) for immersive healing soundscapes
 
 — Elle Vida | Sparklebox Spell Site ✦

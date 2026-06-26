@@ -134,7 +134,7 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
     width = 1200
     height = 630
 
-  images = ["/images/sparklebox-og.png"]
+  images = ["/images/sparklebox-og.webp"]
   
   # PaperMod specific settings
   ShowReadingTime = false

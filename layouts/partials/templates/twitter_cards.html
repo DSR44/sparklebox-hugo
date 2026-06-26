@@ -1,10 +1,10 @@
 {{- if .Params.cover.image -}}
 <meta name="twitter:card" content="summary_large_image">
-{{- if (ne $.Params.cover.relative true) }}
-<meta name="twitter:image" content="{{ .Params.cover.image | absURL }}">
-{{- else }}
-<meta name="twitter:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
-{{- end}}
+{{- $coverSrc := .Params.cover.image -}}
+{{- if not (hasPrefix $coverSrc "/") -}}
+  {{- $coverSrc = printf "/%s" $coverSrc -}}
+{{- end -}}
+<meta name="twitter:image" content="{{ partial "sb_image_url.html" (dict "src" $coverSrc) }}">
 {{- else }}
 {{- $images := partial "templates/_funcs/get-page-images" . }}
 {{- with index $images 0 }}
@@ -16,7 +16,7 @@
   <meta name="twitter:image" content="{{ index . 0 | absURL }}">
   {{- else }}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ absURL "/images/sparklebox-og.png" }}">
+  <meta name="twitter:image" content="{{ partial "sb_image_url.html" (dict "src" "/images/sparklebox-og.png") }}">
   {{- end }}
 {{- end }}
 {{- end }}

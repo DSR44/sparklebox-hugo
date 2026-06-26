@@ -56,7 +56,7 @@ Gentle spells. Soft strength. Anchors for your soul.
 🧰 It’s not a workbook.
 It’s a **dreambox** of transformational tools, laced in aesthetic, magic, and metaphor. You’ll find:
 
-### [💎 Sparkleboxes](https://sparklebox.blog/tag/sparkleboxes/)
+### [💎 Sparkleboxes](https://www.sparklebox.blog/posts/)
 
 Mini-boxes of affirmations, each one designed as an energetic reprogram.
 They’re not just “I am” statements — they’re seeds of identity.
@@ -64,7 +64,7 @@ Each one whispers to the part of you that remembers how to grow.
 
 > *“I carry galaxies in my chest. I move like I’ve already bloomed.”*
 
-### [🪞 The Mirror Hall](https://sparklebox.blog/tag/the-mirror-hall-collection-%f0%9f%8c%b9/)
+### [🪞 The Mirror Hall](https://www.sparklebox.blog/posts/)
 
 This is where your shadow and light sit down for tea.
 Symbolic posts that reflect back your blind spots, loops, and locked rooms — and hand you the key.
@@ -72,7 +72,7 @@ Symbolic posts that reflect back your blind spots, loops, and locked rooms — a
 > *“The bird does not ask the sky for permission to sing.
 It sings — and the day begins.”*
 
-### [✂️ SnapSpells](https://sparklebox.blog/tag/snapspells/)
+### [✂️ SnapSpells](https://www.sparklebox.blog/posts/)
 
 Short, sharp magical phrases that **cut through spirals** of doubt, fear, and stagnation.
 They’re emotional pattern-interrupts. Think of them as sacred scissors.
@@ -80,14 +80,14 @@ They’re emotional pattern-interrupts. Think of them as sacred scissors.
 > *“This loop is not a prophecy. It’s a pattern.
 And I am the one who breaks it.”*
 
-### [🎭 Pocket Theater](https://sparklebox.blog/tag/pocket-theater/)
+### [🎭 Pocket Theater](https://www.sparklebox.blog/posts/)
 
 Life is a stage. And you, darling, are not just an actor — you’re the playwright.
 Pocket Theater gives you character prompts, inner dialogues, and soul monologues to re-script your narrative.
 
 > *“Tonight, I reclaim the spotlight in my own mind.”*
 
-### [🕯️ The oracle's Grove](https://sparklebox.blog/category/dreamweavers-tales/%f0%9f%94%ae-the-oracles-grove/)
+### [🕯️ The oracle's Grove](https://www.sparklebox.blog/category/dreamweavers-tales/%f0%9f%94%ae-the-oracles-grove/)
 
 Each zodiac sign becomes a mythic mirror.
 These tales are not about astrology — they’re about **archetypes**.
@@ -122,7 +122,7 @@ Do it not because you’re ready — but because you are becoming.
 
 ## 💌 Ready to Begin?
 
-**[Open the Toolkit →](https://sparklebox.blog/%e2%9c%a8-the-dreamtoolkit-%e2%9c%a8/)**
+**[Open the Toolkit →](https://www.sparklebox.blog//the-dreamtoolkit/)**
 *Gentle tools. Deep shifts. Begin your inner unfolding.*
 
 Join the newsletter for your **daily dream-tool** — a Sparklebox delivered to your inbox.

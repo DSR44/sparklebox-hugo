@@ -87,7 +87,7 @@ It's creation without resistance.
 
   and rewrite the story you see in the mirror.
 
-[✨ Begin Your Ritual](https://sparklebox.blog/the-sparkle-bazaar/)
+[✨ Begin Your Ritual](https://www.sparklebox.blog/the-sparkle-bazaar/)
 
 ## 𖤐 Latest Posts
 

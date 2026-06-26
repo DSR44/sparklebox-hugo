@@ -155,7 +155,7 @@ The question is: *What am I repeating? What am I reacting to? What am I allowing
 If any of this resonates with you… you’re not alone.
 
 And if you want to go deeper into the language of self-concept, thought rewiring, and soft reality design,  
-you can explore my [**Base Class series**](https://sparklebox.blog/tag/sparklebox-base-class/) or the [**Dream Toolkit**](https://sparklebox.blog/%E2%9C%A8-the-dreamtoolkit-%E2%9C%A8/).
+you can explore my [**Base Class series**](https://www.sparklebox.blog/posts/) or the [**Dream Toolkit**](https://www.sparklebox.blog//the-dreamtoolkit/).
 
 They were born from these realizations — and I think you might find something there that whispers back to you.
 

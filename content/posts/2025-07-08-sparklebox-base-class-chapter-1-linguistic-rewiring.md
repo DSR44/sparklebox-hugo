@@ -95,4 +95,4 @@ Identity-based affirmations integrate your goals into your self-concept, natural
 
         ✨ Explore the DreamToolkit →
 
-    ](https://sparklebox.blog/✨-the-dreamtoolkit-✨/)
+    ](https://www.sparklebox.blog/the-dreamtoolkit/)

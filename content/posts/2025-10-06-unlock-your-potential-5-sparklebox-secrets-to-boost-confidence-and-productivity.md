@@ -167,13 +167,13 @@ They're not about chasing a better self, but meeting the one already forming qui
 
 Let your next mantra find you...
 
-[🫧 Enter the MuseBox](https://sparklebox.blog/musebox-dreams/)
+[🫧 Enter the MuseBox](https://www.sparklebox.blog/musebox-dreams/)
 
   A living archive of affirmations, visual rituals, and gentle mental rewires designed to keep your energy clear and your confidence radiant.
 
 Ready to take your rituals off the screen?
 
-[🕯️ Visit The Sparkle Bazaar](https://sparklebox.blog/the-sparkle-bazaar/)
+[🕯️ Visit The Sparkle Bazaar](https://www.sparklebox.blog/the-sparkle-bazaar/)
 
   A poetic marketplace of digital spells, affirmation packs, and one-day power rituals crafted for emotional alchemy and self-renewal.
 

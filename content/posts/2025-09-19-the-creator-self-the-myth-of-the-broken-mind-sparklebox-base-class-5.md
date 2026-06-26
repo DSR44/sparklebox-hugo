@@ -117,5 +117,5 @@ cover:
 
     Update the self who opens them.
 
-  [🎙️ Explore the Soundbox](https://sparklebox.blog/soundbox/)
-  [ ✨ Visit the Musebox](https://sparklebox.blog/%E2%9C%A8-the-musebox/)
+  [🎙️ Explore the Soundbox](https://www.sparklebox.blog/soundbox/)
+  [ ✨ Visit the Musebox](https://www.sparklebox.blog/%E2%9C%A8-the-musebox/)

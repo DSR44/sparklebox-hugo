@@ -47,10 +47,10 @@ Loneliness whispers, *“nobody cares.”* But what if everyone is whispering th
 
 Immerse yourself in **dreamcore soundscapes** — a growing collection of ambient tracks designed for focus, reflection, and escape. New songs are added regularly, so let the playlist carry you into another realm.
 
-[✨ Listen to the Soundbox](https://sparklebox.blog/soundbox/)
+[✨ Listen to the Soundbox](https://www.sparklebox.blog/soundbox/)
 
 #### 🖼️ Visit the MuseBox
 
 Discover daily **visual mantras and dreamy rituals** — your pocket gallery of inspiration, affirmations, and subtle spells.
 
-[✨ Open the MuseBox](https://sparklebox.blog/%E2%9C%A8-the-musebox/)
+[✨ Open the MuseBox](https://www.sparklebox.blog/%E2%9C%A8-the-musebox/)

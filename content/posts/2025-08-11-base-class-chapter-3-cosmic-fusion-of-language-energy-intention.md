@@ -135,4 +135,4 @@ Every sentence is a subtle spell: breath carrying meaning across the space betwe
   **Let the practice follow you into the day.** I publish *daily* dreamcore affirmations and soft rituals that pair perfectly with this Base Class.
 
     [Visit Sparklebox](https://sparklebox.blog)
-    [Dream Toolkit →](https://sparklebox.blog/%E2%9C%A8-the-dreamtoolkit-%E2%9C%A8/)
+    [Dream Toolkit →](https://www.sparklebox.blog//the-dreamtoolkit/)

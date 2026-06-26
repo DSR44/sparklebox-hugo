@@ -74,7 +74,7 @@ footer
 
 Fold these lines into your breathwork, journaling, or sound rituals. Speak softly, then observe how your interior geometry rearranges to fit your chosen timeline.
 
-  [Open Musebox](https://sparklebox.blog/musebox-dreams/)
+  [Open Musebox](https://www.sparklebox.blog/musebox-dreams/)
   Drift to Soundbox
 
   *Escape the Ordinary. Enter the AI Dreamscape.* If this stirred something bright, share it with a kindred explorer.

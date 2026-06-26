@@ -1,0 +1,20 @@
+{{- $src := .src -}}
+{{- if not $src -}}{{- else -}}
+{{- if not (hasPrefix $src "/") -}}
+  {{- $src = printf "/%s" $src -}}
+{{- end -}}
+{{- $meta := index site.Data.image_manifest $src -}}
+{{- $display := $src -}}
+{{- with $meta -}}
+  {{- with .webp -}}{{- $display = . -}}{{- end -}}
+{{- else -}}
+  {{- if hasSuffix $src ".png" -}}
+    {{- $display = replace $src ".png" ".webp" -}}
+  {{- else if hasSuffix $src ".jpg" -}}
+    {{- $display = replace $src ".jpg" ".webp" -}}
+  {{- else if hasSuffix $src ".jpeg" -}}
+    {{- $display = replace $src ".jpeg" ".webp" -}}
+  {{- end -}}
+{{- end -}}
+{{- $display | absURL -}}
+{{- end -}}

@@ -104,7 +104,7 @@ When you learn to stand in the fire without fear, you become the flame itself: l
 
 This chapter is part of **The Hidden Work™ — Elemental Alchemy Series**, an immersive journey through Fire, Water, Air, Earth, and Light.
 
-[🌙 Enter The Hidden Work](https://sparklebox.blog/the-hidden-work-a-modern-initiation-into-mental-alchemy/)
+[🌙 Enter The Hidden Work](https://www.sparklebox.blog/the-hidden-work-a-modern-initiation-into-mental-alchemy/)
 
   Access the full Elemental Alchemy Series, guided rituals, audio narrations, and Elle Vida's private reflections on inner transformation.
 

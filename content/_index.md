@@ -38,16 +38,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Shakedown Friday</h2>
-<span class="date">June 26, 2026</span>
+<h2>Tuesday&#x27;s Weight</h2>
+<span class="date">June 30, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw edges forward like a drawer that won&#x27;t close, each pulse behind your cheekbones keeping time with the coffee maker.</p>
+<p class="sb-checkin__hook">Your tongue rests against the roof of your mouth like it&#x27;s holding something up. The space between your molars has forgotten what open feels like.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">The vagus nerve exits your skull right behind that tight jaw, carrying 80% of the chill-out signals to your organs. When it&#x27;s pinched by tension, your heart and lungs act like they’re still in Thursday’s meeting.</p>
+<p class="sb-checkin__science">This is sensory gating in action—your nervous system turned down the volume on internal signals to push through Monday, and now the dial&#x27;s stuck. Interoception, your body&#x27;s internal GPS, needs a signal boost to recalibrate where you actually are versus where you&#x27;re still bracing to be.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Drop your shoulders heavy. Let your mouth hang open (yes, drool is allowed). Shake your head side-to-side for 30 seconds—small, floppy-dog style. Then let your whole upper body shimmy for 20 seconds—hands included. Finish with one big exhale through loose lips that sounds like a horse sighing. Total time: 50 seconds.</div>
-<p class="sb-checkin__close">That exhale just flooded your spleen with acetylcholine, telling your entire bloodstream the weekend is already here.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw drop enough that your lips part slightly. Now place one palm flat on your chest, the other on your belly. Feel which hand moves more on your next three breaths—don&#x27;t change it, just notice. On breath four, let the exhale last two counts longer than the inhale. Switch hand positions. Repeat once. Done.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to pressure changes in the chest cavity within seconds—this isn&#x27;t relaxation, it&#x27;s physiology catching up to the present.</p>
 </div>
 </div>
 

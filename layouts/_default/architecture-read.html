@@ -1,7 +1,28 @@
 {{- define "main" }}
-<div class="landing-page sb-arch-read-page">
-  <div class="landing-content">
+<div class="landing-page sb-arch-read-page" id="arch-read-gate">
+  <div class="landing-content sb-arch-read-gate">
+    <p class="sb-arch-read-gate__msg">Verifying subscriber access…</p>
+  </div>
+  <div class="landing-content sb-arch-read-body" hidden>
     {{ .Content }}
   </div>
 </div>
+<script>
+(function () {
+  var next = encodeURIComponent(window.location.pathname);
+  fetch('/api/architecture-session', { credentials: 'include' })
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      if (d.ok) {
+        document.querySelector('.sb-arch-read-gate').hidden = true;
+        document.querySelector('.sb-arch-read-body').hidden = false;
+        return;
+      }
+      window.location.replace('/the-architecture/unlock/?next=' + next);
+    })
+    .catch(function () {
+      window.location.replace('/the-architecture/unlock/?next=' + next);
+    });
+})();
+</script>
 {{- end }}

@@ -4070,6 +4070,19 @@ a.freq-post-card:hover .freq-post-arrow {
     color: rgba(34, 211, 238, 0.9) !important;
 }
 
+.sb-arch-read-gate {
+    text-align: center;
+    padding: 4rem 1.5rem;
+}
+
+.sb-arch-read-gate__msg {
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 0.95rem !important;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(34, 211, 238, 0.75) !important;
+}
+
 /* Adaptation page — reuse path scale */
 .sb-adapt-page .sb-path-title { margin-bottom: 1.25rem; }
 

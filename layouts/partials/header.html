@@ -126,15 +126,16 @@
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- if le .Weight 5 }}
-            <li{{ if eq .Name "Frequency Upgrade" }} class="freq-menu-item"{{ else if eq .Name "Musebox" }} class="musebox-menu-item"{{ else if eq .Name "Bazaar" }} class="bazaar-menu-item"{{ end }}>
+            {{- if le .Weight 6 }}
+            <li{{ if eq .Name "Frequency Upgrade" }} class="freq-menu-item"{{ else if eq .Name "Musebox" }} class="musebox-menu-item"{{ else if eq .Name "Bazaar" }} class="bazaar-menu-item"{{ else if eq .Name "The Layered Tree" }} class="architecture-menu-item"{{ end }}>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
                     {{ if findRE "://" .URL }}target="_blank" rel="noopener"{{ end }}
                     {{ if eq .Name "Frequency Upgrade" }}class="freq-link"{{ end }}
                     {{ if eq .Name "Musebox" }}class="musebox-link"{{ end }}
-                    {{ if eq .Name "Bazaar" }}class="bazaar-link"{{ end }}>
+                    {{ if eq .Name "Bazaar" }}class="bazaar-link"{{ end }}
+                    {{ if eq .Name "The Layered Tree" }}class="architecture-link"{{ end }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
-                        {{- if eq .Name "Frequency Upgrade" }}⚡ {{ end }}{{- if eq .Name "Musebox" }}✦ {{ end }}{{- if eq .Name "Bazaar" }}◈ {{ end }}{{- .Name -}}
+                        {{- if eq .Name "Frequency Upgrade" }}⚡ {{ end }}{{- if eq .Name "Musebox" }}✦ {{ end }}{{- if eq .Name "Bazaar" }}◈ {{ end }}{{- if eq .Name "The Layered Tree" }}◈ {{ end }}{{- .Name -}}
                     </span>
                 </a>
             </li>
@@ -147,7 +148,7 @@
                     {{- range site.Menus.main }}
                     {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
                     {{- $page_url:= $currentPage.Permalink | absLangURL }}
-                    {{- if gt .Weight 5 }}
+                    {{- if gt .Weight 6 }}
                     <li>
                         <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"
                             {{ if findRE "://" .URL }}target="_blank" rel="noopener"{{ end }}>

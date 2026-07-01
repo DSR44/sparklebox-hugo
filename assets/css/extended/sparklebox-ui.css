@@ -410,6 +410,19 @@ nav a:hover,
   box-shadow: 0 0 28px rgba(34, 211, 238, 0.25) !important;
 }
 
+.sb-btn--architecture {
+  background: linear-gradient(135deg, rgba(103, 232, 249, 0.14), rgba(34, 211, 238, 0.1)) !important;
+  border-color: rgba(103, 232, 249, 0.42) !important;
+  box-shadow: 0 0 22px rgba(103, 232, 249, 0.14) !important;
+  color: #e0f2fe !important;
+}
+
+.sb-btn--architecture:hover {
+  border-color: #67e8f9 !important;
+  background: linear-gradient(135deg, rgba(103, 232, 249, 0.22), rgba(34, 211, 238, 0.18)) !important;
+  box-shadow: 0 0 32px rgba(103, 232, 249, 0.28) !important;
+}
+
 /* Hide old pyramid — OG image is the brand mark now */
 .pyramid-container {
   display: none !important;
@@ -954,6 +967,15 @@ body.list main {
 .sb-play-card__icon--freq { color: var(--sb-neon-cyan); border-color: rgba(34, 211, 238, 0.45); box-shadow: 0 0 20px rgba(34, 211, 238, 0.2); }
 .sb-play-card__icon--tarot { color: #c4b5fd; border-color: rgba(196, 181, 253, 0.25); background: rgba(99, 102, 241, 0.08); }
 .sb-play-card__icon--drift { color: #818cf8; border-color: rgba(129, 140, 248, 0.3); background: rgba(99, 102, 241, 0.08); }
+.sb-play-card__icon--architecture { color: #67e8f9; border-color: rgba(103, 232, 249, 0.38); background: rgba(103, 232, 249, 0.08); box-shadow: 0 0 18px rgba(103, 232, 249, 0.15); }
+.sb-play-card--architecture {
+  border-color: rgba(103, 232, 249, 0.28) !important;
+  background: linear-gradient(145deg, rgba(12, 25, 41, 0.92), rgba(15, 31, 46, 0.88)) !important;
+}
+.sb-play-card--architecture:hover {
+  border-color: rgba(103, 232, 249, 0.5) !important;
+  box-shadow: 0 0 32px rgba(103, 232, 249, 0.16) !important;
+}
 
 .sb-play-card__body {
   flex: 1;
@@ -2629,9 +2651,15 @@ a.sb-play-card .sb-play-card__chev {
 }
 
 .musebox-menu-item .active,
-.bazaar-menu-item .active {
+.bazaar-menu-item .active,
+.architecture-menu-item .active {
   color: var(--sb-neon-cyan) !important;
   -webkit-text-fill-color: var(--sb-neon-cyan) !important;
+}
+
+.architecture-link span {
+  color: #7dd3fc !important;
+  -webkit-text-fill-color: #7dd3fc !important;
 }
 
 /* === 404 === */

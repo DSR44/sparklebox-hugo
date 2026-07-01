@@ -15,6 +15,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <p class="sb-brand-hero__tagline">How you see shapes what you live. The Map shows where your brain operates. The Reset shows why you got stuck. Perception is Creation.</p>
 <div class="sb-brand-hero__actions">
 <a class="sb-btn sb-btn--primary" href="/the-path/">The Path — Map & Reset</a>
+<a class="sb-btn sb-btn--architecture" href="/the-architecture/">The Layered Tree</a>
 <a class="sb-btn" href="/frequency-upgrade/">The Map</a>
 <a class="sb-btn" href="/musebox-dreams/">Musebox</a>
 </div>
@@ -57,6 +58,11 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-playground__neon-bar" aria-hidden="true"></div>
 <h2 class="portal-section-title">Enter the Realms</h2>
 <div class="sb-play-grid sb-play-grid--compact">
+<a class="sb-play-card sb-play-card--architecture" href="/the-architecture/">
+<div class="sb-play-card__icon sb-play-card__icon--architecture" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22V8M12 8L6 14M12 8l6 6M4 10l8-8 8 8"/></svg></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Architecture</span><h3>The Layered Tree</h3><p>Six subscriber transmissions.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
 <a class="sb-play-card" href="/the-dreamtoolkit/">
 <div class="sb-play-card__icon sb-play-card__icon--portals" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18"/></svg></div>
 <div class="sb-play-card__body"><span class="sb-play-card__label">Portals</span><h3>Dream Toolkit</h3><p>8 interactive realms.</p></div>
@@ -78,6 +84,19 @@ title: "Welcome to the Sparklebox Sanctuary"
 <span class="sb-play-card__chev">›</span>
 </a>
 </div>
+</div>
+
+<hr class="sanctuary-divider">
+
+<div class="sb-arch-home-teaser">
+<div class="sb-arch-home-teaser__neon-bar" aria-hidden="true"></div>
+<div class="sb-arch-home-teaser__glow" aria-hidden="true"></div>
+<span class="sb-arch-home-teaser__badge">◈ Subscriber series · The Architecture</span>
+<h2 class="sb-arch-home-teaser__title">The Layered Tree</h2>
+<p class="sb-arch-home-teaser__lead">Reality is not one thing. It is six layers — and most people live in the branches without knowing the trunk exists.</p>
+<p class="sb-arch-home-teaser__hint">Six transmissions · read on the site · subscriber access only</p>
+<a href="/the-architecture/" class="sb-arch-home-teaser__btn">Enter The Layered Tree →</a>
+<a href="/the-architecture/unlock/?next=%2Fthe-architecture%2Fread%2Fintro%2F" class="sb-arch-home-teaser__link">Already subscribed? Read the introduction →</a>
 </div>
 
 <hr class="sanctuary-divider">

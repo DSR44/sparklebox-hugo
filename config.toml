@@ -26,7 +26,7 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
 [taxonomies]
   category = "categories"
 
-# Menu — Main bar (1–5) + dropdown (6+)
+# Menu — Main bar (1–6) + dropdown (7+)
 [menu]
   [[menu.main]]
     name = "Home"
@@ -49,64 +49,69 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
     weight = 4
 
   [[menu.main]]
+    name = "The Layered Tree"
+    url = "/the-architecture/"
+    weight = 5
+
+  [[menu.main]]
     name = "The Path"
     url = "/the-path/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "The Map"
     url = "/frequency-upgrade/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "Bazaar"
     url = "/the-sparkle-bazaar/"
-    weight = 7
+    weight = 8
 
   # Tools & more (dropdown)
   [[menu.main]]
     name = "The Reset"
     url = "/adaptation-protocol/"
-    weight = 6
+    weight = 9
   [[menu.main]]
     name = "The Drift & Oracle"
     url = "https://huggingface.co/spaces/FutureHAi/thedrift"
-    weight = 6
+    weight = 10
 
   [[menu.main]]
     name = "Constellation Compiler"
     url = "https://constellationcompiler.art/"
-    weight = 7
+    weight = 11
 
   [[menu.main]]
     name = "Dream Portals"
     url = "/the-dreamtoolkit/"
-    weight = 8
+    weight = 12
 
   [[menu.main]]
     name = "Tarot"
     url = "https://sparklebox-tarot.streamlit.app/"
-    weight = 9
+    weight = 13
 
   [[menu.main]]
     name = "Ancient Wisdom"
     url = "/categories/mystical-wisdom-series/"
-    weight = 10
+    weight = 14
 
   [[menu.main]]
     name = "Search"
     url = "/search/"
-    weight = 11
+    weight = 15
 
   [[menu.main]]
     name = "FAQ"
     url = "/faq/"
-    weight = 13
+    weight = 16
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 14
+    weight = 17
 
 # PaperMod Theme Settings
 [params]

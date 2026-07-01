@@ -3,22 +3,32 @@
   <div class="landing-content sb-arch-read-gate">
     <p class="sb-arch-read-gate__msg">Verifying subscriber access…</p>
   </div>
-  <div class="landing-content sb-arch-read-body" hidden>
-    {{ .Content }}
-  </div>
+  <div class="landing-content sb-arch-read-body" id="arch-read-body" hidden></div>
 </div>
 <script>
 (function () {
+  var readKey = {{ (.Params.read_key | default "") | jsonify }};
   var next = encodeURIComponent(window.location.pathname);
-  fetch('/api/architecture-session', { credentials: 'include' })
-    .then(function (r) { return r.json(); })
-    .then(function (d) {
-      if (d.ok) {
-        document.querySelector('.sb-arch-read-gate').hidden = true;
-        document.querySelector('.sb-arch-read-body').hidden = false;
-        return;
+
+  if (!readKey) {
+    window.location.replace('/the-architecture/unlock/?next=' + next);
+    return;
+  }
+
+  fetch('/api/architecture-read?key=' + encodeURIComponent(readKey), { credentials: 'include' })
+    .then(function (r) {
+      if (r.status === 401) {
+        window.location.replace('/the-architecture/unlock/?next=' + next);
+        return null;
       }
-      window.location.replace('/the-architecture/unlock/?next=' + next);
+      if (!r.ok) throw new Error('load failed');
+      return r.json();
+    })
+    .then(function (d) {
+      if (!d || !d.html) return;
+      document.getElementById('arch-read-body').innerHTML = d.html;
+      document.querySelector('.sb-arch-read-gate').hidden = true;
+      document.getElementById('arch-read-body').hidden = false;
     })
     .catch(function () {
       window.location.replace('/the-architecture/unlock/?next=' + next);

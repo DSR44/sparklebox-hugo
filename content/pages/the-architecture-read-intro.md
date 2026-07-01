@@ -6,26 +6,6 @@ layout: architecture-read
 url: "/the-architecture/read/intro/"
 description: "Introduction · The Layered Tree · The Layered Tree by Sparklebox"
 robots: "noindex, nofollow"
+params:
+  read_key: "intro"
 ---
-
-<div class="sb-arch-read">
-<p class="sb-arch-read__meta">Introduction · The Layered Tree</p>
-<h2 class="sb-arch-read__h2">Before The Tree</h2>
-<blockquote class="sb-arch-read__quote">I did not arrive at this framework through philosophy. I arrived through a room.</blockquote>
-<p class="sb-arch-read__p">There was a season — a foreign country, a body that would not move, and a silence so complete it stopped performing for anyone. Not the solitude people romanticize. Literal isolation. Health failing. No audience. No role to play.
-</p>
-<p class="sb-arch-read__p">What kept me from breaking was not resilience marketed back as a brand. It was a question I could not escape: <strong>what is this sense of being?</strong> Not who am I — what is the sensation of being alive inside a position I had placed myself in, within a world I had never truly examined?
-</p>
-<p class="sb-arch-read__p">Most people never sit with that question long enough to hear an answer. When perception and the outer world stop matching, we do not pause — we build a smaller reality inside the larger one and call it coping. We slot our pain into frameworks that do not fit, because no one has shown us the map.
-</p>
-<p class="sb-arch-read__p">Rejection lands as identity because we have no ground beneath the layers. A no becomes proof of who we are — not because it is, but because the whole operation runs on external measurement. We agreed to a game long ago and forgot we agreed. Tradition wears the mask of consensus. Habit wears the mask of truth.
-</p>
-<p class="sb-arch-read__p">This series is the map. Six layers after this letter — the architecture behind <em>Perception is Creation</em>. Not blog posts. Not recycled wisdom. Subscriber transmissions you read here, on this site, because some work should ask you to show up.
-</p>
-<p class="sb-arch-read__p">Layer One begins next: <strong>The Trunk</strong> — the reality you agreed to live in without remembering you agreed.
-</p>
-<blockquote class="sb-arch-read__quote">Once you see the layers, you cannot unsee them. That is the point.</blockquote>
-<p class="sb-arch-read__p">— Elle Vida
-</p>
-<p class="sb-arch-read__sign">— Elle Vida · <a href="/the-architecture/">The Layered Tree</a></p>
-</div>

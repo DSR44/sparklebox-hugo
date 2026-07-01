@@ -67,7 +67,6 @@
     questions: document.querySelector('[data-screen="questions"]'),
     email: document.querySelector('[data-screen="email"]'),
     output: document.querySelector('[data-screen="output"]'),
-    offer: document.querySelector('[data-screen="offer"]'),
   };
 
   const els = {
@@ -102,7 +101,7 @@
       el.classList.toggle('sb-seen__screen--active', active);
       el.hidden = !active;
     });
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    window.scrollTo({ top: 0, behavior: 'instant' in window ? 'instant' : 'auto' });
   }
 
   function updateProgress() {
@@ -441,8 +440,6 @@
     if (els.waitlistEmail) els.waitlistEmail.value = email;
 
     showScreen('output');
-    screens.offer.hidden = false;
-    screens.offer.classList.add('sb-seen__screen--active');
   }
 
   async function submitEmail(e) {

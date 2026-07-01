@@ -14,12 +14,28 @@ title: "Welcome to the Sparklebox Sanctuary"
 <h1 class="sb-brand-hero__title">Perception is Creation</h1>
 <p class="sb-brand-hero__tagline">How you see shapes what you live. The Map shows where your brain operates. The Reset shows why you got stuck. Perception is Creation.</p>
 <div class="sb-brand-hero__actions">
+<a class="sb-btn sb-btn--seen" href="/seen/">◉ Try SEEN</a>
 <a class="sb-btn sb-btn--primary" href="/the-path/">The Path — Map & Reset</a>
 <a class="sb-btn sb-btn--architecture" href="/the-architecture/">The Layered Tree</a>
 <a class="sb-btn" href="/frequency-upgrade/">The Map</a>
 <a class="sb-btn" href="/musebox-dreams/">Musebox</a>
 </div>
 </div>
+</section>
+
+<section class="sb-seen-home-teaser">
+<div class="sb-seen-home-teaser__neon-bar" aria-hidden="true"></div>
+<div class="sb-seen-home-teaser__glow" aria-hidden="true"></div>
+<div class="sb-seen-home-teaser__rings" aria-hidden="true"></div>
+<div class="sb-seen-home-teaser__eye-wrap">
+<img class="sb-seen-home-teaser__eye" src="/images/seen/eye-symbol.svg" alt="" width="120" height="120">
+</div>
+<span class="sb-seen-home-teaser__badge">◉ Interactive · Free · 5 questions</span>
+<h2 class="sb-seen-home-teaser__title">SEEN</h2>
+<p class="sb-seen-home-teaser__tagline">The experience of being witnessed.</p>
+<p class="sb-seen-home-teaser__lead">Five questions. One mirror. A personalized Perception Mirror that names what you've been carrying — and makes you feel <em>seen</em> before you even get the result.</p>
+<p class="sb-seen-home-teaser__hint">Sp<span class="sb-seen-home-pyramid">△</span>rklebox · perception tool · screenshot-worthy</p>
+<a href="/seen/" class="sb-seen-home-teaser__btn">Begin SEEN →</a>
 </section>
 
 <div class="sanctuary-hero">
@@ -58,6 +74,11 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-playground__neon-bar" aria-hidden="true"></div>
 <h2 class="portal-section-title">Enter the Realms</h2>
 <div class="sb-play-grid sb-play-grid--compact">
+<a class="sb-play-card sb-play-card--seen" href="/seen/">
+<div class="sb-play-card__icon sb-play-card__icon--seen" aria-hidden="true"><img src="/images/seen/eye-symbol.svg" alt="" width="28" height="28"></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Interactive</span><h3>SEEN</h3><p>Five questions. One mirror. Feel witnessed.</p></div>
+<span class="sb-play-card__chev">›</span>
+</a>
 <a class="sb-play-card sb-play-card--architecture" href="/the-architecture/">
 <div class="sb-play-card__icon sb-play-card__icon--architecture" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22V8M12 8L6 14M12 8l6 6M4 10l8-8 8 8"/></svg></div>
 <div class="sb-play-card__body"><span class="sb-play-card__label">Architecture</span><h3>The Layered Tree</h3><p>The deeper read — whole structure, not just another piece.</p></div>

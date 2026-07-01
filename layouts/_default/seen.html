@@ -6,12 +6,16 @@
 
 <div class="sb-seen" id="seen-app">
   <canvas class="sb-seen__stars" id="seen-stars" aria-hidden="true"></canvas>
+  <div class="sb-seen__deco sb-seen__deco--aurora" aria-hidden="true"></div>
+  <div class="sb-seen__deco sb-seen__deco--ring" aria-hidden="true"></div>
 
   <!-- Hero -->
   <section class="sb-seen__screen sb-seen__screen--active" data-screen="hero">
     <div class="sb-seen__inner sb-seen__inner--hero">
       <div class="sb-seen__eye sb-seen__eye--hero" aria-hidden="true">
-        <img src="/images/seen/eye-symbol.svg" alt="" width="140" height="140">
+        <span class="sb-seen__eye-halo"></span>
+        <span class="sb-seen__eye-ring"></span>
+        <img src="/images/seen/eye-symbol.svg" alt="" width="180" height="180">
       </div>
       <p class="sb-seen__brand">SEEN</p>
       <p class="sb-seen__tagline">The experience of being witnessed.</p>
@@ -90,19 +94,16 @@
           <button type="button" class="sb-seen__btn sb-seen__btn--secondary" id="seen-share">Share</button>
         </div>
       </div>
-    </div>
-  </section>
 
-  <!-- Paid offer / waitlist -->
-  <section class="sb-seen__screen sb-seen__screen--offer" data-screen="offer" hidden>
-    <div class="sb-seen__inner sb-seen__inner--offer">
-      <h3 class="sb-seen__offer-title">Your Perception Mirror is the beginning. The full map goes deeper.</h3>
-      <p class="sb-seen__offer-copy">The Perception Map — a deeper read of how you operate, where you leak signal, and what layer you're actually on. Coming soon.</p>
-      <form class="sb-seen__email-form" id="seen-waitlist-form">
-        <input type="email" id="seen-waitlist-email" class="sb-seen__input" placeholder="Join the waitlist" required autocomplete="email">
-        <button type="submit" class="sb-seen__btn sb-seen__btn--primary">Notify me</button>
-      </form>
-      <p id="seen-waitlist-msg" class="sb-seen__message" hidden></p>
+      <div class="sb-seen__offer" id="seen-waitlist">
+        <h3 class="sb-seen__offer-title">Your Perception Mirror is the beginning. The full map goes deeper.</h3>
+        <p class="sb-seen__offer-copy">The Perception Map — a deeper read of how you operate, where you leak signal, and what layer you're actually on. Coming soon.</p>
+        <form class="sb-seen__email-form" id="seen-waitlist-form">
+          <input type="email" id="seen-waitlist-email" class="sb-seen__input" placeholder="Join the waitlist" required autocomplete="email">
+          <button type="submit" class="sb-seen__btn sb-seen__btn--primary">Notify me</button>
+        </form>
+        <p id="seen-waitlist-msg" class="sb-seen__message" hidden></p>
+      </div>
     </div>
   </section>
 </div>

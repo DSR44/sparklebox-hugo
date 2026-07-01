@@ -1,42 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Seen eye symbol">
   <defs>
     <linearGradient id="seenEyeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#8b5cf6"/>
-      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="40%" stop-color="#8b5cf6"/>
       <stop offset="100%" stop-color="#ec4899"/>
     </linearGradient>
+    <linearGradient id="seenEyeGradBright" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#f0abfc"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
     <radialGradient id="seenIrisGrad" cx="50%" cy="45%" r="55%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.9"/>
-      <stop offset="45%" stop-color="#8b5cf6" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#0a0118" stop-opacity="0.2"/>
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="35%" stop-color="#ec4899"/>
+      <stop offset="70%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#1e1033"/>
     </radialGradient>
-    <filter id="seenGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <filter id="seenGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="seenOuterGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <g filter="url(#seenGlow)" fill="none" stroke="url(#seenEyeGrad)" stroke-width="1.2" stroke-linecap="round" opacity="0.55">
-    <line x1="100" y1="18" x2="100" y2="8"/>
-    <line x1="100" y1="182" x2="100" y2="192"/>
-    <line x1="18" y1="100" x2="8" y2="100"/>
-    <line x1="182" y1="100" x2="192" y2="100"/>
-    <line x1="42" y1="42" x2="34" y2="34"/>
-    <line x1="158" y1="42" x2="166" y2="34"/>
-    <line x1="42" y1="158" x2="34" y2="166"/>
-    <line x1="158" y1="158" x2="166" y2="166"/>
+  <!-- Outer witness ring -->
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity="0.45" filter="url(#seenOuterGlow)"/>
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#ec4899" stroke-width="0.6" stroke-opacity="0.35" stroke-dasharray="4 8"/>
+  <!-- Pyramid hint above eye -->
+  <path d="M100 28 L112 48 L88 48 Z" fill="none" stroke="url(#seenEyeGradBright)" stroke-width="1.8" stroke-linejoin="round" opacity="0.9"/>
+  <line x1="88" y1="48" x2="112" y2="48" stroke="url(#seenEyeGrad)" stroke-width="1.2" opacity="0.7"/>
+  <!-- Radiating lines -->
+  <g filter="url(#seenGlow)" fill="none" stroke="url(#seenEyeGradBright)" stroke-width="1.4" stroke-linecap="round">
+    <line x1="100" y1="14" x2="100" y2="4" opacity="0.9"/>
+    <line x1="100" y1="186" x2="100" y2="196" opacity="0.7"/>
+    <line x1="14" y1="100" x2="4" y2="100" opacity="0.7"/>
+    <line x1="186" y1="100" x2="196" y2="100" opacity="0.7"/>
+    <line x1="38" y1="38" x2="28" y2="28" opacity="0.55"/>
+    <line x1="162" y1="38" x2="172" y2="28" opacity="0.55"/>
+    <line x1="38" y1="162" x2="28" y2="172" opacity="0.55"/>
+    <line x1="162" y1="162" x2="172" y2="172" opacity="0.55"/>
   </g>
-  <ellipse cx="100" cy="100" rx="72" ry="44" fill="none" stroke="url(#seenEyeGrad)" stroke-width="2.2"/>
-  <ellipse cx="100" cy="100" rx="72" ry="44" fill="#0a0118" fill-opacity="0.35"/>
-  <circle cx="100" cy="100" r="28" fill="url(#seenIrisGrad)" stroke="url(#seenEyeGrad)" stroke-width="1.8"/>
-  <circle cx="100" cy="100" r="28" fill="none" stroke="#f1f5f9" stroke-opacity="0.08" stroke-width="0.6"/>
-  <g stroke="#ec4899" stroke-opacity="0.35" stroke-width="0.7">
-    <polygon points="100,78 108,92 124,94 112,104 116,120 100,112 84,120 88,104 76,94 92,92" fill="none"/>
-    <circle cx="100" cy="100" r="12" fill="none"/>
-    <circle cx="100" cy="100" r="6" fill="none"/>
+  <!-- Eye shape -->
+  <ellipse cx="100" cy="102" rx="74" ry="46" fill="rgba(10,1,24,0.6)" stroke="url(#seenEyeGradBright)" stroke-width="3" filter="url(#seenGlow)"/>
+  <ellipse cx="100" cy="102" rx="74" ry="46" fill="none" stroke="#f1f5f9" stroke-width="0.8" stroke-opacity="0.25"/>
+  <!-- Iris -->
+  <circle cx="100" cy="102" r="30" fill="url(#seenIrisGrad)" stroke="url(#seenEyeGradBright)" stroke-width="2.5" filter="url(#seenGlow)"/>
+  <circle cx="100" cy="102" r="30" fill="none" stroke="#f1f5f9" stroke-width="0.6" stroke-opacity="0.2"/>
+  <!-- Sacred geometry in iris -->
+  <g stroke="#fbcfe8" stroke-opacity="0.5" stroke-width="0.8" fill="none">
+    <polygon points="100,80 109,95 126,97 113,107 117,124 100,115 83,124 87,107 74,97 91,95"/>
+    <circle cx="100" cy="102" r="14"/>
+    <circle cx="100" cy="102" r="7"/>
   </g>
-  <circle cx="106" cy="94" r="5" fill="#f1f5f9" fill-opacity="0.85"/>
-  <circle cx="108" cy="92" r="2" fill="#0a0118" fill-opacity="0.35"/>
+  <!-- Highlight -->
+  <circle cx="108" cy="95" r="6" fill="#ffffff" fill-opacity="0.95"/>
+  <circle cx="110" cy="93" r="2.5" fill="#8b5cf6" fill-opacity="0.4"/>
 </svg>

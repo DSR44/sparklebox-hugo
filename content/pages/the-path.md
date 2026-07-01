@@ -33,6 +33,27 @@ description: "Sparklebox by Elle Vida — The Map and The Reset. A novel framewo
 </div>
 </div>
 
+<section class="sb-path-architecture">
+<div class="sb-path-architecture__inner">
+<div class="sb-path-architecture__copy">
+<p class="sb-path-meta">Before The Map · The Architecture</p>
+<h2 class="sb-path-heading">The Layered Tree</h2>
+<p class="sb-path-architecture__lead">Reality is not one thing. It is six layers — and most people live in the branches without knowing the trunk exists.</p>
+<ul class="sb-path-architecture__list">
+<li>Why affirmations hit the same wall</li>
+<li>Where anxiety and delusion actually form</li>
+<li>What remains when every identity strips away</li>
+</ul>
+<p class="sb-path-meta">Six email transmissions · not on the blog · subscribers only</p>
+</div>
+<div class="sb-path-architecture__cta">
+<p class="sb-path-architecture__hook">I give a lot away publicly. This framework I reserve for people who asked for it.</p>
+<a href="/the-architecture/#subscribe" class="sb-path-btn sb-path-btn--primary">Enter The Layered Tree →</a>
+<a href="/the-architecture/" class="sb-path-btn">Read what you'll receive</a>
+</div>
+</div>
+</section>
+
 <div class="sb-path-split">
 
 <a href="/frequency-upgrade/" class="sb-path-card sb-path-card--map">

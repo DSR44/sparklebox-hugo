@@ -1,0 +1,58 @@
+<!-- The Layered Tree — Architecture series signup -->
+<div class="sb-subscribe sb-subscribe--architecture" id="subscribe">
+  <div class="sb-subscribe__neon-bar" aria-hidden="true"></div>
+  <span class="sb-subscribe__eyebrow">The Architecture · Subscriber transmission</span>
+  <h3 class="sb-subscribe__title">Enter The Layered Tree</h3>
+  <p class="sb-subscribe__text">Six email transmissions — the framework behind Perception is Creation. Not on the blog. You will also receive new post alerts from Sparklebox.</p>
+
+  <form id="architecture-subscribe-form" class="sb-subscribe__form">
+    <input type="email" id="architecture-email" name="email" class="sb-subscribe__input" placeholder="your@email.com" required autocomplete="email">
+    <button type="submit" id="architecture-subscribe-btn" class="sb-subscribe__btn">Enter The Layered Tree →</button>
+  </form>
+
+  <p id="architecture-subscribe-message" class="sb-subscribe__message" hidden></p>
+  <p class="sb-subscribe__fine">By subscribing, you join The Layered Tree series and Sparklebox post alerts. Unsubscribe anytime.</p>
+</div>
+
+<script>
+(function () {
+  const form = document.getElementById('architecture-subscribe-form');
+  if (!form) return;
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const email = document.getElementById('architecture-email').value;
+    const msg = document.getElementById('architecture-subscribe-message');
+    const btn = document.getElementById('architecture-subscribe-btn');
+    btn.disabled = true;
+    btn.textContent = '...';
+    try {
+      const response = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        credentials: 'include',
+        body: JSON.stringify({ email, source: 'architecture' })
+      });
+      const data = await response.json();
+      if (data.status === 'subscribed') {
+        msg.textContent = 'You are in. Opening your introduction...';
+        msg.className = 'sb-subscribe__message sb-subscribe__message--ok';
+        msg.hidden = false;
+        form.reset();
+        setTimeout(function () {
+          window.location.href = data.redirect || '/the-architecture/read/intro/';
+        }, 800);
+      } else {
+        msg.textContent = data.error || 'Something went wrong. Try again.';
+        msg.className = 'sb-subscribe__message sb-subscribe__message--err';
+        msg.hidden = false;
+      }
+    } catch {
+      msg.textContent = 'Something went wrong. Try again.';
+      msg.className = 'sb-subscribe__message sb-subscribe__message--err';
+      msg.hidden = false;
+    }
+    btn.disabled = false;
+    btn.textContent = 'Enter The Layered Tree →';
+  });
+})();
+</script>

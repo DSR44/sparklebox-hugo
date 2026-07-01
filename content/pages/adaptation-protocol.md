@@ -64,7 +64,7 @@ description: "The Reset — your brain adapted to a frequency that was never you
 </section>
 
 <section class="sb-adapt-coming">
-<p class="sb-adapt-status">Six transmissions · weekly after The Map completes</p>
+<p class="sb-adapt-status">Six transmissions · every 5 days (offset from The Layered Tree) · starts July 7, 2026</p>
 <div class="sb-path-prose">
 <ol class="sb-adapt-transmission-list">
 <li>Your brain has a tolerance to reality — here is what that means</li>

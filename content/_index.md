@@ -38,16 +38,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Tuesday&#x27;s Weight</h2>
-<span class="date">June 30, 2026</span>
+<h2>The Wednesday Unclench</h2>
+<span class="date">July 01, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue rests against the roof of your mouth like it&#x27;s holding something up. The space between your molars has forgotten what open feels like.</p>
+<p class="sb-checkin__hook">Your throat feels like someone&#x27;s been holding the elevator door for it all morning—tight, polite, stuck halfway open.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action—your nervous system turned down the volume on internal signals to push through Monday, and now the dial&#x27;s stuck. Interoception, your body&#x27;s internal GPS, needs a signal boost to recalibrate where you actually are versus where you&#x27;re still bracing to be.</p>
+<p class="sb-checkin__science">This is your vagus nerve in low-grade traffic. When your body braces for the week&#x27;s second half, the vagus shifts into what&#x27;s called neuroception—scanning for threat even when nothing&#x27;s wrong. Your throat, ears, and gut are dense with vagus branches; tension there is your system asking, &quot;Is this safe to drop yet?&quot;</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw drop enough that your lips part slightly. Now place one palm flat on your chest, the other on your belly. Feel which hand moves more on your next three breaths—don&#x27;t change it, just notice. On breath four, let the exhale last two counts longer than the inhale. Switch hand positions. Repeat once. Done.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to pressure changes in the chest cavity within seconds—this isn&#x27;t relaxation, it&#x27;s physiology catching up to the present.</p>
+<div class="sb-checkin__reset">Softten your gaze. Let your eyes rest on something neutral—a wall corner, a coffee cup, your shoelaces. Exhale longer than your inhale (try 4 counts out, don&#x27;t worry about in). Now hum one low note—any pitch that vibrates your sternum—for 6 seconds. Feel it. That&#x27;s mechanical vagus stimulation, no app required.</div>
+<p class="sb-checkin__close">Your vagus nerve runs from brainstem to colon; humming at 100-200 Hz triggers baroreceptors that drop heart rate in under a minute. The body doesn&#x27;t choose Wednesday. It just chooses now.</p>
 </div>
 </div>
 

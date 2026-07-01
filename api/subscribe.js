@@ -143,7 +143,8 @@ export default async function handler(req) {
         VERCEL: process.env.VERCEL,
       };
       const token = await createAccessToken(email, env);
-      const readUrl = 'https://www.sparklebox.blog/the-architecture/read/intro/';
+      const readPath = '/the-architecture/read/intro/';
+      const readUrl = `https://www.sparklebox.blog/the-architecture/unlock/?next=${encodeURIComponent(readPath)}`;
 
       await resendFetch(RESEND_API_KEY, '/emails', {
         method: 'POST',

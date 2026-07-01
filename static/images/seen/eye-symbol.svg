@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Seen eye symbol">
+  <defs>
+    <linearGradient id="seenEyeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <radialGradient id="seenIrisGrad" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.9"/>
+      <stop offset="45%" stop-color="#8b5cf6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0a0118" stop-opacity="0.2"/>
+    </radialGradient>
+    <filter id="seenGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#seenGlow)" fill="none" stroke="url(#seenEyeGrad)" stroke-width="1.2" stroke-linecap="round" opacity="0.55">
+    <line x1="100" y1="18" x2="100" y2="8"/>
+    <line x1="100" y1="182" x2="100" y2="192"/>
+    <line x1="18" y1="100" x2="8" y2="100"/>
+    <line x1="182" y1="100" x2="192" y2="100"/>
+    <line x1="42" y1="42" x2="34" y2="34"/>
+    <line x1="158" y1="42" x2="166" y2="34"/>
+    <line x1="42" y1="158" x2="34" y2="166"/>
+    <line x1="158" y1="158" x2="166" y2="166"/>
+  </g>
+  <ellipse cx="100" cy="100" rx="72" ry="44" fill="none" stroke="url(#seenEyeGrad)" stroke-width="2.2"/>
+  <ellipse cx="100" cy="100" rx="72" ry="44" fill="#0a0118" fill-opacity="0.35"/>
+  <circle cx="100" cy="100" r="28" fill="url(#seenIrisGrad)" stroke="url(#seenEyeGrad)" stroke-width="1.8"/>
+  <circle cx="100" cy="100" r="28" fill="none" stroke="#f1f5f9" stroke-opacity="0.08" stroke-width="0.6"/>
+  <g stroke="#ec4899" stroke-opacity="0.35" stroke-width="0.7">
+    <polygon points="100,78 108,92 124,94 112,104 116,120 100,112 84,120 88,104 76,94 92,92" fill="none"/>
+    <circle cx="100" cy="100" r="12" fill="none"/>
+    <circle cx="100" cy="100" r="6" fill="none"/>
+  </g>
+  <circle cx="106" cy="94" r="5" fill="#f1f5f9" fill-opacity="0.85"/>
+  <circle cx="108" cy="92" r="2" fill="#0a0118" fill-opacity="0.35"/>
+</svg>

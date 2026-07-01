@@ -49,24 +49,29 @@ copyright = "© Elle Vida · Sparklebox — Perception is Creation"
     weight = 4
 
   [[menu.main]]
+    name = "Seen"
+    url = "/seen/"
+    weight = 5
+
+  [[menu.main]]
     name = "The Layered Tree"
     url = "/the-architecture/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "The Path"
     url = "/the-path/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "The Map"
     url = "/frequency-upgrade/"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     name = "Bazaar"
     url = "/the-sparkle-bazaar/"
-    weight = 8
+    weight = 9
 
   # Tools & more (dropdown)
   [[menu.main]]

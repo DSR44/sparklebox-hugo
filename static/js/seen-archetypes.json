@@ -1,0 +1,96 @@
+{
+  "archetypes": [
+    {
+      "id": "quiet-architect",
+      "name": "The Quiet Architect",
+      "oneLiner": "You've been building entire cities in your head and wondering why nobody visits.",
+      "pattern": "Builds worlds internally but rarely shows them",
+      "q4Keywords": ["build", "plan", "design", "create", "inside", "head", "quiet", "alone", "think", "architect", "structure", "blueprint"],
+      "q5Keywords": ["show", "share", "visible", "express", "reveal", "open", "trust"]
+    },
+    {
+      "id": "signal-keeper",
+      "name": "The Signal Keeper",
+      "oneLiner": "You've been tuning everyone else's frequency so long, you forgot what yours sounds like.",
+      "pattern": "Highly attuned to others but neglects own signal",
+      "q4Keywords": ["listen", "hold", "care", "others", "people", "help", "support", "tune", "adjust", "please", "manage", "calm"],
+      "q5Keywords": ["myself", "own", "voice", "need", "rest", "boundary", "signal", "frequency"]
+    },
+    {
+      "id": "fracture-point",
+      "name": "The Fracture Point",
+      "oneLiner": "The crack isn't where you're breaking — it's where the light you've been hiding is finally getting out.",
+      "pattern": "Near a breaking point, holding it together externally",
+      "q4Keywords": ["tired", "exhaust", "break", "overwhelm", "stress", "hold", "crack", "shatter", "barely", "edge", "too much", "fracture"],
+      "q5Keywords": ["release", "stop", "rest", "honest", "break", "let go", "soften", "collapse"]
+    },
+    {
+      "id": "ghost",
+      "name": "The Ghost in the Room",
+      "oneLiner": "You're not invisible. You're just standing in a room full of people who forgot how to look.",
+      "pattern": "Present but invisible, feels overlooked",
+      "q4Keywords": ["invisible", "unseen", "ignored", "overlook", "ghost", "fade", "background", "small", "quiet", "forgotten", "nobody"],
+      "q5Keywords": ["seen", "noticed", "matter", "visible", "exist", "heard", "present"]
+    },
+    {
+      "id": "mirror-walker",
+      "name": "The Mirror Walker",
+      "oneLiner": "You've been looking at yourself through everyone else's mirror. No wonder nothing looks right.",
+      "pattern": "Sees themselves through others' eyes, struggles with identity",
+      "q4Keywords": ["mirror", "reflect", "compare", "identity", "who am", "perform", "mask", "role", "expect", "approval", "image"],
+      "q5Keywords": ["myself", "authentic", "real", "identity", "own", "mirror", "approval", "perform"]
+    },
+    {
+      "id": "anchor",
+      "name": "The Anchor",
+      "oneLiner": "Being grounded doesn't mean being buried. You can be rooted and still grow.",
+      "pattern": "Grounded but stuck, feels stable but unfulfilled",
+      "q4Keywords": ["steady", "ground", "calm", "fine", "okay", "stable", "still", "wait", "patient", "root", "anchor", "solid"],
+      "q5Keywords": ["move", "grow", "change", "stuck", "expand", "more", "shift", "stagnant"]
+    },
+    {
+      "id": "echo",
+      "name": "The Echo",
+      "oneLiner": "The loop isn't punishment. It's your system asking you to hear the part you keep skipping.",
+      "pattern": "Repeats patterns, feels stuck in loops",
+      "q4Keywords": ["again", "loop", "repeat", "same", "pattern", "cycle", "stuck", "echo", "round", "over", "habit"],
+      "q5Keywords": ["break", "pattern", "different", "stop", "loop", "change", "cycle", "again"]
+    },
+    {
+      "id": "edge-walker",
+      "name": "The Edge Walker",
+      "oneLiner": "You've been standing at the edge so long, you forgot that falling and flying use the same motion.",
+      "pattern": "Lives on the edge of change, afraid to step over",
+      "q4Keywords": ["edge", "almost", "ready", "afraid", "uncertain", "threshold", "waiting", "brink", "unsure", "maybe", "cross"],
+      "q5Keywords": ["step", "leap", "change", "cross", "decide", "commit", "move", "jump", "begin"]
+    },
+    {
+      "id": "spark",
+      "name": "The Spark",
+      "oneLiner": "You're not scattered. You're a supernova that hasn't decided which direction to explode yet.",
+      "pattern": "Bright energy but scattered, needs focus",
+      "q4Keywords": ["energy", "excited", "spark", "alive", "buzz", "fast", "many", "ideas", "bright", "electric", "move", "fire"],
+      "q5Keywords": ["focus", "direction", "channel", "one", "commit", "choose", "scattered", "explode", "create"]
+    },
+    {
+      "id": "witness",
+      "name": "The Witness",
+      "oneLiner": "You've been watching life like it's a movie. At some point, the screen has to become a door.",
+      "pattern": "Observes everything, rarely participates",
+      "q4Keywords": ["watch", "observe", "notice", "see", "witness", "detached", "analyze", "study", "distance", "outside", "film", "screen"],
+      "q5Keywords": ["participate", "enter", "join", "live", "inside", "step in", "engage", "feel", "act"]
+    }
+  ],
+  "q3Scores": {
+    "social-media": { "ghost": 4, "mirror-walker": 2, "echo": 1 },
+    "specific-person": { "signal-keeper": 4, "mirror-walker": 2, "ghost": 1 },
+    "nowhere": { "anchor": 4, "witness": 2, "quiet-architect": 2 },
+    "dont-know": { "edge-walker": 4, "ghost": 2, "echo": 1 },
+    "elsewhere": { "echo": 2, "edge-walker": 2, "spark": 2 }
+  },
+  "ctas": [
+    { "text": "This is Layer 1. There are six more.", "url": "/the-architecture/" },
+    { "text": "The Map shows you where you operate. The Reset shows you why you got stuck.", "url": "/the-path/" },
+    { "text": "Your full perception map is coming soon.", "url": "#seen-waitlist" }
+  ]
+}

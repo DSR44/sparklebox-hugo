@@ -116,7 +116,12 @@ export default async function handler(req) {
   try {
     const body = await req.json();
     const email = (body.email || '').trim().toLowerCase();
-    const source = body.source === 'architecture' ? 'architecture' : 'sanctuary';
+    const source =
+      body.source === 'architecture'
+        ? 'architecture'
+        : body.source === 'seen'
+          ? 'seen'
+          : 'sanctuary';
 
     if (!email || !email.includes('@')) {
       return new Response(JSON.stringify({ error: 'Invalid email' }), {
@@ -172,6 +177,14 @@ export default async function handler(req) {
             'Set-Cookie': accessCookieHeader(token, env),
           },
         }
+      );
+    }
+
+    if (source === 'seen') {
+      await addContactToSegment(RESEND_API_KEY, email, SANCTUARY_SEGMENT_ID);
+      return new Response(
+        JSON.stringify({ status: 'subscribed', email, series: 'seen' }),
+        { status: 200, headers: CORS }
       );
     }
 

@@ -1,0 +1,112 @@
+{{- define "main" }}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="/images/seen/eye-symbol.svg">
+
+<div class="sb-seen" id="seen-app">
+  <canvas class="sb-seen__stars" id="seen-stars" aria-hidden="true"></canvas>
+
+  <!-- Hero -->
+  <section class="sb-seen__screen sb-seen__screen--active" data-screen="hero">
+    <div class="sb-seen__inner sb-seen__inner--hero">
+      <div class="sb-seen__eye sb-seen__eye--hero" aria-hidden="true">
+        <img src="/images/seen/eye-symbol.svg" alt="" width="140" height="140">
+      </div>
+      <p class="sb-seen__brand">SEEN</p>
+      <p class="sb-seen__tagline">The experience of being witnessed.</p>
+      <p class="sb-seen__intro">Five questions. One mirror. The version of you that's been waiting to be acknowledged.</p>
+      <button type="button" class="sb-seen__btn sb-seen__btn--primary" id="seen-begin">Begin</button>
+    </div>
+  </section>
+
+  <!-- Questions -->
+  <section class="sb-seen__screen" data-screen="questions" hidden>
+    <div class="sb-seen__progress" id="seen-progress" aria-label="Progress">
+      <span class="sb-seen__dot" data-step="0"></span>
+      <span class="sb-seen__dot" data-step="1"></span>
+      <span class="sb-seen__dot" data-step="2"></span>
+      <span class="sb-seen__dot" data-step="3"></span>
+      <span class="sb-seen__dot" data-step="4"></span>
+    </div>
+
+    <div class="sb-seen__inner sb-seen__inner--question">
+      <button type="button" class="sb-seen__back" id="seen-back" aria-label="Previous question">←</button>
+
+      <div class="sb-seen__question" id="seen-question-panel">
+        <!-- Rendered by JS -->
+      </div>
+
+      <div class="sb-seen__nav">
+        <button type="button" class="sb-seen__btn sb-seen__btn--next" id="seen-next">Next →</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Email gate -->
+  <section class="sb-seen__screen" data-screen="email" hidden>
+    <div class="sb-seen__inner sb-seen__inner--email">
+      <div class="sb-seen__eye sb-seen__eye--small" aria-hidden="true">
+        <img src="/images/seen/eye-symbol.svg" alt="" width="64" height="64">
+      </div>
+      <p class="sb-seen__brand sb-seen__brand--small">Your Perception Mirror</p>
+
+      <div class="sb-seen__preview" id="seen-preview">
+        <p class="sb-seen__preview-label">Archetype</p>
+        <h2 class="sb-seen__preview-name" id="seen-preview-name"></h2>
+        <p class="sb-seen__preview-line" id="seen-preview-line"></p>
+      </div>
+
+      <p class="sb-seen__gate-copy">Enter your email to see your full Perception Mirror.</p>
+
+      <form class="sb-seen__email-form" id="seen-email-form">
+        <input type="email" id="seen-email" class="sb-seen__input" placeholder="your@email.com" required autocomplete="email">
+        <button type="submit" class="sb-seen__btn sb-seen__btn--primary" id="seen-email-btn">Reveal my mirror →</button>
+      </form>
+      <p class="sb-seen__fine">We'll also send you Elle Vida's transmissions. Unsubscribe anytime.</p>
+      <p id="seen-email-msg" class="sb-seen__message" hidden></p>
+    </div>
+  </section>
+
+  <!-- Output -->
+  <section class="sb-seen__screen" data-screen="output" hidden>
+    <div class="sb-seen__inner sb-seen__inner--output">
+      <div class="sb-seen__mirror" id="seen-mirror">
+        <div class="sb-seen__mirror-bg" id="seen-mirror-bg"></div>
+        <div class="sb-seen__mirror-content">
+          <img class="sb-seen__mirror-eye" src="/images/seen/eye-symbol.svg" alt="" width="48" height="48">
+          <p class="sb-seen__mirror-brand">SEEN</p>
+          <h2 class="sb-seen__mirror-archetype" id="seen-mirror-archetype"></h2>
+          <p class="sb-seen__mirror-oneline" id="seen-mirror-oneline"></p>
+          <p class="sb-seen__mirror-paragraph" id="seen-mirror-paragraph"></p>
+          <p class="sb-seen__mirror-footer">Sp<span class="sb-seen-pyramid">△</span>rklebox · sparklebox.blog</p>
+        </div>
+      </div>
+
+      <div class="sb-seen__mirror-actions">
+        <a class="sb-seen__btn sb-seen__btn--ghost" id="seen-cta-link" href="/the-architecture/">This is Layer 1. There are six more. →</a>
+        <div class="sb-seen__share-row">
+          <button type="button" class="sb-seen__btn sb-seen__btn--secondary" id="seen-save">Save this</button>
+          <button type="button" class="sb-seen__btn sb-seen__btn--secondary" id="seen-share">Share</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Paid offer / waitlist -->
+  <section class="sb-seen__screen sb-seen__screen--offer" data-screen="offer" hidden>
+    <div class="sb-seen__inner sb-seen__inner--offer">
+      <h3 class="sb-seen__offer-title">Your Perception Mirror is the beginning. The full map goes deeper.</h3>
+      <p class="sb-seen__offer-copy">The Perception Map — a deeper read of how you operate, where you leak signal, and what layer you're actually on. Coming soon.</p>
+      <form class="sb-seen__email-form" id="seen-waitlist-form">
+        <input type="email" id="seen-waitlist-email" class="sb-seen__input" placeholder="Join the waitlist" required autocomplete="email">
+        <button type="submit" class="sb-seen__btn sb-seen__btn--primary">Notify me</button>
+      </form>
+      <p id="seen-waitlist-msg" class="sb-seen__message" hidden></p>
+    </div>
+  </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js" defer></script>
+<script src="/js/seen.js" defer></script>
+{{- end }}

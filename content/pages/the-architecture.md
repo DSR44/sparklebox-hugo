@@ -23,7 +23,9 @@ description: "The Architecture — a six-part subscriber transmission on how per
 <div class="sb-path-prose">
 <p>Reality is not one thing. It is a trunk with branches — and each branch is a layer of perception that creates its own version of the world.</p>
 
-<p><strong>I give a lot away on the blog.</strong> This series I do not. Seven transmissions — one introduction, then six layers — read on Sparklebox after you subscribe. Emails notify you; the full text lives here, subscriber-protected.</p>
+<p>If you've been reading Sparklebox for a while, you already know what we share openly — blog posts, daily check-ins, The Map, dream portals, and the sanctuary we've built together. <em>The Layered Tree</em> goes one level deeper: the full architecture behind <em>Perception is Creation</em>. Seven readings — one introduction, then six layers — delivered to subscribers and read on this site. Emails notify you when each layer is ready.</p>
+
+<p class="sb-path-emphasis">For the ones who aren't satisfied with insight alone. For when you want the whole structure, not just another piece.</p>
 
 <p class="sb-path-emphasis">The further you branch from the trunk, the more fractures form. That is where anxiety lives — not in brokenness, but in the gap between layers.</p>
 </div>
@@ -45,7 +47,7 @@ description: "The Architecture — a six-part subscriber transmission on how per
 <section class="sb-path-block">
 <h2 class="sb-path-heading">How It Works</h2>
 <div class="sb-path-prose">
-<p>Subscribe below. You get immediate access to the <strong>introduction</strong> on this site, then one new layer every five days by email — each with a link to read here. Sharing a link is not enough; readers verify with their subscribed email.</p>
+<p>Subscribe below. You get immediate access to the <strong>introduction</strong> on this site, then one new layer every five days by email — each with a link to read here. Use the email you subscribed with to open each layer.</p>
 </div>
 </section>
 

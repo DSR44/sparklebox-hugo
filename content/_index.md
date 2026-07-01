@@ -60,7 +60,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-play-grid sb-play-grid--compact">
 <a class="sb-play-card sb-play-card--architecture" href="/the-architecture/">
 <div class="sb-play-card__icon sb-play-card__icon--architecture" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22V8M12 8L6 14M12 8l6 6M4 10l8-8 8 8"/></svg></div>
-<div class="sb-play-card__body"><span class="sb-play-card__label">Architecture</span><h3>The Layered Tree</h3><p>Six subscriber transmissions.</p></div>
+<div class="sb-play-card__body"><span class="sb-play-card__label">Architecture</span><h3>The Layered Tree</h3><p>The deeper read — whole structure, not just another piece.</p></div>
 <span class="sb-play-card__chev">›</span>
 </a>
 <a class="sb-play-card" href="/the-dreamtoolkit/">
@@ -93,8 +93,8 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-arch-home-teaser__glow" aria-hidden="true"></div>
 <span class="sb-arch-home-teaser__badge">◈ Subscriber series · The Architecture</span>
 <h2 class="sb-arch-home-teaser__title">The Layered Tree</h2>
-<p class="sb-arch-home-teaser__lead">Reality is not one thing. It is six layers — and most people live in the branches without knowing the trunk exists.</p>
-<p class="sb-arch-home-teaser__hint">Six transmissions · read on the site · subscriber access only</p>
+<p class="sb-arch-home-teaser__lead">If you've been reading Sparklebox, you already know what we share openly — posts, check-ins, The Map, the sanctuary. <em>The Layered Tree</em> is the deeper read: seven layers on the architecture behind it all.</p>
+<p class="sb-arch-home-teaser__hint">For when you want the whole structure, not just another piece</p>
 <a href="/the-architecture/" class="sb-arch-home-teaser__btn">Enter The Layered Tree →</a>
 <a href="/the-architecture/unlock/?next=%2Fthe-architecture%2Fread%2Fintro%2F" class="sb-arch-home-teaser__link">Already subscribed? Read the introduction →</a>
 </div>

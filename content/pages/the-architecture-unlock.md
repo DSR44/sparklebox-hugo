@@ -16,8 +16,8 @@ robots: "noindex, nofollow"
 <h1 class="sb-path-title">Unlock The Layered Tree</h1>
 
 <div class="sb-path-prose">
-<p>This transmission lives on the site — not in your inbox as a copy-paste article. Enter the email you subscribed with. If you are on the list, you can read.</p>
-<p class="sb-path-emphasis">Sharing a link is not enough. The read pages require a verified subscriber.</p>
+<p>Each transmission lives on the site — read here at your pace, not as copy-paste in your inbox. Enter the email you subscribed with to open it.</p>
+<p class="sb-path-emphasis">Already inside Sparklebox? Use the same address you subscribed with — each layer unlocks here when you're ready.</p>
 </div>
 </div>
 

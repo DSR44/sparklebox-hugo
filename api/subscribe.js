@@ -80,8 +80,8 @@ function architectureWelcomeHtml(readUrl) {
     <p style="color:#818cf8;font-size:12px;margin:10px 0 0 0;letter-spacing:1px;">by Elle Vida · Sparklebox</p>
   </div>
   <div style="padding:32px 24px;">
-    <p style="font-size:16px;line-height:1.75;color:#94a3b8;margin:0 0 16px 0;">Thank you for asking for this. The full series lives on Sparklebox — not in your inbox as copy-paste text. Each transmission unlocks on the site when you verify with this email.</p>
-    <p style="font-size:16px;line-height:1.75;color:#94a3b8;margin:0 0 16px 0;">Start with the introduction — a short letter before Layer One. Then six layers: the architecture behind <em>Perception is Creation</em>.</p>
+    <p style="font-size:16px;line-height:1.75;color:#94a3b8;margin:0 0 16px 0;">Thank you for going deeper. You already know what Sparklebox shares openly — this is the architecture beneath it. The full series lives on Sparklebox: one introduction, then six layers, read here as they arrive.</p>
+    <p style="font-size:16px;line-height:1.75;color:#94a3b8;margin:0 0 16px 0;">Start with the introduction — a short letter before Layer One. Then six layers: the map behind <em>Perception is Creation</em>.</p>
     <p style="text-align:center;margin:24px 0;">
       <a href="${readUrl}" style="display:inline-block;background:linear-gradient(135deg,#22d3ee,#6366f1);color:#fff;text-decoration:none;padding:14px 26px;border-radius:8px;font-weight:600;font-size:16px;">Read the introduction →</a>
     </p>

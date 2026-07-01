@@ -44,10 +44,10 @@ description: "Sparklebox by Elle Vida — The Map and The Reset. A novel framewo
 <li>Where anxiety and delusion actually form</li>
 <li>What remains when every identity strips away</li>
 </ul>
-<p class="sb-path-meta">Six email transmissions · not on the blog · subscribers only</p>
+<p class="sb-path-meta">Seven transmissions · intro + six layers · read on Sparklebox</p>
 </div>
 <div class="sb-path-architecture__cta">
-<p class="sb-path-architecture__hook">I give a lot away publicly. This framework I reserve for people who asked for it.</p>
+<p class="sb-path-architecture__hook">If you've been reading Sparklebox, you already know the depth we share openly. This is the layer beneath it — for when you want the whole structure, not just another piece.</p>
 <a href="/the-architecture/#subscribe" class="sb-path-btn sb-path-btn--primary">Enter The Layered Tree →</a>
 <a href="/the-architecture/" class="sb-path-btn">Read what you'll receive</a>
 </div>

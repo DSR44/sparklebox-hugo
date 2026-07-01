@@ -28,7 +28,8 @@ robots: "noindex, nofollow"
   <h3 class="sb-subscribe__title">Enter your email</h3>
   <p class="sb-subscribe__text">Same address you used to subscribe at <a href="/the-architecture/">The Layered Tree</a>.</p>
 
-  <form id="unlock-form" class="sb-subscribe__form">
+  <form id="unlock-form" class="sb-subscribe__form" method="POST" action="/api/verify-subscriber">
+    <input type="hidden" id="unlock-next" name="next" value="">
     <input type="email" id="unlock-email" name="email" class="sb-subscribe__input" placeholder="your@email.com" required autocomplete="email">
     <button type="submit" id="unlock-btn" class="sb-subscribe__btn">Unlock →</button>
   </form>
@@ -45,45 +46,45 @@ robots: "noindex, nofollow"
   const params = new URLSearchParams(window.location.search);
   const next = params.get('next') || '/the-architecture/read/intro/';
   const prefill = params.get('email') || '';
+  const error = params.get('error') || '';
   const emailInput = document.getElementById('unlock-email');
+  const nextInput = document.getElementById('unlock-next');
+  const msg = document.getElementById('unlock-message');
+  const form = document.getElementById('unlock-form');
+
+  nextInput.value = next;
   if (prefill) emailInput.value = prefill;
 
-  document.getElementById('unlock-form').addEventListener('submit', async function (e) {
-    e.preventDefault();
-    const email = emailInput.value;
-    const msg = document.getElementById('unlock-message');
+  if (error === 'not_subscribed') {
+    msg.textContent = 'That email is not on The Layered Tree list. Subscribe first, then return here.';
+    msg.className = 'sb-subscribe__message sb-subscribe__message--err';
+    msg.hidden = false;
+  } else if (error === 'invalid') {
+    msg.textContent = 'Enter a valid email address.';
+    msg.className = 'sb-subscribe__message sb-subscribe__message--err';
+    msg.hidden = false;
+  } else if (error) {
+    msg.textContent = 'Could not verify access. Try again.';
+    msg.className = 'sb-subscribe__message sb-subscribe__message--err';
+    msg.hidden = false;
+  }
+
+  // Already unlocked? Skip the form and go straight to the read page.
+  fetch('/api/architecture-session', { credentials: 'include' })
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      if (d.ok) {
+        window.location.replace(next);
+      }
+    })
+    .catch(function () {});
+
+  form.addEventListener('submit', function () {
     const btn = document.getElementById('unlock-btn');
     btn.disabled = true;
     btn.textContent = '...';
-    try {
-      const response = await fetch('/api/verify-subscriber', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        credentials: 'include',
-        body: JSON.stringify({ email })
-      });
-      const data = await response.json();
-      if (response.ok && data.status === 'verified') {
-        msg.textContent = 'Access granted. Opening transmission...';
-        msg.className = 'sb-subscribe__message sb-subscribe__message--ok';
-        msg.hidden = false;
-        window.location.href = next;
-        return;
-      }
-      if (data.error === 'not_subscribed') {
-        msg.textContent = 'That email is not on the list. Subscribe first, then return here.';
-      } else {
-        msg.textContent = data.message || data.error || 'Could not verify. Try again.';
-      }
-      msg.className = 'sb-subscribe__message sb-subscribe__message--err';
-      msg.hidden = false;
-    } catch {
-      msg.textContent = 'Something went wrong. Try again.';
-      msg.className = 'sb-subscribe__message sb-subscribe__message--err';
-      msg.hidden = false;
-    }
-    btn.disabled = false;
-    btn.textContent = 'Unlock →';
+    emailInput.value = emailInput.value.trim().toLowerCase();
+    nextInput.value = next;
   });
 })();
 </script>

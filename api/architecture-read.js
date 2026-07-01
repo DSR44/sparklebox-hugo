@@ -2,7 +2,7 @@ export const config = {
   runtime: 'edge',
 };
 
-import { verifyAccessToken, COOKIE_NAME } from '../lib/architecture-auth.js';
+import { verifyAccessToken, parseCookieToken } from '../lib/architecture-auth.js';
 import { ARCHITECTURE_PAGES } from '../lib/architecture-pages.js';
 
 const CORS = {
@@ -44,12 +44,11 @@ export default async function handler(req) {
   const env = {
     ARCHITECTURE_ACCESS_SECRET: process.env.ARCHITECTURE_ACCESS_SECRET,
     RESEND_API_KEY: process.env.RESEND_API_KEY,
+    RESEND_ARCHITECTURE_SEGMENT_ID: process.env.RESEND_ARCHITECTURE_SEGMENT_ID,
     VERCEL: process.env.VERCEL,
   };
 
-  const cookieHeader = req.headers.get('cookie') || '';
-  const match = cookieHeader.match(new RegExp(`${COOKIE_NAME}=([^;]+)`));
-  const token = match ? decodeURIComponent(match[1]) : '';
+  const token = parseCookieToken(req.headers.get('cookie') || '');
   const email = await verifyAccessToken(token, env);
 
   if (!email) {

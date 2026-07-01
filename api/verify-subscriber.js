@@ -5,54 +5,47 @@ export const config = {
 import {
   createAccessToken,
   accessCookieHeader,
+  sanitizeNextPath,
+  isArchitectureSubscriber,
 } from '../lib/architecture-auth.js';
-
-const ARCHITECTURE_SEGMENT_ID =
-  process.env.RESEND_ARCHITECTURE_SEGMENT_ID ||
-  '3a8cb3e9-805d-4344-b92e-1bfc12c80652';
 
 const CORS = {
   'Access-Control-Allow-Origin': '*',
   'Content-Type': 'application/json',
 };
 
-async function isArchitectureSubscriber(apiKey, email) {
-  const res = await fetch(
-    `https://api.resend.com/contacts/${encodeURIComponent(email)}`,
-    {
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-    }
-  );
+function unlockErrorUrl(next, code) {
+  const url = new URL('https://www.sparklebox.blog/the-architecture/unlock/');
+  url.searchParams.set('next', next);
+  if (code) url.searchParams.set('error', code);
+  return url.toString();
+}
 
-  if (!res.ok) {
-    return false;
+async function parseRequest(req) {
+  const contentType = req.headers.get('content-type') || '';
+
+  if (contentType.includes('application/json')) {
+    const body = await req.json();
+    return {
+      email: body.email,
+      next: body.next,
+      wantsRedirect: false,
+    };
   }
 
-  const contact = await res.json();
-  if (contact.unsubscribed) {
-    return false;
+  if (
+    contentType.includes('application/x-www-form-urlencoded') ||
+    contentType.includes('multipart/form-data')
+  ) {
+    const form = await req.formData();
+    return {
+      email: form.get('email'),
+      next: form.get('next'),
+      wantsRedirect: true,
+    };
   }
 
-  const segRes = await fetch(
-    `https://api.resend.com/contacts/${encodeURIComponent(email)}/segments`,
-    {
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-      },
-    }
-  );
-
-  if (!segRes.ok) {
-    return contact.audience_id === ARCHITECTURE_SEGMENT_ID;
-  }
-
-  const segData = await segRes.json();
-  const segments = segData.data || [];
-  return segments.some((s) => s.id === ARCHITECTURE_SEGMENT_ID);
+  return { email: null, next: null, wantsRedirect: false };
 }
 
 export default async function handler(req) {
@@ -75,10 +68,14 @@ export default async function handler(req) {
   }
 
   try {
-    const { email } = await req.json();
+    const { email, next: rawNext, wantsRedirect } = await parseRequest(req);
     const normalized = (email || '').trim().toLowerCase();
+    const next = sanitizeNextPath(rawNext);
 
     if (!normalized || !normalized.includes('@')) {
+      if (wantsRedirect) {
+        return Response.redirect(unlockErrorUrl(next, 'invalid'), 302);
+      }
       return new Response(JSON.stringify({ error: 'Invalid email' }), {
         status: 400,
         headers: CORS,
@@ -87,29 +84,50 @@ export default async function handler(req) {
 
     const apiKey = process.env.RESEND_API_KEY;
     if (!apiKey) {
+      if (wantsRedirect) {
+        return Response.redirect(unlockErrorUrl(next, 'config'), 302);
+      }
       return new Response(JSON.stringify({ error: 'Service not configured' }), {
         status: 500,
         headers: CORS,
       });
     }
 
-    const allowed = await isArchitectureSubscriber(apiKey, normalized);
+    const env = {
+      ARCHITECTURE_ACCESS_SECRET: process.env.ARCHITECTURE_ACCESS_SECRET,
+      RESEND_API_KEY: apiKey,
+      RESEND_ARCHITECTURE_SEGMENT_ID: process.env.RESEND_ARCHITECTURE_SEGMENT_ID,
+      VERCEL: process.env.VERCEL,
+    };
+
+    const allowed = await isArchitectureSubscriber(apiKey, normalized, env);
     if (!allowed) {
+      if (wantsRedirect) {
+        return Response.redirect(unlockErrorUrl(next, 'not_subscribed'), 302);
+      }
       return new Response(
         JSON.stringify({
           error: 'not_subscribed',
-          message: 'This email is not on The Layered Tree list. Subscribe on the landing page first.',
+          message:
+            'This email is not on The Layered Tree list. Subscribe on the landing page first.',
         }),
         { status: 403, headers: CORS }
       );
     }
 
-    const env = {
-      ARCHITECTURE_ACCESS_SECRET: process.env.ARCHITECTURE_ACCESS_SECRET,
-      RESEND_API_KEY: apiKey,
-      VERCEL: process.env.VERCEL,
-    };
     const token = await createAccessToken(normalized, env);
+    const cookie = accessCookieHeader(token, env);
+
+    if (wantsRedirect) {
+      return new Response(null, {
+        status: 302,
+        headers: {
+          Location: `https://www.sparklebox.blog${next}`,
+          'Set-Cookie': cookie,
+          'Cache-Control': 'no-store',
+        },
+      });
+    }
 
     return new Response(
       JSON.stringify({ status: 'verified', email: normalized }),
@@ -117,7 +135,7 @@ export default async function handler(req) {
         status: 200,
         headers: {
           ...CORS,
-          'Set-Cookie': accessCookieHeader(token, env),
+          'Set-Cookie': cookie,
         },
       }
     );

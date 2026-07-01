@@ -127,6 +127,8 @@ body:has(.sb-seen) .header .nav {
 .sb-seen__inner--email {
   position: relative;
 }
+
+.sb-seen__inner--question {
   text-align: left;
   max-width: 560px;
   position: relative;
@@ -137,11 +139,6 @@ body:has(.sb-seen) .header .nav {
   box-shadow:
     0 0 32px rgba(139, 92, 246, 0.12),
     inset 0 1px 0 rgba(196, 181, 253, 0.08);
-}
-
-.sb-seen__inner--email,
-.sb-seen__inner--hero {
-  position: relative;
 }
 
 .sb-seen__eye {

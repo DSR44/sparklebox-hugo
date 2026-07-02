@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Unclench</h2>
-<span class="date">July 01, 2026</span>
+<h2>The Thursday Drag</h2>
+<span class="date">July 02, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your throat feels like someone&#x27;s been holding the elevator door for it all morning—tight, polite, stuck halfway open.</p>
+<p class="sb-checkin__hook">Your jaw feels like it&#x27;s been clenching something you never decided to hold onto.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your vagus nerve in low-grade traffic. When your body braces for the week&#x27;s second half, the vagus shifts into what&#x27;s called neuroception—scanning for threat even when nothing&#x27;s wrong. Your throat, ears, and gut are dense with vagus branches; tension there is your system asking, &quot;Is this safe to drop yet?&quot;</p>
+<p class="sb-checkin__science">This is muscular bracing—your body anticipating threat that already passed. Polyvagal theory calls it neuroception: your nervous system scanning for safety while you answer emails. The jaw is a tension reservoir because the trigeminal nerve connects directly to your brainstem&#x27;s threat detection circuits.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Let your eyes rest on something neutral—a wall corner, a coffee cup, your shoelaces. Exhale longer than your inhale (try 4 counts out, don&#x27;t worry about in). Now hum one low note—any pitch that vibrates your sternum—for 6 seconds. Feel it. That&#x27;s mechanical vagus stimulation, no app required.</div>
-<p class="sb-checkin__close">Your vagus nerve runs from brainstem to colon; humming at 100-200 Hz triggers baroreceptors that drop heart rate in under a minute. The body doesn&#x27;t choose Wednesday. It just chooses now.</p>
+<div class="sb-checkin__reset">Let your tongue fall completely from the roof of your mouth. Soften your gaze. Open your mouth slightly and trace your lower teeth with your tongue—slowly, twice. Now exhale like fogging glass, twice as long as your inhale. Repeat three times. Each round, let your shoulders drop one millimeter further. That&#x27;s your nervous system regulation in under a minute.</div>
+<p class="sb-checkin__close">Your vagus nerve runs straight from your gut through your neck—jaw tension is literally squeezing the brakes on your calm.</p>
 </div>
 </div>
 

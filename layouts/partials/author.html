@@ -1,0 +1,16 @@
+{{- $display := site.Params.author | default "Elle Vida" -}}
+{{- with .Params.author -}}
+  {{- $raw := . -}}
+  {{- if eq (printf "%T" $raw) "[]string" -}}
+    {{- $raw = delimit $raw ", " -}}
+  {{- else if eq (printf "%T" $raw) "[]interface {}" -}}
+    {{- $raw = delimit $raw ", " -}}
+  {{- end -}}
+  {{- $normalized := lower (printf "%v" $raw) -}}
+  {{- if or (eq $normalized "manoulasfit") (eq $normalized "manoula sfit") -}}
+    {{- $display = "Elle Vida" -}}
+  {{- else -}}
+    {{- $display = $raw -}}
+  {{- end -}}
+{{- end -}}
+{{- $display -}}

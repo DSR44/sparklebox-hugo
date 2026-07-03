@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Drag</h2>
-<span class="date">July 02, 2026</span>
+<h2>The Friday Unclench</h2>
+<span class="date">July 03, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw feels like it&#x27;s been clenching something you never decided to hold onto.</p>
+<p class="sb-checkin__hook">Your hips are braced against the chair like you&#x27;re riding out turbulence. The week has settled into your quadratus lumborum like sediment.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is muscular bracing—your body anticipating threat that already passed. Polyvagal theory calls it neuroception: your nervous system scanning for safety while you answer emails. The jaw is a tension reservoir because the trigeminal nerve connects directly to your brainstem&#x27;s threat detection circuits.</p>
+<p class="sb-checkin__science">Your body doesn&#x27;t know Friday from Tuesday—it&#x27;s been holding the same tension pattern since Monday&#x27;s first email. This is motor pattern fixation: your muscles literally forget how to be at rest when they&#x27;ve been contracted for days. Movement resets the proprioceptive map, telling your nervous system the threat window has closed.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your tongue fall completely from the roof of your mouth. Soften your gaze. Open your mouth slightly and trace your lower teeth with your tongue—slowly, twice. Now exhale like fogging glass, twice as long as your inhale. Repeat three times. Each round, let your shoulders drop one millimeter further. That&#x27;s your nervous system regulation in under a minute.</div>
-<p class="sb-checkin__close">Your vagus nerve runs straight from your gut through your neck—jaw tension is literally squeezing the brakes on your calm.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let your arms hang heavy and shake your hands from the wrists—loose, sloppy, like you&#x27;re flicking water off them. Count of eight. Add the shoulders: small rapid shrugs rising and falling, not holding, just bouncing. Twenty seconds. Let your jaw slack. Now your hips: tiny side-to-side shifts, feet planted, pelvis swinging easy. Feel the vibration travel up your spine. Thirty seconds total. Stop. Notice the temperature change in your palms.</div>
+<p class="sb-checkin__close">Your muscles contract in milliseconds but need sixty seconds of sustained movement to fully release. The Friday unclench is physics, not psychology.</p>
 </div>
 </div>
 

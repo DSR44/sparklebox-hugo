@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unclench</h2>
-<span class="date">July 03, 2026</span>
+<h2>The Saturday Soft Start</h2>
+<span class="date">July 04, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hips are braced against the chair like you&#x27;re riding out turbulence. The week has settled into your quadratus lumborum like sediment.</p>
+<p class="sb-checkin__hook">Your breath is already here. You don&#x27;t have to manufacture it, only notice the temperature change at your nostrils — cooler coming in, warmer going out — and how little of it you&#x27;ve been using.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your body doesn&#x27;t know Friday from Tuesday—it&#x27;s been holding the same tension pattern since Monday&#x27;s first email. This is motor pattern fixation: your muscles literally forget how to be at rest when they&#x27;ve been contracted for days. Movement resets the proprioceptive map, telling your nervous system the threat window has closed.</p>
+<p class="sb-checkin__science">Box breathing was developed for Navy SEALs under pressure, but your nervous system doesn&#x27;t know the difference between a firefight and a crowded grocery store. When you equalize your inhale and exhale to the same count, you activate the baroreflex — a built-in blood pressure regulator that tells your vagus nerve it&#x27;s safe to dial down the alert.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let your arms hang heavy and shake your hands from the wrists—loose, sloppy, like you&#x27;re flicking water off them. Count of eight. Add the shoulders: small rapid shrugs rising and falling, not holding, just bouncing. Twenty seconds. Let your jaw slack. Now your hips: tiny side-to-side shifts, feet planted, pelvis swinging easy. Feel the vibration travel up your spine. Thirty seconds total. Stop. Notice the temperature change in your palms.</div>
-<p class="sb-checkin__close">Your muscles contract in milliseconds but need sixty seconds of sustained movement to fully release. The Friday unclench is physics, not psychology.</p>
+<div class="sb-checkin__reset">Soften your gaze. Inhale through your nose for 4 counts. Hold gently for 4. Exhale through your nose for 4. Empty hold for 4. Five full rounds. If your mind wanders, that&#x27;s fine — just return to the square of your breath, one side at a time.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. If spread flat, they&#x27;d cover a tennis court. You&#x27;re never starting from empty.</p>
 </div>
 </div>
 

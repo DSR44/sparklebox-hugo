@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Soft Start</h2>
-<span class="date">July 04, 2026</span>
+<h2>Sunday Static</h2>
+<span class="date">July 05, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath is already here. You don&#x27;t have to manufacture it, only notice the temperature change at your nostrils — cooler coming in, warmer going out — and how little of it you&#x27;ve been using.</p>
+<p class="sb-checkin__hook">Your shoulders have crept up toward your ears overnight, like they&#x27;re trying to tune in to a frequency that doesn&#x27;t exist yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Box breathing was developed for Navy SEALs under pressure, but your nervous system doesn&#x27;t know the difference between a firefight and a crowded grocery store. When you equalize your inhale and exhale to the same count, you activate the baroreflex — a built-in blood pressure regulator that tells your vagus nerve it&#x27;s safe to dial down the alert.</p>
+<p class="sb-checkin__science">This is anticipatory tension—your sympathetic nervous system rehearsing Monday before it arrives. Polyvagal theory calls this mobilization without release: your body gears up for threat, then stays there because Sunday has no natural endpoint. The vagus nerve can override this loop, but only if you signal safety through patterned, predictable touch.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Inhale through your nose for 4 counts. Hold gently for 4. Exhale through your nose for 4. Empty hold for 4. Five full rounds. If your mind wanders, that&#x27;s fine — just return to the square of your breath, one side at a time.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. If spread flat, they&#x27;d cover a tennis court. You&#x27;re never starting from empty.</p>
+<div class="sb-checkin__reset">Place one hand on your chest, one on your belly. Press gently three times on each side—crossing the midline of your body like you&#x27;re smoothing a wrinkle from a shirt. Inhale for four. Exhale for six. Repeat five cycles. Soften your gaze. Let your hands rest where they land.</div>
+<p class="sb-checkin__close">Your heart rate variability increases within ninety seconds of bilateral self-touch—measurable proof your body listens faster than your calendar.</p>
 </div>
 </div>
 

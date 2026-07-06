@@ -21,6 +21,11 @@
         window.location.replace('/the-architecture/unlock/?next=' + next);
         return null;
       }
+      if (r.status === 404) {
+        document.querySelector('.sb-arch-read-gate__msg').textContent =
+          'This transmission is still syncing to the site. Try again in a few minutes, or email Elle Vida if it persists.';
+        return null;
+      }
       if (!r.ok) throw new Error('load failed');
       return r.json();
     })

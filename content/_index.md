@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">July 05, 2026</span>
+<h2>The Monday Jaw</h2>
+<span class="date">July 06, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept up toward your ears overnight, like they&#x27;re trying to tune in to a frequency that doesn&#x27;t exist yet.</p>
+<p class="sb-checkin__hook">Your molars are touching. You didn&#x27;t decide that. Your jaw just closed like a drawer sliding shut while you weren&#x27;t looking.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension—your sympathetic nervous system rehearsing Monday before it arrives. Polyvagal theory calls this mobilization without release: your body gears up for threat, then stays there because Sunday has no natural endpoint. The vagus nerve can override this loop, but only if you signal safety through patterned, predictable touch.</p>
+<p class="sb-checkin__science">This is your sympathetic system doing morning inventory—cortisol rises 50-75% in the first hour after waking. Your body can&#x27;t tell the difference between &quot;Monday deadline&quot; and &quot;actual threat,&quot; so it defaults to tension. Somatic healing starts with noticing where that default lives.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Place one hand on your chest, one on your belly. Press gently three times on each side—crossing the midline of your body like you&#x27;re smoothing a wrinkle from a shirt. Inhale for four. Exhale for six. Repeat five cycles. Soften your gaze. Let your hands rest where they land.</div>
-<p class="sb-checkin__close">Your heart rate variability increases within ninety seconds of bilateral self-touch—measurable proof your body listens faster than your calendar.</p>
+<div class="sb-checkin__reset">Let your tongue fall from the roof of your mouth. Now open your jaw half an inch—just enough to slide your tongue tip between your front teeth. Hold for four slow breaths. On the fifth exhale, let your jaw drop another quarter inch. Soft gaze. Count five breaths here, each exhale one second longer than the inhale. That&#x27;s it. Your trigeminal nerve just got the memo.</div>
+<p class="sb-checkin__close">Your jaw muscles can generate 200 pounds of pressure. They don&#x27;t need to right now.</p>
 </div>
 </div>
 

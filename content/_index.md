@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Jaw</h2>
-<span class="date">July 06, 2026</span>
+<h2>The Tuesday Hold</h2>
+<span class="date">July 07, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your molars are touching. You didn&#x27;t decide that. Your jaw just closed like a drawer sliding shut while you weren&#x27;t looking.</p>
+<p class="sb-checkin__hook">Your tongue is pressed against the roof of your mouth. Not hard. Just held there, like it&#x27;s waiting for permission to drop.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic system doing morning inventory—cortisol rises 50-75% in the first hour after waking. Your body can&#x27;t tell the difference between &quot;Monday deadline&quot; and &quot;actual threat,&quot; so it defaults to tension. Somatic healing starts with noticing where that default lives.</p>
+<p class="sb-checkin__science">This is sensory gating in action—your nervous system has been filtering out &quot;irrelevant&quot; input since you woke up, but the cost is residual muscle tension you never consciously built. Your tongue, jaw, and shoulders operate on the same circuit; when one stays braced, the others follow.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your tongue fall from the roof of your mouth. Now open your jaw half an inch—just enough to slide your tongue tip between your front teeth. Hold for four slow breaths. On the fifth exhale, let your jaw drop another quarter inch. Soft gaze. Count five breaths here, each exhale one second longer than the inhale. That&#x27;s it. Your trigeminal nerve just got the memo.</div>
-<p class="sb-checkin__close">Your jaw muscles can generate 200 pounds of pressure. They don&#x27;t need to right now.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your tongue peel away from the palate and rest fully on the floor of your mouth. Now: shrug both shoulders up toward your ears, hold for four counts, then release with an audible exhale. Repeat twice. Let the third shrug roll forward into a slow shoulder circle, one direction, then reverse.</div>
+<p class="sb-checkin__close">Your tongue has no bones. It doesn&#x27;t need to hold anything up.</p>
 </div>
 </div>
 

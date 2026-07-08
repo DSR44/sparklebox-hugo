@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Tuesday Hold</h2>
-<span class="date">July 07, 2026</span>
+<h2>Wednesday Weight</h2>
+<span class="date">July 08, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is pressed against the roof of your mouth. Not hard. Just held there, like it&#x27;s waiting for permission to drop.</p>
+<p class="sb-checkin__hook">Your feet are already pressing into the floor like you&#x27;re waiting for something to drop. The front half of your body has shifted forward—knees, chest, gaze—while your back half forgot it exists.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action—your nervous system has been filtering out &quot;irrelevant&quot; input since you woke up, but the cost is residual muscle tension you never consciously built. Your tongue, jaw, and shoulders operate on the same circuit; when one stays braced, the others follow.</p>
+<p class="sb-checkin__science">This is what polyvagal theory calls mobilization without direction: your sympathetic system fired up for a threat that never arrived, so your body braced for impact and stayed there. Somewhere between Sunday and now, your nervous system stopped tracking the back of your body entirely.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your tongue peel away from the palate and rest fully on the floor of your mouth. Now: shrug both shoulders up toward your ears, hold for four counts, then release with an audible exhale. Repeat twice. Let the third shrug roll forward into a slow shoulder circle, one direction, then reverse.</div>
-<p class="sb-checkin__close">Your tongue has no bones. It doesn&#x27;t need to hold anything up.</p>
+<div class="sb-checkin__reset">Stand if you can, or press both feet flat if you&#x27;re seated. Feel the full sole—heels, arches, balls. Now deliberately shift your weight backward so your center of mass sits over your heels, not your toes. Let your spine stack. Hold 8 seconds. Then rock forward to toes, 8 seconds. Return to center. Notice which position your body actually recognizes. Do three rounds.</div>
+<p class="sb-checkin__close">Your vestibular system—the inner ear balance organs—updates your brain&#x27;s threat assessment every time you consciously relocate your weight.</p>
 </div>
 </div>
 

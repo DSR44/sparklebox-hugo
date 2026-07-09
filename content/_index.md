@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Wednesday Weight</h2>
-<span class="date">July 08, 2026</span>
+<h2>Thursday Morning Jaw</h2>
+<span class="date">July 09, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your feet are already pressing into the floor like you&#x27;re waiting for something to drop. The front half of your body has shifted forward—knees, chest, gaze—while your back half forgot it exists.</p>
+<p class="sb-checkin__hook">Your jaw has tightened overnight—maybe from something you said yesterday, maybe from nothing at all. You can feel it now, a faint ache at the hinge, your teeth closer together than they need to be.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is what polyvagal theory calls mobilization without direction: your sympathetic system fired up for a threat that never arrived, so your body braced for impact and stayed there. Somewhere between Sunday and now, your nervous system stopped tracking the back of your body entirely.</p>
+<p class="sb-checkin__science">This is clenched jaw syndrome&#x27;s quieter cousin: low-grade trigeminal nerve activation that keeps your brain on standby for threat. When your masseter muscles stay partially contracted, they signal your vagus nerve that you&#x27;re still bracing for impact—even while you drink coffee and scroll.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand if you can, or press both feet flat if you&#x27;re seated. Feel the full sole—heels, arches, balls. Now deliberately shift your weight backward so your center of mass sits over your heels, not your toes. Let your spine stack. Hold 8 seconds. Then rock forward to toes, 8 seconds. Return to center. Notice which position your body actually recognizes. Do three rounds.</div>
-<p class="sb-checkin__close">Your vestibular system—the inner ear balance organs—updates your brain&#x27;s threat assessment every time you consciously relocate your weight.</p>
+<div class="sb-checkin__reset">Let your mouth fall open slightly. Press the tip of your tongue gently behind your lower front teeth. Now exhale through your mouth like you&#x27;re fogging glass, slow and steady for 8 seconds. Do this twice more. On the third round, let your shoulders drop as the exhale finishes—don&#x27;t force them, just notice gravity pulling them down.</div>
+<p class="sb-checkin__close">Your jaw muscles are some of the strongest in your body, pound for pound. They can generate over 200 pounds of pressure. They also need to fully release, sometimes, to convince your nervous system the day is not a fight.</p>
 </div>
 </div>
 

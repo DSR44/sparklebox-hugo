@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Morning Jaw</h2>
-<span class="date">July 09, 2026</span>
+<h2>Friday Morning Unraveling</h2>
+<span class="date">July 10, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has tightened overnight—maybe from something you said yesterday, maybe from nothing at all. You can feel it now, a faint ache at the hinge, your teeth closer together than they need to be.</p>
+<p class="sb-checkin__hook">Your hands are still curled from sleep, fingers slightly bent like you&#x27;ve been holding something invisible all night.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is clenched jaw syndrome&#x27;s quieter cousin: low-grade trigeminal nerve activation that keeps your brain on standby for threat. When your masseter muscles stay partially contracted, they signal your vagus nerve that you&#x27;re still bracing for impact—even while you drink coffee and scroll.</p>
+<p class="sb-checkin__science">This is residual muscle tension—your nervous system keeping you ready for threats that don&#x27;t exist anymore. Polyvagal theory calls it neuroceptive habit: your body defaults to guarded shapes when it hasn&#x27;t gotten the all-clear signal yet.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your mouth fall open slightly. Press the tip of your tongue gently behind your lower front teeth. Now exhale through your mouth like you&#x27;re fogging glass, slow and steady for 8 seconds. Do this twice more. On the third round, let your shoulders drop as the exhale finishes—don&#x27;t force them, just notice gravity pulling them down.</div>
-<p class="sb-checkin__close">Your jaw muscles are some of the strongest in your body, pound for pound. They can generate over 200 pounds of pressure. They also need to fully release, sometimes, to convince your nervous system the day is not a fight.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let your arms hang loose and shake your hands from the wrists—10 seconds, floppy and uncontrolled. Add your shoulders: tiny rapid bounces, like you&#x27;re shivering on purpose. Let your jaw go slack. Keep it messy. Stop when you feel warmth in your fingertips.</div>
+<p class="sb-checkin__close">Your muscles don&#x27;t actually hold memory—your nervous system just forgets to send the relax signal. Shaking is the manual override.</p>
 </div>
 </div>
 

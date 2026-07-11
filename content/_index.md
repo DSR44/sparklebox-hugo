@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Friday Morning Unraveling</h2>
-<span class="date">July 10, 2026</span>
+<h2>The Saturday Slack</h2>
+<span class="date">July 11, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are still curled from sleep, fingers slightly bent like you&#x27;ve been holding something invisible all night.</p>
+<p class="sb-checkin__hook">Your shoulders are already halfway to your ears. You haven&#x27;t even finished your coffee yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual muscle tension—your nervous system keeping you ready for threats that don&#x27;t exist anymore. Polyvagal theory calls it neuroceptive habit: your body defaults to guarded shapes when it hasn&#x27;t gotten the all-clear signal yet.</p>
+<p class="sb-checkin__science">This is sensory gating failure—your nervous system never finished last week&#x27;s threat scan, so it&#x27;s running background noise at full volume. Polyvagal theory calls this a neuroceptive hangover: your body&#x27;s still waiting for the other shoe to drop, even on a quiet morning.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let your arms hang loose and shake your hands from the wrists—10 seconds, floppy and uncontrolled. Add your shoulders: tiny rapid bounces, like you&#x27;re shivering on purpose. Let your jaw go slack. Keep it messy. Stop when you feel warmth in your fingertips.</div>
-<p class="sb-checkin__close">Your muscles don&#x27;t actually hold memory—your nervous system just forgets to send the relax signal. Shaking is the manual override.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision expand. Now breathe in for 4 counts, hold for 4, out for 4, hold empty for 4. Three full rounds. Don&#x27;t force the exhale—let it fall out like a sigh you didn&#x27;t plan. This is box breathing, and it works because your brainstem can&#x27;t argue with symmetry.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They don&#x27;t care about your to-do list. They just want this rhythm now.</p>
 </div>
 </div>
 

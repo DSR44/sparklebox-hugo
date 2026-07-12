@@ -55,16 +55,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Slack</h2>
-<span class="date">July 11, 2026</span>
+<h2>The Sunday Weight</h2>
+<span class="date">July 12, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are already halfway to your ears. You haven&#x27;t even finished your coffee yet.</p>
+<p class="sb-checkin__hook">Your eyes are already scanning the day ahead—calendar, messages, the vague pressure of &quot;should&quot; before your feet hit the floor.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating failure—your nervous system never finished last week&#x27;s threat scan, so it&#x27;s running background noise at full volume. Polyvagal theory calls this a neuroceptive hangover: your body&#x27;s still waiting for the other shoe to drop, even on a quiet morning.</p>
+<p class="sb-checkin__science">This is anticipatory tension, your sympathetic system firing on prediction, not reality. Your brain burns glucose just imagining future stress, which is why Sunday mornings can feel heavier than Monday afternoons. Somatic healing works here because your body can&#x27;t tell the difference between a real threat and a rehearsed one—both live in the same muscle tension.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision expand. Now breathe in for 4 counts, hold for 4, out for 4, hold empty for 4. Three full rounds. Don&#x27;t force the exhale—let it fall out like a sigh you didn&#x27;t plan. This is box breathing, and it works because your brainstem can&#x27;t argue with symmetry.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They don&#x27;t care about your to-do list. They just want this rhythm now.</p>
+<div class="sb-checkin__reset">Place one hand on your opposite shoulder. Begin tapping, firm but not aggressive, at a slow walking pace—about one tap per second. After ten taps, switch hands to the other shoulder. Continue alternating for sixty seconds. Let your jaw hang slightly open. Feel the weight of your arms as they cross and uncross your chest. This bilateral stimulation interrupts the rumination loop by engaging both brain hemispheres simultaneously, pulling resources away from anxious forecasting.</div>
+<p class="sb-checkin__close">Your nervous system resets fastest when your body believes it&#x27;s already survived the moment—crossing your own chest signals containment, not isolation.</p>
 </div>
 </div>
 

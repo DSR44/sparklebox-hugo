@@ -10,7 +10,7 @@ tags:
   - "dopamine baseline"
   - "consciousness"
   - "perception"
-description: "I used to think my problem was that I felt too much. That my nervous system was too sensitive, too reactive, too easily flooded by..."
+description: "Why repeated stress stops registering — and what that costs your baseline. Sensory gating, neurological accommodation, and the quiet cost of adaptation."
 cover:
   image: "/pinterest-images/adapt-02-why-repeated-stress-stops-registering-and-what-that-costs-yo.png"
   alt: "Why repeated stress stops registering — and what that costs your baseline"
@@ -18,7 +18,7 @@ cover:
 draft: false
 ---
 
-I used to think my problem was that I felt too much. That my nervous system was too sensitive, too reactive, too easily flooded by the world. I spent years trying to toughen up. Building walls. Telling myself I was finally handling it better.
+For years I treated sensitivity like a defect. Too reactive. Too easily flooded. So I built walls, toughened up, told myself I was finally handling it better.
 
 I was wrong about that for years.
 

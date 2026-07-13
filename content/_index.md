@@ -46,18 +46,19 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Weight</h2>
-<span class="date">July 12, 2026</span>
+<h2>The Monday Cortisol Drop</h2>
+<span class="date">July 13, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes are already scanning the day ahead—calendar, messages, the vague pressure of &quot;should&quot; before your feet hit the floor.</p>
+<p class="sb-checkin__hook">Your stomach feels tight before you&#x27;ve even chosen breakfast—like your body started the week without asking permission.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, your sympathetic system firing on prediction, not reality. Your brain burns glucose just imagining future stress, which is why Sunday mornings can feel heavier than Monday afternoons. Somatic healing works here because your body can&#x27;t tell the difference between a real threat and a rehearsed one—both live in the same muscle tension.</p>
+<p class="sb-checkin__science">Cortisol naturally spikes 30-45 minutes after waking, but Monday amplifies it. Your brain anticipates demands before they arrive, flooding your system with alert chemicals that feel like dread. This isn&#x27;t weakness—it&#x27;s predictive biology misfiring on an empty calendar.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Place one hand on your opposite shoulder. Begin tapping, firm but not aggressive, at a slow walking pace—about one tap per second. After ten taps, switch hands to the other shoulder. Continue alternating for sixty seconds. Let your jaw hang slightly open. Feel the weight of your arms as they cross and uncross your chest. This bilateral stimulation interrupts the rumination loop by engaging both brain hemispheres simultaneously, pulling resources away from anxious forecasting.</div>
-<p class="sb-checkin__close">Your nervous system resets fastest when your body believes it&#x27;s already survived the moment—crossing your own chest signals containment, not isolation.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now exhale through your mouth for a slow count of six. Pause. Inhale through your nose for four. Repeat four times, each exhale longer than the last. Let your shoulders drop on the final exhale—gravity can do the work.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to extended exhales within 60 seconds, signaling safety to your heart and gut before your thoughts catch up.</p>
 </div>
 </div>
+
 
 <section class="sb-presence">
 <div class="sb-presence__media" aria-hidden="true">

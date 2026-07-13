@@ -51,7 +51,7 @@ The neuroplastician's name for this is "experience-dependent neuroplasticity"—
 
 But here's what I'm wondering about, and maybe you are too: What happens after these five changes? Do we arrive somewhere final? Or do we just keep discovering new layers of the same quiet revolution?
 
-I used to think awakening was a destination. Now I think it's more like learning to swim. At first you're just trying not to drown. Then you're moving through the water. Then one day you realize you're not moving through the water—you ARE the water, and the moving, and the realization. The upgrade isn't something that happens to you. It's something you remember you are.
+For years I treated awakening like a destination. Now I think it's more like learning to swim. At first you're just trying not to drown. Then you're moving through the water. Then one day you realize you're not moving through the water—you ARE the water, and the moving, and the realization. The upgrade isn't something that happens to you. It's something you remember you are.
 
 The question isn't whether these changes will come. They're already arriving, molecule by molecule, breath by breath. The question is: when they do, will you trust them enough to stop checking if they're real?
 

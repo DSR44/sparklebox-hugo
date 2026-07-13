@@ -23,7 +23,7 @@ keywords:
   - "theta state"
 ---
 
-I used to think the problem was my thoughts. That if I could just swap out the negative ones for positive ones, everything would finally click. I spent years treating my mind like a bad radio station — scanning for a clearer signal, frustrated when the static kept creeping back in.
+For years I treated thoughts like the enemy. Swap the negative ones for positive ones and everything would finally click. I spent years treating my mind like a bad radio station — scanning for a clearer signal, frustrated when the static kept creeping back in.
 
 But the static wasn't the problem. The static was the symptom. And the radio wasn't broken — it was tuned to a frequency that wasn't mine.
 
@@ -60,7 +60,7 @@ The grief is real. But so is the return.
 
 There is a moment — brief, almost imperceptible — when you feel the shift happen. When the thoughts stop echoing and start generating. When the body exhales without being asked. When time feels less like a weapon and more like a womb. You can't force it. You can't fake it. You can only notice it. And choose to stay a little longer each time.
 
-I used to think the problem was my thoughts. Now I know: the problem was the frequency underneath them. The channel I inherited. The static I mistook for safety.
+I spent years blaming my thoughts. Now I know: the problem was the frequency underneath them. The channel I inherited. The static I mistook for safety.
 
 But safety isn't static. Safety is signal. And the signal is already broadcasting. You just have to remember how to tune.
 

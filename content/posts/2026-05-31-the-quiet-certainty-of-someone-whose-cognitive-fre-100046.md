@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "I used to think certainty was loud. That the people who had figured something out spoke with volume, with the kind of authority that silenced..."
+description: "Certainty isn't loud. The quiet certainty of someone whose cognitive frequency has been calibrated — part of The Frequency Upgrade by Elle Vida."
 cover:
   image: "/pinterest-images/8224403074_frequency-elevation-consciousness-map.png"
   alt: "The quiet certainty of someone whose cognitive frequency has been calibrated"
@@ -17,7 +17,7 @@ cover:
 draft: false
 ---
 
-I used to think certainty was loud. That the people who had figured something out spoke with volume, with the kind of authority that silenced rooms. I watched them present their lives like polished presentations, all edges smoothed, all doubts edited out. I tried to copy the performance. I practiced saying "I know" in mirrors. I rehearsed confidence until it felt like armor.
+For years I believed certainty was loud. That the people who had figured something out spoke with volume, with the kind of authority that silenced rooms. I watched them present their lives like polished presentations, all edges smoothed, all doubts edited out. I tried to copy the performance. I practiced saying "I know" in mirrors. I rehearsed confidence until it felt like armor.
 
 But the people whose frequency had actually shifted — the ones who moved through the world like water through stone — they spoke differently. Their certainty was so quiet it could be mistaken for silence. The kind of voice you lean toward instead of away from. The kind of presence that makes the air itself seem to exhale.
 

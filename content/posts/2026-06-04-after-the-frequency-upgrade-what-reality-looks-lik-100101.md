@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "I used to think the world was broken. Not metaphorically — literally cracked. Like the sky was a screen and somewhere along the way, the..."
+description: "After the frequency upgrade: what reality looks like when your perception has been mathematically recalibrated. Part of The Frequency Upgrade by Elle Vida."
 cover:
   image: "/pinterest-images/8224401718_theta-state-elevation-visual.png"
   alt: "After the frequency upgrade: what reality looks like when your perception has been mathematically recalibrated"
@@ -17,7 +17,7 @@ cover:
 draft: false
 ---
 
-I used to think the world was broken. Not metaphorically — literally cracked. Like the sky was a screen and somewhere along the way, the signal had been dropped. I spent years looking for the right channel. Therapy, routines, manifesting, detoxing, boundary-setting. I did the work. I said the affirmations. I visualised. I felt it real. And still, the same Tuesday kept happening.
+For years I believed the world was broken. Not metaphorically — literally cracked. Like the sky was a screen and somewhere along the way, the signal had been dropped. I spent years looking for the right channel. Therapy, routines, manifesting, detoxing, boundary-setting. I did the work. I said the affirmations. I visualised. I felt it real. And still, the same Tuesday kept happening.
 
 Then something shifted. Not the world. The frequency I was tuned to.
 
@@ -63,7 +63,7 @@ Tonight, try this: sit in the dark for exactly seven minutes. Don't meditate. Do
 
 The upgrade isn't a destination. It's a doorway. Once you walk through, you can't unsee the architecture. The way Tuesday keeps happening because you're rehearsing Tuesday. The way your bank balance reflects not your worth but your anticipatory coordinates. The way your body already knows what your mind keeps trying to solve.
 
-I used to think the world was broken. Now I think it was just waiting for me to change the channel.
+I spent years assuming the world was broken. Now I think it was just waiting for me to change the channel.
 
 But maybe both are true. Maybe the world is broken and waiting. Maybe you're both the problem and the solution. Maybe that's what frequency elevation actually is — the ability to hold contradictions without needing to resolve them.
 

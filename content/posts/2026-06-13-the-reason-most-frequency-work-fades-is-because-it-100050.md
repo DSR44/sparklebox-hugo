@@ -9,7 +9,7 @@ tags:
   - "perception"
   - "cognitive upgrade"
   - "theta state"
-description: "I used to think that frequency work faded because I wasn’t doing it “hard enough.” I was wrong about that for years. It wasn’t willpower..."
+description: "The reason most frequency work fades is because it has no mathematical anchor — here is what an anchor looks like. Part of The Frequency Upgrade by Elle Vida."
 cover:
   image: "/pinterest-images/8224401018_flower-of-life-brain-upgrade.png"
   alt: "The reason most frequency work fades is because it has no mathematical anchor — here is what an anchor looks like"
@@ -17,7 +17,7 @@ cover:
 draft: false
 ---
 
-I used to think that frequency work faded because I wasn’t doing it “hard enough.”  
+For years I blamed myself when frequency work faded — convinced I wasn’t doing it “hard enough.”  
 I was wrong about that for years.
 
 It wasn’t willpower I was missing.  

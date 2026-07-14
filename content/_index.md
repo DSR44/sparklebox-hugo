@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Cortisol Drop</h2>
-<span class="date">July 13, 2026</span>
+<h2>The Weight You Carried In</h2>
+<span class="date">July 14, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your stomach feels tight before you&#x27;ve even chosen breakfast—like your body started the week without asking permission.</p>
+<p class="sb-checkin__hook">Your neck is holding yesterday&#x27;s tension like a receipt you forgot to crumple. The space between your shoulder blades has started to feel like storage, not structure.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Cortisol naturally spikes 30-45 minutes after waking, but Monday amplifies it. Your brain anticipates demands before they arrive, flooding your system with alert chemicals that feel like dread. This isn&#x27;t weakness—it&#x27;s predictive biology misfiring on an empty calendar.</p>
+<p class="sb-checkin__science">Your nervous system doesn&#x27;t clock out when you do. During sleep, your sympathetic branch can stay partially activated if you went to bed mid-stress—which means your muscles never fully released their guard shift. This is called incomplete downregulation, and it stacks. Three days of it and your body starts treating tension as baseline normal.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now exhale through your mouth for a slow count of six. Pause. Inhale through your nose for four. Repeat four times, each exhale longer than the last. Let your shoulders drop on the final exhale—gravity can do the work.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to extended exhales within 60 seconds, signaling safety to your heart and gut before your thoughts catch up.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. Now: reach your right arm across your chest, hook the left elbow around it, and gently pull until you feel the stretch in your shoulder—not your neck. Hold for 4 slow breaths. Switch sides. Finally, interlace fingers behind your back, roll shoulders open, and take 2 breaths with your sternum lifted. Total time: 60 seconds. Standing or sitting. No one notices.</div>
+<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension when you&#x27;re running on poor sleep. They&#x27;ll let go faster if you ask them directly, before your coffee.</p>
 </div>
 </div>
 

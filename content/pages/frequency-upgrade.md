@@ -23,6 +23,22 @@ layout: landing
 <p>The question is why you only visit that state by accident.</p>
 </div>
 
+<section class="freq-product freq-product-clean freq-watch">
+<p class="freq-product-eyebrow">Watch · Listen · Full series</p>
+<h2 class="freq-section-title">Experience the Series</h2>
+<p class="freq-product-lead">Prefer to listen? The full Frequency Upgrade — Elle Vida’s intro + all eleven chapters — streamed here. About 68 minutes. This is not motivation. This is frequency.</p>
+<div class="freq-video">
+<iframe
+  src="https://www.youtube-nocookie.com/embed/1MkIMs6VCbo"
+  title="The Frequency Upgrade — Full Series"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+<p class="freq-watch-link"><a href="https://www.youtube.com/watch?v=1MkIMs6VCbo" target="_blank" rel="noopener">Open on YouTube →</a></p>
+</section>
+
 <section class="freq-product freq-product-clean">
 <p class="freq-product-eyebrow">Available now · Early calibration</p>
 <h2 class="freq-section-title">The Frequency Field Test</h2>

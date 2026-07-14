@@ -726,8 +726,9 @@ body.list main {
   color: inherit !important;
 }
 
+/* Post covers: always square + compact so reading starts above the fold */
 .sb-post-card__media {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   background: rgba(139, 92, 246, 0.08);
 }
@@ -751,11 +752,23 @@ body.list main {
   transform: scale(1.03);
 }
 
+.entry-cover {
+  aspect-ratio: 1 / 1;
+  max-width: 420px;
+  width: 100%;
+  margin: 0 auto 1.5rem;
+  overflow: hidden;
+  border-radius: 14px;
+  background: rgba(139, 92, 246, 0.08);
+}
+
 .entry-cover picture,
-.entry-cover picture img {
+.entry-cover picture img,
+.entry-cover > img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 .sb-post-card__media--placeholder {

@@ -14,7 +14,6 @@ description: "Why repeated stress stops registering — and what that costs your
 cover:
   image: "/pinterest-images/adapt-02-why-repeated-stress-stops-registering-and-what-that-costs-yo.png"
   alt: "Why repeated stress stops registering — and what that costs your baseline"
-  caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---
 

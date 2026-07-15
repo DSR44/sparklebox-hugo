@@ -14,7 +14,6 @@ description: "There is a tightness in your chest that arrives when the room gets
 cover:
   image: "/pinterest-images/adapt-01-your-brain-has-a-tolerance-to-reality-here-is-what-that-mean.png"
   alt: "Your brain has a tolerance to reality — here is what that means"
-  caption: "✨ Elle Vida | Sparklebox"
 draft: false
 ---
 

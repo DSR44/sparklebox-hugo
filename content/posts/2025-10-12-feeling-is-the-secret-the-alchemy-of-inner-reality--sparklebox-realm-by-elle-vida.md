@@ -1,5 +1,5 @@
 ---
-title: "Feeling Is the Secret — The Alchemy of Inner Reality · Sparklebox Realm by Elle Vida"
+title: "Feeling Is the Secret: The Alchemy of Inner Reality"
 date: 2025-10-12T21:26:37+0000
 
 slug: "feeling-is-the-secret-the-alchemy-of-inner-reality--sparklebox-realm-by-elle-vida"
@@ -18,7 +18,7 @@ cover:
   caption: "Elle Vida | Sparklebox"
 ---
 
-# ✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance
+## ✨ *Feeling Is the Secret* — The Alchemy of Inner Resonance
 
 *By Elle Vida | Sparklebox Series*
 

@@ -1,5 +1,5 @@
 ---
-title: "Mystical Alchemy Teachings from Ancient Tribes | Elle Vida – Sparklebox"
+title: "Mystical Alchemy Teachings from Ancient Tribes | Elle Vida"
 date: 2025-10-07T07:56:00+0000
 
 slug: "mystical-alchemy-teachings-from-ancient-tribes-elle-vida-sparklebox"
@@ -21,7 +21,7 @@ cover:
   caption: "Elle Vida | Sparklebox"
 ---
 
-# 🌟 Mystical Alchemy Teachings from Ancient Tribes 🌟
+## 🌟 Mystical Alchemy Teachings from Ancient Tribes 🌟
 
 Unlocking the Hidden Portals of Transformation
 

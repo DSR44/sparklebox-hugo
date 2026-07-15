@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Carried In</h2>
-<span class="date">July 14, 2026</span>
+<h2>The Wednesday Weight</h2>
+<span class="date">July 15, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your neck is holding yesterday&#x27;s tension like a receipt you forgot to crumple. The space between your shoulder blades has started to feel like storage, not structure.</p>
+<p class="sb-checkin__hook">Your jaw is already set. You noticed it when you reached for your phone—molars pressed together like you&#x27;re bracing for something you can&#x27;t name yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your nervous system doesn&#x27;t clock out when you do. During sleep, your sympathetic branch can stay partially activated if you went to bed mid-stress—which means your muscles never fully released their guard shift. This is called incomplete downregulation, and it stacks. Three days of it and your body starts treating tension as baseline normal.</p>
+<p class="sb-checkin__science">This is anticipatory muscle tension, your nervous system doing threat prep before the threat exists. Your brain&#x27;s prediction machinery is running Wednesday&#x27;s script—meetings, deadlines, the long stretch to Friday—and your body believes the rehearsal is real. Polyvagal theory calls this mobilization without action: revved up, going nowhere.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. Now: reach your right arm across your chest, hook the left elbow around it, and gently pull until you feel the stretch in your shoulder—not your neck. Hold for 4 slow breaths. Switch sides. Finally, interlace fingers behind your back, roll shoulders open, and take 2 breaths with your sternum lifted. Total time: 60 seconds. Standing or sitting. No one notices.</div>
-<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension when you&#x27;re running on poor sleep. They&#x27;ll let go faster if you ask them directly, before your coffee.</p>
+<div class="sb-checkin__reset">Stand up. Let your knees soften slightly. Shake your hands at the wrists—10 sharp flicks, like you&#x27;re throwing off water. Now drop into a shallow squat and rise, 5 times, exhaling audibly each time you stand. Let your shoulders roll backward once, twice, three times. Softening your gaze, notice one sound you can hear right now. Name it silently. Done.</div>
+<p class="sb-checkin__close">Your psoas muscle—deep in your hip, connected to your diaphragm—contracts when your brain anticipates effort. Movement interrupts the forecast.</p>
 </div>
 </div>
 

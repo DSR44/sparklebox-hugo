@@ -31,7 +31,14 @@ export default async function handler(req) {
   }
 
   const url = new URL(req.url);
-  const key = (url.searchParams.get('key') || '').trim();
+  // Strip accidental surrounding quotes from minified/escaped page shells.
+  let key = (url.searchParams.get('key') || '').trim();
+  if (
+    (key.startsWith('"') && key.endsWith('"')) ||
+    (key.startsWith("'") && key.endsWith("'"))
+  ) {
+    key = key.slice(1, -1).trim();
+  }
   const html = ARCHITECTURE_PAGES[key];
 
   if (!html) {

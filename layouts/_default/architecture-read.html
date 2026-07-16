@@ -5,9 +5,15 @@
   </div>
   <div class="landing-content sb-arch-read-body" id="arch-read-body" hidden></div>
 </div>
+<script type="application/json" id="arch-read-key">{{ (.Params.read_key | default "") | jsonify }}</script>
 <script>
 (function () {
-  var readKey = {{ (.Params.read_key | default "") | jsonify }};
+  // Key lives in JSON script tag so Hugo --minify cannot double-quote it into a 404.
+  var keyEl = document.getElementById('arch-read-key');
+  var readKey = '';
+  try { readKey = JSON.parse(keyEl && keyEl.textContent ? keyEl.textContent : '""'); } catch (e) { readKey = ''; }
+  if (typeof readKey !== 'string') readKey = '';
+  readKey = readKey.replace(/^["']+|["']+$/g, '').trim();
   var next = encodeURIComponent(window.location.pathname);
 
   if (!readKey) {

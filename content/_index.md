@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Weight</h2>
-<span class="date">July 15, 2026</span>
+<h2>The Thursday Slack</h2>
+<span class="date">July 16, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is already set. You noticed it when you reached for your phone—molars pressed together like you&#x27;re bracing for something you can&#x27;t name yet.</p>
+<p class="sb-checkin__hook">Your hands are already gripping something—mug, phone, the edge of the counter—and you haven&#x27;t let them be empty yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory muscle tension, your nervous system doing threat prep before the threat exists. Your brain&#x27;s prediction machinery is running Wednesday&#x27;s script—meetings, deadlines, the long stretch to Friday—and your body believes the rehearsal is real. Polyvagal theory calls this mobilization without action: revved up, going nowhere.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue. By Thursday, your brain&#x27;s filter for what&#x27;s worth noticing is clogged with residue from the week. Everything feels louder, heavier, more urgent than it actually is because your nervous system hasn&#x27;t had a true downshift since Monday.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Let your knees soften slightly. Shake your hands at the wrists—10 sharp flicks, like you&#x27;re throwing off water. Now drop into a shallow squat and rise, 5 times, exhaling audibly each time you stand. Let your shoulders roll backward once, twice, three times. Softening your gaze, notice one sound you can hear right now. Name it silently. Done.</div>
-<p class="sb-checkin__close">Your psoas muscle—deep in your hip, connected to your diaphragm—contracts when your brain anticipates effort. Movement interrupts the forecast.</p>
+<div class="sb-checkin__reset">Soft gaze. Let your hands release whatever they&#x27;re holding. Now exhale like you&#x27;re fogging a mirror—slow, audible, through your mouth. Do it twice more. Each exhale twice as long as your inhale. Let your shoulders drop on the final one, not because you&#x27;re trying to relax, but because physics finally wins.</div>
+<p class="sb-checkin__close">Your vagus nerve responds faster to sound than to thought. That audible exhale just told your body Thursday is survivable.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Slack</h2>
-<span class="date">July 16, 2026</span>
+<h2>The Friday Unraveling</h2>
+<span class="date">July 17, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are already gripping something—mug, phone, the edge of the counter—and you haven&#x27;t let them be empty yet.</p>
+<p class="sb-checkin__hook">Your shoulders are already lifted toward your ears, bracing for the day&#x27;s first demand before your feet even found the floor properly.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. By Thursday, your brain&#x27;s filter for what&#x27;s worth noticing is clogged with residue from the week. Everything feels louder, heavier, more urgent than it actually is because your nervous system hasn&#x27;t had a true downshift since Monday.</p>
+<p class="sb-checkin__science">This is anticipatory muscle recruitment—your nervous system pre-loading tension based on pattern recognition, not present threat. Polyvagal theory calls it neuroception: your body scanning for safety before your brain catches up. That bracing isn&#x27;t laziness; it&#x27;s your system trying to help, just with outdated intel.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft gaze. Let your hands release whatever they&#x27;re holding. Now exhale like you&#x27;re fogging a mirror—slow, audible, through your mouth. Do it twice more. Each exhale twice as long as your inhale. Let your shoulders drop on the final one, not because you&#x27;re trying to relax, but because physics finally wins.</div>
-<p class="sb-checkin__close">Your vagus nerve responds faster to sound than to thought. That audible exhale just told your body Thursday is survivable.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your arms hang loose like wet rope. Now shake—hands first, then wrists, elbows following, until your whole upper body ripples in loose, unchoreographed waves. Not vigorous. Unguarded. 40 seconds. Let your jaw slacken, let sound come out if it wants. Stop. Feel the blood remember its proper channels.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you do. That shaking just cleared Friday&#x27;s backlog without a single thought required.</p>
 </div>
 </div>
 

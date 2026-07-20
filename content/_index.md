@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Contract</h2>
-<span class="date">July 19, 2026</span>
+<h2>The Monday Cortisol Arc</h2>
+<span class="date">July 20, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your stomach tightened the moment you opened your eyes. Not hungry—just already negotiating the day ahead before your feet hit the floor.</p>
+<p class="sb-checkin__hook">Your feet haven&#x27;t touched the floor yet and your heart rate&#x27;s already negotiating with the day ahead. You can feel it in the back of your neck—subtle, electric, already leaning forward.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory arousal, your sympathetic nervous system doing advance billing on stress. Polyvagal theory calls it neuroception: your body scanning for threat before your brain catches up. Sunday mornings get flagged as &quot;transition danger&quot; because the boundary between rest and demand feels porous.</p>
+<p class="sb-checkin__science">Cortisol naturally peaks 30-45 minutes after waking, but Monday amplifies it with anticipation load. Your brain treats the unknown week like a threat scan, keeping your sympathetic system idling high before you&#x27;ve even stood up. Grounding interrupts this by forcing your nervous system to locate itself in actual space, not projected time.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softening your gaze, let your hands find your thighs. Left hand, right thigh. Right hand, left thigh. You&#x27;re going to alternate taps—slow, deliberate, like you&#x27;re confirming something solid exists. Tap left, tap right. Count to twenty. No rush. Let your shoulders drop on every fourth tap. If your mind wanders to the week ahead, notice it, then return to the sensation: skin, pressure, rhythm. This is bilateral stimulation—it tells your brain you&#x27;re here now, not in Thursday&#x27;s meeting.</div>
-<p class="sb-checkin__close">Your enteric nervous system contains over 500 million neurons that respond to physical touch before cognition kicks in. The gut doesn&#x27;t need reassurance—it needs data.</p>
+<div class="sb-checkin__reset">Place both feet flat on the floor. Feel the specific temperature and texture—socks, rug, wood, whatever&#x27;s there. Now press down through the four corners of each foot: big toe mound, little toe mound, inner heel, outer heel. Hold 4 seconds of pressure. Release. Repeat 3 times. Let your gaze soften to the middle distance. Notice the weight shift from &quot;about to&quot; to &quot;right here.&quot;</div>
+<p class="sb-checkin__close">Your cortisol curve is a wave, not a wall. It will descend naturally if you stop feeding it future-tense thoughts before 9am.</p>
 </div>
 </div>
 

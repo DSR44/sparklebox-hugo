@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Cortisol Arc</h2>
-<span class="date">July 20, 2026</span>
+<h2>The Weight You Forgot You Were Carrying</h2>
+<span class="date">July 21, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your feet haven&#x27;t touched the floor yet and your heart rate&#x27;s already negotiating with the day ahead. You can feel it in the back of your neck—subtle, electric, already leaning forward.</p>
+<p class="sb-checkin__hook">Your jaw is already set. Not clenched—set. Like concrete poured overnight while you weren&#x27;t watching.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Cortisol naturally peaks 30-45 minutes after waking, but Monday amplifies it with anticipation load. Your brain treats the unknown week like a threat scan, keeping your sympathetic system idling high before you&#x27;ve even stood up. Grounding interrupts this by forcing your nervous system to locate itself in actual space, not projected time.</p>
+<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve through a back channel. Jaw tension signals threat to your brainstem, which keeps your nervous system regulation dialed to &quot;low-grade vigilance.&quot; The vagus nerve can override this, but it needs a specific entry point: the muscles at the base of your skull that connect directly to its wandering pathway.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Place both feet flat on the floor. Feel the specific temperature and texture—socks, rug, wood, whatever&#x27;s there. Now press down through the four corners of each foot: big toe mound, little toe mound, inner heel, outer heel. Hold 4 seconds of pressure. Release. Repeat 3 times. Let your gaze soften to the middle distance. Notice the weight shift from &quot;about to&quot; to &quot;right here.&quot;</div>
-<p class="sb-checkin__close">Your cortisol curve is a wave, not a wall. It will descend naturally if you stop feeding it future-tense thoughts before 9am.</p>
+<div class="sb-checkin__reset">Softten your gaze. Let your eyes rest on something mid-distance, slightly blurry. Now place your fingertips at the back of your skull, just above where your neck begins—those two small hollow spots. Press gently inward and upward, toward your crown, for five seconds. Release. Repeat three times. On the fourth press, open your mouth slightly and let your jaw hang heavy for ten seconds. No stretching, just hanging.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your inner ear and throat; releasing jaw tension changes its electrical tone measurably within thirty seconds.</p>
 </div>
 </div>
 

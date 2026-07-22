@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Were Carrying</h2>
-<span class="date">July 21, 2026</span>
+<h2>The Wednesday Float</h2>
+<span class="date">July 22, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is already set. Not clenched—set. Like concrete poured overnight while you weren&#x27;t watching.</p>
+<p class="sb-checkin__hook">Your breath is already shallow—higher in your chest than your belly, like you&#x27;re waiting for something to happen before you&#x27;ll let it drop.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve through a back channel. Jaw tension signals threat to your brainstem, which keeps your nervous system regulation dialed to &quot;low-grade vigilance.&quot; The vagus nerve can override this, but it needs a specific entry point: the muscles at the base of your skull that connect directly to its wandering pathway.</p>
+<p class="sb-checkin__science">This is anticipatory bracing, and it&#x27;s costing you. Shallow breathing keeps your sympathetic system on standby, burning glucose and attention you won&#x27;t get back. Polyvagal theory calls this a neuroceptive threat response—your body read the room before your brain caught up.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Let your eyes rest on something mid-distance, slightly blurry. Now place your fingertips at the back of your skull, just above where your neck begins—those two small hollow spots. Press gently inward and upward, toward your crown, for five seconds. Release. Repeat three times. On the fourth press, open your mouth slightly and let your jaw hang heavy for ten seconds. No stretching, just hanging.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your inner ear and throat; releasing jaw tension changes its electrical tone measurably within thirty seconds.</p>
+<div class="sb-checkin__reset">Softten your gaze. Let your peripheral vision widen. Now exhale like you&#x27;re fogging a mirror—slow, steady, audible—for six counts. Hold empty for two. Inhale through your nose for four, feeling your lowest ribs expand sideways. Repeat three times. That&#x27;s it. No perfect posture required.</div>
+<p class="sb-checkin__close">Your diaphragm and vagus nerve share real estate. When one moves slowly, the other listens.</p>
 </div>
 </div>
 

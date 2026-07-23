@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Float</h2>
-<span class="date">July 22, 2026</span>
+<h2>The Weight of Thursday</h2>
+<span class="date">July 23, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath is already shallow—higher in your chest than your belly, like you&#x27;re waiting for something to happen before you&#x27;ll let it drop.</p>
+<p class="sb-checkin__hook">Your shoulders are already creeping toward your ears. You haven&#x27;t finished your coffee yet and your neck has started its elevator ride.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory bracing, and it&#x27;s costing you. Shallow breathing keeps your sympathetic system on standby, burning glucose and attention you won&#x27;t get back. Polyvagal theory calls this a neuroceptive threat response—your body read the room before your brain caught up.</p>
+<p class="sb-checkin__science">This is called bracing—your nervous system preparing for a day it assumes will demand defense. Polyvagal theory calls this mobilization without direction: energy with nowhere to go, so it lives in your muscles. Your body isn&#x27;t broken; it&#x27;s bored and vigilant at the same time.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Let your peripheral vision widen. Now exhale like you&#x27;re fogging a mirror—slow, steady, audible—for six counts. Hold empty for two. Inhale through your nose for four, feeling your lowest ribs expand sideways. Repeat three times. That&#x27;s it. No perfect posture required.</div>
-<p class="sb-checkin__close">Your diaphragm and vagus nerve share real estate. When one moves slowly, the other listens.</p>
+<div class="sb-checkin__reset">Movement reset, 60 seconds. Stand if you can, or sit tall. Soften your gaze. Let your arms hang heavy. Now shake your hands like you&#x27;re flicking water off them—10 seconds, loose wrists. Add your shoulders: tiny rapid shrugs, up and down, 10 seconds. Let your jaw wobble open. Finish with three big shoulder rolls backward, slow as you can make them. Feel the blood remembering it has other places to be.</div>
+<p class="sb-checkin__close">Your trapezius muscles weren&#x27;t designed to hold tension for eight-hour stretches. They have their own circadian rhythm, and Thursday morning is when they start collecting the week&#x27;s unspent charge.</p>
 </div>
 </div>
 

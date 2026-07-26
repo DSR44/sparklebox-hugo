@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unraveling</h2>
-<span class="date">July 25, 2026</span>
+<h2>The Sunday Wait</h2>
+<span class="date">July 26, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are already doing something—tapping, scrolling, gripping the coffee cup too hard. The week has pooled in your forearms like static electricity.</p>
+<p class="sb-checkin__hook">Your stomach feels heavy before you&#x27;ve eaten—like something&#x27;s already sitting there, uninvited.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your muscles store incomplete stress cycles. When you don&#x27;t discharge the physical charge of deadlines and notifications, your sympathetic nervous system stays partially revved—think of it as leaving your car in drive with the parking brake on. Polyvagal theory calls this &quot;functional freeze&quot;: you&#x27;re moving, but your body never got the all-clear.</p>
+<p class="sb-checkin__science">Your brain treats the unknown future as a threat. No actual danger required. Polyvagal theory calls this neuroception: your body decides what&#x27;s safe before your thoughts catch up, leaving you in that liminal Sunday space between rest and the week&#x27;s demands.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width apart. Soften your gaze. Let your knees unlock. Now let your arms hang loose and shake your hands from the wrists—10 seconds, floppy and uncontrolled. Add your shoulders: small bounces, then bigger ones, 20 seconds. Let your jaw go slack. If it feels ridiculous, you&#x27;re doing it right. Finish with 5 deep exhales through the mouth, each one twice as long as the inhale.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you move. Shaking is its native language.</p>
+<div class="sb-checkin__reset">Softening your gaze, let your eyes rest on something across the room. Now cross your arms and tap your shoulders—left, right, left, right—at a slow walking pace. Keep it boring. Sixty seconds. Feel the weight of your hands landing somewhere you can actually locate.</div>
+<p class="sb-checkin__close">Your nervous system can&#x27;t tell the difference between a lion and a looming Tuesday.</p>
 </div>
 </div>
 

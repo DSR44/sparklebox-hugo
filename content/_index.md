@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Wait</h2>
-<span class="date">July 26, 2026</span>
+<h2>The Monday Exhale</h2>
+<span class="date">July 27, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your stomach feels heavy before you&#x27;ve eaten—like something&#x27;s already sitting there, uninvited.</p>
+<p class="sb-checkin__hook">Your tongue is already pressed against the roof of your mouth. Not hard—just parked there, like it forgot it had somewhere else to be.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your brain treats the unknown future as a threat. No actual danger required. Polyvagal theory calls this neuroception: your body decides what&#x27;s safe before your thoughts catch up, leaving you in that liminal Sunday space between rest and the week&#x27;s demands.</p>
+<p class="sb-checkin__science">Morning cortisol isn&#x27;t your enemy; it&#x27;s your body&#x27;s caffeine-free alarm clock. But that spike hits harder on Mondays because your stress baseline resets over the weekend. Extended exhales manually override this—longer out-breaths activate your parasympathetic brake pedal faster than any thought can.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softening your gaze, let your eyes rest on something across the room. Now cross your arms and tap your shoulders—left, right, left, right—at a slow walking pace. Keep it boring. Sixty seconds. Feel the weight of your hands landing somewhere you can actually locate.</div>
-<p class="sb-checkin__close">Your nervous system can&#x27;t tell the difference between a lion and a looming Tuesday.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your tongue drop and rest fully on the floor of your mouth. Now exhale through your nose for 6 counts—slow enough that you could fog a mirror if you tried. Pause empty for 2. Inhale 4 counts without rush. Repeat 4 times. Let the exhale finish itself; don&#x27;t force the last bit of air out.</div>
+<p class="sb-checkin__close">Your lungs don&#x27;t actually empty—there&#x27;s always residual volume, a quiet reserve you never touch. Your nervous system has reserves too.</p>
 </div>
 </div>
 

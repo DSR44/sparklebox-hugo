@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Exhale</h2>
-<span class="date">July 27, 2026</span>
+<h2>The Weight of Wednesday Already</h2>
+<span class="date">July 28, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is already pressed against the roof of your mouth. Not hard—just parked there, like it forgot it had somewhere else to be.</p>
+<p class="sb-checkin__hook">Your jaw has been busy this morning—clenched, working, holding the shape of things you haven&#x27;t said yet. You can feel it now, can&#x27;t you, that dull ache at the hinge near your ears?</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Morning cortisol isn&#x27;t your enemy; it&#x27;s your body&#x27;s caffeine-free alarm clock. But that spike hits harder on Mondays because your stress baseline resets over the weekend. Extended exhales manually override this—longer out-breaths activate your parasympathetic brake pedal faster than any thought can.</p>
+<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve, part of the same social engagement wiring that polyvagal theory maps out. When your jaw locks down, your throat constricts, and your heart rate ticks up—your body reads clenched jaw as low-grade threat, even if your mind is just answering emails.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your tongue drop and rest fully on the floor of your mouth. Now exhale through your nose for 6 counts—slow enough that you could fog a mirror if you tried. Pause empty for 2. Inhale 4 counts without rush. Repeat 4 times. Let the exhale finish itself; don&#x27;t force the last bit of air out.</div>
-<p class="sb-checkin__close">Your lungs don&#x27;t actually empty—there&#x27;s always residual volume, a quiet reserve you never touch. Your nervous system has reserves too.</p>
+<div class="sb-checkin__reset">Soften your gaze, letting your peripheral vision expand. Now drop your jaw open like you&#x27;re checking for a popcorn kernel—hold for five seconds, gentle, no forcing. Release. Slide your tongue forward to rest behind your bottom teeth, tip touching the back of your lower front teeth. Breathe through your nose for four slow counts. Repeat once. Total time: under forty seconds.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your inner ear, jaw, throat, and heart—so relaxing your jaw literally sends safety signals downstream.</p>
 </div>
 </div>
 

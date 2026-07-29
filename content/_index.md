@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Wednesday Already</h2>
-<span class="date">July 28, 2026</span>
+<h2>The Wednesday Unclench</h2>
+<span class="date">July 29, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been busy this morning—clenched, working, holding the shape of things you haven&#x27;t said yet. You can feel it now, can&#x27;t you, that dull ache at the hinge near your ears?</p>
+<p class="sb-checkin__hook">Your eyes have been narrow-focused since you woke—scanning, reading, tracking. The small muscles around your sockets are holding tension you didn&#x27;t authorize.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve, part of the same social engagement wiring that polyvagal theory maps out. When your jaw locks down, your throat constricts, and your heart rate ticks up—your body reads clenched jaw as low-grade threat, even if your mind is just answering emails.</p>
+<p class="sb-checkin__science">This is ocular lock, part of your startle response. When your eyes fixate tight, your sympathetic system reads it as threat-prep. Widening your visual field—literally your peripheral vision—sends a fast signal to your brain that you&#x27;re not being chased. It&#x27;s sensory gating in action: change the input, change the state.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze, letting your peripheral vision expand. Now drop your jaw open like you&#x27;re checking for a popcorn kernel—hold for five seconds, gentle, no forcing. Release. Slide your tongue forward to rest behind your bottom teeth, tip touching the back of your lower front teeth. Breathe through your nose for four slow counts. Repeat once. Total time: under forty seconds.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your inner ear, jaw, throat, and heart—so relaxing your jaw literally sends safety signals downstream.</p>
+<div class="sb-checkin__reset">Soften your gaze first. Then stand up. Let your arms hang heavy and loose. Begin gentle wrist circles—ten each direction, floppy hands like you just washed them and can&#x27;t find the towel. Now add ankle circles, ten each foot, weight shifting side to side. Let your head bob slightly, chin to chest, ear to shoulder—no forcing, just gravity doing the work. 45 seconds of sloppy joints. Your nervous system reads loose joints as safety.</div>
+<p class="sb-checkin__close">Your joints have more nerve receptors than your skin. Moving them without purpose tells your body the emergency is over.</p>
 </div>
 </div>
 

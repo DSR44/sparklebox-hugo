@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Unclench</h2>
-<span class="date">July 29, 2026</span>
+<h2>The Thursday Heaviness</h2>
+<span class="date">July 30, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes have been narrow-focused since you woke—scanning, reading, tracking. The small muscles around your sockets are holding tension you didn&#x27;t authorize.</p>
+<p class="sb-checkin__hook">Your shoulders are already riding up toward your ears, higher than they were when you woke up—somewhere between 9 a.m. and now, they decided to brace.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is ocular lock, part of your startle response. When your eyes fixate tight, your sympathetic system reads it as threat-prep. Widening your visual field—literally your peripheral vision—sends a fast signal to your brain that you&#x27;re not being chased. It&#x27;s sensory gating in action: change the input, change the state.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue. By Thursday morning, your nervous system has spent three days filtering out the same low-grade stressors—notifications, noise, the hum of expectation. Your brainstem gets tired of deciding what&#x27;s worth your attention, so it defaults to vigilance: muscles lock, breath shallows, you carry the week in your trapezius.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze first. Then stand up. Let your arms hang heavy and loose. Begin gentle wrist circles—ten each direction, floppy hands like you just washed them and can&#x27;t find the towel. Now add ankle circles, ten each foot, weight shifting side to side. Let your head bob slightly, chin to chest, ear to shoulder—no forcing, just gravity doing the work. 45 seconds of sloppy joints. Your nervous system reads loose joints as safety.</div>
-<p class="sb-checkin__close">Your joints have more nerve receptors than your skin. Moving them without purpose tells your body the emergency is over.</p>
+<div class="sb-checkin__reset">Drop your chin a half-inch toward your chest—nothing dramatic, just release. Let your jaw hang open slightly, teeth not touching. Now exhale like you&#x27;re fogging a mirror, slow and audible, for six seconds. Do this three times, letting each shoulder drop on the out-breath. Softening your gaze at whatever&#x27;s in front of you—not closing, just defocusing slightly.</div>
+<p class="sb-checkin__close">Your vagus nerve runs directly behind your sternocleidomastoid muscles—the ones that tighten when you brace. They can&#x27;t stay rigid and signal safety at the same time.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Heaviness</h2>
-<span class="date">July 30, 2026</span>
+<h2>The Friday Static</h2>
+<span class="date">July 31, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are already riding up toward your ears, higher than they were when you woke up—somewhere between 9 a.m. and now, they decided to brace.</p>
+<p class="sb-checkin__hook">Your feet have been holding the floor like they&#x27;re afraid it might move. Same pressure. Same grip. Since you stood up.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. By Thursday morning, your nervous system has spent three days filtering out the same low-grade stressors—notifications, noise, the hum of expectation. Your brainstem gets tired of deciding what&#x27;s worth your attention, so it defaults to vigilance: muscles lock, breath shallows, you carry the week in your trapezius.</p>
+<p class="sb-checkin__science">This is called postural tone—your muscles staying half-on, half-ready, burning fuel for a sprint that never comes. Your nervous system can&#x27;t tell the difference between &quot;waiting for the weekend&quot; and &quot;waiting for danger.&quot; Both keep the body braced.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Drop your chin a half-inch toward your chest—nothing dramatic, just release. Let your jaw hang open slightly, teeth not touching. Now exhale like you&#x27;re fogging a mirror, slow and audible, for six seconds. Do this three times, letting each shoulder drop on the out-breath. Softening your gaze at whatever&#x27;s in front of you—not closing, just defocusing slightly.</div>
-<p class="sb-checkin__close">Your vagus nerve runs directly behind your sternocleidomastoid muscles—the ones that tighten when you brace. They can&#x27;t stay rigid and signal safety at the same time.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now shake one hand like you&#x27;re flicking water off it—8 seconds, loose wrist, shoulder dropped. Switch hands. Then both hands together, loose and sloppy, for 10 seconds. Let the vibration travel up through your elbows. Stop. Notice what your feet do—they probably just exhaled into the floor.</div>
+<p class="sb-checkin__close">Your body finishes what it starts. A shake tells the nervous system the threat passed. The bracing stops when the movement does.</p>
 </div>
 </div>
 

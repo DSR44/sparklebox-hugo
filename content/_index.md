@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Static</h2>
-<span class="date">July 31, 2026</span>
+<h2>The Saturday Still Point</h2>
+<span class="date">August 01, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your feet have been holding the floor like they&#x27;re afraid it might move. Same pressure. Same grip. Since you stood up.</p>
+<p class="sb-checkin__hook">Your belly has been tight since you woke—holding, bracing, already rehearsing the day before it started.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called postural tone—your muscles staying half-on, half-ready, burning fuel for a sprint that never comes. Your nervous system can&#x27;t tell the difference between &quot;waiting for the weekend&quot; and &quot;waiting for danger.&quot; Both keep the body braced.</p>
+<p class="sb-checkin__science">This is your sympathetic system in anticipatory drive. Polyvagal theory calls it &quot;neuroception&quot;—your body scanning for threat before your brain catches up. The exhale is your fastest bridge back to the ventral vagal state; extending it signals safety to your nervous system in real time.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now shake one hand like you&#x27;re flicking water off it—8 seconds, loose wrist, shoulder dropped. Switch hands. Then both hands together, loose and sloppy, for 10 seconds. Let the vibration travel up through your elbows. Stop. Notice what your feet do—they probably just exhaled into the floor.</div>
-<p class="sb-checkin__close">Your body finishes what it starts. A shake tells the nervous system the threat passed. The bracing stops when the movement does.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Inhale through your nose for 4 counts. Hold for 4. Exhale slowly for 6—make it audible if you can. Hold empty for 4. Repeat 4 rounds. Let your shoulders drop on the exhale like you&#x27;re setting down something you were never asked to carry.</div>
+<p class="sb-checkin__close">Your diaphragm and your vagus nerve share real estate. Slow exhales physically massage the nerve, no belief system required.</p>
 </div>
 </div>
 

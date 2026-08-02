@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Still Point</h2>
-<span class="date">August 01, 2026</span>
+<h2>Sunday Weight</h2>
+<span class="date">August 02, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your belly has been tight since you woke—holding, bracing, already rehearsing the day before it started.</p>
+<p class="sb-checkin__hook">Your hands have been hanging at your sides like they&#x27;re still carrying something from yesterday—grocery bags, a phone, the residue of Saturday.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic system in anticipatory drive. Polyvagal theory calls it &quot;neuroception&quot;—your body scanning for threat before your brain catches up. The exhale is your fastest bridge back to the ventral vagal state; extending it signals safety to your nervous system in real time.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue. Your nervous system kept filtering input all week to keep you functional, and Sunday morning it finally lowers the gate. Everything rushes in at once—plans, undone tasks, the shape of Monday. Your body interprets this as weight, not thought.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Inhale through your nose for 4 counts. Hold for 4. Exhale slowly for 6—make it audible if you can. Hold empty for 4. Repeat 4 rounds. Let your shoulders drop on the exhale like you&#x27;re setting down something you were never asked to carry.</div>
-<p class="sb-checkin__close">Your diaphragm and your vagus nerve share real estate. Slow exhales physically massage the nerve, no belief system required.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze to the middle distance. Let your arms hang heavy and loose. Now begin to sway—shift weight left to right, let your arms swing slightly, like a slow pendulum. Count 20 sways. Don&#x27;t control the movement; let momentum carry you. When you stop, stand still and notice the difference between held and released.</div>
+<p class="sb-checkin__close">Your arms have lymphatic vessels that only move when you move. Stillness pools. Motion drains.</p>
 </div>
 </div>
 

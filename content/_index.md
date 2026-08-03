@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Weight</h2>
-<span class="date">August 02, 2026</span>
+<h2>The Monday Jaw</h2>
+<span class="date">August 03, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been hanging at your sides like they&#x27;re still carrying something from yesterday—grocery bags, a phone, the residue of Saturday.</p>
+<p class="sb-checkin__hook">Your jaw has been parked somewhere up near your cheekbones since you opened your eyes—clenched, humming, already rehearsing conversations that haven&#x27;t happened.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. Your nervous system kept filtering input all week to keep you functional, and Sunday morning it finally lowers the gate. Everything rushes in at once—plans, undone tasks, the shape of Monday. Your body interprets this as weight, not thought.</p>
+<p class="sb-checkin__science">This is your masseter muscle talking. It&#x27;s one of the strongest muscles in your body by weight, and when it&#x27;s locked, your brain reads it as low-grade threat. Polyvagal theory calls this neuroception—your nervous system scanning for safety based on physical cues you didn&#x27;t choose. Unclenching isn&#x27;t relaxation; it&#x27;s data entry. You&#x27;re telling your brain: not currently being chased.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze to the middle distance. Let your arms hang heavy and loose. Now begin to sway—shift weight left to right, let your arms swing slightly, like a slow pendulum. Count 20 sways. Don&#x27;t control the movement; let momentum carry you. When you stop, stand still and notice the difference between held and released.</div>
-<p class="sb-checkin__close">Your arms have lymphatic vessels that only move when you move. Stillness pools. Motion drains.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang open half an inch—lips touching, teeth not. Press the tip of your tongue to the roof of your mouth just behind your front teeth. Hum one low note, any note, for four slow seconds. Feel the vibration in your chest, not your throat. Rest your tongue. Three times.</div>
+<p class="sb-checkin__close">Your vagus nerve runs straight through your throat and jaw. Vibration and release are dialects it understands without translation.</p>
 </div>
 </div>
 

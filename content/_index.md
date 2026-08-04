@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Jaw</h2>
-<span class="date">August 03, 2026</span>
+<h2>The Weight You Forgot You Were Holding</h2>
+<span class="date">August 04, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been parked somewhere up near your cheekbones since you opened your eyes—clenched, humming, already rehearsing conversations that haven&#x27;t happened.</p>
+<p class="sb-checkin__hook">Your tongue is pressed against the roof of your mouth. Your shoulders have crept forward—just a few millimeters, but enough that your collarbone feels like it&#x27;s doing something it&#x27;s not supposed to.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your masseter muscle talking. It&#x27;s one of the strongest muscles in your body by weight, and when it&#x27;s locked, your brain reads it as low-grade threat. Polyvagal theory calls this neuroception—your nervous system scanning for safety based on physical cues you didn&#x27;t choose. Unclenching isn&#x27;t relaxation; it&#x27;s data entry. You&#x27;re telling your brain: not currently being chased.</p>
+<p class="sb-checkin__science">This is sensory gating in action. Your nervous system has been filtering out the background static of accumulated midweek tension, so you stopped noticing your own bracing. Interoception—the brain&#x27;s ability to read internal signals—goes offline when threat detection stays switched on. You can&#x27;t feel what you&#x27;ve numbed. The good news: bringing attention back to the body, without trying to fix anything, reboots that signaling pathway.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang open half an inch—lips touching, teeth not. Press the tip of your tongue to the roof of your mouth just behind your front teeth. Hum one low note, any note, for four slow seconds. Feel the vibration in your chest, not your throat. Rest your tongue. Three times.</div>
-<p class="sb-checkin__close">Your vagus nerve runs straight through your throat and jaw. Vibration and release are dialects it understands without translation.</p>
+<div class="sb-checkin__reset">Stand or sit with both feet flat. Soften your gaze to a middle distance. Let your tongue drop from the roof of your mouth and rest behind your lower teeth. Now—without moving your shoulders yet—breathe in for 4 counts, hold for 4, out for 6. On the next exhale, let your shoulders fall away from your ears like you&#x27;re shrugging off a coat you didn&#x27;t know you were wearing. Do this twice more. Notice the space that appears between your shoulder blades. That&#x27;s your nervous system remembering it has options.</div>
+<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension than necessary before your brain flags it as discomfort. Regulation starts with noticing before the alarm sounds.</p>
 </div>
 </div>
 

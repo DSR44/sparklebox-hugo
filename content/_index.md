@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Were Holding</h2>
-<span class="date">August 04, 2026</span>
+<h2>The Wednesday Slack</h2>
+<span class="date">August 05, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is pressed against the roof of your mouth. Your shoulders have crept forward—just a few millimeters, but enough that your collarbone feels like it&#x27;s doing something it&#x27;s not supposed to.</p>
+<p class="sb-checkin__hook">Your shoulders have migrated toward your ears. Not dramatically—just enough that your neck feels shorter than it was designed to be.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action. Your nervous system has been filtering out the background static of accumulated midweek tension, so you stopped noticing your own bracing. Interoception—the brain&#x27;s ability to read internal signals—goes offline when threat detection stays switched on. You can&#x27;t feel what you&#x27;ve numbed. The good news: bringing attention back to the body, without trying to fix anything, reboots that signaling pathway.</p>
+<p class="sb-checkin__science">This is neuroceptive bracing: your nervous system scans for threat and locks posture as a preemptive shield. The vagus nerve runs through your neck and jaw; tension there signals your brain that vigilance is still required, even when nothing&#x27;s actively wrong.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand or sit with both feet flat. Soften your gaze to a middle distance. Let your tongue drop from the roof of your mouth and rest behind your lower teeth. Now—without moving your shoulders yet—breathe in for 4 counts, hold for 4, out for 6. On the next exhale, let your shoulders fall away from your ears like you&#x27;re shrugging off a coat you didn&#x27;t know you were wearing. Do this twice more. Notice the space that appears between your shoulder blades. That&#x27;s your nervous system remembering it has options.</div>
-<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension than necessary before your brain flags it as discomfort. Regulation starts with noticing before the alarm sounds.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop on a two-count exhale. Now hum—low, steady, whatever pitch feels available—for four slow breaths. Feel the vibration in your chest and throat. That&#x27;s your vagus nerve getting a direct signal: standby, not red alert.</div>
+<p class="sb-checkin__close">Your body defaults to protection first and correction second. It takes less energy to maintain tension than to release it—that&#x27;s why you have to choose softness deliberately.</p>
 </div>
 </div>
 

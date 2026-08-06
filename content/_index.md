@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Slack</h2>
-<span class="date">August 05, 2026</span>
+<h2>The Thursday Slack</h2>
+<span class="date">August 06, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have migrated toward your ears. Not dramatically—just enough that your neck feels shorter than it was designed to be.</p>
+<p class="sb-checkin__hook">Your breath has been riding high in your chest all morning—shallow, quick, like you&#x27;re waiting for the next thing to demand something from you.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neuroceptive bracing: your nervous system scans for threat and locks posture as a preemptive shield. The vagus nerve runs through your neck and jaw; tension there signals your brain that vigilance is still required, even when nothing&#x27;s actively wrong.</p>
+<p class="sb-checkin__science">This is your sympathetic system stuck in low-grade surveillance mode. Polyvagal theory calls it &quot;neuroception&quot;—your body scanning for threat even when your mind isn&#x27;t. The fix isn&#x27;t to relax; it&#x27;s to signal safety through exhalation length, which recruits your vagus nerve and shifts you into ventral vagal state without forcing calm.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop on a two-count exhale. Now hum—low, steady, whatever pitch feels available—for four slow breaths. Feel the vibration in your chest and throat. That&#x27;s your vagus nerve getting a direct signal: standby, not red alert.</div>
-<p class="sb-checkin__close">Your body defaults to protection first and correction second. It takes less energy to maintain tension than to release it—that&#x27;s why you have to choose softness deliberately.</p>
+<div class="sb-checkin__reset">Softten your gaze. Inhale through your nose for 4 counts. Pause briefly. Inhale again—just a sip—for 2 more counts. Exhale slowly through pursed lips for 8 counts. Repeat twice. The double inhale stretches lung receptors that trigger parasympathetic response; the long exhale is the nervous system regulation your body actually registers.</div>
+<p class="sb-checkin__close">Your lungs contain alveoli so numerous that laid flat, they&#x27;d cover a tennis court. They don&#x27;t need force. They need time.</p>
 </div>
 </div>
 

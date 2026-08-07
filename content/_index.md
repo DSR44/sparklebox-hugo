@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Slack</h2>
-<span class="date">August 06, 2026</span>
+<h2>Friday Morning Static</h2>
+<span class="date">August 07, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath has been riding high in your chest all morning—shallow, quick, like you&#x27;re waiting for the next thing to demand something from you.</p>
+<p class="sb-checkin__hook">Your feet have been glued to the floor since you woke up—soles flat, ankles locked, like you&#x27;re waiting for permission to move.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic system stuck in low-grade surveillance mode. Polyvagal theory calls it &quot;neuroception&quot;—your body scanning for threat even when your mind isn&#x27;t. The fix isn&#x27;t to relax; it&#x27;s to signal safety through exhalation length, which recruits your vagus nerve and shifts you into ventral vagal state without forcing calm.</p>
+<p class="sb-checkin__science">Your nervous system keeps muscle tension as a &quot;holding pattern&quot; when stress accumulates. Polyvagal theory calls this dorsal shutdown creeping in—too still, too frozen, conserving energy for a threat that never arrives. Movement breaks the freeze by signaling safety through your proprioceptors.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Inhale through your nose for 4 counts. Pause briefly. Inhale again—just a sip—for 2 more counts. Exhale slowly through pursed lips for 8 counts. Repeat twice. The double inhale stretches lung receptors that trigger parasympathetic response; the long exhale is the nervous system regulation your body actually registers.</div>
-<p class="sb-checkin__close">Your lungs contain alveoli so numerous that laid flat, they&#x27;d cover a tennis court. They don&#x27;t need force. They need time.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your knees unlock. Now shake your hands—loose wrists, floppy fingers—for 15 seconds like you&#x27;re flicking water off them. Add your shoulders: small bounces, 10 times, letting your arms swing dead-weight. Finish with three gentle whole-body shudders from your feet up, 3 seconds each. Let your jaw wobble. Done.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you do. Every micro-shake clears metabolic waste your muscles held overnight.</p>
 </div>
 </div>
 

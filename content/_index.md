@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Friday Morning Static</h2>
-<span class="date">August 07, 2026</span>
+<h2>The Weight of Saturday Morning</h2>
+<span class="date">August 08, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your feet have been glued to the floor since you woke up—soles flat, ankles locked, like you&#x27;re waiting for permission to move.</p>
+<p class="sb-checkin__hook">Your hands have been clutching nothing for hours—thumbs locked, fingers curved around phantom objects. The coffee cup, the phone, the to-do list. They&#x27;re still holding on.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your nervous system keeps muscle tension as a &quot;holding pattern&quot; when stress accumulates. Polyvagal theory calls this dorsal shutdown creeping in—too still, too frozen, conserving energy for a threat that never arrives. Movement breaks the freeze by signaling safety through your proprioceptors.</p>
+<p class="sb-checkin__science">This is called residual muscle tension: your nervous system keeps firing &quot;grip&quot; commands even when the threat—or task—is gone. It&#x27;s efficient for short bursts, expensive for your Saturday. Grounding interrupts this loop by flooding your brain with spatial data it can&#x27;t ignore.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your knees unlock. Now shake your hands—loose wrists, floppy fingers—for 15 seconds like you&#x27;re flicking water off them. Add your shoulders: small bounces, 10 times, letting your arms swing dead-weight. Finish with three gentle whole-body shudders from your feet up, 3 seconds each. Let your jaw wobble. Done.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you do. Every micro-shake clears metabolic waste your muscles held overnight.</p>
+<div class="sb-checkin__reset">Stand barefoot if possible. Press both feet into the floor—equal weight, ball and heel. Soften your gaze at a fixed point. Inhale for 4, hold for 4, exhale for 4, hold empty for 4. On each hold, notice one surface touching you: floor, air on skin, fabric. Three rounds. Let your hands hang open, palms forward, fingers heavy.</div>
+<p class="sb-checkin__close">Your hands contain more nerve endings per square inch than almost anywhere else on your body. They were built to feel, not just to hold.</p>
 </div>
 </div>
 

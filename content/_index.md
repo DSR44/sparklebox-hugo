@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Saturday Morning</h2>
-<span class="date">August 08, 2026</span>
+<h2>The Sunday Jaw</h2>
+<span class="date">August 09, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been clutching nothing for hours—thumbs locked, fingers curved around phantom objects. The coffee cup, the phone, the to-do list. They&#x27;re still holding on.</p>
+<p class="sb-checkin__hook">Your molars are touching. Not grinding—just resting together with more pressure than sleep requires. The space behind your ears feels warm.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called residual muscle tension: your nervous system keeps firing &quot;grip&quot; commands even when the threat—or task—is gone. It&#x27;s efficient for short bursts, expensive for your Saturday. Grounding interrupts this loop by flooding your brain with spatial data it can&#x27;t ignore.</p>
+<p class="sb-checkin__science">This is trigeminal-vagal tension. Your jaw&#x27;s masseter muscle feeds straight into the brainstem&#x27;s threat-detection circuits. When it&#x27;s engaged, your vagus nerve gets mixed signals about safety. Polyvagal theory calls this a &quot;neuroceptive&quot; misread—your body thinks it&#x27;s chewing through a problem, so it stays mobilized.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand barefoot if possible. Press both feet into the floor—equal weight, ball and heel. Soften your gaze at a fixed point. Inhale for 4, hold for 4, exhale for 4, hold empty for 4. On each hold, notice one surface touching you: floor, air on skin, fabric. Three rounds. Let your hands hang open, palms forward, fingers heavy.</div>
-<p class="sb-checkin__close">Your hands contain more nerve endings per square inch than almost anywhere else on your body. They were built to feel, not just to hold.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang open half an inch—lips still closed, teeth not touching. Place your thumbs at the hinge of your jaw, just in front of your ears. Press gently and hum one low note for six seconds. Feel the vibration. Rest two seconds. Repeat four times. That&#x27;s a nervous system reset in under a minute.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your inner ear. Humming stimulates it directly—same frequency range that signals &quot;all clear&quot; to your ancient mammal brain.</p>
 </div>
 </div>
 

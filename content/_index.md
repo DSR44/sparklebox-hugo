@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Jaw</h2>
-<span class="date">August 09, 2026</span>
+<h2>The Monday Cortisol Wave</h2>
+<span class="date">August 10, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your molars are touching. Not grinding—just resting together with more pressure than sleep requires. The space behind your ears feels warm.</p>
+<p class="sb-checkin__hook">Your jaw has been holding a shape you didn&#x27;t choose—lips pressed, molars floating near contact, the whole front of your face slightly braced for impact. You didn&#x27;t decide this. Your nervous system decided for you somewhere between alarm and coffee.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is trigeminal-vagal tension. Your jaw&#x27;s masseter muscle feeds straight into the brainstem&#x27;s threat-detection circuits. When it&#x27;s engaged, your vagus nerve gets mixed signals about safety. Polyvagal theory calls this a &quot;neuroceptive&quot; misread—your body thinks it&#x27;s chewing through a problem, so it stays mobilized.</p>
+<p class="sb-checkin__science">Monday morning cortisol isn&#x27;t failure—it&#x27;s your hypothalamic-pituitary-adrenal axis doing exactly what evolution programmed: alertness for new threats. The problem isn&#x27;t the spike. It&#x27;s that your exhale never caught up. Without a longer out-breath, your vagus nerve stays muted and your body thinks the danger is ongoing. You&#x27;re not stressed; you&#x27;re just still inhaling.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang open half an inch—lips still closed, teeth not touching. Place your thumbs at the hinge of your jaw, just in front of your ears. Press gently and hum one low note for six seconds. Feel the vibration. Rest two seconds. Repeat four times. That&#x27;s a nervous system reset in under a minute.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your inner ear. Humming stimulates it directly—same frequency range that signals &quot;all clear&quot; to your ancient mammal brain.</p>
+<div class="sb-checkin__reset">Soften your gaze slightly—let your peripheral vision widen without moving your head. Now breathe in through your nose for four counts. Hold for two. Exhale through pursed lips for eight counts, slow and steady, like cooling soup. Repeat twice more. The extended exhale is the only part that matters; the rest is just setup. Let your shoulders drop on the final out-breath, not because you&#x27;re relaxing but because physics finally got a word in.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to exhalation length, not intention. Breathe out longer and your heart rate drops—no belief system required.</p>
 </div>
 </div>
 

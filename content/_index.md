@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Cortisol Wave</h2>
-<span class="date">August 10, 2026</span>
+<h2>The Weight You Forgot You Were Carrying</h2>
+<span class="date">August 11, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been holding a shape you didn&#x27;t choose—lips pressed, molars floating near contact, the whole front of your face slightly braced for impact. You didn&#x27;t decide this. Your nervous system decided for you somewhere between alarm and coffee.</p>
+<p class="sb-checkin__hook">Your shoulders have crept toward your ears without your permission—check right now. Feel that subtle burn across your upper back, the invisible hanger you&#x27;ve been wearing since yesterday.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Monday morning cortisol isn&#x27;t failure—it&#x27;s your hypothalamic-pituitary-adrenal axis doing exactly what evolution programmed: alertness for new threats. The problem isn&#x27;t the spike. It&#x27;s that your exhale never caught up. Without a longer out-breath, your vagus nerve stays muted and your body thinks the danger is ongoing. You&#x27;re not stressed; you&#x27;re just still inhaling.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue. Your nervous system has been filtering out background stress all week—notifications, deadlines, the hum of Tuesday—and the cost lives in your trapezius. When gating muscles stay braced, your brain receives a steady false signal that something requires defense.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze slightly—let your peripheral vision widen without moving your head. Now breathe in through your nose for four counts. Hold for two. Exhale through pursed lips for eight counts, slow and steady, like cooling soup. Repeat twice more. The extended exhale is the only part that matters; the rest is just setup. Let your shoulders drop on the final out-breath, not because you&#x27;re relaxing but because physics finally got a word in.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to exhalation length, not intention. Breathe out longer and your heart rate drops—no belief system required.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. Now: exaggerated shoulder shrug, hold 4 seconds, release completely. Repeat 3 times. Final round: shrug, rotate shoulders backward in exaggerated circles while holding the tension—3 slow circles—then drop everything. Let your arms hang heavy as wet rope for 10 seconds.</div>
+<p class="sb-checkin__close">Your shoulders were never designed to be earrings. Gravity can hold them now.</p>
 </div>
 </div>
 

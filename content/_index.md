@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Were Carrying</h2>
-<span class="date">August 11, 2026</span>
+<h2>The Wednesday Drift</h2>
+<span class="date">August 12, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept toward your ears without your permission—check right now. Feel that subtle burn across your upper back, the invisible hanger you&#x27;ve been wearing since yesterday.</p>
+<p class="sb-checkin__hook">Your eyes have been hunting the middle distance all morning—scanning screens, then walls, then nothing—while your weight keeps settling backward, away from the day.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. Your nervous system has been filtering out background stress all week—notifications, deadlines, the hum of Tuesday—and the cost lives in your trapezius. When gating muscles stay braced, your brain receives a steady false signal that something requires defense.</p>
+<p class="sb-checkin__science">This is dissociative drift, a low-grade freeze response. Your nervous system is doing sensory downshifting: turning the volume down on your environment because input feels like demand. Polyvagal theory calls this dorsal vagal engagement—useful for surviving, lousy for living.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. Now: exaggerated shoulder shrug, hold 4 seconds, release completely. Repeat 3 times. Final round: shrug, rotate shoulders backward in exaggerated circles while holding the tension—3 slow circles—then drop everything. Let your arms hang heavy as wet rope for 10 seconds.</div>
-<p class="sb-checkin__close">Your shoulders were never designed to be earrings. Gravity can hold them now.</p>
+<div class="sb-checkin__reset">Let your system re-land. Soften your gaze. Now name: 5 things you can see without moving your head (say them quietly or in your head—no performance). 4 things you can hear right now, including the hum you usually filter out. 3 points of physical contact—chair, floor, clothing. 2 smells, even faint or absent (memory counts). 1 thing you can taste. This is a nervous system reset through deliberate sensory recruitment. Takes 45 seconds. Changes your physiology, not your attitude.</div>
+<p class="sb-checkin__close">Your vestibular system—inner ear balance—updates your brain&#x27;s map of &quot;here&quot; every time you orient deliberately. You&#x27;re not lazy. Your body was waiting for coordinates.</p>
 </div>
 </div>
 

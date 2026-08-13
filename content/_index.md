@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Drift</h2>
-<span class="date">August 12, 2026</span>
+<h2>The Thursday Slump</h2>
+<span class="date">August 13, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes have been hunting the middle distance all morning—scanning screens, then walls, then nothing—while your weight keeps settling backward, away from the day.</p>
+<p class="sb-checkin__hook">Your ankles have been crossed under the desk for longer than you realize—calves quietly hoarding tension like they&#x27;re bracing for a signal that isn&#x27;t coming.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is dissociative drift, a low-grade freeze response. Your nervous system is doing sensory downshifting: turning the volume down on your environment because input feels like demand. Polyvagal theory calls this dorsal vagal engagement—useful for surviving, lousy for living.</p>
+<p class="sb-checkin__science">This is your body stuck in anticipatory stillness, a low-grade freeze response where muscles contract not from action, but from waiting. Polyvagal theory calls this the shutdown blend of your nervous system—neither fully engaged nor truly resting, just suspended.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your system re-land. Soften your gaze. Now name: 5 things you can see without moving your head (say them quietly or in your head—no performance). 4 things you can hear right now, including the hum you usually filter out. 3 points of physical contact—chair, floor, clothing. 2 smells, even faint or absent (memory counts). 1 thing you can taste. This is a nervous system reset through deliberate sensory recruitment. Takes 45 seconds. Changes your physiology, not your attitude.</div>
-<p class="sb-checkin__close">Your vestibular system—inner ear balance—updates your brain&#x27;s map of &quot;here&quot; every time you orient deliberately. You&#x27;re not lazy. Your body was waiting for coordinates.</p>
+<div class="sb-checkin__reset">Stand up. Shake your hands vigorously for 10 seconds—let them flop at the wrists, not controlled. Now march in place, bringing knees higher than feels natural, 20 steps. Let your arms swing loose. Finish with five full shoulder rolls backward, then forward. Return to seated if needed, but keep both feet flat, weight even.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump of its own—it depends entirely on your muscles moving to circulate immune cells through your body.</p>
 </div>
 </div>
 

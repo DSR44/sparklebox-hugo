@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Slump</h2>
-<span class="date">August 13, 2026</span>
+<h2>The Weight of the Week</h2>
+<span class="date">August 14, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your ankles have been crossed under the desk for longer than you realize—calves quietly hoarding tension like they&#x27;re bracing for a signal that isn&#x27;t coming.</p>
+<p class="sb-checkin__hook">Your tongue is pressing against the roof of your mouth—has been since you checked your phone. Small. Persistent. Like it&#x27;s holding something in place.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your body stuck in anticipatory stillness, a low-grade freeze response where muscles contract not from action, but from waiting. Polyvagal theory calls this the shutdown blend of your nervous system—neither fully engaged nor truly resting, just suspended.</p>
+<p class="sb-checkin__science">The vagus nerve runs from your gut to your brainstem, and it carries more signals *up* than down. When it&#x27;s online, your face softens, your breath deepens, your gut trusts the world enough to digest. When it&#x27;s not, your jaw becomes a security gate. Polyvagal theory calls this neuroception—your body deciding safety before your mind catches up.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Shake your hands vigorously for 10 seconds—let them flop at the wrists, not controlled. Now march in place, bringing knees higher than feels natural, 20 steps. Let your arms swing loose. Finish with five full shoulder rolls backward, then forward. Return to seated if needed, but keep both feet flat, weight even.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump of its own—it depends entirely on your muscles moving to circulate immune cells through your body.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your tongue fall from the palate and rest behind your bottom teeth. Exhale through your nose for a slow count of six. Now hum on the next exhale—low, steady, until the air runs out. Feel the vibration behind your sternum. Three rounds. The vagus nerve loves frequency between 150-250 Hz; your hum is medicine you manufacture yourself.</div>
+<p class="sb-checkin__close">Your vagus nerve remembers every time you&#x27;ve felt genuinely at ease. It keeps the pattern. It just needs a reminder.</p>
 </div>
 </div>
 

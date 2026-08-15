@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of the Week</h2>
-<span class="date">August 14, 2026</span>
+<h2>The Morning After Friday</h2>
+<span class="date">August 15, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is pressing against the roof of your mouth—has been since you checked your phone. Small. Persistent. Like it&#x27;s holding something in place.</p>
+<p class="sb-checkin__hook">Your breath has been shallow since you woke—small sips instead of full draws, like you&#x27;re conserving air for later.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">The vagus nerve runs from your gut to your brainstem, and it carries more signals *up* than down. When it&#x27;s online, your face softens, your breath deepens, your gut trusts the world enough to digest. When it&#x27;s not, your jaw becomes a security gate. Polyvagal theory calls this neuroception—your body deciding safety before your mind catches up.</p>
+<p class="sb-checkin__science">This is sensory gating in action. Your nervous system dials down non-urgent input when it thinks it needs to stay ready. The problem: it forgets to turn the volume back up. Box breathing manually overrides this, signaling safety through patterned inhales and holds.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your tongue fall from the palate and rest behind your bottom teeth. Exhale through your nose for a slow count of six. Now hum on the next exhale—low, steady, until the air runs out. Feel the vibration behind your sternum. Three rounds. The vagus nerve loves frequency between 150-250 Hz; your hum is medicine you manufacture yourself.</div>
-<p class="sb-checkin__close">Your vagus nerve remembers every time you&#x27;ve felt genuinely at ease. It keeps the pattern. It just needs a reminder.</p>
+<div class="sb-checkin__reset">Soften your gaze on a fixed point. Inhale through your nose for 4 counts. Hold for 4. Exhale through your nose for 4. Hold empty for 4. Repeat 4 rounds. If you lose count, start over—your brain re-engaging is the point.</div>
+<p class="sb-checkin__close">Your lungs have 300 million alveoli. They don&#x27;t need your permission to work—they need your rhythm.</p>
 </div>
 </div>
 

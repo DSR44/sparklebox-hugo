@@ -47,7 +47,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
 <h2>Sunday Static</h2>
-<span class="date">August 16, 2026</span>
+<span class="date">August 17, 2026</span>
 </div>
 <div class="sb-checkin__body">
 <p class="sb-checkin__hook">Your jaw has been set since you opened your eyes—check now, back teeth touching, molars quietly grinding the night into morning.</p>

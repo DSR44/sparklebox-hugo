@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">August 17, 2026</span>
+<h2>The Midweek Collapse</h2>
+<span class="date">August 18, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been set since you opened your eyes—check now, back teeth touching, molars quietly grinding the night into morning.</p>
+<p class="sb-checkin__hook">Your shoulders have crept toward your ears overnight—feel them now, suspended like they&#x27;re holding something invisible above your head.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, your sympathetic system already rehearsing the week ahead. Bilateral stimulation—simple alternating touch—can override this forward-leaning loop by engaging both hemispheres and signaling safety to the brainstem.</p>
+<p class="sb-checkin__science">This is muscle bracing, your nervous system&#x27;s ancient attempt to armor up. When stress accumulates faster than it discharges, your trapezius stays partially contracted, burning glucose and sending false threat signals back to your brain. Polyvagal theory calls this a neuroceptive loop: body tells brain danger, brain tells body to stay ready.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Cross your arms over your chest, hands resting on opposite shoulders. Alternately tap your shoulders—left, right, left, right—slow as a walking pace, for 45 seconds. Let your shoulders drop with every third tap. No breath control needed. Just touch, alternating, present.</div>
-<p class="sb-checkin__close">Your nervous system doesn&#x27;t know it&#x27;s Sunday—it only knows what your body is doing right now.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. On your next exhale, drop your shoulders down and back like you&#x27;re sliding them into back pockets—don&#x27;t force, just release. Hold for four slow counts. Now roll each shoulder forward, up, back, down—three slow circles each direction, tracing the widest arc possible. Finish by letting both arms hang heavy for ten seconds, fingers thick and dumb.</div>
+<p class="sb-checkin__close">Your trapezius is the only muscle that can lift, rotate, and stabilize your shoulder girdle—when it finally lets go, your whole upper body remembers it doesn&#x27;t need to guard the sky.</p>
 </div>
 </div>
 

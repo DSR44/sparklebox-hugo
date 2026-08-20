@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Unclench</h2>
-<span class="date">August 19, 2026</span>
+<h2>Thursday Weight</h2>
+<span class="date">August 20, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your molars have been touching since you sat down—just resting against each other, not grinding, but held. Let them part now. Feel your face remember its own weight.</p>
+<p class="sb-checkin__hook">Your tongue has been pressed to the roof of your mouth since breakfast—taste the coffee still there, then let it drop.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve, two old friends passing notes. When your jaw stays clenched, it signals your brain that something needs guarding—part of the polyvagal theory map of how your body decides safety. Softening the jaw is one of the fastest ways to flip that switch back toward rest-and-digest without needing a meditation cushion or a vacation.</p>
+<p class="sb-checkin__science">This is sensory gating in action: your brain filters &quot;background&quot; signals to save energy, but Thursday morning fatigue cranks the filter too high, numbing your mouth, your breath, your weight in the chair. Polyvagal theory calls this dorsal vagal drift—neither fight nor flight, just a dimmed-down system running on backup power.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softening your gaze, let your eyes rest on something neutral—a wall, a desk edge, your coffee mug. Now: five slow breaths through your nose, but here&#x27;s the catch—exhale for two counts longer than you inhale. Try in for three, out for five. On each exhale, let your jaw drop a millimeter more, your tongue rest heavy, your shoulders slide down like water finding level. That&#x27;s it. No perfect posture required.</div>
-<p class="sb-checkin__close">Your vagus nerve wraps around your throat and passes right behind your jaw. Every unclench is direct mail to your nervous system regulation hardware.</p>
+<div class="sb-checkin__reset">Stand up. Inhale through your nose for 4 counts. Sip in one more quick inhale through your nose at the top—your lungs are fuller than you think. Exhale slowly through pursed lips for 8 counts, like cooling soup. Let your knees unlock, soften your gaze, and drop your shoulders on the next exhale. Repeat twice. 60 seconds total.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your diaphragm—every slow exhale is a direct signal to your brain that Thursday is survivable, not threatening.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Weight</h2>
-<span class="date">August 20, 2026</span>
+<h2>The Morning Unravel</h2>
+<span class="date">August 21, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue has been pressed to the roof of your mouth since breakfast—taste the coffee still there, then let it drop.</p>
+<p class="sb-checkin__hook">Your hands have been slightly curled since you woke—thumbs tucked, fingers half-fisted like you&#x27;re still holding yesterday.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action: your brain filters &quot;background&quot; signals to save energy, but Thursday morning fatigue cranks the filter too high, numbing your mouth, your breath, your weight in the chair. Polyvagal theory calls this dorsal vagal drift—neither fight nor flight, just a dimmed-down system running on backup power.</p>
+<p class="sb-checkin__science">This is residual muscle bracing, your sympathetic nervous system leaving tracks in the fascia. Polyvagal theory calls it neuroceptive residue—your body staying prepared for a threat that already passed.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Inhale through your nose for 4 counts. Sip in one more quick inhale through your nose at the top—your lungs are fuller than you think. Exhale slowly through pursed lips for 8 counts, like cooling soup. Let your knees unlock, soften your gaze, and drop your shoulders on the next exhale. Repeat twice. 60 seconds total.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your diaphragm—every slow exhale is a direct signal to your brain that Thursday is survivable, not threatening.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees bounce gently, then let that travel upward so your shoulders begin to loose-roll. Shake one hand, then the other—wrist loose, fingers sloppy. Count to thirty. Let your jaw slacken. Stop. Feel the blood move back in.</div>
+<p class="sb-checkin__close">Muscle tension burns glucose without your permission; releasing it returns that energy to your actual morning.</p>
 </div>
 </div>
 

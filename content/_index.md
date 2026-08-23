@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Haven&#x27;t Put Down</h2>
-<span class="date">August 22, 2026</span>
+<h2>Sunday Morning Static</h2>
+<span class="date">August 23, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your coffee cup is empty but your hand hasn&#x27;t relaxed—fingers still curved around phantom ceramic, knuckles faintly white from grip you never released.</p>
+<p class="sb-checkin__hook">Your jaw just unclenched—did you notice? It had been holding since before you woke, the same low-grade squeeze that hums under Sunday mornings when the week hasn&#x27;t started but already feels heavy.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual tension, a glitch in your nervous system&#x27;s threat-detection loop. Your brain keeps muscles partially contracted for tasks already finished, burning glucose on standby power. Grounding interrupts this loop by flooding sensory channels with present-tense data your system can&#x27;t argue with.</p>
+<p class="sb-checkin__science">This is your sympathetic system idling in drive, not neutral. Polyvagal theory calls it &quot;functional freeze&quot;—your body preparing for threat that hasn&#x27;t arrived. Your vagus nerve can shift this, but it needs signals that aren&#x27;t coming from your thoughts. The body learns from sensation, not intention.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Place both feet flat, heels pressing down. Inhale through nose for 4. Hold for 4. Exhale through nose for 4. Hold empty for 4. On the next round, press your right foot into floor for 2 counts, release for 2. Left foot, same. Complete 3 full box cycles with alternating foot presses. Let hands rest open, palms up, on thighs. Final exhale: make it audible, a hum or sigh.</div>
-<p class="sb-checkin__close">Your nervous system reset faster than your coffee cooled—neuroplasticity works in seconds when the body leads.</p>
+<div class="sb-checkin__reset">Soft cup your hands over your collarbones, thumbs resting in the hollow above. Inhale for four slow counts. Now hum—any pitch, any tone—on the exhale for six counts. Feel the vibration against your palms. Repeat three times. The vibration stimulates the vagus nerve where it runs near your throat, telling your system: now is not then.</div>
+<p class="sb-checkin__close">Your vagus nerve carries 80% of your parasympathetic traffic upward—most of it sensory, not commands. It wants to know what your body is doing, not what you&#x27;re planning to do.</p>
 </div>
 </div>
 

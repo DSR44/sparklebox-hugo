@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Morning Static</h2>
-<span class="date">August 23, 2026</span>
+<h2>The Weight of the Week Ahead</h2>
+<span class="date">August 24, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw just unclenched—did you notice? It had been holding since before you woke, the same low-grade squeeze that hums under Sunday mornings when the week hasn&#x27;t started but already feels heavy.</p>
+<p class="sb-checkin__hook">Your shoulders have risen toward your ears since you stood up—like your body braced for something before your mind caught up.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic system idling in drive, not neutral. Polyvagal theory calls it &quot;functional freeze&quot;—your body preparing for threat that hasn&#x27;t arrived. Your vagus nerve can shift this, but it needs signals that aren&#x27;t coming from your thoughts. The body learns from sensation, not intention.</p>
+<p class="sb-checkin__science">This is anticipatory muscle tension, your sympathetic nervous system firing before any actual threat arrives. Polyvagal theory calls it neuroception: your body scans for danger faster than conscious thought, and Monday mornings prime that scan to overreact.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft cup your hands over your collarbones, thumbs resting in the hollow above. Inhale for four slow counts. Now hum—any pitch, any tone—on the exhale for six counts. Feel the vibration against your palms. Repeat three times. The vibration stimulates the vagus nerve where it runs near your throat, telling your system: now is not then.</div>
-<p class="sb-checkin__close">Your vagus nerve carries 80% of your parasympathetic traffic upward—most of it sensory, not commands. It wants to know what your body is doing, not what you&#x27;re planning to do.</p>
+<div class="sb-checkin__reset">Let your arms hang heavy at your sides. Soften your gaze. Now roll your shoulders forward, up, back, and down—three slow circles each direction. On the third backward roll, let your shoulders drop an extra inch and stay there. Breathe normally. Count to eight before you move again.</div>
+<p class="sb-checkin__close">Your trapezius muscles can hold up to thirty pounds of unnecessary tension before you register it as pain.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of the Week Ahead</h2>
-<span class="date">August 24, 2026</span>
+<h2>The Weight You Forgot You Were Carrying</h2>
+<span class="date">August 25, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have risen toward your ears since you stood up—like your body braced for something before your mind caught up.</p>
+<p class="sb-checkin__hook">Your exhale just caught halfway—like a drawer that won&#x27;t close. It&#x27;s been happening all morning, shallow and incomplete, while your shoulders crept toward your ears without asking permission.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory muscle tension, your sympathetic nervous system firing before any actual threat arrives. Polyvagal theory calls it neuroception: your body scans for danger faster than conscious thought, and Monday mornings prime that scan to overreact.</p>
+<p class="sb-checkin__science">This is respiratory braking, a pattern your nervous system uses when it thinks you need to stay ready to react. Your diaphragm gets stuck in partial contraction, which keeps your sympathetic system idling even when nothing&#x27;s actually happening. The fix isn&#x27;t deeper breathing—it&#x27;s completing the exhale fully, which signals your vagus nerve that the threat window has closed.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your arms hang heavy at your sides. Soften your gaze. Now roll your shoulders forward, up, back, and down—three slow circles each direction. On the third backward roll, let your shoulders drop an extra inch and stay there. Breathe normally. Count to eight before you move again.</div>
-<p class="sb-checkin__close">Your trapezius muscles can hold up to thirty pounds of unnecessary tension before you register it as pain.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang slightly open. Now exhale through your mouth like you&#x27;re fogging glass, slow and steady, until your lungs feel absolutely empty—count to six. Pause there, empty, for two seconds. Then let the inhale arrive on its own without forcing it. Do this three times. Notice how your shoulders drop on that third exhale without you telling them to.</div>
+<p class="sb-checkin__close">Your diaphragm attaches to your lower ribs and your lumbar spine—when it releases, it literally decompresses your upper back. That relief you feel isn&#x27;t placebo. It&#x27;s architecture.</p>
 </div>
 </div>
 

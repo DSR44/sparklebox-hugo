@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Grip</h2>
-<span class="date">August 26, 2026</span>
+<h2>The Thursday Hinge</h2>
+<span class="date">August 27, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue has been pressing against the roof of your mouth since you sat down—small, constant, invisible effort.</p>
+<p class="sb-checkin__hook">Your ribs haven&#x27;t expanded in full since you woke up—like a suitcase that&#x27;s been packed too tight, zipper holding.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neuromuscular bracing: your jaw and tongue recruit when your nervous system anticipates demand before it arrives. Polyvagal theory calls it mobilization-without-release—your body preparing for a future stress that hasn&#x27;t knocked yet.</p>
+<p class="sb-checkin__science">This is where your vagus nerve lives, coiled near the diaphragm. When breathing stays shallow, the nerve signals &quot;survive&quot; not &quot;settle.&quot; A physiological sigh—a double inhale, long exhale—flips that switch in about three cycles, telling your heart to slow without you asking.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your tongue drop from the palate and rest behind your bottom teeth. Now: press your feet flat into the floor—10 seconds, firm. Notice three sounds you can hear right now. Name them silently. Let your tongue stay soft. 30 seconds. Done.</div>
-<p class="sb-checkin__close">Your tongue contains eight muscles. They don&#x27;t need to work before breakfast.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let it fall to a middle distance. Inhale through your nose once, sharp and quick. Inhale again immediately—top it off. Now exhale through your mouth like you&#x27;re fogging glass, twice as long as both inhales combined. Do this three times. Count silently: inhale-inhale-exhale... two... three. Let your shoulders drop on the final exhale like they&#x27;re being unhooked from a coat rack.</div>
+<p class="sb-checkin__close">Your lungs are the only organ you can override and then surrender—autonomic and voluntary, meeting in the middle. That&#x27;s not poetry. That&#x27;s wiring.</p>
 </div>
 </div>
 

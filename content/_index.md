@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Hinge</h2>
-<span class="date">August 27, 2026</span>
+<h2>The Friday Morning Unclench</h2>
+<span class="date">August 28, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your ribs haven&#x27;t expanded in full since you woke up—like a suitcase that&#x27;s been packed too tight, zipper holding.</p>
+<p class="sb-checkin__hook">Your hands have been fists since you checked your phone—palms curved inward, knuckles barely touching, tendons already tired from nothing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is where your vagus nerve lives, coiled near the diaphragm. When breathing stays shallow, the nerve signals &quot;survive&quot; not &quot;settle.&quot; A physiological sigh—a double inhale, long exhale—flips that switch in about three cycles, telling your heart to slow without you asking.</p>
+<p class="sb-checkin__science">This is residual activation: your sympathetic nervous system keeps muscles braced for threats that already passed. Polyvagal theory calls it neuroception gone stale—your body still scanning for danger while your coffee gets cold.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let it fall to a middle distance. Inhale through your nose once, sharp and quick. Inhale again immediately—top it off. Now exhale through your mouth like you&#x27;re fogging glass, twice as long as both inhales combined. Do this three times. Count silently: inhale-inhale-exhale... two... three. Let your shoulders drop on the final exhale like they&#x27;re being unhooked from a coat rack.</div>
-<p class="sb-checkin__close">Your lungs are the only organ you can override and then surrender—autonomic and voluntary, meeting in the middle. That&#x27;s not poetry. That&#x27;s wiring.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze to middle distance. Shake your hands like you&#x27;re flicking water off fingertips—10 seconds, loose wrists. Then let your arms hang and shimmy your shoulders forward and back, 8 counts, letting the bounce travel down through knees. Stop. Feel the hum in your palms. That&#x27;s your nervous system regulation happening in real time—mechanical input interrupting the signal loop.</div>
+<p class="sb-checkin__close">Your hands contain more nerve endings per square inch than almost anywhere else on your body. When they finally open, the rest of you tends to follow.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Morning Unclench</h2>
-<span class="date">August 28, 2026</span>
+<h2>The Weight You&#x27;re Still Carrying</h2>
+<span class="date">August 29, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been fists since you checked your phone—palms curved inward, knuckles barely touching, tendons already tired from nothing.</p>
+<p class="sb-checkin__hook">Your jaw has been holding something since Thursday—tension you never set down.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual activation: your sympathetic nervous system keeps muscles braced for threats that already passed. Polyvagal theory calls it neuroception gone stale—your body still scanning for danger while your coffee gets cold.</p>
+<p class="sb-checkin__science">Your masseter muscles (the ones that clench when you&#x27;re &quot;handling it&quot;) burn through glucose and signal threat to your brainstem even when your mind is elsewhere. This is sensory gating in reverse: your body keeps the alarm on, and your nervous system pays the electric bill.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze to middle distance. Shake your hands like you&#x27;re flicking water off fingertips—10 seconds, loose wrists. Then let your arms hang and shimmy your shoulders forward and back, 8 counts, letting the bounce travel down through knees. Stop. Feel the hum in your palms. That&#x27;s your nervous system regulation happening in real time—mechanical input interrupting the signal loop.</div>
-<p class="sb-checkin__close">Your hands contain more nerve endings per square inch than almost anywhere else on your body. When they finally open, the rest of you tends to follow.</p>
+<div class="sb-checkin__reset">Let your mouth hang open slightly. Soften your gaze. Now move your jaw side to side like you&#x27;re chewing something too big for your mouth—slow, 8 seconds each direction, 4 reps. Let your lower teeth trace a wide lazy arc. Feel the click near your ears? That&#x27;s your temporomandibular joint remembering it has range.</div>
+<p class="sb-checkin__close">Your jaw can generate up to 200 pounds of pressure per square inch. It was built for survival, not spreadsheets.</p>
 </div>
 </div>
 

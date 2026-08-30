@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You&#x27;re Still Carrying</h2>
-<span class="date">August 29, 2026</span>
+<h2>The Sunday Shoulder</h2>
+<span class="date">August 30, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been holding something since Thursday—tension you never set down.</p>
+<p class="sb-checkin__hook">Your shoulders have crept up toward your ears—like they&#x27;re trying to hear something the room isn&#x27;t saying.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your masseter muscles (the ones that clench when you&#x27;re &quot;handling it&quot;) burn through glucose and signal threat to your brainstem even when your mind is elsewhere. This is sensory gating in reverse: your body keeps the alarm on, and your nervous system pays the electric bill.</p>
+<p class="sb-checkin__science">This is called bracing: your nervous system preparing for threat that hasn&#x27;t arrived yet. Polyvagal theory calls it a mobilized state without a target—energy with nowhere to go. Your body doesn&#x27;t know it&#x27;s Sunday; it only knows the week is coming.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your mouth hang open slightly. Soften your gaze. Now move your jaw side to side like you&#x27;re chewing something too big for your mouth—slow, 8 seconds each direction, 4 reps. Let your lower teeth trace a wide lazy arc. Feel the click near your ears? That&#x27;s your temporomandibular joint remembering it has range.</div>
-<p class="sb-checkin__close">Your jaw can generate up to 200 pounds of pressure per square inch. It was built for survival, not spreadsheets.</p>
+<div class="sb-checkin__reset">Soften your gaze. Cross your arms over your chest, hands resting on opposite shoulders. Alternate tapping—left hand on right shoulder, right hand on left—slow as a heartbeat, about one second each side. Continue for 40 seconds. Let your shoulders drop one millimeter with every third tap. Stop. Notice the space between your neck and ears.</div>
+<p class="sb-checkin__close">Your shoulders were never designed to be earrings. Gravity works for free—let it.</p>
 </div>
 </div>
 

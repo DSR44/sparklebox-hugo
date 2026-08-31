@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Shoulder</h2>
-<span class="date">August 30, 2026</span>
+<h2>The Monday Hum</h2>
+<span class="date">August 31, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept up toward your ears—like they&#x27;re trying to hear something the room isn&#x27;t saying.</p>
+<p class="sb-checkin__hook">Your throat has been tight since you opened your eyes—like someone turned the volume down on your voice before you even spoke.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called bracing: your nervous system preparing for threat that hasn&#x27;t arrived yet. Polyvagal theory calls it a mobilized state without a target—energy with nowhere to go. Your body doesn&#x27;t know it&#x27;s Sunday; it only knows the week is coming.</p>
+<p class="sb-checkin__science">This is your vagus nerve in low gear. It&#x27;s the body&#x27;s brake pedal, running from brain to gut, and Monday mornings often keep it offline. Polyvagal theory calls this a subtle dorsal shift—your nervous system conserving energy before the day&#x27;s demands, but leaving you feeling flat instead of ready.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Cross your arms over your chest, hands resting on opposite shoulders. Alternate tapping—left hand on right shoulder, right hand on left—slow as a heartbeat, about one second each side. Continue for 40 seconds. Let your shoulders drop one millimeter with every third tap. Stop. Notice the space between your neck and ears.</div>
-<p class="sb-checkin__close">Your shoulders were never designed to be earrings. Gravity works for free—let it.</p>
+<div class="sb-checkin__reset">Softten your gaze. Let your jaw hang slack—lips apart, teeth not touching. Now hum on your exhale, low and steady, for four out-breaths. Feel the vibration in your chest and throat. That&#x27;s your vagus nerve waking up. Four hums, same pitch, no rush.</div>
+<p class="sb-checkin__close">The vagus nerve can&#x27;t tell the difference between a real exhale and a humming one—it responds to vibration either way.</p>
 </div>
 </div>
 

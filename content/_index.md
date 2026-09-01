@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Hum</h2>
-<span class="date">August 31, 2026</span>
+<h2>The Weight You&#x27;re Still Carrying</h2>
+<span class="date">September 01, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your throat has been tight since you opened your eyes—like someone turned the volume down on your voice before you even spoke.</p>
+<p class="sb-checkin__hook">Your exhale this morning probably stopped at your collarbone—like your lungs forgot they could go deeper.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your vagus nerve in low gear. It&#x27;s the body&#x27;s brake pedal, running from brain to gut, and Monday mornings often keep it offline. Polyvagal theory calls this a subtle dorsal shift—your nervous system conserving energy before the day&#x27;s demands, but leaving you feeling flat instead of ready.</p>
+<p class="sb-checkin__science">This is respiratory braking, a nervous system hack where shallow breathing signals safety threat to your brainstem even when you&#x27;re just rushing through coffee. Your diaphragm is a vagus nerve superhighway; when it stays locked, so does your stress response.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Let your jaw hang slack—lips apart, teeth not touching. Now hum on your exhale, low and steady, for four out-breaths. Feel the vibration in your chest and throat. That&#x27;s your vagus nerve waking up. Four hums, same pitch, no rush.</div>
-<p class="sb-checkin__close">The vagus nerve can&#x27;t tell the difference between a real exhale and a humming one—it responds to vibration either way.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop one inch—don&#x27;t force them, just release the hold. Now exhale through pursed lips like you&#x27;re cooling soup, slow as you can, until your lungs feel empty. Pause. Inhale through your nose for 4 counts, letting your belly soften forward. Exhale again for 6 counts, ribs narrowing last. Three rounds. That&#x27;s nervous system regulation you can do waiting for toast.</div>
+<p class="sb-checkin__close">Your lungs have 300 million alveoli—tiny sacs that don&#x27;t care about your to-do list, only expansion.</p>
 </div>
 </div>
 

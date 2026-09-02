@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You&#x27;re Still Carrying</h2>
-<span class="date">September 01, 2026</span>
+<h2>The Wednesday Drift</h2>
+<span class="date">September 02, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your exhale this morning probably stopped at your collarbone—like your lungs forgot they could go deeper.</p>
+<p class="sb-checkin__hook">Your eyes have been scanning ahead since you woke up—already halfway through Thursday, next week, the rest of the year. Your feet are here. The rest of you is not.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is respiratory braking, a nervous system hack where shallow breathing signals safety threat to your brainstem even when you&#x27;re just rushing through coffee. Your diaphragm is a vagus nerve superhighway; when it stays locked, so does your stress response.</p>
+<p class="sb-checkin__science">This is temporal dissociation, and it&#x27;s Wednesday&#x27;s special. Your nervous system uses future-tripping as a survival strategy—if you anticipate problems, you can control them. But your brain can&#x27;t tell past from future from present without sensory anchors. Grounding hijacks this loop by feeding your brain real-time data it can&#x27;t argue with.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop one inch—don&#x27;t force them, just release the hold. Now exhale through pursed lips like you&#x27;re cooling soup, slow as you can, until your lungs feel empty. Pause. Inhale through your nose for 4 counts, letting your belly soften forward. Exhale again for 6 counts, ribs narrowing last. Three rounds. That&#x27;s nervous system regulation you can do waiting for toast.</div>
-<p class="sb-checkin__close">Your lungs have 300 million alveoli—tiny sacs that don&#x27;t care about your to-do list, only expansion.</p>
+<div class="sb-checkin__reset">5-4-3-2-1 orienting with a twist. Softten your gaze. Five things you can see that are not screens. Four you can physically touch—actually touch them, three seconds each. Three sounds, and name their direction. Two smells, even if you have to hunt for them. One taste, even if it&#x27;s just your own mouth. Count each category on your fingers so your hands stay in the loop. Total time: 60 seconds.</div>
+<p class="sb-checkin__close">Your nervous system updates its threat assessment every 0.2 seconds based on sensory input. Wednesday morning is not actually an emergency. Your feet can prove it.</p>
 </div>
 </div>
 

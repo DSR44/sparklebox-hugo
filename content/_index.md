@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Drift</h2>
-<span class="date">September 02, 2026</span>
+<h2>The Thursday Drop</h2>
+<span class="date">September 03, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes have been scanning ahead since you woke up—already halfway through Thursday, next week, the rest of the year. Your feet are here. The rest of you is not.</p>
+<p class="sb-checkin__hook">Your tongue has been pressing against the roof of your mouth since you woke up—like it&#x27;s trying to hold the week together with suction.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is temporal dissociation, and it&#x27;s Wednesday&#x27;s special. Your nervous system uses future-tripping as a survival strategy—if you anticipate problems, you can control them. But your brain can&#x27;t tell past from future from present without sensory anchors. Grounding hijacks this loop by feeding your brain real-time data it can&#x27;t argue with.</p>
+<p class="sb-checkin__science">This is neurogenic tension, not laziness. Your trigeminal nerve (the face&#x27;s command center) stays active when your nervous system predicts more demand ahead. Thursday morning specifically: your brain&#x27;s already calculating Friday&#x27;s finish line, keeping your sympathetic system half-lit.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">5-4-3-2-1 orienting with a twist. Softten your gaze. Five things you can see that are not screens. Four you can physically touch—actually touch them, three seconds each. Three sounds, and name their direction. Two smells, even if you have to hunt for them. One taste, even if it&#x27;s just your own mouth. Count each category on your fingers so your hands stay in the loop. Total time: 60 seconds.</div>
-<p class="sb-checkin__close">Your nervous system updates its threat assessment every 0.2 seconds based on sensory input. Wednesday morning is not actually an emergency. Your feet can prove it.</p>
+<div class="sb-checkin__reset">Physiological sigh, twice. Inhale through your nose for 4 counts. Without pausing, sip in another small breath on top—your lungs should feel slightly overfull. Now open your mouth and let it fall out for 8 counts, shoulders dropping with it. Repeat once. Total time: under 60 seconds. Soft gaze optional.</div>
+<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your calendar. It only knows what your exhale just told it: the body can afford to downshift now.</p>
 </div>
 </div>
 

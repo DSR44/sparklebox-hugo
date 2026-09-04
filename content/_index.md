@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Drop</h2>
-<span class="date">September 03, 2026</span>
+<h2>The Friday Jaw Unhinge</h2>
+<span class="date">September 04, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue has been pressing against the roof of your mouth since you woke up—like it&#x27;s trying to hold the week together with suction.</p>
+<p class="sb-checkin__hook">Your jaw has been hovering in a half-clench since you checked the time—like it&#x27;s waiting for permission to let go.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neurogenic tension, not laziness. Your trigeminal nerve (the face&#x27;s command center) stays active when your nervous system predicts more demand ahead. Thursday morning specifically: your brain&#x27;s already calculating Friday&#x27;s finish line, keeping your sympathetic system half-lit.</p>
+<p class="sb-checkin__science">The vagus nerve runs right through your jaw and throat, which is why tension there keeps your whole system on standby. When you release the muscles around the mandible, you literally signal safety downstream to your heart and gut—polyvagal theory in action, no meditation app required.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Physiological sigh, twice. Inhale through your nose for 4 counts. Without pausing, sip in another small breath on top—your lungs should feel slightly overfull. Now open your mouth and let it fall out for 8 counts, shoulders dropping with it. Repeat once. Total time: under 60 seconds. Soft gaze optional.</div>
-<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your calendar. It only knows what your exhale just told it: the body can afford to downshift now.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your mouth fall open slightly—no forced yawn, just gravity. Now give your jaw three gentle side-to-side wiggles, keeping teeth unclenched. Rest for five seconds. Repeat twice more. Each round, let the weight of your skull sink half an inch toward your shoulders.</div>
+<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your to-do list; it responds to mechanical release, full stop.</p>
 </div>
 </div>
 

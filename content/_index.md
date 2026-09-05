@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Jaw Unhinge</h2>
-<span class="date">September 04, 2026</span>
+<h2>The Weight of Nothing</h2>
+<span class="date">September 05, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been hovering in a half-clench since you checked the time—like it&#x27;s waiting for permission to let go.</p>
+<p class="sb-checkin__hook">Your shoulders have been creeping toward your ears since you sat down—carrying a load that doesn&#x27;t exist yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">The vagus nerve runs right through your jaw and throat, which is why tension there keeps your whole system on standby. When you release the muscles around the mandible, you literally signal safety downstream to your heart and gut—polyvagal theory in action, no meditation app required.</p>
+<p class="sb-checkin__science">This is anticipatory bracing: your nervous system preparing for demands that haven&#x27;t arrived. Muscle tension is often the first signal of a threat response, not the last—your body trying to armor up before your mind even names a worry.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your mouth fall open slightly—no forced yawn, just gravity. Now give your jaw three gentle side-to-side wiggles, keeping teeth unclenched. Rest for five seconds. Repeat twice more. Each round, let the weight of your skull sink half an inch toward your shoulders.</div>
-<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your to-do list; it responds to mechanical release, full stop.</p>
+<div class="sb-checkin__reset">Soften your gaze until the edges of your vision blur. Let your shoulders drop on the next exhale—not pull down, just release. Now place one hand flat on your sternum, one on your belly. Feel which hand moves first when you breathe. Five slow breaths, letting the lower hand lead. If your mind wanders, notice the temperature difference between your two palms.</div>
+<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension than necessary for hours without you noticing—until they don&#x27;t.</p>
 </div>
 </div>
 

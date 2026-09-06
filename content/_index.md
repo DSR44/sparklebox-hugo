@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Nothing</h2>
-<span class="date">September 05, 2026</span>
+<h2>Sunday Static</h2>
+<span class="date">September 06, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have been creeping toward your ears since you sat down—carrying a load that doesn&#x27;t exist yet.</p>
+<p class="sb-checkin__hook">Your hands have been gripping nothing—phone, coffee cup, steering wheel—since you woke up, and the muscles between your thumb and forefinger haven&#x27;t fully let go yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory bracing: your nervous system preparing for demands that haven&#x27;t arrived. Muscle tension is often the first signal of a threat response, not the last—your body trying to armor up before your mind even names a worry.</p>
+<p class="sb-checkin__science">This is anticipatory tension, not laziness. Your nervous system is running background calculations on the week ahead, burning glucose on scenarios that haven&#x27;t happened. Bilateral tapping works because it crosses the brain&#x27;s midline, engaging both hemispheres to interrupt the rumination loop—like manually refreshing a frozen screen.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze until the edges of your vision blur. Let your shoulders drop on the next exhale—not pull down, just release. Now place one hand flat on your sternum, one on your belly. Feel which hand moves first when you breathe. Five slow breaths, letting the lower hand lead. If your mind wanders, notice the temperature difference between your two palms.</div>
-<p class="sb-checkin__close">Your trapezius muscles can hold up to 30% more tension than necessary for hours without you noticing—until they don&#x27;t.</p>
+<div class="sb-checkin__reset">Rest your elbows on a table. Let your gaze soften. Tap your right hand on your left thigh, then your left hand on your right thigh—alternating, slow and deliberate, like dripping water. Count to 30 taps. No deep breathing required. Just the rhythm of left-right-left-right until your shoulders remember they can drop.</div>
+<p class="sb-checkin__close">Your nervous system doesn&#x27;t know it&#x27;s Sunday. It only knows what your body is doing right now.</p>
 </div>
 </div>
 

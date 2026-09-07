@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">September 06, 2026</span>
+<h2>The Monday Morning Lock</h2>
+<span class="date">September 07, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been gripping nothing—phone, coffee cup, steering wheel—since you woke up, and the muscles between your thumb and forefinger haven&#x27;t fully let go yet.</p>
+<p class="sb-checkin__hook">Your spine has been holding itself upright since you sat down—like someone&#x27;s watching, even when no one is.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, not laziness. Your nervous system is running background calculations on the week ahead, burning glucose on scenarios that haven&#x27;t happened. Bilateral tapping works because it crosses the brain&#x27;s midline, engaging both hemispheres to interrupt the rumination loop—like manually refreshing a frozen screen.</p>
+<p class="sb-checkin__science">This is your sympathetic nervous system doing its morning audit, checking for threats before coffee. Polyvagal theory calls it neuroception: your body scans for safety faster than your thoughts can catch up. That rigid readiness burns glucose and patience in equal measure.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Rest your elbows on a table. Let your gaze soften. Tap your right hand on your left thigh, then your left hand on your right thigh—alternating, slow and deliberate, like dripping water. Count to 30 taps. No deep breathing required. Just the rhythm of left-right-left-right until your shoulders remember they can drop.</div>
-<p class="sb-checkin__close">Your nervous system doesn&#x27;t know it&#x27;s Sunday. It only knows what your body is doing right now.</p>
+<div class="sb-checkin__reset">Stand up. Soften your gaze. Let your knees unlock and sway your hips in a slow figure-eight—like you&#x27;re standing in warm water, like you have nowhere to be. Exhale through your mouth for a count of 6. Do this 4 times. Notice your weight shifting left, right, settling into the balls of your feet. That&#x27;s your nervous system regulation happening in real time.</div>
+<p class="sb-checkin__close">Your psoas muscle runs from spine to thigh and holds tension like a vault; when it releases, your diaphragm expands without permission.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Morning Lock</h2>
-<span class="date">September 07, 2026</span>
+<h2>The Tuesday Trap</h2>
+<span class="date">September 08, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your spine has been holding itself upright since you sat down—like someone&#x27;s watching, even when no one is.</p>
+<p class="sb-checkin__hook">Your shoulders have been holding your ribs hostage since you opened your inbox this morning—tight enough to make breathing feel like an afterthought.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic nervous system doing its morning audit, checking for threats before coffee. Polyvagal theory calls it neuroception: your body scans for safety faster than your thoughts can catch up. That rigid readiness burns glucose and patience in equal measure.</p>
+<p class="sb-checkin__science">This is your sympathetic system running background checks on everything. Polyvagal theory calls it neuroception: your body scanning for threat faster than your thoughts can catch up. Midweek tension isn&#x27;t weakness—it&#x27;s accumulated incomplete stress cycles with nowhere to discharge.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Soften your gaze. Let your knees unlock and sway your hips in a slow figure-eight—like you&#x27;re standing in warm water, like you have nowhere to be. Exhale through your mouth for a count of 6. Do this 4 times. Notice your weight shifting left, right, settling into the balls of your feet. That&#x27;s your nervous system regulation happening in real time.</div>
-<p class="sb-checkin__close">Your psoas muscle runs from spine to thigh and holds tension like a vault; when it releases, your diaphragm expands without permission.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Exhale fully through your nose until your lungs feel empty—count to six. Now drop your chin slightly toward your chest and turn your head to the right. Pause. Return center. Turn left. Pause. Three rounds each side, moving only on the exhale. Let your shoulders drop an inch lower with every turn.</div>
+<p class="sb-checkin__close">Your vagus nerve runs behind your sternocleidomastoid—the muscle you&#x27;re gently stretching right now. Physical release here sends the signal: Tuesday morning is not an emergency.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Tuesday Trap</h2>
-<span class="date">September 08, 2026</span>
+<h2>The Breath You Haven&#x27;t Finished</h2>
+<span class="date">September 09, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have been holding your ribs hostage since you opened your inbox this morning—tight enough to make breathing feel like an afterthought.</p>
+<p class="sb-checkin__hook">Your inhale started twenty minutes ago and never quite completed. The exhale is somewhere behind you, lost in the scroll.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic system running background checks on everything. Polyvagal theory calls it neuroception: your body scanning for threat faster than your thoughts can catch up. Midweek tension isn&#x27;t weakness—it&#x27;s accumulated incomplete stress cycles with nowhere to discharge.</p>
+<p class="sb-checkin__science">Your diaphragm is a survival sensor, not just a breathing muscle. When it stays half-frozen, your brain reads &quot;threat&quot; and keeps your sympathetic system idling like a car in park with the engine on. Full exhales are the fastest signal you can send that you&#x27;re actually safe right now.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Exhale fully through your nose until your lungs feel empty—count to six. Now drop your chin slightly toward your chest and turn your head to the right. Pause. Return center. Turn left. Pause. Three rounds each side, moving only on the exhale. Let your shoulders drop an inch lower with every turn.</div>
-<p class="sb-checkin__close">Your vagus nerve runs behind your sternocleidomastoid—the muscle you&#x27;re gently stretching right now. Physical release here sends the signal: Tuesday morning is not an emergency.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your next breath pour out through your mouth until there&#x27;s nothing left—count to six if you need the guardrail. Hold empty for two. Then let the inhale arrive on its own, no forcing, for four. Do three rounds. Notice the pause at the bottom—that&#x27;s your nervous system reset window.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They&#x27;re not designed for shallow commerce. They want the full exchange.</p>
 </div>
 </div>
 

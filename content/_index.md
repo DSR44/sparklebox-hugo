@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Breath You Haven&#x27;t Finished</h2>
-<span class="date">September 09, 2026</span>
+<h2>The Thursday Drop</h2>
+<span class="date">September 10, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your inhale started twenty minutes ago and never quite completed. The exhale is somewhere behind you, lost in the scroll.</p>
+<p class="sb-checkin__hook">Your jaw has been parked somewhere near your cheekbones since you woke up—clenched, hovering, waiting for the next thing to need you.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your diaphragm is a survival sensor, not just a breathing muscle. When it stays half-frozen, your brain reads &quot;threat&quot; and keeps your sympathetic system idling like a car in park with the engine on. Full exhales are the fastest signal you can send that you&#x27;re actually safe right now.</p>
+<p class="sb-checkin__science">This is nervous system fatigue: your sympathetic system has been running background checks on every notification, every deadline, every unread message since Monday. Your vagus nerve—the one that actually tells your body &quot;we&#x27;re fine now&quot;—has been outvoted.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your next breath pour out through your mouth until there&#x27;s nothing left—count to six if you need the guardrail. Hold empty for two. Then let the inhale arrive on its own, no forcing, for four. Do three rounds. Notice the pause at the bottom—that&#x27;s your nervous system reset window.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They&#x27;re not designed for shallow commerce. They want the full exchange.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Now exhale through your mouth like you&#x27;re fogging a mirror—slow, audible, complete. Empty until your ribs compress. Pause. Inhale normally through your nose. Repeat twice more. Let your shoulders actually drop on the final exhale, not because you&#x27;re trying to relax, but because the physics finally allow it.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to exhalation length, not intention. Three long sighs shift your heart rate more reliably than an hour of telling yourself to calm down.</p>
 </div>
 </div>
 

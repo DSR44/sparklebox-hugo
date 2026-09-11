@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Drop</h2>
-<span class="date">September 10, 2026</span>
+<h2>The Friday Unspool</h2>
+<span class="date">September 11, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been parked somewhere near your cheekbones since you woke up—clenched, hovering, waiting for the next thing to need you.</p>
+<p class="sb-checkin__hook">Your ribs are still braced for the week that just ended—like you&#x27;ve been holding your breath through five days of small emergencies.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is nervous system fatigue: your sympathetic system has been running background checks on every notification, every deadline, every unread message since Monday. Your vagus nerve—the one that actually tells your body &quot;we&#x27;re fine now&quot;—has been outvoted.</p>
+<p class="sb-checkin__science">This is residual muscle tension, not laziness. Your sympathetic nervous system keeps tissues contracted even after threats pass; the body doesn&#x27;t automatically &quot;let go.&quot; Polyvagal theory calls this neuroceptive lingering—your system still scanning for the next thing.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Now exhale through your mouth like you&#x27;re fogging a mirror—slow, audible, complete. Empty until your ribs compress. Pause. Inhale normally through your nose. Repeat twice more. Let your shoulders actually drop on the final exhale, not because you&#x27;re trying to relax, but because the physics finally allow it.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to exhalation length, not intention. Three long sighs shift your heart rate more reliably than an hour of telling yourself to calm down.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width, knees soft. Let your arms hang heavy. Start at your wrists and shake your hands like you&#x27;re flicking water off them—ten seconds. Add the forearms, then elbows, letting the shake travel up to the shoulders. Let your head bob on your neck. Keep it sloppy and small, not exercise. Twenty seconds. Then stop. Notice the temperature change in your palms. That&#x27;s your nervous system regulation catching up to Friday morning.</div>
+<p class="sb-checkin__close">Your muscles don&#x27;t store &quot;stress&quot; as emotion—they store tension as potential movement. Movement completes the cycle. The body knows this even when you forget.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unspool</h2>
-<span class="date">September 11, 2026</span>
+<h2>The Weight You Forgot You Were Holding</h2>
+<span class="date">September 12, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your ribs are still braced for the week that just ended—like you&#x27;ve been holding your breath through five days of small emergencies.</p>
+<p class="sb-checkin__hook">Your hands have been slightly curled since you woke up—not fists, just... waiting. The coffee cup knows. So do your forearms.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual muscle tension, not laziness. Your sympathetic nervous system keeps tissues contracted even after threats pass; the body doesn&#x27;t automatically &quot;let go.&quot; Polyvagal theory calls this neuroceptive lingering—your system still scanning for the next thing.</p>
+<p class="sb-checkin__science">This is residual muscle tension, your sympathetic nervous system leaving the lights on after last night&#x27;s stress. Your brain keeps paying rent on protection you no longer need. Interoception—your ability to feel internal states—gets foggy when tension becomes furniture.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width, knees soft. Let your arms hang heavy. Start at your wrists and shake your hands like you&#x27;re flicking water off them—ten seconds. Add the forearms, then elbows, letting the shake travel up to the shoulders. Let your head bob on your neck. Keep it sloppy and small, not exercise. Twenty seconds. Then stop. Notice the temperature change in your palms. That&#x27;s your nervous system regulation catching up to Friday morning.</div>
-<p class="sb-checkin__close">Your muscles don&#x27;t store &quot;stress&quot; as emotion—they store tension as potential movement. Movement completes the cycle. The body knows this even when you forget.</p>
+<div class="sb-checkin__reset">Soft gaze, let your peripheral vision widen. Now: press your palms flat together at chest height, fingertips pointing up. Press firm—7 seconds. Release suddenly, let hands fall open like dropped bags. Three times. On the third release, leave them palms-up on your thighs. Count 4 slow breaths before you need them again.</div>
+<p class="sb-checkin__close">Your hands contain more proprioceptors than your entire spine. They report safety faster than your thoughts can.</p>
 </div>
 </div>
 

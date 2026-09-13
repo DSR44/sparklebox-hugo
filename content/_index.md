@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Were Holding</h2>
-<span class="date">September 12, 2026</span>
+<h2>Sunday Static</h2>
+<span class="date">September 13, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been slightly curled since you woke up—not fists, just... waiting. The coffee cup knows. So do your forearms.</p>
+<p class="sb-checkin__hook">Your neck has been waiting for permission to move since you opened your eyes—still angled toward a screen that isn&#x27;t there yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual muscle tension, your sympathetic nervous system leaving the lights on after last night&#x27;s stress. Your brain keeps paying rent on protection you no longer need. Interoception—your ability to feel internal states—gets foggy when tension becomes furniture.</p>
+<p class="sb-checkin__science">This is postural freeze, a low-level dorsal vagal response. Your nervous system defaults to stillness when it anticipates demands without knowing what they are. Movement—especially cross-body movement—wakes up your brain&#x27;s threat-assessment circuits and reminds them you&#x27;re not actually trapped.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft gaze, let your peripheral vision widen. Now: press your palms flat together at chest height, fingertips pointing up. Press firm—7 seconds. Release suddenly, let hands fall open like dropped bags. Three times. On the third release, leave them palms-up on your thighs. Count 4 slow breaths before you need them again.</div>
-<p class="sb-checkin__close">Your hands contain more proprioceptors than your entire spine. They report safety faster than your thoughts can.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your arms hang heavy. Now let your right hand reach across to tap your left shoulder, then left hand to right shoulder—alternating, not simultaneous. Count eight taps per side, slow enough that you hear the soft thud each time. Let your head roll with it if it wants to.</div>
+<p class="sb-checkin__close">Your vestibular system processes motion before your prefrontal cortex processes thought. Moving first makes thinking easier later.</p>
 </div>
 </div>
 

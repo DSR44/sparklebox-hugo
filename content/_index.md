@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">September 13, 2026</span>
+<h2>The Monday Exhale</h2>
+<span class="date">September 14, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your neck has been waiting for permission to move since you opened your eyes—still angled toward a screen that isn&#x27;t there yet.</p>
+<p class="sb-checkin__hook">Your shoulders have been hovering an inch higher than they need to be since your alarm went off—like your body forgot how gravity works.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is postural freeze, a low-level dorsal vagal response. Your nervous system defaults to stillness when it anticipates demands without knowing what they are. Movement—especially cross-body movement—wakes up your brain&#x27;s threat-assessment circuits and reminds them you&#x27;re not actually trapped.</p>
+<p class="sb-checkin__science">Monday mornings spike cortisol naturally, but most of us add a layer of mental rehearsal that keeps it circulating. Extended exhale breathing directly stimulates the vagus nerve, shifting your nervous system from alert mode toward something closer to functional.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your arms hang heavy. Now let your right hand reach across to tap your left shoulder, then left hand to right shoulder—alternating, not simultaneous. Count eight taps per side, slow enough that you hear the soft thud each time. Let your head roll with it if it wants to.</div>
-<p class="sb-checkin__close">Your vestibular system processes motion before your prefrontal cortex processes thought. Moving first makes thinking easier later.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your next inhale fill you normally—no rush. Then exhale through a relaxed mouth for six slow counts. Pause empty for two. Repeat four times. That&#x27;s it. Your body will recognize the signal before your brain catches up.</div>
+<p class="sb-checkin__close">Your lungs don&#x27;t actually need your permission to slow down—they just need the right ratio of air moving out to air moving in.</p>
 </div>
 </div>
 

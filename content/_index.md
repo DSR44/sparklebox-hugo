@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Exhale</h2>
-<span class="date">September 14, 2026</span>
+<h2>Tuesday Morning Unraveling</h2>
+<span class="date">September 15, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have been hovering an inch higher than they need to be since your alarm went off—like your body forgot how gravity works.</p>
+<p class="sb-checkin__hook">Your shoulders have been holding a conversation you weren&#x27;t invited to—tight, lifted, already negotiating the day before your coffee cooled.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Monday mornings spike cortisol naturally, but most of us add a layer of mental rehearsal that keeps it circulating. Extended exhale breathing directly stimulates the vagus nerve, shifting your nervous system from alert mode toward something closer to functional.</p>
+<p class="sb-checkin__science">This is neuromuscular bracing: your sympathetic nervous system contracts muscles to prepare for threat that never arrives. The trapezius and levator scapulae don&#x27;t know your inbox isn&#x27;t a predator. Polyvagal theory calls this mobilization without discharge—energy that got wound up but never released.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your next inhale fill you normally—no rush. Then exhale through a relaxed mouth for six slow counts. Pause empty for two. Repeat four times. That&#x27;s it. Your body will recognize the signal before your brain catches up.</div>
-<p class="sb-checkin__close">Your lungs don&#x27;t actually need your permission to slow down—they just need the right ratio of air moving out to air moving in.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something blurry and middle-distance. Now: inhale and lift both shoulders toward your ears (yes, on purpose, make it dramatic). Hold 4 seconds. Exhale through your mouth with a huffing sound—like fogging glass—and drop them fast. Repeat 3 times. On the fourth round, hold the lift, then roll shoulders backward in slow circles while exhaling, 2 full rotations each direction. Let your arms hang heavy as stones.</div>
+<p class="sb-checkin__close">Muscle tension outlasts the stress that created it by 20-40 minutes. Your body is still waiting for the all-clear signal you just gave it.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Unclench</h2>
-<span class="date">September 16, 2026</span>
+<h2>The Thursday Slump</h2>
+<span class="date">September 17, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been holding the week together since Monday—teeth touching, molars grinding soft static you stopped noticing hours ago.</p>
+<p class="sb-checkin__hook">Your spine has been negotiating with gravity since Tuesday, and this morning it finally stopped asking nicely.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. Your brain normally filters out constant input—background noise, screen glare, the pressure of your own clenched muscles—but by midweek the filter gets porous. You stop noticing tension not because it&#x27;s gone, but because your nervous system stopped flagging it as new information.</p>
+<p class="sb-checkin__science">Your sympathetic nervous system doesn&#x27;t care about calendars, but it *does* respond to compressive load—how long you&#x27;ve been vertical, still, or braced. Extended sitting or standing without shifting signals your brain that you&#x27;re stuck, which keeps your threat detection online. Movement is how you update that status.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">5-4-3-2-1 orienting, done with your gaze soft and unfocused. Five things you can hear (count them slowly, let sounds layer). Four things you can physically feel—shirt texture, air temperature, feet in shoes, whatever&#x27;s actually present. Three colors in your periphery. Two smells, even faint ones. One thing you can taste, or the neutral taste of your own mouth. Move through it like inventory, not performance. About 60 seconds.</div>
-<p class="sb-checkin__close">Your masseter muscles—the ones doing that jaw work—burn through more energy per pound than almost any muscle in your body when activated. Relaxing them drops your overall metabolic demand measurably within seconds.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something blurry across the room. Now exhale completely through your mouth. On your next inhale through your nose, reach both arms overhead and lean left, then right—like you&#x27;re stretching a shirt over your head. Hold each side 3 seconds. Repeat once. Drop your arms. One more slow exhale, longer than your inhale.</div>
+<p class="sb-checkin__close">Your cerebrospinal fluid refreshes itself every 4-6 hours; movement is the pump that keeps it circulating.</p>
 </div>
 </div>
 

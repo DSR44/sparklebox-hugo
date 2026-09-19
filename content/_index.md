@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Friday Morning Tremor</h2>
-<span class="date">September 18, 2026</span>
+<h2>The Saturday Unclench</h2>
+<span class="date">September 19, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been gripping the week since Monday—notice the slight ache in your knuckles, the way your fingers want to uncurl but haven&#x27;t been asked.</p>
+<p class="sb-checkin__hook">Your tongue has been pressed against the roof of your mouth since you woke up. Not doing anything useful—just holding tension like a placeholder for the week you haven&#x27;t finished processing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your autonomic nervous system stores incomplete motor impulses in the fascia and small muscles, especially when stress stays in freeze instead of finishing its cycle. Polyvagal theory calls this &quot;braking without releasing&quot;—your body prepared to act, then held still, and now holds that charge in tissue.</p>
+<p class="sb-checkin__science">This is residual sympathetic activation. Your nervous system keeps muscles contracted when it hasn&#x27;t received the &quot;all clear&quot; signal. Polyvagal theory calls this neuroception: your body scanning for threat even when your mind says weekend. The tongue, jaw, and pelvic floor often mirror each other—release one, the others follow.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your hands hang heavy at your sides. Starting with your right hand, shake it like you&#x27;re flicking water off your fingers—8 to 10 quick wrist snaps. Switch hands. Now both hands together, loose elbows, 15 seconds of sloppy, uncontrolled shaking. Let your shoulders join in if they want. Stop. Feel the blood return, the slight electric hum in your palms—that&#x27;s your nervous system regulation finishing what it started.</div>
-<p class="sb-checkin__close">Your hands contain more nerve endings per square inch than almost anywhere else on your body; when they finally move freely, the rest of you gets the signal too.</p>
+<div class="sb-checkin__reset">Softening your gaze, let your tongue drop from the roof of your mouth and rest behind your bottom teeth. Open your jaw half an inch. Now exhale through your nose for a slow count of 6. Pause at empty for 2. Inhale for 4. Repeat four cycles. Each exhale, imagine the root of your tongue softening downward toward your throat.</div>
+<p class="sb-checkin__close">Your vagus nerve runs directly behind the back of your tongue. Physical release here sends parasympathetic signals faster than thinking ever could.</p>
 </div>
 </div>
 

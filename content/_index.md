@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Unclench</h2>
-<span class="date">September 19, 2026</span>
+<h2>The Sunday Weight</h2>
+<span class="date">September 20, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue has been pressed against the roof of your mouth since you woke up. Not doing anything useful—just holding tension like a placeholder for the week you haven&#x27;t finished processing.</p>
+<p class="sb-checkin__hook">Your breath has been shallow since you woke—three hours in and your ribs still haven&#x27;t made a full circle.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual sympathetic activation. Your nervous system keeps muscles contracted when it hasn&#x27;t received the &quot;all clear&quot; signal. Polyvagal theory calls this neuroception: your body scanning for threat even when your mind says weekend. The tongue, jaw, and pelvic floor often mirror each other—release one, the others follow.</p>
+<p class="sb-checkin__science">This is anticipatory tension, your sympathetic system running background checks on the week ahead. Polyvagal theory calls it neuroception: your body scanning for threat before your brain has the agenda. You&#x27;re not anxious; you&#x27;re preparing. The problem is preparation mode burns fuel you haven&#x27;t eaten yet.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softening your gaze, let your tongue drop from the roof of your mouth and rest behind your bottom teeth. Open your jaw half an inch. Now exhale through your nose for a slow count of 6. Pause at empty for 2. Inhale for 4. Repeat four cycles. Each exhale, imagine the root of your tongue softening downward toward your throat.</div>
-<p class="sb-checkin__close">Your vagus nerve runs directly behind the back of your tongue. Physical release here sends parasympathetic signals faster than thinking ever could.</p>
+<div class="sb-checkin__reset">Soft your gaze. Let your hands rest on your thighs, palms down. Inhale through your nose for 4 counts. Hold for 4. Exhale through pursed lips for 6, slow and audible. Do this 4 times. On the exhale, imagine the Sunday weight sliding off your shoulders like a coat you&#x27;ve been wearing indoors.</div>
+<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t know it&#x27;s Sunday. It only knows the ratio of your exhale to your inhale.</p>
 </div>
 </div>
 

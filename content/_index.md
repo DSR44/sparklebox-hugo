@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Weight</h2>
-<span class="date">September 20, 2026</span>
+<h2>The Monday Cortisol Hangover</h2>
+<span class="date">September 21, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath has been shallow since you woke—three hours in and your ribs still haven&#x27;t made a full circle.</p>
+<p class="sb-checkin__hook">Your shoulders are already halfway to your ears and you haven&#x27;t finished your coffee yet. That isn&#x27;t motivation—that&#x27;s your nervous system bracing for a week that hasn&#x27;t even started.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, your sympathetic system running background checks on the week ahead. Polyvagal theory calls it neuroception: your body scanning for threat before your brain has the agenda. You&#x27;re not anxious; you&#x27;re preparing. The problem is preparation mode burns fuel you haven&#x27;t eaten yet.</p>
+<p class="sb-checkin__science">Cortisol naturally peaks 30–45 minutes after waking, but Monday amplifies it with anticipatory stress. Your vagus nerve is basically waiting for proof that you&#x27;re safe—extended exhales are that proof, sending a chemical signal to your brainstem that the tiger isn&#x27;t real.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft your gaze. Let your hands rest on your thighs, palms down. Inhale through your nose for 4 counts. Hold for 4. Exhale through pursed lips for 6, slow and audible. Do this 4 times. On the exhale, imagine the Sunday weight sliding off your shoulders like a coat you&#x27;ve been wearing indoors.</div>
-<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t know it&#x27;s Sunday. It only knows the ratio of your exhale to your inhale.</p>
+<div class="sb-checkin__reset">Soft your gaze to blur your peripheral vision. Inhale through your nose for 4 counts. Exhale through pursed lips like cooling soup for 8 counts. Feel the hollow beneath your ribs soften on the out-breath. Three rounds. You can do this in a meeting, in traffic, while your laptop updates.</div>
+<p class="sb-checkin__close">Your lungs have 300 million alveoli that don&#x27;t care about your inbox. They only care about the ratio of in to out.</p>
 </div>
 </div>
 

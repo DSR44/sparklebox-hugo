@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Haven&#x27;t Put Down Yet</h2>
-<span class="date">September 22, 2026</span>
+<h2>The Wednesday Slack</h2>
+<span class="date">September 23, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been holding something since breakfast—maybe earlier. Check now: teeth touching? That&#x27;s stored Tuesday.</p>
+<p class="sb-checkin__hook">Your eyes have been scanning ahead since you opened them—planning, anticipating, bracing for whatever comes after coffee. Notice the small muscles at your temples working even now.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue. Your nervous system filters thousands of signals per second, and by midweek, the gate gets lazy. Unprocessed input pools in your shoulders, your jaw, your breath. The body keeps the score; the brain just gets the memo late.</p>
+<p class="sb-checkin__science">This is your visual system stuck in predictive mode, constantly projecting forward. It keeps your sympathetic nervous system half-lit, like a car idling in drive. Polyvagal theory calls this neuroception—your body reading &quot;not quite safe&quot; from the environment, even when nothing&#x27;s wrong.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand or sit. Soften your gaze. Let your arms hang heavy, then shrug both shoulders up toward your ears—hold for 4 seconds. Now drop them fast, like you just remembered you don&#x27;t have to carry this. Repeat 3 times. On the final drop, let your exhale come out loose: a quiet &quot;ha&quot; sound, no force. 45 seconds total.</div>
-<p class="sb-checkin__close">Your shoulders attach to your ribcage. When they descend, your diaphragm gets room. That&#x27;s not relaxation—that&#x27;s architecture.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen—notice the edges of the room without moving your eyes. Now hum on a long exhale, any pitch, for four slow counts. Feel the vibration in your chest and throat. Rest your tongue on the floor of your mouth. Hum again, lower if you can, for six counts. Let the sound trail off.</div>
+<p class="sb-checkin__close">The vagus nerve passes directly behind your ear and through your throat; vibration and warmth here are literal signals to your brainstem that the body can downshift.</p>
 </div>
 </div>
 

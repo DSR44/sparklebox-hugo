@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Slack</h2>
-<span class="date">September 23, 2026</span>
+<h2>The Thursday Morning Sigh</h2>
+<span class="date">September 24, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes have been scanning ahead since you opened them—planning, anticipating, bracing for whatever comes after coffee. Notice the small muscles at your temples working even now.</p>
+<p class="sb-checkin__hook">Your exhale has been incomplete since you woke—like you&#x27;re holding the rest of it in reserve for later.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your visual system stuck in predictive mode, constantly projecting forward. It keeps your sympathetic nervous system half-lit, like a car idling in drive. Polyvagal theory calls this neuroception—your body reading &quot;not quite safe&quot; from the environment, even when nothing&#x27;s wrong.</p>
+<p class="sb-checkin__science">This is called incomplete breath retention, and it keeps your sympathetic nervous system mildly activated all morning. Your vagus nerve, which signals safety to your body, only responds to full exhales—especially long, slow ones that last longer than your inhale.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen—notice the edges of the room without moving your eyes. Now hum on a long exhale, any pitch, for four slow counts. Feel the vibration in your chest and throat. Rest your tongue on the floor of your mouth. Hum again, lower if you can, for six counts. Let the sound trail off.</div>
-<p class="sb-checkin__close">The vagus nerve passes directly behind your ear and through your throat; vibration and warmth here are literal signals to your brainstem that the body can downshift.</p>
+<div class="sb-checkin__reset">Let your jaw hang slightly open. Soften your gaze. Inhale through your nose for 4 counts. At the top, take one more small sip of air—then exhale through pursed lips for 8 slow counts, like cooling soup. Do this twice more. Let the final exhale carry a sound if it wants to—a hum, a sigh, whatever releases.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your diaphragm; every extended exhale is a direct signal to your body that Thursday morning is not an emergency.</p>
 </div>
 </div>
 

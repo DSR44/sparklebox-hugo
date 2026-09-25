@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Morning Sigh</h2>
-<span class="date">September 24, 2026</span>
+<h2>The Friday Morning Unraveling</h2>
+<span class="date">September 25, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your exhale has been incomplete since you woke—like you&#x27;re holding the rest of it in reserve for later.</p>
+<p class="sb-checkin__hook">Your hands have been gripping something invisible since you woke—maybe the week itself, maybe nothing at all. Notice the residual tension in your knuckles, the way your forearms still think they&#x27;re bracing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called incomplete breath retention, and it keeps your sympathetic nervous system mildly activated all morning. Your vagus nerve, which signals safety to your body, only responds to full exhales—especially long, slow ones that last longer than your inhale.</p>
+<p class="sb-checkin__science">This is muscle memory without the memory part—your nervous system keeping the shape of stress even after the stressor&#x27;s gone. Polyvagal theory calls this neuroception: your body scanning for threat so habitually it forgets to stop. Friday mornings are prime territory for this—accumulated activation with no outlet yet.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your jaw hang slightly open. Soften your gaze. Inhale through your nose for 4 counts. At the top, take one more small sip of air—then exhale through pursed lips for 8 slow counts, like cooling soup. Do this twice more. Let the final exhale carry a sound if it wants to—a hum, a sigh, whatever releases.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your diaphragm; every extended exhale is a direct signal to your body that Thursday morning is not an emergency.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees bend slightly, then begin shaking your hands from the wrists—loose, floppy, like you&#x27;re flicking water off them. Add the shoulders: small bounces, then let it travel down through your hips. 30 seconds of this gentle chaos. No rhythm required. Let your jaw slacken, maybe even let sound come out if it wants to. Stop when you feel warmth in your palms—that&#x27;s blood flow returning, your vagus nerve getting the all-clear.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump of its own; it relies on movement to circulate. Shaking is its morning coffee.</p>
 </div>
 </div>
 

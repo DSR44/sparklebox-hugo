@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Morning Unraveling</h2>
-<span class="date">September 25, 2026</span>
+<h2>The Weight You&#x27;re Still Carrying from Friday</h2>
+<span class="date">September 26, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have been gripping something invisible since you woke—maybe the week itself, maybe nothing at all. Notice the residual tension in your knuckles, the way your forearms still think they&#x27;re bracing.</p>
+<p class="sb-checkin__hook">Your feet haven&#x27;t fully landed on the floor yet and your calves are already braced—like the day&#x27;s waiting to sprint before you&#x27;ve even stood.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is muscle memory without the memory part—your nervous system keeping the shape of stress even after the stressor&#x27;s gone. Polyvagal theory calls this neuroception: your body scanning for threat so habitually it forgets to stop. Friday mornings are prime territory for this—accumulated activation with no outlet yet.</p>
+<p class="sb-checkin__science">This is residual activation—your sympathetic nervous system doesn&#x27;t clock out when you do. During sleep, your body processes the previous day&#x27;s stress load, but incomplete cycles leave your muscles in low-grade readiness. Polyvagal theory calls this a dorsal-to-sympathetic hangover: you&#x27;re awake, but your threat detection stayed on night shift.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees bend slightly, then begin shaking your hands from the wrists—loose, floppy, like you&#x27;re flicking water off them. Add the shoulders: small bounces, then let it travel down through your hips. 30 seconds of this gentle chaos. No rhythm required. Let your jaw slacken, maybe even let sound come out if it wants to. Stop when you feel warmth in your palms—that&#x27;s blood flow returning, your vagus nerve getting the all-clear.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump of its own; it relies on movement to circulate. Shaking is its morning coffee.</p>
+<div class="sb-checkin__reset">Stand barefoot if possible. Feel your heels, balls of feet, and toes press into the ground—three points of contact, 10 seconds each. Now walk slowly to the nearest window. Soften your gaze. Name five things you can see without moving your head. Return to your feet. Press down again—harder this time. Count four counts down, four counts holding, four counts releasing. Do this three times.</div>
+<p class="sb-checkin__close">Your soles have more proprioceptive nerve endings per square centimeter than anywhere else on your body—using them is the fastest signal to your brain that you&#x27;re located in space, not in threat.</p>
 </div>
 </div>
 

@@ -47,7 +47,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
 <h2>The Weight You&#x27;re Still Carrying from Friday</h2>
-<span class="date">September 27, 2026</span>
+<span class="date">September 28, 2026</span>
 </div>
 <div class="sb-checkin__body">
 <p class="sb-checkin__hook">Your feet haven&#x27;t fully landed on the floor yet and your calves are already braced—like the day&#x27;s waiting to sprint before you&#x27;ve even stood.</p>

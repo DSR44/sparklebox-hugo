@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You&#x27;re Still Carrying from Friday</h2>
-<span class="date">September 28, 2026</span>
+<h2>The Weight You&#x27;re Still Carrying from Monday</h2>
+<span class="date">September 29, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your feet haven&#x27;t fully landed on the floor yet and your calves are already braced—like the day&#x27;s waiting to sprint before you&#x27;ve even stood.</p>
+<p class="sb-checkin__hook">Your shoulders are sitting somewhere near your ears this morning—like they&#x27;re trying to hear something your body already knows.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual activation—your sympathetic nervous system doesn&#x27;t clock out when you do. During sleep, your body processes the previous day&#x27;s stress load, but incomplete cycles leave your muscles in low-grade readiness. Polyvagal theory calls this a dorsal-to-sympathetic hangover: you&#x27;re awake, but your threat detection stayed on night shift.</p>
+<p class="sb-checkin__science">This is your trapezius guarding your neck after yesterday&#x27;s stress didn&#x27;t fully process. Polyvagal theory calls this a neuroceptive habit: your nervous system keeps bracing for threat even when the threat passed. The muscles don&#x27;t check your calendar; they check your unfinished business.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand barefoot if possible. Feel your heels, balls of feet, and toes press into the ground—three points of contact, 10 seconds each. Now walk slowly to the nearest window. Soften your gaze. Name five things you can see without moving your head. Return to your feet. Press down again—harder this time. Count four counts down, four counts holding, four counts releasing. Do this three times.</div>
-<p class="sb-checkin__close">Your soles have more proprioceptive nerve endings per square centimeter than anywhere else on your body—using them is the fastest signal to your brain that you&#x27;re located in space, not in threat.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something mid-distance without focusing hard. Now: inhale for 4, hold for 2, then exhale for 6 while dropping your shoulders down and back—think shoulder blades sliding toward your back pockets. Let the exhale finish completely, even if it feels empty at the end. Two more rounds. Notice the space that appears between jaw and collarbone.</div>
+<p class="sb-checkin__close">Your shoulders can drop even when your to-do list doesn&#x27;t. The vagus nerve runs through your neck; physical release here signals safety downstream to your heart and gut.</p>
 </div>
 </div>
 

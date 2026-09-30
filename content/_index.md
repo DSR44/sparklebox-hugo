@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You&#x27;re Still Carrying from Monday</h2>
-<span class="date">September 29, 2026</span>
+<h2>The Sound Behind the Sound</h2>
+<span class="date">September 30, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are sitting somewhere near your ears this morning—like they&#x27;re trying to hear something your body already knows.</p>
+<p class="sb-checkin__hook">Your jaw has been holding a shape since you woke—maybe from a dream you don&#x27;t remember, maybe from the Tuesday you haven&#x27;t metabolized yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your trapezius guarding your neck after yesterday&#x27;s stress didn&#x27;t fully process. Polyvagal theory calls this a neuroceptive habit: your nervous system keeps bracing for threat even when the threat passed. The muscles don&#x27;t check your calendar; they check your unfinished business.</p>
+<p class="sb-checkin__science">This is residual sympathetic activation. Your vagus nerve can&#x27;t fully brake the system while your facial muscles stay locked in vigilance. Polyvagal theory calls this neuroception—your body scanning for threat below your awareness, keeping you in low-grade mobilization even when you&#x27;re standing still.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something mid-distance without focusing hard. Now: inhale for 4, hold for 2, then exhale for 6 while dropping your shoulders down and back—think shoulder blades sliding toward your back pockets. Let the exhale finish completely, even if it feels empty at the end. Two more rounds. Notice the space that appears between jaw and collarbone.</div>
-<p class="sb-checkin__close">Your shoulders can drop even when your to-do list doesn&#x27;t. The vagus nerve runs through your neck; physical release here signals safety downstream to your heart and gut.</p>
+<div class="sb-checkin__reset">Soften your gaze and let your peripheral vision expand. Hum on your next exhale—any pitch, any sound—feeling the vibration in your jaw, your throat, your chest. Three hums, each one slightly longer than the last. Then rest your tongue on the floor of your mouth, molars slightly apart, and notice the shift in your swallow.</div>
+<p class="sb-checkin__close">The vagus nerve carries 80% of your body&#x27;s parasympathetic traffic—and it listens to your face before your thoughts.</p>
 </div>
 </div>
 

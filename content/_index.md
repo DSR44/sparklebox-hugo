@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sound Behind the Sound</h2>
-<span class="date">September 30, 2026</span>
+<h2>The Weight of Thursday Morning</h2>
+<span class="date">October 01, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been holding a shape since you woke—maybe from a dream you don&#x27;t remember, maybe from the Tuesday you haven&#x27;t metabolized yet.</p>
+<p class="sb-checkin__hook">Your tongue is pressing harder against the roof of your mouth than it needs to. You haven&#x27;t swallowed deliberately in minutes.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is residual sympathetic activation. Your vagus nerve can&#x27;t fully brake the system while your facial muscles stay locked in vigilance. Polyvagal theory calls this neuroception—your body scanning for threat below your awareness, keeping you in low-grade mobilization even when you&#x27;re standing still.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue—your nervous system has been filtering nonstop since Monday, and by Thursday morning, the filter gets porous. Sounds feel louder, notifications feel sharper, your own thoughts feel crowded. Somatic healing starts with noticing where your body is bracing without permission.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze and let your peripheral vision expand. Hum on your next exhale—any pitch, any sound—feeling the vibration in your jaw, your throat, your chest. Three hums, each one slightly longer than the last. Then rest your tongue on the floor of your mouth, molars slightly apart, and notice the shift in your swallow.</div>
-<p class="sb-checkin__close">The vagus nerve carries 80% of your body&#x27;s parasympathetic traffic—and it listens to your face before your thoughts.</p>
+<div class="sb-checkin__reset">Let your tongue rest fully on the floor of your mouth—yes, actually. Soft jaw, teeth slightly apart. Now exhale through your mouth like you&#x27;re fogging glass, twice as long as your inhale. Do this three times, 4-second inhales, 8-second exhales. Let your shoulders drop on the final exhale like someone cut the strings.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your inner ear and tongue—relaxing one relaxes the other. You just changed your blood pressure slightly. That&#x27;s not mindfulness. That&#x27;s physiology.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Thursday Morning</h2>
-<span class="date">October 01, 2026</span>
+<h2>The Friday Unraveling</h2>
+<span class="date">October 02, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is pressing harder against the roof of your mouth than it needs to. You haven&#x27;t swallowed deliberately in minutes.</p>
+<p class="sb-checkin__hook">Your spine has been compressing itself into a straighter line than it wants to be—maybe since Tuesday, maybe since you sat down for coffee ten minutes ago.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue—your nervous system has been filtering nonstop since Monday, and by Thursday morning, the filter gets porous. Sounds feel louder, notifications feel sharper, your own thoughts feel crowded. Somatic healing starts with noticing where your body is bracing without permission.</p>
+<p class="sb-checkin__science">Your nervous system stores tension in what&#x27;s called &quot;postural tone&quot;—the baseline muscle activity that holds you upright. When stress accumulates, that tone creeps upward, creating stiffness your brain starts to read as normal. Movement interrupts this: mechanoreceptors in your joints fire signals that literally tell your brain &quot;we&#x27;re not in danger right now.&quot;</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your tongue rest fully on the floor of your mouth—yes, actually. Soft jaw, teeth slightly apart. Now exhale through your mouth like you&#x27;re fogging glass, twice as long as your inhale. Do this three times, 4-second inhales, 8-second exhales. Let your shoulders drop on the final exhale like someone cut the strings.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your inner ear and tongue—relaxing one relaxes the other. You just changed your blood pressure slightly. That&#x27;s not mindfulness. That&#x27;s physiology.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your knees unlock. Start at your wrists—shake them loosely for five seconds like you&#x27;re flicking water off your fingers. Move to your elbows, then shoulders, letting each joint go floppy for five seconds before the next. Finally, let your whole arms shake from the shoulder sockets for ten seconds. Feel that reverberation in your ribs? That&#x27;s your nervous system reset happening in real time.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump—it moves only when you do.</p>
 </div>
 </div>
 

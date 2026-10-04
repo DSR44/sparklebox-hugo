@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unraveling</h2>
-<span class="date">October 03, 2026</span>
+<h2>The Sunday Weight</h2>
+<span class="date">October 04, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your spine has been compressing itself into a straighter line than it wants to be—maybe since Tuesday, maybe since you sat down for coffee ten minutes ago.</p>
+<p class="sb-checkin__hook">Your hands are already reaching for something—phone, coffee, the next task—before your body has decided it&#x27;s awake.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your nervous system stores tension in what&#x27;s called &quot;postural tone&quot;—the baseline muscle activity that holds you upright. When stress accumulates, that tone creeps upward, creating stiffness your brain starts to read as normal. Movement interrupts this: mechanoreceptors in your joints fire signals that literally tell your brain &quot;we&#x27;re not in danger right now.&quot;</p>
+<p class="sb-checkin__science">This is anticipatory activation: your sympathetic nervous system firing based on imagined demands, not real ones. Interoception—your brain&#x27;s ability to read internal signals—gets muted when you&#x27;re already mentally in Monday. You lose the data your body is actually sending.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your knees unlock. Start at your wrists—shake them loosely for five seconds like you&#x27;re flicking water off your fingers. Move to your elbows, then shoulders, letting each joint go floppy for five seconds before the next. Finally, let your whole arms shake from the shoulder sockets for ten seconds. Feel that reverberation in your ribs? That&#x27;s your nervous system reset happening in real time.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump—it moves only when you do.</p>
+<div class="sb-checkin__reset">Sit. Let your hands rest on your thighs, palms down. Notice the contact: fabric, warmth, weight. Now tap your right hand on your right thigh, then left on left—alternating, slow, like a metronome you control. Count 20 taps each side. Don&#x27;t speed up. Let your gaze soften on a fixed point across the room. When you finish, leave your hands still and feel the echo: blood returned, attention dropped back into skin.</div>
+<p class="sb-checkin__close">Your nervous system can&#x27;t tell Sunday from Monday until you give it something physical to land on.</p>
 </div>
 </div>
 

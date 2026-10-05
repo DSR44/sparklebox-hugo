@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Weight</h2>
-<span class="date">October 04, 2026</span>
+<h2>The Monday Exhale</h2>
+<span class="date">October 05, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are already reaching for something—phone, coffee, the next task—before your body has decided it&#x27;s awake.</p>
+<p class="sb-checkin__hook">Your belly has been braced since you opened your eyes—like you&#x27;re waiting to absorb a small impact you can&#x27;t quite name.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory activation: your sympathetic nervous system firing based on imagined demands, not real ones. Interoception—your brain&#x27;s ability to read internal signals—gets muted when you&#x27;re already mentally in Monday. You lose the data your body is actually sending.</p>
+<p class="sb-checkin__science">This is your cortisol awakening response doing its job a little too well. Your body dumped stress hormone to get you vertical, but it didn&#x27;t get the signal to taper off. Extended exhales hack this directly: a long slow out-breath activates your vagus nerve and tells your nervous system the tiger has left the building.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Sit. Let your hands rest on your thighs, palms down. Notice the contact: fabric, warmth, weight. Now tap your right hand on your right thigh, then left on left—alternating, slow, like a metronome you control. Count 20 taps each side. Don&#x27;t speed up. Let your gaze soften on a fixed point across the room. When you finish, leave your hands still and feel the echo: blood returned, attention dropped back into skin.</div>
-<p class="sb-checkin__close">Your nervous system can&#x27;t tell Sunday from Monday until you give it something physical to land on.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something unfixed—a wall corner, a window frame, whatever&#x27;s there. Inhale through your nose for 4. Exhale through pursed lips like you&#x27;re cooling hot soup, for 8 slow counts. Feel your ribs drop, your jaw unhinge slightly, your belly finally let go. Three rounds. That&#x27;s it.</div>
+<p class="sb-checkin__close">Your diaphragm and your vagus nerve are neighbors with a direct line—when one moves slowly, the other listens.</p>
 </div>
 </div>
 

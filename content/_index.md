@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Exhale</h2>
-<span class="date">October 05, 2026</span>
+<h2>The Weight You&#x27;re Still Carrying from Monday</h2>
+<span class="date">October 06, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your belly has been braced since you opened your eyes—like you&#x27;re waiting to absorb a small impact you can&#x27;t quite name.</p>
+<p class="sb-checkin__hook">Your shoulders have crept up toward your ears since you sat down. You didn&#x27;t decide this. Your nervous system did—still metabolizing yesterday.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your cortisol awakening response doing its job a little too well. Your body dumped stress hormone to get you vertical, but it didn&#x27;t get the signal to taper off. Extended exhales hack this directly: a long slow out-breath activates your vagus nerve and tells your nervous system the tiger has left the building.</p>
+<p class="sb-checkin__science">This is sensory gating failure: your brain is still processing unfinished stress from Monday, so it keeps your trapezius contracted as a protective posture. Somatic healing happens when you override that signal with deliberate movement, telling your brain the threat has passed.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something unfixed—a wall corner, a window frame, whatever&#x27;s there. Inhale through your nose for 4. Exhale through pursed lips like you&#x27;re cooling hot soup, for 8 slow counts. Feel your ribs drop, your jaw unhinge slightly, your belly finally let go. Three rounds. That&#x27;s it.</div>
-<p class="sb-checkin__close">Your diaphragm and your vagus nerve are neighbors with a direct line—when one moves slowly, the other listens.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop on a long exhale—don&#x27;t force them, just release the hold. Now: three shoulder rolls backward, slow as you can stand (4 seconds each direction). Then interlace fingers behind your back, straighten arms, lift chest 2 inches, hold 8 seconds. Release. Notice the space that appears between your shoulder blades without you asking for it.</div>
+<p class="sb-checkin__close">Your trapezius isn&#x27;t designed to be a storage locker. It will let go when your brain receives proof—through movement, not thought—that Tuesday morning is not Monday afternoon.</p>
 </div>
 </div>
 

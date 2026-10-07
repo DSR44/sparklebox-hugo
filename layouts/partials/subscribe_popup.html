@@ -45,7 +45,7 @@
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email })
+        body: JSON.stringify({ email, page: location.origin + location.pathname })
       });
       if (res.ok) {
         btn.textContent = 'Welcome!';

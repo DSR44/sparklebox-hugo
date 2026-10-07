@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You&#x27;re Still Carrying from Monday</h2>
-<span class="date">October 06, 2026</span>
+<h2>The Half-Week Hinge</h2>
+<span class="date">October 07, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept up toward your ears since you sat down. You didn&#x27;t decide this. Your nervous system did—still metabolizing yesterday.</p>
+<p class="sb-checkin__hook">Your jaw is holding Tuesday like a debt it still owes—molars parked together, masseter muscles quietly hoarding tension you never agreed to carry into Wednesday.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating failure: your brain is still processing unfinished stress from Monday, so it keeps your trapezius contracted as a protective posture. Somatic healing happens when you override that signal with deliberate movement, telling your brain the threat has passed.</p>
+<p class="sb-checkin__science">This is neuroceptive bracing: your nervous system regulation has been running a background scan for threats since Monday, and midweek reads as &quot;still not safe to exhale fully.&quot; Polyvagal theory calls this mobilization-without-discharge—your sympathetic system stuck in low idle, burning fuel while you answer emails.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your shoulders drop on a long exhale—don&#x27;t force them, just release the hold. Now: three shoulder rolls backward, slow as you can stand (4 seconds each direction). Then interlace fingers behind your back, straighten arms, lift chest 2 inches, hold 8 seconds. Release. Notice the space that appears between your shoulder blades without you asking for it.</div>
-<p class="sb-checkin__close">Your trapezius isn&#x27;t designed to be a storage locker. It will let go when your brain receives proof—through movement, not thought—that Tuesday morning is not Monday afternoon.</p>
+<div class="sb-checkin__reset">Soften your gaze until the edges of your screen blur. Let your jaw drop open half an inch—tongue soft, teeth unstacked. Hum one low note on your exhale, feeling it buzz in your chest (8 seconds). Now trace one slow fingertip from your earlobe down the side of your neck to your collarbone—same side, twice, like smoothing a wrinkle from a shirt. Hum again, lower if you can. Your vagus nerve lives here, and it responds to vibration like a tuning fork.</div>
+<p class="sb-checkin__close">Your heart rate variability increases measurably within ninety seconds of vocal vibration—no belief required, just physics.</p>
 </div>
 </div>
 

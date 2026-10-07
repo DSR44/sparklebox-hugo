@@ -94,6 +94,38 @@ function architectureWelcomeHtml(readUrl) {
 </div>`;
 }
 
+
+const SIGNUP_HOSTS = new Set(['sparklebox.blog', 'www.sparklebox.blog']);
+
+function cleanPage(raw) {
+  if (!raw || typeof raw !== 'string') return '';
+  try {
+    const u = new URL(raw.split('?')[0].slice(0, 300));
+    if (!SIGNUP_HOSTS.has(u.hostname)) return '';
+    if (u.protocol !== 'https:' && u.protocol !== 'http:') return '';
+    if (!u.pathname.startsWith('/') || u.pathname.includes('..')) return '';
+    return 'https://' + u.hostname + u.pathname;
+  } catch (e) {
+    return '';
+  }
+}
+
+async function rememberPage(apiKey, email, page) {
+  const clean = cleanPage(page);
+  if (!clean) return;
+  try {
+    const existing = await resendFetch(apiKey, '/contacts/' + encodeURIComponent(email));
+    const data = await existing.json();
+    if (data && data.properties && data.properties.signup_page) return;
+    await resendFetch(apiKey, '/contacts/' + encodeURIComponent(email), {
+      method: 'PATCH',
+      body: JSON.stringify({ properties: { signup_page: clean } }),
+    });
+  } catch (e) {
+    /* attribution must not block the signup */
+  }
+}
+
 export default async function handler(req) {
   if (req.method === 'OPTIONS') {
     return new Response(null, {
@@ -116,6 +148,7 @@ export default async function handler(req) {
   try {
     const body = await req.json();
     const email = (body.email || '').trim().toLowerCase();
+    const page = typeof body.page === 'string' ? body.page : '';
     const source =
       body.source === 'architecture'
         ? 'architecture'
@@ -162,6 +195,7 @@ export default async function handler(req) {
         }),
       });
 
+      await rememberPage(RESEND_API_KEY, email, page);
       return new Response(
         JSON.stringify({
           status: 'subscribed',
@@ -182,6 +216,7 @@ export default async function handler(req) {
 
     if (source === 'seen') {
       await addContactToSegment(RESEND_API_KEY, email, SANCTUARY_SEGMENT_ID);
+      await rememberPage(RESEND_API_KEY, email, page);
       return new Response(
         JSON.stringify({ status: 'subscribed', email, series: 'seen' }),
         { status: 200, headers: CORS }
@@ -201,6 +236,7 @@ export default async function handler(req) {
       }),
     });
 
+    await rememberPage(RESEND_API_KEY, email, page);
     return new Response(JSON.stringify({ status: 'subscribed', email, series: 'sanctuary' }), {
       status: 200,
       headers: CORS,

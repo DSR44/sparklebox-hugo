@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Half-Week Hinge</h2>
-<span class="date">October 07, 2026</span>
+<h2>The Thursday Drop</h2>
+<span class="date">October 08, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is holding Tuesday like a debt it still owes—molars parked together, masseter muscles quietly hoarding tension you never agreed to carry into Wednesday.</p>
+<p class="sb-checkin__hook">Your exhale is shorter than your inhale right now—like you&#x27;re halfway holding your breath for something that hasn&#x27;t happened yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neuroceptive bracing: your nervous system regulation has been running a background scan for threats since Monday, and midweek reads as &quot;still not safe to exhale fully.&quot; Polyvagal theory calls this mobilization-without-discharge—your sympathetic system stuck in low idle, burning fuel while you answer emails.</p>
+<p class="sb-checkin__science">Polyvagal theory calls this &quot;neuroception without detection&quot;—your nervous system scanning for threat before your thinking brain catches up. Thursday mornings are prime real estate for this: too far from weekend relief, too deep in accumulated micro-stresses. Your vagus nerve needs a clear signal that the body is actually safe, not just theoretically fine.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze until the edges of your screen blur. Let your jaw drop open half an inch—tongue soft, teeth unstacked. Hum one low note on your exhale, feeling it buzz in your chest (8 seconds). Now trace one slow fingertip from your earlobe down the side of your neck to your collarbone—same side, twice, like smoothing a wrinkle from a shirt. Hum again, lower if you can. Your vagus nerve lives here, and it responds to vibration like a tuning fork.</div>
-<p class="sb-checkin__close">Your heart rate variability increases measurably within ninety seconds of vocal vibration—no belief required, just physics.</p>
+<div class="sb-checkin__reset">Stand up. Feet hip-width. Soften your gaze at a middle-distance point. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—push every last molecule out. On the empty breath-hold, let your knees unlock and your spine lengthen like a string pulled from the crown. Three rounds. No rush. The long exhale is the point—it manually activates your parasympathetic brake.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. Each one is a tiny exchange point where stress chemistry literally leaves your body as carbon dioxide. Breathing out is not passive—it&#x27;s active removal.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Drop</h2>
-<span class="date">October 08, 2026</span>
+<h2>The Friday Unraveling</h2>
+<span class="date">October 09, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your exhale is shorter than your inhale right now—like you&#x27;re halfway holding your breath for something that hasn&#x27;t happened yet.</p>
+<p class="sb-checkin__hook">Your spine has been waiting all week to move like it actually belongs to you—stiff from chairs, screens, and the low-grade holding pattern of getting through.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Polyvagal theory calls this &quot;neuroception without detection&quot;—your nervous system scanning for threat before your thinking brain catches up. Thursday mornings are prime real estate for this: too far from weekend relief, too deep in accumulated micro-stresses. Your vagus nerve needs a clear signal that the body is actually safe, not just theoretically fine.</p>
+<p class="sb-checkin__science">Your muscles store incomplete stress cycles as tension; gentle shaking triggers proprioceptive discharge, telling your brain the threat has passed. It&#x27;s the same reason animals tremble after danger—then go back to grazing.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Feet hip-width. Soften your gaze at a middle-distance point. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—push every last molecule out. On the empty breath-hold, let your knees unlock and your spine lengthen like a string pulled from the crown. Three rounds. No rush. The long exhale is the point—it manually activates your parasympathetic brake.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. Each one is a tiny exchange point where stress chemistry literally leaves your body as carbon dioxide. Breathing out is not passive—it&#x27;s active removal.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width, soften your gaze, and let your knees unlock. Start at your wrists—floppy circles, 10 seconds—then let it travel: elbows loose, shoulders rolling, head bobbing if it wants. Now add a gentle bounce through your knees, barely leaving the ground, for 30 seconds. Let your jaw hang open. Let your breath get noisy and uneven. Stop when you feel heat in your cheeks or a small laugh trying to escape.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump—it moves only when you do.</p>
 </div>
 </div>
 

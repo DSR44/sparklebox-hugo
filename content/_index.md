@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unraveling</h2>
-<span class="date">October 09, 2026</span>
+<h2>The Saturday Softening</h2>
+<span class="date">October 10, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your spine has been waiting all week to move like it actually belongs to you—stiff from chairs, screens, and the low-grade holding pattern of getting through.</p>
+<p class="sb-checkin__hook">Your hands are probably doing something right now—gripping, scrolling, bracing—without your permission. Notice the web of skin between your thumb and index finger. It tells the truth about whether you&#x27;re holding or allowing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your muscles store incomplete stress cycles as tension; gentle shaking triggers proprioceptive discharge, telling your brain the threat has passed. It&#x27;s the same reason animals tremble after danger—then go back to grazing.</p>
+<p class="sb-checkin__science">Interoception is your brain&#x27;s ability to read internal signals, but most of us train it to ignore discomfort until it screams. Gentle attention to specific body territories—like those hand webs—builds neural pathways that let you notice *before* overwhelm hijacks your system. It&#x27;s not relaxation; it&#x27;s information.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width, soften your gaze, and let your knees unlock. Start at your wrists—floppy circles, 10 seconds—then let it travel: elbows loose, shoulders rolling, head bobbing if it wants. Now add a gentle bounce through your knees, barely leaving the ground, for 30 seconds. Let your jaw hang open. Let your breath get noisy and uneven. Stop when you feel heat in your cheeks or a small laugh trying to escape.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump—it moves only when you do.</p>
+<div class="sb-checkin__reset">Soften your gaze. Rest your palms face-up on your thighs. Inhale 4 counts. Hold 4. Exhale 6. Hold 2. On each exhale, let your thumb and index finger drift apart like they&#x27;re forgetting each other. Four rounds. The extra exhale length signals your vagus nerve that the hunt is over.</div>
+<p class="sb-checkin__close">Your lungs have roughly 300 million alveoli—tiny sacs that never stop negotiating between you and the world. They don&#x27;t need your praise. They need your exhale to outlast your inhale, just once in a while.</p>
 </div>
 </div>
 

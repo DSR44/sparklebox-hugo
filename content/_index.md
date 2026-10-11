@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Softening</h2>
-<span class="date">October 10, 2026</span>
+<h2>Sunday Morning Inventory</h2>
+<span class="date">October 11, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are probably doing something right now—gripping, scrolling, bracing—without your permission. Notice the web of skin between your thumb and index finger. It tells the truth about whether you&#x27;re holding or allowing.</p>
+<p class="sb-checkin__hook">Your stomach probably knows it&#x27;s Sunday before your brain does—that low-grade hum beneath your ribs, the body bracing for a week it hasn&#x27;t met yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Interoception is your brain&#x27;s ability to read internal signals, but most of us train it to ignore discomfort until it screams. Gentle attention to specific body territories—like those hand webs—builds neural pathways that let you notice *before* overwhelm hijacks your system. It&#x27;s not relaxation; it&#x27;s information.</p>
+<p class="sb-checkin__science">This is anticipatory arousal, and it&#x27;s not just &quot;anxiety.&quot; Your vagus nerve—this wandering highway from brain to gut—shifts into subtle vigilance when your internal clock senses transition. Polyvagal theory calls this neuroception: your nervous system reads Sunday morning as a threshold, not a day of rest.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Rest your palms face-up on your thighs. Inhale 4 counts. Hold 4. Exhale 6. Hold 2. On each exhale, let your thumb and index finger drift apart like they&#x27;re forgetting each other. Four rounds. The extra exhale length signals your vagus nerve that the hunt is over.</div>
-<p class="sb-checkin__close">Your lungs have roughly 300 million alveoli—tiny sacs that never stop negotiating between you and the world. They don&#x27;t need your praise. They need your exhale to outlast your inhale, just once in a while.</p>
+<div class="sb-checkin__reset">Bilateral vagus reset. Sit or stand. Cross your arms over your chest, hands resting on opposite shoulders. Begin tapping alternately—left hand on right shoulder, right hand on left shoulder—slow as a heartbeat, about one tap per second. Do this for 45 seconds. Let your gaze soften toward something neutral: a wall, a cup, nothing meaningful. Feel the rhythm move through you like a pendulum. Stop. Notice the shift in jaw, in breath, in the space behind your sternum.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to rhythm before it responds to reason. The body believes pattern, not pep talks.</p>
 </div>
 </div>
 

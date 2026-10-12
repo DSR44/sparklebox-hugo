@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Morning Inventory</h2>
-<span class="date">October 11, 2026</span>
+<h2>The Monday Cortisol Audit</h2>
+<span class="date">October 12, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your stomach probably knows it&#x27;s Sunday before your brain does—that low-grade hum beneath your ribs, the body bracing for a week it hasn&#x27;t met yet.</p>
+<p class="sb-checkin__hook">Your shoulders are already halfway to your ears, and you haven&#x27;t even finished your coffee. That stiffness isn&#x27;t laziness—it&#x27;s your nervous system bracing for a week that hasn&#x27;t started yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory arousal, and it&#x27;s not just &quot;anxiety.&quot; Your vagus nerve—this wandering highway from brain to gut—shifts into subtle vigilance when your internal clock senses transition. Polyvagal theory calls this neuroception: your nervous system reads Sunday morning as a threshold, not a day of rest.</p>
+<p class="sb-checkin__science">Monday mornings spike cortisol naturally, but modern work culture hijacks this into hypervigilance. Your body doesn&#x27;t distinguish between &quot;important meeting&quot; and &quot;actual threat&quot;—it just knows you&#x27;re already revving. Polyvagal theory calls this mobilization without discharge: you&#x27;re ready to run, but sitting still.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Bilateral vagus reset. Sit or stand. Cross your arms over your chest, hands resting on opposite shoulders. Begin tapping alternately—left hand on right shoulder, right hand on left shoulder—slow as a heartbeat, about one tap per second. Do this for 45 seconds. Let your gaze soften toward something neutral: a wall, a cup, nothing meaningful. Feel the rhythm move through you like a pendulum. Stop. Notice the shift in jaw, in breath, in the space behind your sternum.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to rhythm before it responds to reason. The body believes pattern, not pep talks.</p>
+<div class="sb-checkin__reset">Stand up. Feel both feet fully on the floor. Now exhale through your mouth like you&#x27;re fogging glass—slow, steady, audible—for six full seconds. Let your shoulders drop on the out-breath, not yank them down. Three times. No deep inhales needed; your body already has air. You&#x27;re just showing your vagus nerve it&#x27;s safe to let go.</div>
+<p class="sb-checkin__close">Your nervous system resets faster than your inbox fills. The cortisol dip starts within ninety seconds of genuine exhale.</p>
 </div>
 </div>
 

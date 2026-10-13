@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Cortisol Audit</h2>
-<span class="date">October 12, 2026</span>
+<h2>The Weight You Forgot You Carried</h2>
+<span class="date">October 13, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are already halfway to your ears, and you haven&#x27;t even finished your coffee. That stiffness isn&#x27;t laziness—it&#x27;s your nervous system bracing for a week that hasn&#x27;t started yet.</p>
+<p class="sb-checkin__hook">Your jaw just unclenched the moment you read that. Or it didn&#x27;t—and that&#x27;s information too. Notice what your shoulders are doing right now, without changing them yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Monday mornings spike cortisol naturally, but modern work culture hijacks this into hypervigilance. Your body doesn&#x27;t distinguish between &quot;important meeting&quot; and &quot;actual threat&quot;—it just knows you&#x27;re already revving. Polyvagal theory calls this mobilization without discharge: you&#x27;re ready to run, but sitting still.</p>
+<p class="sb-checkin__science">Your upper trapezius muscles fire automatically when your brain detects even vague threat. Polyvagal theory calls this the mobilization response—shoulders rise, neck shortens, your body prepares to run or brace. Problem is, your nervous system can&#x27;t tell the difference between a deadline and a predator, so midweek tension accumulates while you&#x27;re barely noticing.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Feel both feet fully on the floor. Now exhale through your mouth like you&#x27;re fogging glass—slow, steady, audible—for six full seconds. Let your shoulders drop on the out-breath, not yank them down. Three times. No deep inhales needed; your body already has air. You&#x27;re just showing your vagus nerve it&#x27;s safe to let go.</div>
-<p class="sb-checkin__close">Your nervous system resets faster than your inbox fills. The cortisol dip starts within ninety seconds of genuine exhale.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now: inhale, shrug both shoulders hard toward your ears for a count of four. Hold the tension. Exhale for six as you drop them down and back, like sliding them into back pockets. Repeat twice more. On the third drop, let your head hang forward, chin to chest, arms heavy. Hang for ten seconds. Roll up slowly.</div>
+<p class="sb-checkin__close">Your shoulders connect directly to your brainstem through the accessory nerve. When they descend, your nervous system receives literal proof that the threat has passed—even if the deadline hasn&#x27;t.</p>
 </div>
 </div>
 

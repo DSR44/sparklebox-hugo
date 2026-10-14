@@ -1,6 +1,6 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
-date: 2026-10-13T06:00:00+0000
+date: 2026-10-14T06:00:00+0000
 author: "Elle Vida"
 slug: "musebox-dreams"
 hideAuthor: true
@@ -12,7 +12,7 @@ aliases:
 *Open the portal. Receive the whisper. Let creativity bloom in dreamlight.*
 
 ## Today's MuseBox Drop
-**October 13, 2026**
+**October 14, 2026**
 
 ### The Loom of Unwritten Moons
 

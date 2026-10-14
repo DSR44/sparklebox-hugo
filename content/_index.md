@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Carried</h2>
-<span class="date">October 13, 2026</span>
+<h2>The Wednesday Weight</h2>
+<span class="date">October 14, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw just unclenched the moment you read that. Or it didn&#x27;t—and that&#x27;s information too. Notice what your shoulders are doing right now, without changing them yet.</p>
+<p class="sb-checkin__hook">Your hips are holding something they won&#x27;t name—tension from Monday&#x27;s meeting, maybe, or last night&#x27;s scroll. You feel it when you stand up: that stiffness that makes you walk like you&#x27;re carrying a bag you forgot you packed.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your upper trapezius muscles fire automatically when your brain detects even vague threat. Polyvagal theory calls this the mobilization response—shoulders rise, neck shortens, your body prepares to run or brace. Problem is, your nervous system can&#x27;t tell the difference between a deadline and a predator, so midweek tension accumulates while you&#x27;re barely noticing.</p>
+<p class="sb-checkin__science">This is your psoas muscle, the deep hip flexor that tightens when your nervous system braces for impact. It&#x27;s wired directly to your fight-or-flight response—evolution&#x27;s way of curling you into protection. When it stays clenched, your brain reads that as danger still happening, even if the threat was days ago.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now: inhale, shrug both shoulders hard toward your ears for a count of four. Hold the tension. Exhale for six as you drop them down and back, like sliding them into back pockets. Repeat twice more. On the third drop, let your head hang forward, chin to chest, arms heavy. Hang for ten seconds. Roll up slowly.</div>
-<p class="sb-checkin__close">Your shoulders connect directly to your brainstem through the accessory nerve. When they descend, your nervous system receives literal proof that the threat has passed—even if the deadline hasn&#x27;t.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width apart. Soften your gaze. Place one hand on your lower belly, one on your tailbone. Tilt your pelvis forward and back—rocking, not forcing—10 times slowly. On the 10th rock, pause at center. Step one foot forward into a gentle lunge. Let your back knee bend until you feel the front of that hip open. Hold 20 seconds. Switch sides. Notice if your exhale got longer without trying.</div>
+<p class="sb-checkin__close">Your psoas doesn&#x27;t store trauma like some claim—it simply responds to signals. When you release it, you send one clear message upstream: the bracing can stop now.</p>
 </div>
 </div>
 

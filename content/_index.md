@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Weight</h2>
-<span class="date">October 14, 2026</span>
+<h2>Thursday Static</h2>
+<span class="date">October 15, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hips are holding something they won&#x27;t name—tension from Monday&#x27;s meeting, maybe, or last night&#x27;s scroll. You feel it when you stand up: that stiffness that makes you walk like you&#x27;re carrying a bag you forgot you packed.</p>
+<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth right now—tight, ready, as if it&#x27;s bracing for the next thing before breakfast even happens.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your psoas muscle, the deep hip flexor that tightens when your nervous system braces for impact. It&#x27;s wired directly to your fight-or-flight response—evolution&#x27;s way of curling you into protection. When it stays clenched, your brain reads that as danger still happening, even if the threat was days ago.</p>
+<p class="sb-checkin__science">This is sensory gating in action. Your nervous system is filtering input so aggressively this morning that your own jaw became background noise. Thursday fatigue isn&#x27;t laziness—it&#x27;s accumulated neural load from three days of unprocessed micro-stressors.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width apart. Soften your gaze. Place one hand on your lower belly, one on your tailbone. Tilt your pelvis forward and back—rocking, not forcing—10 times slowly. On the 10th rock, pause at center. Step one foot forward into a gentle lunge. Let your back knee bend until you feel the front of that hip open. Hold 20 seconds. Switch sides. Notice if your exhale got longer without trying.</div>
-<p class="sb-checkin__close">Your psoas doesn&#x27;t store trauma like some claim—it simply responds to signals. When you release it, you send one clear message upstream: the bracing can stop now.</p>
+<div class="sb-checkin__reset">Soften your gaze. Exhale fully through your mouth with a soft ha sound—let your shoulders drop without forcing them. Now inhale through your nose for 4 counts, sip in a little more air at the top, then exhale slowly for 8 counts with another audible ha. Repeat twice. The double inhale triggers pulmonary stretch receptors that signal your vagus nerve to downshift your heart rate.</div>
+<p class="sb-checkin__close">Your lungs have stretch receptors that evolved specifically to detect safety—when they expand fully and slowly, your brain receives the chemical signal that you are not currently being chased.</p>
 </div>
 </div>
 

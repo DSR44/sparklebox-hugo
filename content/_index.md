@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Static</h2>
-<span class="date">October 15, 2026</span>
+<h2>The Weight of the Week Still Lives in Your Neck</h2>
+<span class="date">October 16, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth right now—tight, ready, as if it&#x27;s bracing for the next thing before breakfast even happens.</p>
+<p class="sb-checkin__hook">Your neck is probably doing that thing—slightly forward, slightly rigid—like it&#x27;s still bracing for Thursday&#x27;s problems even though Friday morning is here.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action. Your nervous system is filtering input so aggressively this morning that your own jaw became background noise. Thursday fatigue isn&#x27;t laziness—it&#x27;s accumulated neural load from three days of unprocessed micro-stressors.</p>
+<p class="sb-checkin__science">Your vagus nerve runs right through that area, and chronic forward head posture puts gentle pressure on it all day, telling your brain you&#x27;re still in defensive mode even when the threat passed. Polyvagal theory calls this neuroception: your body decides safety before your mind gets a vote.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Exhale fully through your mouth with a soft ha sound—let your shoulders drop without forcing them. Now inhale through your nose for 4 counts, sip in a little more air at the top, then exhale slowly for 8 counts with another audible ha. Repeat twice. The double inhale triggers pulmonary stretch receptors that signal your vagus nerve to downshift your heart rate.</div>
-<p class="sb-checkin__close">Your lungs have stretch receptors that evolved specifically to detect safety—when they expand fully and slowly, your brain receives the chemical signal that you are not currently being chased.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your chin drop a half-inch toward your chest—just enough to feel the back of your neck lengthen. Now slowly roll your right ear toward your right shoulder. Hold for 4 counts. Return to center. Left ear to left shoulder. Hold for 4 counts. Return. Finally, let your head fall forward and imagine you&#x27;re shaking something heavy off your hair—gentle yes-no motions, 10 seconds. Let your shoulders move with it. The vagus nerve responds to release in the cervical spine; you&#x27;re literally shifting your nervous system state through movement.</div>
+<p class="sb-checkin__close">Your neck muscles were designed to rotate and release, not to prop your skull forward like a shelf. The vagus nerve remembers freedom of motion even when you forget.</p>
 </div>
 </div>
 

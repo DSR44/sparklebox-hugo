@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of the Week Still Lives in Your Neck</h2>
-<span class="date">October 16, 2026</span>
+<h2>The Weight of Saturday Morning</h2>
+<span class="date">October 17, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your neck is probably doing that thing—slightly forward, slightly rigid—like it&#x27;s still bracing for Thursday&#x27;s problems even though Friday morning is here.</p>
+<p class="sb-checkin__hook">Your hands are probably doing something right now—gripping your phone, curled into fists, or hovering in that half-ready position like the week never actually ended.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your vagus nerve runs right through that area, and chronic forward head posture puts gentle pressure on it all day, telling your brain you&#x27;re still in defensive mode even when the threat passed. Polyvagal theory calls this neuroception: your body decides safety before your mind gets a vote.</p>
+<p class="sb-checkin__science">Your nervous system doesn&#x27;t flip a calendar page and reset. The residual activation from five days of deadlines lives in your muscle tone, not your thoughts. Interoception—your brain&#x27;s ability to read internal signals—gets fuzzy when you&#x27;re still running on weekday settings, which is why Saturday can feel strangely hollow instead of restorative.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your chin drop a half-inch toward your chest—just enough to feel the back of your neck lengthen. Now slowly roll your right ear toward your right shoulder. Hold for 4 counts. Return to center. Left ear to left shoulder. Hold for 4 counts. Return. Finally, let your head fall forward and imagine you&#x27;re shaking something heavy off your hair—gentle yes-no motions, 10 seconds. Let your shoulders move with it. The vagus nerve responds to release in the cervical spine; you&#x27;re literally shifting your nervous system state through movement.</div>
-<p class="sb-checkin__close">Your neck muscles were designed to rotate and release, not to prop your skull forward like a shelf. The vagus nerve remembers freedom of motion even when you forget.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something neutral—a wall, a table edge. Now drop your shoulders on a count of four: one (notice the lift), two (keep them there), three (begin releasing), four (fully down). Hold for four. Without lifting, roll them slowly back for four. Hold. Roll forward for four. One round. That&#x27;s it. Your hands can unclench now, or they can stay exactly as they are—both signal the same thing to your brain: the emergency is over.</div>
+<p class="sb-checkin__close">Muscle tension burns glucose even when you&#x27;re still. Releasing it literally frees up fuel your body can use for repair instead of vigilance.</p>
 </div>
 </div>
 

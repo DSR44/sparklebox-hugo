@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Saturday Morning</h2>
-<span class="date">October 17, 2026</span>
+<h2>The Sunday Weight</h2>
+<span class="date">October 18, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are probably doing something right now—gripping your phone, curled into fists, or hovering in that half-ready position like the week never actually ended.</p>
+<p class="sb-checkin__hook">Your shoulders are already up near your ears—maybe they rode there all night, maybe they climbed while you were checking your phone. You haven&#x27;t even stood up yet and your body is already bracing for the week.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your nervous system doesn&#x27;t flip a calendar page and reset. The residual activation from five days of deadlines lives in your muscle tone, not your thoughts. Interoception—your brain&#x27;s ability to read internal signals—gets fuzzy when you&#x27;re still running on weekday settings, which is why Saturday can feel strangely hollow instead of restorative.</p>
+<p class="sb-checkin__science">This is anticipatory muscle tension—your nervous system rehearsing stress before it arrives. Your brain doesn&#x27;t distinguish between *imagined* Monday and *actual* Monday, so it fires the same motor patterns, exhausting you before the day starts.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes rest on something neutral—a wall, a table edge. Now drop your shoulders on a count of four: one (notice the lift), two (keep them there), three (begin releasing), four (fully down). Hold for four. Without lifting, roll them slowly back for four. Hold. Roll forward for four. One round. That&#x27;s it. Your hands can unclench now, or they can stay exactly as they are—both signal the same thing to your brain: the emergency is over.</div>
-<p class="sb-checkin__close">Muscle tension burns glucose even when you&#x27;re still. Releasing it literally frees up fuel your body can use for repair instead of vigilance.</p>
+<div class="sb-checkin__reset">Sit or stand. Let your arms hang heavy. Begin alternating shoulder taps—right hand to left shoulder, left hand to right shoulder, at whatever speed feels steady, not rushed. Count 20 taps total. Let your elbows be loose, your hands thump gently like a lazy heartbeat. Soft knees. Soft gaze. When you finish, let your arms drop and feel what heaviness actually weighs.</div>
+<p class="sb-checkin__close">Muscle tension burns glucose without producing movement—your body running a motor in neutral. Interrupting the pattern returns that fuel to your cells.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Weight</h2>
-<span class="date">October 18, 2026</span>
+<h2>Monday Gravity</h2>
+<span class="date">October 19, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are already up near your ears—maybe they rode there all night, maybe they climbed while you were checking your phone. You haven&#x27;t even stood up yet and your body is already bracing for the week.</p>
+<p class="sb-checkin__hook">Your breath is probably parked high and tight in your chest this morning, like your ribs are already running a meeting you didn&#x27;t agree to. You might notice your jaw is clenched too, as if Monday showed up with an agenda and your body decided to hold the pen.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory muscle tension—your nervous system rehearsing stress before it arrives. Your brain doesn&#x27;t distinguish between *imagined* Monday and *actual* Monday, so it fires the same motor patterns, exhausting you before the day starts.</p>
+<p class="sb-checkin__science">That&#x27;s your cortisol spiking—it&#x27;s supposed to wake you up, but on Mondays it usually overshoots and leaves you buzzing. When you drag out the exhale, you manually downshift your heart rate and move into real stress relief—a genuine nervous system reset instead of just white-knuckling through the morning.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Sit or stand. Let your arms hang heavy. Begin alternating shoulder taps—right hand to left shoulder, left hand to right shoulder, at whatever speed feels steady, not rushed. Count 20 taps total. Let your elbows be loose, your hands thump gently like a lazy heartbeat. Soft knees. Soft gaze. When you finish, let your arms drop and feel what heaviness actually weighs.</div>
-<p class="sb-checkin__close">Muscle tension burns glucose without producing movement—your body running a motor in neutral. Interrupting the pattern returns that fuel to your cells.</p>
+<div class="sb-checkin__reset">Soften your gaze. Plant both feet flat on the floor and notice the four corners of each foot pressing into whatever is beneath you. Inhale through your nose for a count of four. Exhale through pursed lips for a count of eight, as if blowing one slow, steady stream of air through a straw. On every exhale, let your shoulders slide down an extra inch without forcing them. Repeat this four times, letting each exhale get a fraction softer and longer.</div>
+<p class="sb-checkin__close">Cortisol naturally peaks about thirty to forty-five minutes after you wake, and then it chemically wants to drop. Your body isn&#x27;t failing you; it&#x27;s just waiting for the right mechanical signal to follow that curve back down.</p>
 </div>
 </div>
 

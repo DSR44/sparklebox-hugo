@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Monday Gravity</h2>
-<span class="date">October 19, 2026</span>
+<h2>The Tuesday Tightness</h2>
+<span class="date">October 20, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath is probably parked high and tight in your chest this morning, like your ribs are already running a meeting you didn&#x27;t agree to. You might notice your jaw is clenched too, as if Monday showed up with an agenda and your body decided to hold the pen.</p>
+<p class="sb-checkin__hook">Your jaw probably unclenched the moment you read this—and now it&#x27;s tightening again, checking if anyone noticed.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">That&#x27;s your cortisol spiking—it&#x27;s supposed to wake you up, but on Mondays it usually overshoots and leaves you buzzing. When you drag out the exhale, you manually downshift your heart rate and move into real stress relief—a genuine nervous system reset instead of just white-knuckling through the morning.</p>
+<p class="sb-checkin__science">This is sensory gating in action: your brain filters out constant muscle tension to free up bandwidth for &quot;more important&quot; threats. The catch? It works too well. You stop feeling the load until your shoulders become a fixed sculpture of the week so far.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Plant both feet flat on the floor and notice the four corners of each foot pressing into whatever is beneath you. Inhale through your nose for a count of four. Exhale through pursed lips for a count of eight, as if blowing one slow, steady stream of air through a straw. On every exhale, let your shoulders slide down an extra inch without forcing them. Repeat this four times, letting each exhale get a fraction softer and longer.</div>
-<p class="sb-checkin__close">Cortisol naturally peaks about thirty to forty-five minutes after you wake, and then it chemically wants to drop. Your body isn&#x27;t failing you; it&#x27;s just waiting for the right mechanical signal to follow that curve back down.</p>
+<div class="sb-checkin__reset">Soften your gaze toward something 20 feet away. Let your tongue rest fully on the floor of your mouth—tip behind your bottom teeth, whole surface heavy. Now exhale through your nose for 6 slow counts. With the next inhale, shrug your shoulders up toward your ears (yes, deliberately), hold 3 counts, then drop them fast like you forgot they were attached. Repeat twice.</div>
+<p class="sb-checkin__close">Your vagus nerve runs directly behind your jaw and through your neck—shoulder release here is literal nervous system regulation, not metaphor.</p>
 </div>
 </div>
 

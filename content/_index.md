@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Tuesday Tightness</h2>
-<span class="date">October 20, 2026</span>
+<h2>The Morning Hold</h2>
+<span class="date">October 21, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw probably unclenched the moment you read this—and now it&#x27;s tightening again, checking if anyone noticed.</p>
+<p class="sb-checkin__hook">Your breath is probably parked high and shallow—like you&#x27;re waiting for something to happen even when nothing&#x27;s scheduled.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action: your brain filters out constant muscle tension to free up bandwidth for &quot;more important&quot; threats. The catch? It works too well. You stop feeling the load until your shoulders become a fixed sculpture of the week so far.</p>
+<p class="sb-checkin__science">Your diaphragm and vagus nerve are buddies. When the diaphragm stays frozen in the upper chest, your brain reads that as low-level threat. Extending the exhale even slightly tips your nervous system toward safety without you having to believe anything.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze toward something 20 feet away. Let your tongue rest fully on the floor of your mouth—tip behind your bottom teeth, whole surface heavy. Now exhale through your nose for 6 slow counts. With the next inhale, shrug your shoulders up toward your ears (yes, deliberately), hold 3 counts, then drop them fast like you forgot they were attached. Repeat twice.</div>
-<p class="sb-checkin__close">Your vagus nerve runs directly behind your jaw and through your neck—shoulder release here is literal nervous system regulation, not metaphor.</p>
+<div class="sb-checkin__reset">Softten your gaze. Let your shoulders drop one inch—just one. Inhale through your nose for 4, hold for nothing, exhale through your mouth like you&#x27;re fogging glass for 6. Repeat twice more. Feel the weight of your ribs at the bottom of each breath.</div>
+<p class="sb-checkin__close">Your lungs have more real estate below the collarbone than above it. Most people rent the basement out to stress.</p>
 </div>
 </div>
 

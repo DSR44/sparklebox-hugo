@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Morning Hold</h2>
-<span class="date">October 21, 2026</span>
+<h2>Thursday Static</h2>
+<span class="date">October 22, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath is probably parked high and shallow—like you&#x27;re waiting for something to happen even when nothing&#x27;s scheduled.</p>
+<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth, and your jaw has been running background checks on your stress since you sat down.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your diaphragm and vagus nerve are buddies. When the diaphragm stays frozen in the upper chest, your brain reads that as low-level threat. Extending the exhale even slightly tips your nervous system toward safety without you having to believe anything.</p>
+<p class="sb-checkin__science">Your brain uses your muscles like a security camera feed. When your tongue, throat, and belly stay tight, your nervous system reads that tension as a low-grade threat still in progress—even if your mind knows you&#x27;re just reading an email. This constant background gripping is what makes Thursday morning feel like wading through static, and it&#x27;s exactly the kind of loop a quick nervous system reset can interrupt.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Softten your gaze. Let your shoulders drop one inch—just one. Inhale through your nose for 4, hold for nothing, exhale through your mouth like you&#x27;re fogging glass for 6. Repeat twice more. Feel the weight of your ribs at the bottom of each breath.</div>
-<p class="sb-checkin__close">Your lungs have more real estate below the collarbone than above it. Most people rent the basement out to stress.</p>
+<div class="sb-checkin__reset">Soften your gaze so the edges of your vision blur. Let your tongue fall away from the roof of your mouth and rest behind your lower front teeth. Exhale slowly through pursed lips for a count of six. Now let your shoulders drop an extra inch, as if someone just cut the puppet strings. Stay in that drop for ten seconds.</div>
+<p class="sb-checkin__close">Your facial and tongue muscles share direct neural wiring with your brain&#x27;s threat-detection centers; relaxing them changes the actual danger report your body sends upward.</p>
 </div>
 </div>
 

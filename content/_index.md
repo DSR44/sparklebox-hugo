@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Static</h2>
-<span class="date">October 22, 2026</span>
+<h2>The Friday Shakedown</h2>
+<span class="date">October 23, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth, and your jaw has been running background checks on your stress since you sat down.</p>
+<p class="sb-checkin__hook">Your coffee cup feels heavier than it should, and your fingers are gripping it like steering through bad traffic.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your brain uses your muscles like a security camera feed. When your tongue, throat, and belly stay tight, your nervous system reads that tension as a low-grade threat still in progress—even if your mind knows you&#x27;re just reading an email. This constant background gripping is what makes Thursday morning feel like wading through static, and it&#x27;s exactly the kind of loop a quick nervous system reset can interrupt.</p>
+<p class="sb-checkin__science">Your body stores unfinished stress in your muscles as motor residue—tiny contracts that never fully released. Polyvagal theory calls this neuroception: your nervous system keeps scanning for threat even when your mind says weekend. Shaking interrupts that loop by sending a clear completion signal up your sensory nerves.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze so the edges of your vision blur. Let your tongue fall away from the roof of your mouth and rest behind your lower front teeth. Exhale slowly through pursed lips for a count of six. Now let your shoulders drop an extra inch, as if someone just cut the puppet strings. Stay in that drop for ten seconds.</div>
-<p class="sb-checkin__close">Your facial and tongue muscles share direct neural wiring with your brain&#x27;s threat-detection centers; relaxing them changes the actual danger report your body sends upward.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let one arm flop loosely and shake it from the shoulder—eight seconds, loose wrist, like a dog drying off. Switch arms. Shake one leg, then the other, six seconds each, barely lifting the foot. Finally drop your chin to chest and shake your head gently side to side for five. Let your jaw wobble. Stop. Notice the temperature change in your palms.</div>
+<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you move.</p>
 </div>
 </div>
 

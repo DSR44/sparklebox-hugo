@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Shakedown</h2>
-<span class="date">October 24, 2026</span>
+<h2>The Sunday Weight</h2>
+<span class="date">October 25, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your coffee cup feels heavier than it should, and your fingers are gripping it like steering through bad traffic.</p>
+<p class="sb-checkin__hook">Your shoulders are already carrying tomorrow before it arrives—hunched forward, bracing for a week that hasn&#x27;t started.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Your body stores unfinished stress in your muscles as motor residue—tiny contracts that never fully released. Polyvagal theory calls this neuroception: your nervous system keeps scanning for threat even when your mind says weekend. Shaking interrupts that loop by sending a clear completion signal up your sensory nerves.</p>
+<p class="sb-checkin__science">This is anticipatory tension, your nervous system trying to solve future problems with present muscle. Your brain can&#x27;t tell the difference between a real threat and a calendar notification. Grounding interrupts this time-travel stress by bringing sensation back to now.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now let one arm flop loosely and shake it from the shoulder—eight seconds, loose wrist, like a dog drying off. Switch arms. Shake one leg, then the other, six seconds each, barely lifting the foot. Finally drop your chin to chest and shake your head gently side to side for five. Let your jaw wobble. Stop. Notice the temperature change in your palms.</div>
-<p class="sb-checkin__close">Your lymphatic system has no pump—it moves when you move.</p>
+<div class="sb-checkin__reset">Place one hand on your opposite shoulder. Begin tapping—slow, steady, like rain on a window—while moving your eyes left to right across the room. Follow a horizontal line: wall corner to door frame to window. Tap for 30 seconds. Switch hands and shoulders. Repeat. Let your gaze stay soft and unfocused; you&#x27;re not reading, just locating yourself in space.</div>
+<p class="sb-checkin__close">Your nervous system updates its location every time you prove you&#x27;re actually here, in this room, on this Sunday.</p>
 </div>
 </div>
 

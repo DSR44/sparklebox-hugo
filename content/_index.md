@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Sunday Weight</h2>
-<span class="date">October 25, 2026</span>
+<h2>The Morning Inhale That Never Finished</h2>
+<span class="date">October 26, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are already carrying tomorrow before it arrives—hunched forward, bracing for a week that hasn&#x27;t started.</p>
+<p class="sb-checkin__hook">Your inhale probably started before you were ready for it—caught somewhere between checking your phone and remembering you exist today.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, your nervous system trying to solve future problems with present muscle. Your brain can&#x27;t tell the difference between a real threat and a calendar notification. Grounding interrupts this time-travel stress by bringing sensation back to now.</p>
+<p class="sb-checkin__science">Monday morning cortisol isn&#x27;t broken; it&#x27;s just early. Your body released a pulse of it before your eyes opened, prepping systems for threat-scanning before your brain had a say. Extended exhale breathing manually overrides this—slowing the neural signal that tells your adrenal glands to keep the valve open.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Place one hand on your opposite shoulder. Begin tapping—slow, steady, like rain on a window—while moving your eyes left to right across the room. Follow a horizontal line: wall corner to door frame to window. Tap for 30 seconds. Switch hands and shoulders. Repeat. Let your gaze stay soft and unfocused; you&#x27;re not reading, just locating yourself in space.</div>
-<p class="sb-checkin__close">Your nervous system updates its location every time you prove you&#x27;re actually here, in this room, on this Sunday.</p>
+<div class="sb-checkin__reset">Soften your gaze on a fixed point. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—slow enough to fog a mirror if there were one. Let the exhale trail off until empty. Pause 2 counts. Repeat 4 cycles. Don&#x27;t deepen the inhale; let the exhale do the work of turning down the dial.</div>
+<p class="sb-checkin__close">Your lungs contain enough surface area to cover a tennis court. They don&#x27;t need dramatic interventions—just enough time to complete what they started.</p>
 </div>
 </div>
 

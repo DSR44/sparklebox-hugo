@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Morning Inhale That Never Finished</h2>
-<span class="date">October 26, 2026</span>
+<h2>The Weight of Tuesday Morning</h2>
+<span class="date">October 27, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your inhale probably started before you were ready for it—caught somewhere between checking your phone and remembering you exist today.</p>
+<p class="sb-checkin__hook">Your jaw has been busy overnight—clenched, grinding, holding the shape of yesterday&#x27;s unsent emails. You can feel it now, the tight hinge behind your ears, the way your teeth sit stacked like shelves.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Monday morning cortisol isn&#x27;t broken; it&#x27;s just early. Your body released a pulse of it before your eyes opened, prepping systems for threat-scanning before your brain had a say. Extended exhale breathing manually overrides this—slowing the neural signal that tells your adrenal glands to keep the valve open.</p>
+<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve, two old friends passing notes about safety. When the jaw locks down, the vagus reads it as vigilance, keeping your body parked in low-grade alert. A soft jaw is a signal, not a metaphor—your nervous system regulation starts here.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze on a fixed point. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—slow enough to fog a mirror if there were one. Let the exhale trail off until empty. Pause 2 counts. Repeat 4 cycles. Don&#x27;t deepen the inhale; let the exhale do the work of turning down the dial.</div>
-<p class="sb-checkin__close">Your lungs contain enough surface area to cover a tennis court. They don&#x27;t need dramatic interventions—just enough time to complete what they started.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now open your mouth half an inch, just enough to slide your tongue flat against the floor of your mouth. Hold for four slow counts. Gently roll your shoulders back once, twice. Let your jaw hang heavy for another six counts, breathing through your nose. That&#x27;s it.</div>
+<p class="sb-checkin__close">Your vagus nerve threads through your inner ear and throat; releasing tension there literally changes your heart rate within seconds. No belief required—just anatomy.</p>
 </div>
 </div>
 

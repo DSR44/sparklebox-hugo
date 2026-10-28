@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Tuesday Morning</h2>
-<span class="date">October 27, 2026</span>
+<h2>The Weight of Wednesday Morning</h2>
+<span class="date">October 28, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been busy overnight—clenched, grinding, holding the shape of yesterday&#x27;s unsent emails. You can feel it now, the tight hinge behind your ears, the way your teeth sit stacked like shelves.</p>
+<p class="sb-checkin__hook">Your hands have found their way to your face again—maybe rubbing your eyes, maybe bracing your jaw, maybe just holding your head like it needs containing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your trigeminal nerve talking to your vagus nerve, two old friends passing notes about safety. When the jaw locks down, the vagus reads it as vigilance, keeping your body parked in low-grade alert. A soft jaw is a signal, not a metaphor—your nervous system regulation starts here.</p>
+<p class="sb-checkin__science">This is your nervous system doing a midweek threat scan. Interoception—your brain&#x27;s real-time data feed from the body—is currently dialed to &quot;survive to Friday,&quot; not &quot;notice what feels okay right now.&quot; That bracing? It&#x27;s your sympathetic system budgeting energy for anticipated demands that haven&#x27;t arrived yet.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Now open your mouth half an inch, just enough to slide your tongue flat against the floor of your mouth. Hold for four slow counts. Gently roll your shoulders back once, twice. Let your jaw hang heavy for another six counts, breathing through your nose. That&#x27;s it.</div>
-<p class="sb-checkin__close">Your vagus nerve threads through your inner ear and throat; releasing tension there literally changes your heart rate within seconds. No belief required—just anatomy.</p>
+<div class="sb-checkin__reset">5-4-3-2-1 orienting, but felt, not listed. Soften your gaze and let it land on one object you can actually feel in your body seeing—notice its temperature, its distance, its weight in space. Now one sound that arrives without your reaching for it. One surface holding you up. One smell or taste already present. One place in your body making contact with something solid. Count slowly. No need to name them aloud.</div>
+<p class="sb-checkin__close">Your nervous system updates its threat assessment roughly every 90 seconds—what you feed it now shapes the next scan.</p>
 </div>
 </div>
 

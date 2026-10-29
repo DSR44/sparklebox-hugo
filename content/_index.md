@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Wednesday Morning</h2>
-<span class="date">October 28, 2026</span>
+<h2>The Weight of Thursday Morning</h2>
+<span class="date">October 29, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands have found their way to your face again—maybe rubbing your eyes, maybe bracing your jaw, maybe just holding your head like it needs containing.</p>
+<p class="sb-checkin__hook">Your neck is holding your head like it&#x27;s borrowed—stiff, careful, already tired of the week.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your nervous system doing a midweek threat scan. Interoception—your brain&#x27;s real-time data feed from the body—is currently dialed to &quot;survive to Friday,&quot; not &quot;notice what feels okay right now.&quot; That bracing? It&#x27;s your sympathetic system budgeting energy for anticipated demands that haven&#x27;t arrived yet.</p>
+<p class="sb-checkin__science">This is neuroceptive fatigue—your vagus nerve has been scanning for threat since Monday, and it&#x27;s running low on acetylcholine, the chemical that helps you downshift. Thursday morning is when the body starts paying the bill for three days of uncompleted stress cycles.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">5-4-3-2-1 orienting, but felt, not listed. Soften your gaze and let it land on one object you can actually feel in your body seeing—notice its temperature, its distance, its weight in space. Now one sound that arrives without your reaching for it. One surface holding you up. One smell or taste already present. One place in your body making contact with something solid. Count slowly. No need to name them aloud.</div>
-<p class="sb-checkin__close">Your nervous system updates its threat assessment roughly every 90 seconds—what you feed it now shapes the next scan.</p>
+<div class="sb-checkin__reset">Let your exhale finish completely—push the last bit out through pursed lips. Now inhale through your nose for 4 counts. Hold for 2. Exhale through your mouth for 6, making a soft ha sound. Repeat twice more. On the final exhale, let your shoulders drop one inch lower than you thought they could. Soften your gaze at whatever&#x27;s in front of you. Let your jaw hang open for 3 seconds. Swallow once, slowly.</div>
+<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your calendar. It only knows what your breath just told it.</p>
 </div>
 </div>
 

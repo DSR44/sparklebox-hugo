@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Thursday Morning</h2>
-<span class="date">October 29, 2026</span>
+<h2>The Friday Unraveling</h2>
+<span class="date">October 30, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your neck is holding your head like it&#x27;s borrowed—stiff, careful, already tired of the week.</p>
+<p class="sb-checkin__hook">Your hips have been gripping since Tuesday—tight where your body meets the chair, braced for the week you haven&#x27;t finished yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neuroceptive fatigue—your vagus nerve has been scanning for threat since Monday, and it&#x27;s running low on acetylcholine, the chemical that helps you downshift. Thursday morning is when the body starts paying the bill for three days of uncompleted stress cycles.</p>
+<p class="sb-checkin__science">This is neurogenic tremoring: your nervous system uses small, involuntary movements to discharge stored motor tension. You don&#x27;t relax by deciding to—you release by letting your body finish what it started.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your exhale finish completely—push the last bit out through pursed lips. Now inhale through your nose for 4 counts. Hold for 2. Exhale through your mouth for 6, making a soft ha sound. Repeat twice more. On the final exhale, let your shoulders drop one inch lower than you thought they could. Soften your gaze at whatever&#x27;s in front of you. Let your jaw hang open for 3 seconds. Swallow once, slowly.</div>
-<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your calendar. It only knows what your breath just told it.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your hands dangle heavy at your sides. Begin a gentle side-to-side sway at your knees—small, loose, like a tree in unreliable wind. After 20 seconds, let the sway travel up through your hips, shoulders, jaw. Keep it small and sloppy, not controlled. 45 seconds total. Then stop. Stand still and notice the difference in your legs.</div>
+<p class="sb-checkin__close">Your muscles don&#x27;t actually know it&#x27;s Friday—your nervous system just finally has permission to catch up.</p>
 </div>
 </div>
 

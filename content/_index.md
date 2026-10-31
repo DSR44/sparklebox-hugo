@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Friday Unraveling</h2>
-<span class="date">October 30, 2026</span>
+<h2>The Saturday Morning Exhale</h2>
+<span class="date">October 31, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hips have been gripping since Tuesday—tight where your body meets the chair, braced for the week you haven&#x27;t finished yet.</p>
+<p class="sb-checkin__hook">Your shoulders are parked somewhere near your ears this morning—not from stress you can name, just from the week you already lived through. Notice the space between your ribs; it&#x27;s probably holding more stillness than air right now.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is neurogenic tremoring: your nervous system uses small, involuntary movements to discharge stored motor tension. You don&#x27;t relax by deciding to—you release by letting your body finish what it started.</p>
+<p class="sb-checkin__science">This is about your respiratory sinus arrhythmia—basically, your heart rate naturally speeds up when you inhale and slows when you exhale. When you deliberately extend the exhale, you&#x27;re literally telling your vagus nerve to activate the rest-and-digest branch of your nervous system. It&#x27;s not mindfulness fluff; it&#x27;s cardiac biology you can feel in about thirty seconds.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your hands dangle heavy at your sides. Begin a gentle side-to-side sway at your knees—small, loose, like a tree in unreliable wind. After 20 seconds, let the sway travel up through your hips, shoulders, jaw. Keep it small and sloppy, not controlled. 45 seconds total. Then stop. Stand still and notice the difference in your legs.</div>
-<p class="sb-checkin__close">Your muscles don&#x27;t actually know it&#x27;s Friday—your nervous system just finally has permission to catch up.</p>
+<div class="sb-checkin__reset">Soften your gaze on something unfocused—a wall corner, your coffee cup, anything neutral. Inhale through your nose for four counts. Hold gently for four. Exhale through pursed lips for six counts (the extra two matter). Hold empty for four. Repeat four cycles. Don&#x27;t chase relaxation; just let the exhale be longer than the inhale and your body will shift gears without your permission.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli—tiny sacs that never stop negotiating between you and the world. They don&#x27;t need your gratitude. They just need the next slow exhale.</p>
 </div>
 </div>
 

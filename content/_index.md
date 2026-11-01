@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Morning Exhale</h2>
-<span class="date">October 31, 2026</span>
+<h2>Sunday Static</h2>
+<span class="date">November 01, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders are parked somewhere near your ears this morning—not from stress you can name, just from the week you already lived through. Notice the space between your ribs; it&#x27;s probably holding more stillness than air right now.</p>
+<p class="sb-checkin__hook">Your eyes are doing that thing where they search for something to fix—scrolling, scanning, already bracing for the week ahead while Sunday morning is still technically here.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is about your respiratory sinus arrhythmia—basically, your heart rate naturally speeds up when you inhale and slows when you exhale. When you deliberately extend the exhale, you&#x27;re literally telling your vagus nerve to activate the rest-and-digest branch of your nervous system. It&#x27;s not mindfulness fluff; it&#x27;s cardiac biology you can feel in about thirty seconds.</p>
+<p class="sb-checkin__science">This is future-tripping as physiological event. Your sympathetic nervous system can&#x27;t tell the difference between a real threat Monday morning and an imagined one, so it fires the same preparatory chemicals now. Polyvagal theory calls this mobilization without escape: your body gears up to act with nowhere to go.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze on something unfocused—a wall corner, your coffee cup, anything neutral. Inhale through your nose for four counts. Hold gently for four. Exhale through pursed lips for six counts (the extra two matter). Hold empty for four. Repeat four cycles. Don&#x27;t chase relaxation; just let the exhale be longer than the inhale and your body will shift gears without your permission.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli—tiny sacs that never stop negotiating between you and the world. They don&#x27;t need your gratitude. They just need the next slow exhale.</p>
+<div class="sb-checkin__reset">Stand up. Feel both feet on the floor. Cross your arms over your chest so each hand rests on the opposite shoulder. Soft gaze. Begin tapping—left hand on right shoulder, right hand on left—in a slow, alternating rhythm. Not fast. Not hard. Find a pace that feels almost boring: tap-tap... tap-tap... Continue for forty-five seconds. Let your head hang heavy. Let your jaw go slack. The tapping tells your brain: both sides, both sides, I am here now.</div>
+<p class="sb-checkin__close">Your heart rate variability increases measurably within sixty seconds of bilateral stimulation—your nervous system literally needs your body to know you&#x27;re in the room.</p>
 </div>
 </div>
 

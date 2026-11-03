@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of Monday Morning</h2>
-<span class="date">November 02, 2026</span>
+<h2>The Borrowed Breath</h2>
+<span class="date">November 03, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw has been busy since you woke up—clenched, working on something invisible, a problem that doesn&#x27;t exist yet.</p>
+<p class="sb-checkin__hook">Your shoulders have been living at your earlobes since the weekend—carrying something that was never theirs to hold.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Cortisol naturally peaks 30–45 minutes after waking, part of your body&#x27;s ancient alarm system. That wired, slightly hunted feeling isn&#x27;t a personality flaw—it&#x27;s your hypothalamic-pituitary-adrenal axis doing exactly what it evolved to do.</p>
+<p class="sb-checkin__science">This is sensory gating in action. Your nervous system narrows its bandwidth when overloaded, and the trapezius muscles become the default storage unit. They don&#x27;t tire out—they lock in, creating a feedback loop your brain reads as vigilance.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with both feet flat, weight even. Soften your gaze. Now hum on one exhale—low, steady, until your lungs empty. Feel the vibration in your chest, your throat, your teeth. Three times. That&#x27;s a vagus nerve reset in under 90 seconds.</div>
-<p class="sb-checkin__close">Your nervous system doesn&#x27;t care about your to-do list. It cares whether you&#x27;re standing on solid ground and whether your exhale is longer than your inhale.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your hands hang heavy at your sides. Inhale through your nose for 4 counts. On the exhale, let your shoulders drop—not roll back, just surrender downward, as if someone cut the strings. Hold the drop for 2 counts. Repeat 4 times. Then: one shoulder at a time, lift it half an inch higher than where it started, then release completely. Let the second drop feel heavier than the first.</div>
+<p class="sb-checkin__close">Your trapezius muscles attach to your skull, your spine, and your shoulder blades. When they release, your vagus nerve gets more room to breathe.</p>
 </div>
 </div>
 

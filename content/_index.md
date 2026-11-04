@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Borrowed Breath</h2>
-<span class="date">November 03, 2026</span>
+<h2>The Wednesday Unclench</h2>
+<span class="date">November 04, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have been living at your earlobes since the weekend—carrying something that was never theirs to hold.</p>
+<p class="sb-checkin__hook">Your breath has been shallow since you sat down this morning—high in your chest, barely reaching your ribs.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action. Your nervous system narrows its bandwidth when overloaded, and the trapezius muscles become the default storage unit. They don&#x27;t tire out—they lock in, creating a feedback loop your brain reads as vigilance.</p>
+<p class="sb-checkin__science">This is called thoracic breathing, and it signals your sympathetic nervous system that something needs fighting or fleeing. When you drop breath lower, you manually override that alarm bell through a process called respiratory sinus arrhythmia—your heart rate slows to match your exhale.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your hands hang heavy at your sides. Inhale through your nose for 4 counts. On the exhale, let your shoulders drop—not roll back, just surrender downward, as if someone cut the strings. Hold the drop for 2 counts. Repeat 4 times. Then: one shoulder at a time, lift it half an inch higher than where it started, then release completely. Let the second drop feel heavier than the first.</div>
-<p class="sb-checkin__close">Your trapezius muscles attach to your skull, your spine, and your shoulder blades. When they release, your vagus nerve gets more room to breathe.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang loose. Now exhale like you&#x27;re fogging a mirror, slow and steady, for a count of six. Pause. Inhale through your nose for four. Repeat three times. Each exhale, let your shoulders drop one millimeter more. That&#x27;s your nervous system reset—no apps required.</div>
+<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They don&#x27;t need your help to work, just your permission to slow down.</p>
 </div>
 </div>
 

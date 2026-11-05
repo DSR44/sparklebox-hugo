@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Wednesday Unclench</h2>
-<span class="date">November 04, 2026</span>
+<h2>The Thursday Slump</h2>
+<span class="date">November 05, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath has been shallow since you sat down this morning—high in your chest, barely reaching your ribs.</p>
+<p class="sb-checkin__hook">Your spine has settled into a shape it didn&#x27;t choose—probably somewhere between a question mark and a comma.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called thoracic breathing, and it signals your sympathetic nervous system that something needs fighting or fleeing. When you drop breath lower, you manually override that alarm bell through a process called respiratory sinus arrhythmia—your heart rate slows to match your exhale.</p>
+<p class="sb-checkin__science">Thursday morning fatigue isn&#x27;t laziness; it&#x27;s your nervous system stuck in &quot;middle-distance&quot; mode—not urgent enough for full activation, not restful enough for recovery. Polyvagal theory calls this a functional freeze: your body conserves energy by dimming everything, including alertness and motivation.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your jaw hang loose. Now exhale like you&#x27;re fogging a mirror, slow and steady, for a count of six. Pause. Inhale through your nose for four. Repeat three times. Each exhale, let your shoulders drop one millimeter more. That&#x27;s your nervous system reset—no apps required.</div>
-<p class="sb-checkin__close">Your lungs contain about 300 million alveoli. They don&#x27;t need your help to work, just your permission to slow down.</p>
+<div class="sb-checkin__reset">Stand up. Inhale sharply through your nose for 2 counts. Exhale through your mouth with a soft &quot;haaa&quot; sound for 4 counts. Repeat 3 times. Now: reach both arms overhead, interlace fingers, and lean slowly left, then right—10 seconds each side. Let your exhale travel down into your hips. Soft gaze on a middle-distance point.</div>
+<p class="sb-checkin__close">Movement restarts cerebrospinal fluid circulation faster than caffeine reaches your bloodstream.</p>
 </div>
 </div>
 

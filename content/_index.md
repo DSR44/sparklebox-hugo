@@ -47,7 +47,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
 <h2>The Thursday Slump</h2>
-<span class="date">November 05, 2026</span>
+<span class="date">November 06, 2026</span>
 </div>
 <div class="sb-checkin__body">
 <p class="sb-checkin__hook">Your spine has settled into a shape it didn&#x27;t choose—probably somewhere between a question mark and a comma.</p>

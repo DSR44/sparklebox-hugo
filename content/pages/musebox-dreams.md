@@ -1,6 +1,6 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
-date: 2026-11-05T06:00:00+0000
+date: 2026-11-06T06:00:00+0000
 author: "Elle Vida"
 slug: "musebox-dreams"
 hideAuthor: true
@@ -12,7 +12,7 @@ aliases:
 *Open the portal. Receive the whisper. Let creativity bloom in dreamlight.*
 
 ## Today's MuseBox Drop
-**November 05, 2026**
+**November 06, 2026**
 
 ### Sanctum of the Velvet Eclipse
 

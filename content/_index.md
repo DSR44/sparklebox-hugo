@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Slump</h2>
-<span class="date">November 06, 2026</span>
+<h2>The Weight You Carried In</h2>
+<span class="date">November 07, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your spine has settled into a shape it didn&#x27;t choose—probably somewhere between a question mark and a comma.</p>
+<p class="sb-checkin__hook">Your feet are still holding the floor like it might move. They&#x27;ve been gripping since you stood up—calves quietly braced, arches tense, as if the ground needs convincing.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Thursday morning fatigue isn&#x27;t laziness; it&#x27;s your nervous system stuck in &quot;middle-distance&quot; mode—not urgent enough for full activation, not restful enough for recovery. Polyvagal theory calls this a functional freeze: your body conserves energy by dimming everything, including alertness and motivation.</p>
+<p class="sb-checkin__science">This is postural sway vigilance—your vestibular system and lower leg muscles staying &quot;on&quot; even when you&#x27;re still. Grounding works because it tells your proprioceptors the surface is solid, which travels up the vagus nerve and signals safety to your brainstem.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Inhale sharply through your nose for 2 counts. Exhale through your mouth with a soft &quot;haaa&quot; sound for 4 counts. Repeat 3 times. Now: reach both arms overhead, interlace fingers, and lean slowly left, then right—10 seconds each side. Let your exhale travel down into your hips. Soft gaze on a middle-distance point.</div>
-<p class="sb-checkin__close">Movement restarts cerebrospinal fluid circulation faster than caffeine reaches your bloodstream.</p>
+<div class="sb-checkin__reset">Stand barefoot if you can. Press one foot firmly into the floor for 4 seconds—really feel the texture. Release. Other foot. 4 seconds. Now both. Imagine weight pouring through your heels like sand. 3 cycles. Soft gaze on a horizontal line. Let your knees unlock.</div>
+<p class="sb-checkin__close">Your feet contain more nerve endings per square inch than anywhere but your hands and face—they evolved to read terrain, not tile.</p>
 </div>
 </div>
 

@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">November 08, 2026</span>
+<h2>Monday Cortisol</h2>
+<span class="date">November 09, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are already rehearsing the week ahead—thumb against finger, scrolling, planning, bracing. The body doesn&#x27;t know it&#x27;s still the weekend.</p>
+<p class="sb-checkin__hook">Your jaw is already doing that thing—tight, forward, like you&#x27;re waiting for the week to hit you. You haven&#x27;t even opened your email.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory muscle tension, a somatic preview of stress before the stressor arrives. Your motor cortex is firing rehearsal patterns, which keeps your sympathetic system idling high even when nothing&#x27;s wrong yet.</p>
+<p class="sb-checkin__science">Cortisol peaks 30-45 minutes after waking, which means Monday morning is basically a biochemical ambush. Your sympathetic nervous system is already revving before your coffee hits. The good news: you can manually override the gas pedal with your exhale.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Rest your forearms on your thighs, palms down. Begin bilateral tapping: alternate gentle drumming with your fingertips, left-right-left-right, on the tops of your thighs. Count to 30 taps total. Let your jaw hang slightly open. Soften your gaze. When you finish, let your hands go heavy and notice the temperature change in your palms.</div>
-<p class="sb-checkin__close">Your muscles can&#x27;t hold future tension and present relaxation at the same time—neurophysiologically impossible. The body chooses the state you&#x27;re signaling right now.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—slow, steady, like you&#x27;re cooling hot soup. Repeat 4 times. Feel your tongue drop from the roof of your mouth on the last exhale.</div>
+<p class="sb-checkin__close">Your vagus nerve responds to pressure changes in your lungs, not your intentions. The exhale just has to be longer than the inhale. Your body does the rest.</p>
 </div>
 </div>
 

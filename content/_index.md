@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Monday Cortisol</h2>
-<span class="date">November 09, 2026</span>
+<h2>The Weight You Forgot You Were Carrying</h2>
+<span class="date">November 10, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is already doing that thing—tight, forward, like you&#x27;re waiting for the week to hit you. You haven&#x27;t even opened your email.</p>
+<p class="sb-checkin__hook">Your shoulders have crept up toward your ears again—check. Right now. They&#x27;re probably hovering, held by some conversation from three hours ago that your body decided to keep.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Cortisol peaks 30-45 minutes after waking, which means Monday morning is basically a biochemical ambush. Your sympathetic nervous system is already revving before your coffee hits. The good news: you can manually override the gas pedal with your exhale.</p>
+<p class="sb-checkin__science">This is sensory gating failure: your nervous system never got the &quot;threat over&quot; signal, so your trapezius stayed braced for impact. Polyvagal theory calls this a lingering sympathetic state—your body thinks it&#x27;s still useful to guard your neck, even when the danger was just an email.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts—slow, steady, like you&#x27;re cooling hot soup. Repeat 4 times. Feel your tongue drop from the roof of your mouth on the last exhale.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to pressure changes in your lungs, not your intentions. The exhale just has to be longer than the inhale. Your body does the rest.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Exhale completely through your mouth. Now: drop your right ear toward your right shoulder—not far, just until you feel the left side of your neck wake up. Hold 8 seconds. No forcing. Roll your chin down toward your chest, pause 4 seconds. Bring it up the left side, ear to shoulder, 8 seconds. One slow cycle. Done.</div>
+<p class="sb-checkin__close">Your vagus nerve runs through your neck and shoulders; when those muscles release, the signal travels both directions—body to brain, not the other way around.</p>
 </div>
 </div>
 

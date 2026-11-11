@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Forgot You Were Carrying</h2>
-<span class="date">November 10, 2026</span>
+<h2>The Weight of Wednesday</h2>
+<span class="date">November 11, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept up toward your ears again—check. Right now. They&#x27;re probably hovering, held by some conversation from three hours ago that your body decided to keep.</p>
+<p class="sb-checkin__hook">Your eyes are doing that thing where they hunt for problems before your feet have even found the floor.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating failure: your nervous system never got the &quot;threat over&quot; signal, so your trapezius stayed braced for impact. Polyvagal theory calls this a lingering sympathetic state—your body thinks it&#x27;s still useful to guard your neck, even when the danger was just an email.</p>
+<p class="sb-checkin__science">This is your brain&#x27;s threat-scan mode—leftover wiring that treats Wednesday morning like a lion on the savanna. Orienting is a hardwired vagus nerve reset: when you deliberately name what you actually see, your nervous system downshifts from prediction to presence. It&#x27;s not mindfulness. It&#x27;s biology.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your eyes blur slightly. Exhale completely through your mouth. Now: drop your right ear toward your right shoulder—not far, just until you feel the left side of your neck wake up. Hold 8 seconds. No forcing. Roll your chin down toward your chest, pause 4 seconds. Bring it up the left side, ear to shoulder, 8 seconds. One slow cycle. Done.</div>
-<p class="sb-checkin__close">Your vagus nerve runs through your neck and shoulders; when those muscles release, the signal travels both directions—body to brain, not the other way around.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let it land somewhere neutral—a wall corner, a light switch, your coffee mug. Now name five things you can see, four you can hear, three you can touch, two you can smell, one you can taste. Move slowly. If you rush, your brain stays in chase mode. Give each sense ten seconds. That&#x27;s it. No deep breaths required.</div>
+<p class="sb-checkin__close">Your eyes were never designed to live in future mode. They evolved to track what is actually here.</p>
 </div>
 </div>
 

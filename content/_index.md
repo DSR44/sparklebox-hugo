@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Thursday Drift</h2>
-<span class="date">November 12, 2026</span>
+<h2>Friday Morning Static</h2>
+<span class="date">November 13, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your neck is already leaning into the screen like it weighs something—feel where your skull meets your spine, that small hinge holding too much.</p>
+<p class="sb-checkin__hook">Your feet are already bracing for impact—heels pressed, arches clenched, like the floor might shift without warning.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is postural tone collapse, a vagus nerve signal that your body has shifted into &quot;mild shutdown&quot; to conserve energy—common by Thursday when accumulated micro-stress hasn&#x27;t cleared. Your nervous system isn&#x27;t broken; it&#x27;s rationing.</p>
+<p class="sb-checkin__science">This is anticipatory muscle loading—your nervous system pre-tensing for threats that haven&#x27;t arrived. Polyvagal theory calls it neuroception: your body scanning for safety before your brain catches up. Friday&#x27;s finish-line energy tricks your system into thinking it needs to *push through* rather than arrive.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand if possible. Soft gaze. Inhale through nose for 4 counts. Exhale through pursed lips for 8 counts, slow and audible—make the sound matter. On next inhale, reach both arms overhead and hold 3 seconds. Exhale, drop arms like wet rope. Repeat twice. No posture correction, just movement interrupting the freeze.</div>
-<p class="sb-checkin__close">Your vagus nerve responds faster to action than thought—shaking out a limb changes your chemistry before your mind catches up.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Soften your gaze. Let your knees unlock. Now shake one hand like you&#x27;re flinging water off it—8 seconds, loose wrist, let the shoulder join in. Switch hands. Then both hands together for 5 seconds, sloppy and uncontrolled. Feel the vibration travel up your arms, interrupting the bracing pattern. Stop. Notice your feet again. Different now.</div>
+<p class="sb-checkin__close">Your muscles contract in anticipation; they can&#x27;t relax until your nervous system receives the signal that the moment has passed. Shaking is that signal—mechanical proof the danger window closed.</p>
 </div>
 </div>
 

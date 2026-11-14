@@ -47,7 +47,7 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
 <h2>Friday Morning Static</h2>
-<span class="date">November 13, 2026</span>
+<span class="date">November 14, 2026</span>
 </div>
 <div class="sb-checkin__body">
 <p class="sb-checkin__hook">Your feet are already bracing for impact—heels pressed, arches clenched, like the floor might shift without warning.</p>

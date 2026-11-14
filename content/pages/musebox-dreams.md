@@ -1,6 +1,6 @@
 ---
 title: "The MuseBox - Daily Visual Prompts"
-date: 2026-11-13T06:00:00+0000
+date: 2026-11-14T06:00:00+0000
 author: "Elle Vida"
 slug: "musebox-dreams"
 hideAuthor: true
@@ -12,7 +12,7 @@ aliases:
 *Open the portal. Receive the whisper. Let creativity bloom in dreamlight.*
 
 ## Today's MuseBox Drop
-**November 13, 2026**
+**November 14, 2026**
 
 ### Cathedral of Dissolving Moons
 

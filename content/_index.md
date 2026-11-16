@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Morning Inventory</h2>
-<span class="date">November 15, 2026</span>
+<h2>The Monday Jaw</h2>
+<span class="date">November 16, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your hands are probably doing something right now—clenched around a mug, scrolling, folding laundry—without you asking them to. Check. Are they still holding?</p>
+<p class="sb-checkin__hook">Your jaw is already doing that thing—molars pressed together like you&#x27;re chewing through the week before it starts.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating in action. Your brain filters out constant input (the mug&#x27;s warmth, fabric texture) to free up bandwidth for &quot;new threats&quot;—like tomorrow&#x27;s inbox. The cost: you lose the signal that your body is still here, still safe, still Sunday.</p>
+<p class="sb-checkin__science">This is your sympathetic nervous system warming up before your brain even checked the calendar. The vagus nerve runs right through that tension, and when it&#x27;s pinched by clenched masseter muscles, it can&#x27;t signal safety downstream. Softening the jaw is a backdoor into vagus nerve regulation—faster than talking yourself down.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soft gaze toward the horizon or a distant wall. Now tap your collarbones—left, right, left, right—slow as a heartbeat, for 30 seconds. No agenda. Just the rhythm and the Sunday light. Let your hands remember they belong to you.</div>
-<p class="sb-checkin__close">Your vagus nerve responds to bilateral stimulation in under 90 seconds. Heart rate variability shifts before you feel calmer. The calm is data, not imagination.</p>
+<div class="sb-checkin__reset">Let your tongue rest heavy on the floor of your mouth. Teeth slightly apart. Now exhale through your nose for 6 slow counts, letting the last 2 be almost nothing—just the whisper of air leaving. Stay soft-gazed. Three rounds. That&#x27;s it.</div>
+<p class="sb-checkin__close">Your vagus nerve passes within millimeters of your jaw hinge. The body doesn&#x27;t negotiate—it responds to pressure and release.</p>
 </div>
 </div>
 

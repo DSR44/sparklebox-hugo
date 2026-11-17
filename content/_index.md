@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Monday Jaw</h2>
-<span class="date">November 16, 2026</span>
+<h2>The Tuesday Weight</h2>
+<span class="date">November 17, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is already doing that thing—molars pressed together like you&#x27;re chewing through the week before it starts.</p>
+<p class="sb-checkin__hook">Your shoulders have crept up toward your ears like they&#x27;re trying to hear something. They won&#x27;t drop on command—they don&#x27;t trust commands right now.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is your sympathetic nervous system warming up before your brain even checked the calendar. The vagus nerve runs right through that tension, and when it&#x27;s pinched by clenched masseter muscles, it can&#x27;t signal safety downstream. Softening the jaw is a backdoor into vagus nerve regulation—faster than talking yourself down.</p>
+<p class="sb-checkin__science">This is called bracing: your trapezius muscles firing to protect your neck from perceived threat. Polyvagal theory calls it a mobilization pattern—your body preparing to push through the week even when you&#x27;re standing still. The muscles themselves aren&#x27;t the problem; they&#x27;re responding to a signal you haven&#x27;t un-sent.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your tongue rest heavy on the floor of your mouth. Teeth slightly apart. Now exhale through your nose for 6 slow counts, letting the last 2 be almost nothing—just the whisper of air leaving. Stay soft-gazed. Three rounds. That&#x27;s it.</div>
-<p class="sb-checkin__close">Your vagus nerve passes within millimeters of your jaw hinge. The body doesn&#x27;t negotiate—it responds to pressure and release.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Let your gaze soften on something mid-distance. Inhale. As you exhale, let your right ear drift toward your right shoulder—don&#x27;t force it, just let weight do the work. Hold 4 seconds. Roll chin to chest. Left ear to left shoulder. 4 seconds. Chin to chest again. One slow full roll each direction. Then shrug both shoulders hard—3 seconds—then let them fall like you dropped something heavy. One time. That&#x27;s it.</div>
+<p class="sb-checkin__close">Your shoulders attach to your rib cage. When they descend, your lungs get more vertical room. Your body isn&#x27;t stubborn—it&#x27;s architectural.</p>
 </div>
 </div>
 

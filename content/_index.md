@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Tuesday Weight</h2>
-<span class="date">November 17, 2026</span>
+<h2>The Half-Week Lean</h2>
+<span class="date">November 18, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept up toward your ears like they&#x27;re trying to hear something. They won&#x27;t drop on command—they don&#x27;t trust commands right now.</p>
+<p class="sb-checkin__hook">Your spine has already made its decision—slumped forward, chin leading, like you&#x27;re trying to read something written inside your own chest.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called bracing: your trapezius muscles firing to protect your neck from perceived threat. Polyvagal theory calls it a mobilization pattern—your body preparing to push through the week even when you&#x27;re standing still. The muscles themselves aren&#x27;t the problem; they&#x27;re responding to a signal you haven&#x27;t un-sent.</p>
+<p class="sb-checkin__science">This is postural collapse, and it&#x27;s not laziness. Your nervous system uses body position as data; when you curl inward, your brain registers &quot;protection mode,&quot; which cranks up cortisol even if nothing&#x27;s actually wrong. Movement breaks the feedback loop faster than thinking ever could.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Let your gaze soften on something mid-distance. Inhale. As you exhale, let your right ear drift toward your right shoulder—don&#x27;t force it, just let weight do the work. Hold 4 seconds. Roll chin to chest. Left ear to left shoulder. 4 seconds. Chin to chest again. One slow full roll each direction. Then shrug both shoulders hard—3 seconds—then let them fall like you dropped something heavy. One time. That&#x27;s it.</div>
-<p class="sb-checkin__close">Your shoulders attach to your rib cage. When they descend, your lungs get more vertical room. Your body isn&#x27;t stubborn—it&#x27;s architectural.</p>
+<div class="sb-checkin__reset">Stand up. Feet hip-width. Let your arms hang heavy. Now: five shoulder rolls backward (slow, let them crunch), four neck tilts ear-to-shoulder (hold each side one breath), three wrist circles each direction, two deep knee bends (keep heels down), one full-body shake—hands, shoulders, hips, let it look ridiculous. Thirty seconds. Done.</div>
+<p class="sb-checkin__close">Your vestibular system—the inner ear&#x27;s balance network—updates your brain&#x27;s threat assessment every time you move through space. Motion is literal nervous system regulation.</p>
 </div>
 </div>
 

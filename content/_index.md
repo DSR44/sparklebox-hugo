@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Half-Week Lean</h2>
-<span class="date">November 18, 2026</span>
+<h2>The Thursday Drop</h2>
+<span class="date">November 19, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your spine has already made its decision—slumped forward, chin leading, like you&#x27;re trying to read something written inside your own chest.</p>
+<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth right now—held there like it&#x27;s keeping something in place. Thursday morning. The week&#x27;s accumulated load has nowhere to go yet.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is postural collapse, and it&#x27;s not laziness. Your nervous system uses body position as data; when you curl inward, your brain registers &quot;protection mode,&quot; which cranks up cortisol even if nothing&#x27;s actually wrong. Movement breaks the feedback loop faster than thinking ever could.</p>
+<p class="sb-checkin__science">This is sensory gating fatigue—your nervous system has been filtering nonstop input since Monday, and the gatekeeper&#x27;s getting sloppy. When that happens, interoception goes fuzzy: you feel vaguely off but can&#x27;t name it. Your vagus nerve is still trying to manage digestion, heart rate, and social threat detection with the same limited bandwidth.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand up. Feet hip-width. Let your arms hang heavy. Now: five shoulder rolls backward (slow, let them crunch), four neck tilts ear-to-shoulder (hold each side one breath), three wrist circles each direction, two deep knee bends (keep heels down), one full-body shake—hands, shoulders, hips, let it look ridiculous. Thirty seconds. Done.</div>
-<p class="sb-checkin__close">Your vestibular system—the inner ear&#x27;s balance network—updates your brain&#x27;s threat assessment every time you move through space. Motion is literal nervous system regulation.</p>
+<div class="sb-checkin__reset">Let your jaw actually hang. Open your mouth half an inch, lips slightly apart, tongue resting on the bottom instead of the top. Soften your gaze to mid-distance. Now exhale like you&#x27;re fogging glass—slow, audible, until your lungs feel empty. Pause. Let the inhale arrive on its own without forcing it. Three times. Each exhale takes twice as long as the inhale. That&#x27;s it.</div>
+<p class="sb-checkin__close">Your salivary glands activate when the jaw releases—literally preparing you to eat, speak, or rest. The body can&#x27;t do all three at once. It&#x27;s picking one.</p>
 </div>
 </div>
 

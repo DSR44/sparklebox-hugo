@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Thursday Drop</h2>
-<span class="date">November 19, 2026</span>
+<h2>The Weight You Haven&#x27;t Put Down Yet</h2>
+<span class="date">November 20, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your tongue is probably pressed against the roof of your mouth right now—held there like it&#x27;s keeping something in place. Thursday morning. The week&#x27;s accumulated load has nowhere to go yet.</p>
+<p class="sb-checkin__hook">Your breath is shallow—upper chest only, ribs barely moving, like you&#x27;re waiting for the next thing to require you.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is sensory gating fatigue—your nervous system has been filtering nonstop input since Monday, and the gatekeeper&#x27;s getting sloppy. When that happens, interoception goes fuzzy: you feel vaguely off but can&#x27;t name it. Your vagus nerve is still trying to manage digestion, heart rate, and social threat detection with the same limited bandwidth.</p>
+<p class="sb-checkin__science">This is called clavicular breathing, and it signals your sympathetic system that you&#x27;re still mid-task, even when you&#x27;re not. Your diaphragm is frozen in partial contraction, which dumps cortisol and keeps your heart rate ten beats faster than it needs to be.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Let your jaw actually hang. Open your mouth half an inch, lips slightly apart, tongue resting on the bottom instead of the top. Soften your gaze to mid-distance. Now exhale like you&#x27;re fogging glass—slow, audible, until your lungs feel empty. Pause. Let the inhale arrive on its own without forcing it. Three times. Each exhale takes twice as long as the inhale. That&#x27;s it.</div>
-<p class="sb-checkin__close">Your salivary glands activate when the jaw releases—literally preparing you to eat, speak, or rest. The body can&#x27;t do all three at once. It&#x27;s picking one.</p>
+<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Now exhale completely—push it out until your abs engage—then drop your shoulders on the empty. Inhale low and slow for four counts, feeling your belly press your waistband forward. Hold two counts. Exhale six counts, slow hiss through teeth. Three rounds. That&#x27;s a nervous system reset in under ninety seconds.</div>
+<p class="sb-checkin__close">Your diaphragm is the only skeletal muscle you can control that also talks directly to your vagus nerve. Use it.</p>
 </div>
 </div>
 

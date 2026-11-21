@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight You Haven&#x27;t Put Down Yet</h2>
-<span class="date">November 20, 2026</span>
+<h2>The Saturday Slow-Down</h2>
+<span class="date">November 21, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your breath is shallow—upper chest only, ribs barely moving, like you&#x27;re waiting for the next thing to require you.</p>
+<p class="sb-checkin__hook">Your eyes are already working harder than they need to—fixed, narrow, scanning for the next thing to do even though it&#x27;s morning.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is called clavicular breathing, and it signals your sympathetic system that you&#x27;re still mid-task, even when you&#x27;re not. Your diaphragm is frozen in partial contraction, which dumps cortisol and keeps your heart rate ten beats faster than it needs to be.</p>
+<p class="sb-checkin__science">This is ocular tension, and it&#x27;s a fast track to sympathetic activation. Your vagus nerve picks up signals from the tiny muscles around your eyes; when they&#x27;re tight, your whole system stays in low-grade vigilance. Softening your gaze actually changes your heart rate variability within seconds.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze. Let your peripheral vision widen. Now exhale completely—push it out until your abs engage—then drop your shoulders on the empty. Inhale low and slow for four counts, feeling your belly press your waistband forward. Hold two counts. Exhale six counts, slow hiss through teeth. Three rounds. That&#x27;s a nervous system reset in under ninety seconds.</div>
-<p class="sb-checkin__close">Your diaphragm is the only skeletal muscle you can control that also talks directly to your vagus nerve. Use it.</p>
+<div class="sb-checkin__reset">Soften your gaze now—let your peripheral vision widen, see the edges of the room without moving your eyes. Place one hand on your chest, one on your belly. Inhale through your nose for 4 counts. Hold for 4. Exhale slowly for 6. Hold empty for 4. Repeat three cycles. Let your jaw hang slightly open on the exhale.</div>
+<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your weekend plans. It only knows what your body is doing right now.</p>
 </div>
 </div>
 

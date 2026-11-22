@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Saturday Slow-Down</h2>
-<span class="date">November 21, 2026</span>
+<h2>Sunday Static</h2>
+<span class="date">November 22, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your eyes are already working harder than they need to—fixed, narrow, scanning for the next thing to do even though it&#x27;s morning.</p>
+<p class="sb-checkin__hook">Your jaw is holding the week you haven&#x27;t had yet—clenched, waiting for Monday before Sunday even finishes its coffee.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is ocular tension, and it&#x27;s a fast track to sympathetic activation. Your vagus nerve picks up signals from the tiny muscles around your eyes; when they&#x27;re tight, your whole system stays in low-grade vigilance. Softening your gaze actually changes your heart rate variability within seconds.</p>
+<p class="sb-checkin__science">This is anticipatory tension, your sympathetic nervous system rehearsing stress that hasn&#x27;t arrived. Your brain doesn&#x27;t distinguish between imagined threats and real ones; it fires the same motor patterns, burning glucose on problems that live in your calendar, not your body.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Soften your gaze now—let your peripheral vision widen, see the edges of the room without moving your eyes. Place one hand on your chest, one on your belly. Inhale through your nose for 4 counts. Hold for 4. Exhale slowly for 6. Hold empty for 4. Repeat three cycles. Let your jaw hang slightly open on the exhale.</div>
-<p class="sb-checkin__close">Your vagus nerve doesn&#x27;t care about your weekend plans. It only knows what your body is doing right now.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width. Let your arms hang loose. Turn your head slowly to the right until it naturally stops—don&#x27;t force. Let your eyes soften and drift with the movement. Now let your left shoulder drop and your left hip sink slightly, as if melting toward the floor. Hold 4 seconds. Return center. Repeat to the left—right shoulder drops, right hip sinks, head turns left. 3 rounds each direction. Let the weight shifts happen, don&#x27;t perform them.</div>
+<p class="sb-checkin__close">Your vestibular system—inner ear balance organs—calibrates threat levels through head position; slow rotation signals safety directly to brainstem circuits older than language.</p>
 </div>
 </div>
 

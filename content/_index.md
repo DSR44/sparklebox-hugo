@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Sunday Static</h2>
-<span class="date">November 22, 2026</span>
+<h2>The Weight of the Week Ahead</h2>
+<span class="date">November 23, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your jaw is holding the week you haven&#x27;t had yet—clenched, waiting for Monday before Sunday even finishes its coffee.</p>
+<p class="sb-checkin__hook">Your shoulders have crept toward your ears—check now. They&#x27;re waiting for Monday to officially begin before they decide to drop.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">This is anticipatory tension, your sympathetic nervous system rehearsing stress that hasn&#x27;t arrived. Your brain doesn&#x27;t distinguish between imagined threats and real ones; it fires the same motor patterns, burning glucose on problems that live in your calendar, not your body.</p>
+<p class="sb-checkin__science">Cortisol naturally peaks 30-45 minutes after waking, then again around 8-9 AM. This isn&#x27;t stress failing you—it&#x27;s your body preparing for demand. The problem: modern Mondays amplify this spike before any actual threat appears, keeping muscles braced for work that hasn&#x27;t started.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width. Let your arms hang loose. Turn your head slowly to the right until it naturally stops—don&#x27;t force. Let your eyes soften and drift with the movement. Now let your left shoulder drop and your left hip sink slightly, as if melting toward the floor. Hold 4 seconds. Return center. Repeat to the left—right shoulder drops, right hip sinks, head turns left. 3 rounds each direction. Let the weight shifts happen, don&#x27;t perform them.</div>
-<p class="sb-checkin__close">Your vestibular system—inner ear balance organs—calibrates threat levels through head position; slow rotation signals safety directly to brainstem circuits older than language.</p>
+<div class="sb-checkin__reset">Stand with feet hip-width apart. Soften your gaze to a middle distance. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts, slow and controlled. On the next inhale, raise your shoulders toward your ears deliberately. Exhale for 8 counts again, letting them fall with gravity—not forcing. Repeat the intentional raise-and-release twice more. Let your hands find each other behind your back or at your sides, whichever feels available. Stay here for two more slow breaths, exhale longer than inhale each time.</div>
+<p class="sb-checkin__close">Your adrenal glands don&#x27;t know it&#x27;s Monday. They only know what your body signals. A longer exhale tells them demand has passed—whether the week agrees or not.</p>
 </div>
 </div>
 

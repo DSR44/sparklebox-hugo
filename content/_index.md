@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>The Weight of the Week Ahead</h2>
-<span class="date">November 26, 2026</span>
+<h2>Friday Shake-Off</h2>
+<span class="date">November 27, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your shoulders have crept toward your ears—check now. They&#x27;re waiting for Monday to officially begin before they decide to drop.</p>
+<p class="sb-checkin__hook">Your wrists feel like they&#x27;re still typing even though your hands are idle—tiny ghost movements against your thighs.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">Cortisol naturally peaks 30-45 minutes after waking, then again around 8-9 AM. This isn&#x27;t stress failing you—it&#x27;s your body preparing for demand. The problem: modern Mondays amplify this spike before any actual threat appears, keeping muscles braced for work that hasn&#x27;t started.</p>
+<p class="sb-checkin__science">When your nervous system is stuck in &quot;finish-the-week&quot; mode, your motor cortex keeps firing micro-movements. Polyvagal theory calls this residual activation—your body literally hasn&#x27;t gotten the memo that the work is done.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Stand with feet hip-width apart. Soften your gaze to a middle distance. Inhale through your nose for 4 counts. Exhale through pursed lips for 8 counts, slow and controlled. On the next inhale, raise your shoulders toward your ears deliberately. Exhale for 8 counts again, letting them fall with gravity—not forcing. Repeat the intentional raise-and-release twice more. Let your hands find each other behind your back or at your sides, whichever feels available. Stay here for two more slow breaths, exhale longer than inhale each time.</div>
-<p class="sb-checkin__close">Your adrenal glands don&#x27;t know it&#x27;s Monday. They only know what your body signals. A longer exhale tells them demand has passed—whether the week agrees or not.</p>
+<div class="sb-checkin__reset">Sit on the edge of your chair. Let your arms hang like dead weight. For 30 seconds, gently shake them—wrists first, then whole arms—like you&#x27;re flicking water off your fingers. Don&#x27;t force it. Count 15 seconds of wrist shakes, 15 seconds of full arm floppiness. Feel the difference between tension and momentum.</div>
+<p class="sb-checkin__close">Your muscles are 75% water—shaking literally stirs the fluid that cushions your joints and signals your vagus nerve that you&#x27;re safe to relax.</p>
 </div>
 </div>
 

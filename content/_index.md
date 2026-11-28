@@ -46,16 +46,16 @@ title: "Welcome to the Sparklebox Sanctuary"
 <div class="sb-affirmation__scanlines" aria-hidden="true"></div>
 <div class="affirmation-header">
 <span class="sb-affirmation__eyebrow">Daily Nervous System Check-In</span>
-<h2>Friday Shake-Off</h2>
-<span class="date">November 27, 2026</span>
+<h2>Slow-Mo Morning Switch</h2>
+<span class="date">November 28, 2026</span>
 </div>
 <div class="sb-checkin__body">
-<p class="sb-checkin__hook">Your wrists feel like they&#x27;re still typing even though your hands are idle—tiny ghost movements against your thighs.</p>
+<p class="sb-checkin__hook">Your tongue has glued itself to the roof of your mouth, morning dryness running the show.</p>
 <p class="sb-checkin__label">What your nervous system is doing</p>
-<p class="sb-checkin__science">When your nervous system is stuck in &quot;finish-the-week&quot; mode, your motor cortex keeps firing micro-movements. Polyvagal theory calls this residual activation—your body literally hasn&#x27;t gotten the memo that the work is done.</p>
+<p class="sb-checkin__science">The vagus nerve exits your skull behind your ear and wanders down through your throat. When its upper branches get gentle, rhythmic stimulation, they flip your internal dial from “ON alert” to “OK restore,” dropping heart rate and letting digestion wake up.</p>
 <p class="sb-checkin__label">The reset · 60 seconds</p>
-<div class="sb-checkin__reset">Sit on the edge of your chair. Let your arms hang like dead weight. For 30 seconds, gently shake them—wrists first, then whole arms—like you&#x27;re flicking water off your fingers. Don&#x27;t force it. Count 15 seconds of wrist shakes, 15 seconds of full arm floppiness. Feel the difference between tension and momentum.</div>
-<p class="sb-checkin__close">Your muscles are 75% water—shaking literally stirs the fluid that cushions your joints and signals your vagus nerve that you&#x27;re safe to relax.</p>
+<div class="sb-checkin__reset">Soft-focus your gaze, let your jaw hang slack. Now hum at a low, steady pitch for four slow counts, feel the buzz in your chest and throat. Pause two counts. Repeat four rounds (≈45 seconds). Each hum massages the vagus like a tiny mobile masseur.</div>
+<p class="sb-checkin__close">Within one minute your blood pressure measurably dips and saliva starts flowing again—biology, not wishful thinking.</p>
 </div>
 </div>
 
